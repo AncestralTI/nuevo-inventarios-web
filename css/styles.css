@@ -10,6 +10,10 @@
   --danger: #b3413a;
   --radius: 10px;
   --shadow: 0 1px 2px rgba(16, 24, 40, 0.06), 0 1px 3px rgba(16, 24, 40, 0.08);
+  --dif-neg: #eb6834;
+  --dif-neg-bg: #fbe9e0;
+  --dif-pos: #4a3aa7;
+  --dif-pos-bg: #eae7f7;
 }
 
 * { box-sizing: border-box; }
@@ -179,6 +183,102 @@ body {
   margin: 0 auto;
 }
 
+.panel--full { grid-column: 1 / -1; }
+
+.panel__note {
+  margin: 10px 0 0;
+  font-size: 12px;
+  color: var(--text-muted);
+}
+
+.slicer-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 14px;
+}
+
+.slicer__label {
+  display: block;
+  font-size: 11px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  color: var(--text-muted);
+  margin-bottom: 4px;
+}
+
+.slicer__select {
+  width: 100%;
+  padding: 7px 10px;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  background: var(--surface);
+  color: var(--text);
+  font-size: 13px;
+}
+
+.table-scroll {
+  overflow-x: auto;
+}
+
+.data-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 13px;
+}
+
+.data-table th,
+.data-table td {
+  padding: 7px 10px;
+  border-bottom: 1px solid var(--border);
+  text-align: left;
+  white-space: nowrap;
+}
+
+.data-table th {
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 0.02em;
+  color: var(--text-muted);
+  font-weight: 700;
+}
+
+.data-table td.num {
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+}
+
+.data-table tbody tr:hover { background: var(--primary-light); }
+
+.dif-cell {
+  font-weight: 700;
+  border-radius: 6px;
+}
+
+.dif-cell.dif-neg { color: var(--dif-neg); background: var(--dif-neg-bg); }
+.dif-cell.dif-pos { color: var(--dif-pos); background: var(--dif-pos-bg); }
+.dif-cell.dif-zero { color: var(--text-muted); }
+
+.dif-legend {
+  display: flex;
+  gap: 18px;
+  margin-top: 10px;
+  font-size: 12px;
+  color: var(--text-muted);
+}
+
+.dif-legend__item { display: flex; align-items: center; gap: 6px; }
+
+.dif-swatch {
+  width: 10px;
+  height: 10px;
+  border-radius: 3px;
+  display: inline-block;
+}
+
+.dif-swatch.dif-neg { background: var(--dif-neg); }
+.dif-swatch.dif-pos { background: var(--dif-pos); }
+
 @media (prefers-color-scheme: dark) {
   :root {
     --bg: #14161a;
@@ -187,5 +287,9 @@ body {
     --text: #e6e8eb;
     --text-muted: #9aa1ad;
     --primary-light: #1f2e29;
+    --dif-neg: #d95926;
+    --dif-neg-bg: #3a2415;
+    --dif-pos: #9085e9;
+    --dif-pos-bg: #262149;
   }
 }

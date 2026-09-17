@@ -1,0 +1,13 @@
+{
+  "name": "nuevo-inventarios-pipeline",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Pipeline Node.js que replica las fuentes y la lógica Power Query + DAX de Nuevo Inventarios.pbix y escribe JSON estático para el frontend.",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "build:an-insumos": "node build-an-insumos.mjs"
+  }
+}

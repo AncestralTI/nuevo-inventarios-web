@@ -47,7 +47,9 @@ const DASHBOARD = {
 };
 
 let activeBrand = "ancestral";
-let activePageId = DASHBOARD[activeBrand].pages[0].id;
+// "An. Insumos" es la página activa por defecto en el PBIX original (sección 4.3 de
+// ANALISIS_PBIX.md) y además el único módulo con datos/medidas reales por ahora.
+let activePageId = (DASHBOARD[activeBrand].pages.find(p => p.id === "an-insumos") || DASHBOARD[activeBrand].pages[0]).id;
 
 function renderBrandNav() {
   document.querySelectorAll(".brandnav__btn").forEach(btn => {
@@ -75,6 +77,16 @@ function renderContent() {
   const page = DASHBOARD[activeBrand].pages.find(p => p.id === activePageId);
 
   const chips = document.getElementById("filterChips");
+  const kpiRow = document.getElementById("kpiRow");
+  const grid = document.getElementById("panelGrid");
+
+  // "An. Insumos" es el módulo piloto con datos y medidas reales: delega el render
+  // completo (chips/KPI/paneles) a js/pages/an-insumos.js en vez del placeholder genérico.
+  if (page.id === "an-insumos" && window.AnInsumosPage) {
+    window.AnInsumosPage.render(kpiRow, grid, chips);
+    return;
+  }
+
   chips.innerHTML = "";
   page.filters.forEach(f => {
     const chip = document.createElement("span");
@@ -83,7 +95,6 @@ function renderContent() {
     chips.appendChild(chip);
   });
 
-  const kpiRow = document.getElementById("kpiRow");
   kpiRow.innerHTML = "";
   ["Medida 1", "Medida 2", "Medida 3", "Medida 4"].forEach(label => {
     const card = document.createElement("div");
@@ -95,7 +106,6 @@ function renderContent() {
     kpiRow.appendChild(card);
   });
 
-  const grid = document.getElementById("panelGrid");
   grid.innerHTML = "";
   page.panels.forEach(panelText => {
     const panel = document.createElement("div");

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T20:03:28.719Z",
+  "generatedAt": "2026-09-17T20:35:25.837Z",
   "rangoFechas": {
     "desde": "2026-07-13",
     "hasta": "2026-09-17"
@@ -137,12 +137,12 @@
       "insumo": "Llama",
       "weekYear": "202638",
       "invMenos7": 16,
-      "compras": 0,
+      "compras": 30,
       "vtas": 6,
       "salidas": 2.29,
       "vtasTot": 8.29,
       "inv": null,
-      "cierre": 7.71,
+      "cierre": 37.71,
       "dif": null
     },
     {
@@ -2080,6 +2080,18 @@
       "dif": null
     },
     {
+      "insumo": "Llama",
+      "fecha": "2026-09-17",
+      "dia": "jue",
+      "compras": 30,
+      "vtas": 0,
+      "salidas": 0,
+      "invEsperado": 21.71,
+      "invIni": null,
+      "invFin": null,
+      "dif": null
+    },
+    {
       "insumo": "Chuleton",
       "fecha": "2026-09-08",
       "dia": "mar",
@@ -3070,13 +3082,13 @@
       },
       {
         "weekYear": "202638",
-        "valor": 161
+        "valor": 191
       }
     ]
   },
   "meta": {
     "ventasIziDisponibles": true,
-    "filasCompras": 2213,
+    "filasCompras": 2214,
     "filasSalidas": 811,
     "filasMatriz": 22,
     "filasInventarios": 383,

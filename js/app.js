@@ -87,6 +87,14 @@ function renderContent() {
     return;
   }
 
+  // "An. Vinos" es el segundo módulo con datos y medidas reales (misma arquitectura que
+  // An. Insumos, agrupado por Dim_Producto_iZi[Producto] -- ver pipeline/lib/anc-beb-vin-pipeline.mjs).
+  // "An. Bebidas" comparte el mismo pipeline/medidas pero todavía NO se activa aquí a propósito.
+  if (page.id === "an-vinos" && window.AnVinosPage) {
+    window.AnVinosPage.render(kpiRow, grid, chips);
+    return;
+  }
+
   chips.innerHTML = "";
   page.filters.forEach(f => {
     const chip = document.createElement("span");

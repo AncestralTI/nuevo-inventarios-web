@@ -111,3 +111,96 @@ export async function getVentasAncestral(email, password, { desde, hasta }) {
   const facturas = await fetchFacturas(token, { desde, hasta, contribuyente: "79818", sucursal: "79344" });
   return expandFacturasAncestral(facturas);
 }
+
+// ---------------------------------------------------------------------------
+// Añadido para "Anc. Beb y Vin" (An. Vinos / An. Bebidas): réplica de Dim_Producto_iZi y de
+// 'Mov Inv omuh (5)'. No se toca nada de lo usado por "An. Insumos" arriba.
+// ---------------------------------------------------------------------------
+
+const CODIGOS_PRUEBA_DIM_PRODUCTO = new Set(["0003698", "002628", "15185151", "6666"]);
+
+/**
+ * Réplica de la tabla `Dim_Producto_iZi`: GET /items-inventarios, descarta códigos que empiezan
+ * con "i"/"I" y los 4 códigos de prueba, deduplica por código (Table.Distinct({"codigo"})).
+ * Devuelve: [{ codProducto, producto, categoria }]
+ */
+export async function fetchDimProducto(token) {
+  const res = await fetch(`${BASE_URL}/items-inventarios`, {
+    headers: {
+      Authorization: `Bearer ${token}`,
+      "Content-Type": "application/json",
+      "izi-contribuyente": "79818",
+    },
+  });
+  if (!res.ok) {
+    throw new Error(`izi-api fetchDimProducto: HTTP ${res.status}`);
+  }
+  const items = await res.json();
+  const porCodigo = new Map();
+  for (const it of Array.isArray(items) ? items : []) {
+    const codigo = String(it.codigo ?? "").trim();
+    if (!codigo) continue;
+    if (codigo.startsWith("i") || codigo.startsWith("I")) continue;
+    if (CODIGOS_PRUEBA_DIM_PRODUCTO.has(codigo)) continue;
+    if (porCodigo.has(codigo)) continue;
+    porCodigo.set(codigo, {
+      codProducto: codigo,
+      producto: it.nombre,
+      categoria: it.categoria?.nombre ?? "",
+    });
+  }
+  return [...porCodigo.values()];
+}
+
+/** Orquesta login + fetch de Dim_Producto_iZi. */
+export async function getDimProducto(email, password) {
+  const token = await login(email, password);
+  return fetchDimProducto(token);
+}
+
+/**
+ * Réplica de 'Mov Inv omuh (5)': GET /movimientos?desde=...&hasta=... (últimos 1 mes desde hoy,
+ * igual que el M original: Date.AddMonths(Hoy,-1) -- NO 2 meses), filtra codigoInventario que
+ * CONTIENE "58" (aplicado en la fuente M, tal como aquí). El filtro adicional
+ * tipoMovimiento IN {"interna","prod-venta"} se aplica en la medida (Cortesias Anc Beb), no aquí.
+ * desde/hasta: strings "YYYY-MM-DD" (se les agrega la hora tal como hace el M original).
+ */
+export async function fetchMovimientosBeb(token, { desde, hasta }) {
+  const params = new URLSearchParams({
+    desde: `${desde}T00:00:00.000Z`,
+    hasta: `${hasta}T23:59:59.000Z`,
+  });
+  const url = `${BASE_URL}/movimientos?${params.toString()}`;
+  const res = await fetch(url, {
+    headers: {
+      Authorization: `Bearer ${token}`,
+      "Content-Type": "application/json",
+      "izi-contribuyente": "79818",
+    },
+  });
+  if (!res.ok) {
+    throw new Error(`izi-api fetchMovimientosBeb: HTTP ${res.status}`);
+  }
+  const json = await res.json();
+  const items = Array.isArray(json) ? json : Array.isArray(json?.movimientos) ? json.movimientos : [];
+  const out = [];
+  for (const it of items) {
+    const codigoInventario = it.codigoInventario;
+    if (!codigoInventario || !String(codigoInventario).includes("58")) continue;
+    const fechaRaw = it.fecha;
+    if (!fechaRaw) continue;
+    const d = new Date(fechaRaw);
+    if (Number.isNaN(d.getTime())) continue;
+    const fecha = new Date(Date.UTC(d.getUTCFullYear(), d.getUTCMonth(), d.getUTCDate()));
+    const cantidad = Number(it.cantidad);
+    if (!Number.isFinite(cantidad)) continue;
+    out.push({ fecha, cantidad, tipoMovimiento: it.tipoMovimiento, codigoInventario });
+  }
+  return out;
+}
+
+/** Orquesta login + fetch de movimientos (Mov Inv omuh (5)). */
+export async function getMovimientosBeb(email, password, { desde, hasta }) {
+  const token = await login(email, password);
+  return fetchMovimientosBeb(token, { desde, hasta });
+}

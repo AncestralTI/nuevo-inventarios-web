@@ -28,6 +28,12 @@ jobs:
           IZI_PASSWORD: ${{ secrets.IZI_PASSWORD }}
         run: node pipeline/build-an-insumos.mjs
 
+      - name: Build An. Vinos data
+        env:
+          IZI_EMAIL: ${{ secrets.IZI_EMAIL }}
+          IZI_PASSWORD: ${{ secrets.IZI_PASSWORD }}
+        run: node pipeline/build-an-vinos.mjs
+
       - name: Build Ventas por Producto data
         env:
           IZI_EMAIL: ${{ secrets.IZI_EMAIL }}

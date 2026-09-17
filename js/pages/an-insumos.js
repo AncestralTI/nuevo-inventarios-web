@@ -30,6 +30,8 @@
 
   let cache = null; // JSON descargado, cacheado entre renders mientras dure la sesión
   let chartInstance = null;
+  let refreshTimer = null;
+  const AUTO_REFRESH_MS = 5 * 60 * 1000; // el pipeline en GitHub Actions corre cada 30 min; revisamos cada 5
 
   const state = {
     weekYear: null, // se fija a la semana más reciente al cargar
@@ -38,10 +40,11 @@
     parametro: "vtas", // key de PARAMETRO_OPCIONES, default "Vtas" como en el PBIX
   };
 
+  // Las 13 medidas de "Anc. Insumos" usan formatString "0" en el modelo original
+  // (ver ANALISIS_PBIX.md sección 3.1): sin decimales, redondeado al entero más cercano.
   function fmtNum(n) {
     if (n === null || n === undefined) return "—";
-    const rounded = Math.round(n * 100) / 100;
-    return rounded.toLocaleString("es-BO", { maximumFractionDigits: 2 });
+    return Math.round(n).toLocaleString("es-BO", { maximumFractionDigits: 0 });
   }
 
   function fmtFechaCorta(iso) {
@@ -50,9 +53,10 @@
     return `${d}/${m}/${y.slice(2)}`;
   }
 
-  async function loadData() {
-    if (cache) return cache;
-    const res = await fetch(DATA_URL, { cache: "no-store" });
+  async function loadData(force) {
+    if (cache && !force) return cache;
+    const url = force ? `${DATA_URL}?t=${Date.now()}` : DATA_URL;
+    const res = await fetch(url, { cache: "no-store" });
     if (!res.ok) throw new Error(`No se pudo cargar ${DATA_URL}: HTTP ${res.status}`);
     cache = await res.json();
     if (!state.weekYear && cache.semanas && cache.semanas.length) {
@@ -148,8 +152,31 @@
     return "dif-zero";
   }
 
-  function renderSlicers(panel, data, onChange) {
-    panel.innerHTML = `<h3 class="panel__title">Filtros — An. Insumos</h3>`;
+  function fmtHora(iso) {
+    if (!iso) return "—";
+    return new Date(iso).toLocaleString("es-BO", { dateStyle: "short", timeStyle: "short" });
+  }
+
+  function renderSlicers(panel, data, onChange, onRefresh) {
+    panel.innerHTML = "";
+    const head = document.createElement("div");
+    head.className = "panel__head";
+    head.innerHTML = `<h3 class="panel__title">Filtros — An. Insumos</h3>`;
+    const refreshWrap = document.createElement("div");
+    refreshWrap.className = "refresh-wrap";
+    const refreshBtn = document.createElement("button");
+    refreshBtn.type = "button";
+    refreshBtn.className = "refresh-btn";
+    refreshBtn.textContent = "↻ Actualizar";
+    refreshBtn.addEventListener("click", () => onRefresh(refreshBtn));
+    const refreshLabel = document.createElement("span");
+    refreshLabel.className = "refresh-label";
+    refreshLabel.textContent = `Datos al ${fmtHora(data.generatedAt)}`;
+    refreshWrap.appendChild(refreshBtn);
+    refreshWrap.appendChild(refreshLabel);
+    head.appendChild(refreshWrap);
+    panel.appendChild(head);
+
     const grid = document.createElement("div");
     grid.className = "slicer-grid";
     panel.appendChild(grid);
@@ -467,15 +494,45 @@
       detallePanel.className = "panel panel--full";
       panelGridEl.appendChild(detallePanel);
 
+      let currentData = data;
       const rerenderAll = () => {
-        renderKpiRow(kpiRowEl, data);
-        renderResumenSemanal(resumenPanel, data);
-        renderChart(chartPanel, data);
-        renderDetalle(detallePanel, data);
+        renderKpiRow(kpiRowEl, currentData);
+        renderResumenSemanal(resumenPanel, currentData);
+        renderChart(chartPanel, currentData);
+        renderDetalle(detallePanel, currentData);
       };
 
-      renderSlicers(slicerPanel, data, rerenderAll);
+      const doRefresh = async (btn) => {
+        if (btn) { btn.disabled = true; btn.textContent = "↻ Actualizando…"; }
+        try {
+          currentData = await loadData(true);
+          renderSlicers(slicerPanel, currentData, rerenderAllAndReslice, doRefresh);
+          rerenderAll();
+        } catch (err) {
+          console.error("an-insumos: error al actualizar", err);
+        } finally {
+          if (btn) { btn.disabled = false; btn.textContent = "↻ Actualizar"; }
+        }
+      };
+
+      // onChange de los slicers necesita volver a pintar TODO menos los propios
+      // slicers (para no perder el foco del control que se acaba de tocar).
+      function rerenderAllAndReslice() {
+        rerenderAll();
+      }
+
+      renderSlicers(slicerPanel, currentData, rerenderAllAndReslice, doRefresh);
       rerenderAll();
+
+      if (refreshTimer) clearInterval(refreshTimer);
+      refreshTimer = setInterval(() => {
+        if (!document.body.contains(slicerPanel)) {
+          clearInterval(refreshTimer);
+          refreshTimer = null;
+          return;
+        }
+        doRefresh(null);
+      }, AUTO_REFRESH_MS);
     } catch (err) {
       panelGridEl.innerHTML = "";
       const errPanel = document.createElement("div");

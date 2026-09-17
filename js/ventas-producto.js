@@ -99,8 +99,9 @@ function render() {
     `;
   }
 
+  const actualizado = new Date(state.data.generatedAt).toLocaleString("es-BO", { dateStyle: "short", timeStyle: "short" });
   document.getElementById("metaInfo").textContent =
-    `${state.desde} a ${state.hasta} · ${rows.length} productos con ventas en el rango · fuente: ${state.data.fuente}`;
+    `${state.desde} a ${state.hasta} · ${rows.length} productos · datos al ${actualizado}`;
 }
 
 function populateControls() {
@@ -144,16 +145,44 @@ function populateControls() {
   });
 }
 
-fetch("data/ventas-por-producto.json")
-  .then(r => r.json())
-  .then(data => {
+const AUTO_REFRESH_MS = 5 * 60 * 1000; // el pipeline en GitHub Actions corre cada 30 min; revisamos cada 5
+
+async function loadData() {
+  const res = await fetch(`data/ventas-por-producto.json?t=${Date.now()}`, { cache: "no-store" });
+  if (!res.ok) throw new Error(`HTTP ${res.status}`);
+  return res.json();
+}
+
+async function refresh(isManual) {
+  const btn = document.getElementById("refreshBtn");
+  if (isManual && btn) { btn.disabled = true; btn.textContent = "↻ Actualizando…"; }
+  try {
+    const data = await loadData();
+    const first = !state.data;
     state.data = data;
-    state.desde = data.rango.desde;
-    state.hasta = data.rango.hasta;
-    populateControls();
+    if (first) {
+      state.desde = data.rango.desde;
+      state.hasta = data.rango.hasta;
+    }
+    const desdeInput = document.getElementById("desdeInput");
+    const hastaInput = document.getElementById("hastaInput");
+    desdeInput.min = data.rango.desde;
+    desdeInput.max = data.rango.hasta;
+    hastaInput.min = data.rango.desde;
+    hastaInput.max = data.rango.hasta;
+    if (first) {
+      populateControls();
+    }
     render();
-  })
-  .catch(err => {
+  } catch (err) {
     document.getElementById("tableWrap").innerHTML =
       `<div class="vp-empty">No se pudo cargar data/ventas-por-producto.json (${err.message})</div>`;
-  });
+  } finally {
+    if (isManual && btn) { btn.disabled = false; btn.textContent = "↻ Actualizar"; }
+  }
+}
+
+document.getElementById("refreshBtn").addEventListener("click", () => refresh(true));
+
+refresh(false);
+setInterval(() => refresh(false), AUTO_REFRESH_MS);

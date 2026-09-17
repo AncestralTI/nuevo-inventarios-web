@@ -92,10 +92,12 @@ function render() {
       </tr>
     `).join("");
     wrap.innerHTML = `
-      <table class="vp-table">
-        <thead><tr><th>Producto</th><th>Categoría</th><th class="num">Cantidad</th><th class="num">Monto</th></tr></thead>
-        <tbody>${body}</tbody>
-      </table>
+      <div class="table-scroll">
+        <table class="data-table">
+          <thead><tr><th>Producto</th><th>Categoría</th><th class="num">Cantidad</th><th class="num">Monto</th></tr></thead>
+          <tbody>${body}</tbody>
+        </table>
+      </div>
     `;
   }
 

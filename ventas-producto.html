@@ -14,24 +14,26 @@
     padding: 12px 14px;
     background: var(--surface);
     border: 1px solid var(--border);
+    border-left: 3px solid var(--primary);
     border-radius: var(--radius);
     margin-bottom: 16px;
   }
-  .vp-controls label { font-size: 13px; font-weight: 600; color: var(--text-muted); }
-  .vp-controls select {
+  .vp-controls label { font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: .03em; color: var(--text-muted); }
+  .vp-controls select,
+  .vp-controls input[type="date"] {
     font: inherit;
+    font-size: 13px;
     padding: 6px 10px;
     border-radius: 6px;
     border: 1px solid var(--border);
     background: var(--surface);
     color: var(--text);
+    transition: border-color 0.15s ease;
   }
+  .vp-controls select:hover,
+  .vp-controls input[type="date"]:hover { border-color: var(--primary); }
   .vp-meta { margin-left: auto; font-size: 12px; color: var(--text-muted); }
   .vp-chart-wrap { position: relative; height: 360px; }
-  table.vp-table { width: 100%; border-collapse: collapse; font-size: 13px; }
-  table.vp-table th, table.vp-table td { text-align: left; padding: 6px 8px; border-bottom: 1px solid var(--border); }
-  table.vp-table th { color: var(--text-muted); font-weight: 600; font-size: 12px; }
-  table.vp-table td.num, table.vp-table th.num { text-align: right; font-variant-numeric: tabular-nums; }
   .vp-empty { text-align: center; padding: 40px; color: var(--text-muted); }
 </style>
 </head>

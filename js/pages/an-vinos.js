@@ -80,8 +80,14 @@
     return `${weekYear} (${fmtFechaCorta(info.desde)} – ${fmtFechaCorta(info.hasta)})`;
   }
 
+  /**
+   * Si hay un Producto elegido en el slicer, TODO (KPIs, tabla resumen, detalle, gráfico) debe
+   * quedar acotado a ese producto — igual que el cross-filtering nativo de un slicer en Power BI.
+   */
   function resumenSemanaActual(data) {
-    return data.resumenSemanal.filter((r) => r.weekYear === state.weekYear);
+    return data.resumenSemanal.filter(
+      (r) => r.weekYear === state.weekYear && (state.producto === "__todos__" || r.producto === state.producto)
+    );
   }
 
   /**

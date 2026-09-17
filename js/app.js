@@ -52,6 +52,7 @@ let activeBrand = "ancestral";
 let activePageId = (DASHBOARD[activeBrand].pages.find(p => p.id === "an-insumos") || DASHBOARD[activeBrand].pages[0]).id;
 
 function renderBrandNav() {
+  document.body.dataset.brand = activeBrand;
   document.querySelectorAll(".brandnav__btn").forEach(btn => {
     btn.classList.toggle("is-active", btn.dataset.brand === activeBrand);
   });

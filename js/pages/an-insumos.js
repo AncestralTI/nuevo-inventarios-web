@@ -75,10 +75,19 @@
     return `${weekYear} (${fmtFechaCorta(info.desde)} – ${fmtFechaCorta(info.hasta)})`;
   }
 
-  /** Filtra resumenSemanal a la semana seleccionada + insumos visibles del filtro de página. */
+  /**
+   * Filtra resumenSemanal a la semana seleccionada + insumos visibles del filtro de página.
+   * Si hay un Insumo elegido en el slicer, TODO (KPIs, tabla resumen, detalle, gráfico) debe
+   * quedar acotado a ese insumo — igual que el cross-filtering nativo de un slicer en Power BI.
+   */
   function resumenSemanaActual(data) {
     const visibles = new Set(insumosVisibles(data));
-    return data.resumenSemanal.filter((r) => r.weekYear === state.weekYear && visibles.has(r.insumo));
+    return data.resumenSemanal.filter(
+      (r) =>
+        r.weekYear === state.weekYear &&
+        visibles.has(r.insumo) &&
+        (state.insumo === "__todos__" || r.insumo === state.insumo)
+    );
   }
 
   /** Aplica el criterio de "Filtro Dif" (Todos / Dif=0 / Dif<>0) sobre las filas del resumen. */

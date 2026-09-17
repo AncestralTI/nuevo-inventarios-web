@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T23:42:54.400Z",
+  "generatedAt": "2026-09-17T23:52:59.581Z",
   "rangoFechas": {
     "desde": "2026-07-13",
     "hasta": "2026-09-17"
@@ -44,6 +44,7 @@
     "CONDE DE HARO",
     "COPA ALAYA - TELLUS",
     "COPA BARBERA - MALA CABEZA",
+    "COPA CAB. ZINFANDDEL - ALMA OCULTA",
     "COPA DE CEPA DE ORO - VISCHOQUEÑA",
     "COPA IMPOREÑA - YOCKICH",
     "COPA MARSELAN - ARSAL",
@@ -647,6 +648,20 @@
     },
     {
       "producto": "COPA BARBERA - MALA CABEZA",
+      "weekYear": "202638",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
+      "producto": "COPA CAB. ZINFANDDEL - ALMA OCULTA",
       "weekYear": "202638",
       "invMenos7": null,
       "compras": 0,
@@ -2158,6 +2173,20 @@
       "dif": null
     },
     {
+      "producto": "COPA CAB. ZINFANDDEL - ALMA OCULTA",
+      "weekYear": "202637",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
       "producto": "COPA DE CEPA DE ORO - VISCHOQUEÑA",
       "weekYear": "202637",
       "invMenos7": null,
@@ -3643,6 +3672,20 @@
     },
     {
       "producto": "COPA BARBERA - MALA CABEZA",
+      "weekYear": "202636",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
+      "producto": "COPA CAB. ZINFANDDEL - ALMA OCULTA",
       "weekYear": "202636",
       "invMenos7": null,
       "compras": 0,
@@ -5154,6 +5197,20 @@
       "dif": null
     },
     {
+      "producto": "COPA CAB. ZINFANDDEL - ALMA OCULTA",
+      "weekYear": "202635",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
       "producto": "COPA DE CEPA DE ORO - VISCHOQUEÑA",
       "weekYear": "202635",
       "invMenos7": null,
@@ -6639,6 +6696,20 @@
     },
     {
       "producto": "COPA BARBERA - MALA CABEZA",
+      "weekYear": "202634",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
+      "producto": "COPA CAB. ZINFANDDEL - ALMA OCULTA",
       "weekYear": "202634",
       "invMenos7": null,
       "compras": 0,
@@ -8150,6 +8221,20 @@
       "dif": null
     },
     {
+      "producto": "COPA CAB. ZINFANDDEL - ALMA OCULTA",
+      "weekYear": "202633",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
       "producto": "COPA DE CEPA DE ORO - VISCHOQUEÑA",
       "weekYear": "202633",
       "invMenos7": null,
@@ -9635,6 +9720,20 @@
     },
     {
       "producto": "COPA BARBERA - MALA CABEZA",
+      "weekYear": "202632",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
+      "producto": "COPA CAB. ZINFANDDEL - ALMA OCULTA",
       "weekYear": "202632",
       "invMenos7": null,
       "compras": 0,
@@ -11146,6 +11245,20 @@
       "dif": null
     },
     {
+      "producto": "COPA CAB. ZINFANDDEL - ALMA OCULTA",
+      "weekYear": "202631",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
       "producto": "COPA DE CEPA DE ORO - VISCHOQUEÑA",
       "weekYear": "202631",
       "invMenos7": null,
@@ -12644,6 +12757,20 @@
       "dif": null
     },
     {
+      "producto": "COPA CAB. ZINFANDDEL - ALMA OCULTA",
+      "weekYear": "202630",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
       "producto": "COPA DE CEPA DE ORO - VISCHOQUEÑA",
       "weekYear": "202630",
       "invMenos7": null,
@@ -14129,6 +14256,20 @@
     },
     {
       "producto": "COPA BARBERA - MALA CABEZA",
+      "weekYear": "202629",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
+      "producto": "COPA CAB. ZINFANDDEL - ALMA OCULTA",
       "weekYear": "202629",
       "invMenos7": null,
       "compras": 0,
@@ -16476,7 +16617,7 @@
     "filasMatrizChuleton": 1,
     "filasVentasIzi": 5850,
     "filasMovInv": 399,
-    "filasDimProducto": 433,
+    "filasDimProducto": 434,
     "warnings": []
   }
 }

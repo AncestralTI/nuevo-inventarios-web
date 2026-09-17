@@ -1,0 +1,43 @@
+name: Refresh data
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-data
+  cancel-in-progress: true
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+
+      - name: Build An. Insumos data
+        env:
+          IZI_EMAIL: ${{ secrets.IZI_EMAIL }}
+          IZI_PASSWORD: ${{ secrets.IZI_PASSWORD }}
+        run: node pipeline/build-an-insumos.mjs
+
+      - name: Build Ventas por Producto data
+        env:
+          IZI_EMAIL: ${{ secrets.IZI_EMAIL }}
+          IZI_PASSWORD: ${{ secrets.IZI_PASSWORD }}
+        run: node pipeline/quick/ventas-por-producto.mjs 30
+
+      - name: Commit data if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/*.json
+          git diff --cached --quiet && echo "Sin cambios en los datos" || git commit -m "Actualizar datos [automático]"
+          git push

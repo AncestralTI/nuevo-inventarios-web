@@ -75,6 +75,17 @@ function fmtDate(d) {
   return d.toISOString().slice(0, 10);
 }
 
+// Réplica del paso M "Fecha Bolivia": DateTimeZone.RemoveZone(DateTimeZone.FromText(fechaPago)) - 4h,
+// luego solo la fecha (DateTime.Date). fechaPago llega en UTC desde la API.
+function fechaBoliviaDeFactura(factura) {
+  const raw = factura.fechaPago ?? factura.fecha;
+  if (!raw) return null;
+  const utc = new Date(raw);
+  if (Number.isNaN(utc.getTime())) return null;
+  const bolivia = new Date(utc.getTime() - 4 * 60 * 60 * 1000);
+  return fmtDate(bolivia);
+}
+
 async function main() {
   const hasta = new Date();
   const desde = new Date(hasta.getTime() - DIAS * 24 * 60 * 60 * 1000);
@@ -89,50 +100,58 @@ async function main() {
   const facturas = await fetchFacturas(token, fmtDate(desde), fmtDate(hasta));
   console.log(`Facturas recibidas: ${facturas.length}`);
 
-  // Agrega Cantidad vendida por codigoInventario, igual que hace el PBIX al
-  // expandir listaItems y descartar el código de prueba AN000046.
-  const ventasPorCodigo = new Map();
+  // Agrega Cantidad vendida por codigoInventario + fecha (hora Bolivia), igual que
+  // hace el PBIX al expandir listaItems y descartar el código de prueba AN000046.
+  // Se guarda el detalle diario (no solo el total) para poder filtrar por fecha
+  // en el navegador sin volver a llamar a la API.
+  const ventasPorCodigoYFecha = new Map();
   for (const factura of facturas) {
+    const fecha = fechaBoliviaDeFactura(factura);
+    if (!fecha) continue;
     for (const item of factura.listaItems ?? []) {
       const codigo = item.codigoInventario;
       if (!codigo || codigo === "AN000046") continue;
       const cantidad = Number(item.cantidad) || 0;
       const monto = Number(item.precioTotal) || 0;
-      const prev = ventasPorCodigo.get(codigo) || { cantidad: 0, monto: 0, nombreFactura: item.articulo };
+      const key = `${codigo}|${fecha}`;
+      const prev = ventasPorCodigoYFecha.get(key) || {
+        codigo, fecha, cantidad: 0, monto: 0, nombreFactura: item.articulo
+      };
       prev.cantidad += cantidad;
       prev.monto += monto;
-      ventasPorCodigo.set(codigo, prev);
+      ventasPorCodigoYFecha.set(key, prev);
     }
   }
 
-  const productos = [];
-  for (const [codigo, venta] of ventasPorCodigo) {
-    const cat = catalogo.get(codigo);
-    productos.push({
-      codProducto: codigo,
-      producto: cat?.producto ?? venta.nombreFactura ?? codigo,
+  const ventasDiarias = [];
+  for (const venta of ventasPorCodigoYFecha.values()) {
+    const cat = catalogo.get(venta.codigo);
+    ventasDiarias.push({
+      codProducto: venta.codigo,
+      producto: cat?.producto ?? venta.nombreFactura ?? venta.codigo,
       categoria: cat?.categoria ?? "(Sin categoría / código de prueba)",
+      fecha: venta.fecha,
       cantidad: Math.round(venta.cantidad * 100) / 100,
       monto: Math.round(venta.monto * 100) / 100
     });
   }
-  productos.sort((a, b) => b.cantidad - a.cantidad);
+  ventasDiarias.sort((a, b) => a.fecha.localeCompare(b.fecha));
 
-  const categorias = [...new Set(productos.map(p => p.categoria))].sort();
+  const categorias = [...new Set(ventasDiarias.map(p => p.categoria))].sort();
 
   const out = {
     generatedAt: new Date().toISOString(),
     fuente: "API iZi Soluciones (facturas + items-inventarios), sucursal Ancestral (79344)",
     rango: { desde: fmtDate(desde), hasta: fmtDate(hasta) },
     categorias,
-    productos
+    ventasDiarias
   };
 
   await writeFile(
     new URL("../../data/ventas-por-producto.json", import.meta.url),
     JSON.stringify(out, null, 2)
   );
-  console.log(`Listo: ${productos.length} productos, ${categorias.length} categorías -> data/ventas-por-producto.json`);
+  console.log(`Listo: ${ventasDiarias.length} filas diarias, ${categorias.length} categorías -> data/ventas-por-producto.json`);
 }
 
 main().catch(err => {

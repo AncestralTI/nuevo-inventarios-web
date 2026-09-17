@@ -1,11 +1,11 @@
-// Vista independiente: ventas por producto, filtrable por categoría.
+// Vista independiente: ventas por producto, filtrable por categoría y por rango de fecha.
 // Lee data/ventas-por-producto.json (generado por pipeline/quick/ventas-por-producto.mjs
-// a partir de datos reales de la API iZi — facturas + catálogo de productos).
+// a partir de datos reales de la API iZi — facturas + catálogo de productos), con detalle
+// diario por producto, y agrega en el navegador según los filtros elegidos.
 
-const state = { data: null, categoria: "__all__", top: 15, chart: null };
+const state = { data: null, categoria: "__all__", top: 15, desde: null, hasta: null, chart: null };
 
 const primary = getComputedStyle(document.documentElement).getPropertyValue("--primary").trim() || "#2f5d50";
-const primaryLight = getComputedStyle(document.documentElement).getPropertyValue("--primary-light").trim() || "#e8f0ee";
 const textMuted = getComputedStyle(document.documentElement).getPropertyValue("--text-muted").trim() || "#6b7280";
 const border = getComputedStyle(document.documentElement).getPropertyValue("--border").trim() || "#e2e4e9";
 
@@ -13,18 +13,30 @@ function fmtNum(n) {
   return new Intl.NumberFormat("es-BO").format(n);
 }
 
-function filteredProductos() {
-  const { data, categoria, top } = state;
-  let rows = data.productos;
-  if (categoria !== "__all__") {
-    rows = rows.filter(p => p.categoria === categoria);
+// Agrega ventasDiarias -> por producto, respetando categoría y rango de fecha elegidos.
+function productosAgregados() {
+  const { data, categoria, desde, hasta } = state;
+  const porProducto = new Map();
+  for (const fila of data.ventasDiarias) {
+    if (fila.fecha < desde || fila.fecha > hasta) continue;
+    if (categoria !== "__all__" && fila.categoria !== categoria) continue;
+    const prev = porProducto.get(fila.codProducto) || {
+      codProducto: fila.codProducto,
+      producto: fila.producto,
+      categoria: fila.categoria,
+      cantidad: 0,
+      monto: 0
+    };
+    prev.cantidad += fila.cantidad;
+    prev.monto += fila.monto;
+    porProducto.set(fila.codProducto, prev);
   }
-  if (top > 0) rows = rows.slice(0, top);
-  return rows;
+  const rows = [...porProducto.values()].sort((a, b) => b.cantidad - a.cantidad);
+  return state.top > 0 ? rows.slice(0, state.top) : rows;
 }
 
 function render() {
-  const rows = filteredProductos();
+  const rows = productosAgregados();
 
   // Gráfico
   const ctx = document.getElementById("ventasChart").getContext("2d");
@@ -69,23 +81,26 @@ function render() {
   // Tabla
   const wrap = document.getElementById("tableWrap");
   if (rows.length === 0) {
-    wrap.innerHTML = `<div class="vp-empty">Sin ventas en esta categoría en el rango consultado.</div>`;
-    return;
+    wrap.innerHTML = `<div class="vp-empty">Sin ventas en este rango/categoría.</div>`;
+  } else {
+    const body = rows.map(r => `
+      <tr>
+        <td>${r.producto}</td>
+        <td>${r.categoria}</td>
+        <td class="num">${fmtNum(r.cantidad)}</td>
+        <td class="num">Bs ${fmtNum(r.monto)}</td>
+      </tr>
+    `).join("");
+    wrap.innerHTML = `
+      <table class="vp-table">
+        <thead><tr><th>Producto</th><th>Categoría</th><th class="num">Cantidad</th><th class="num">Monto</th></tr></thead>
+        <tbody>${body}</tbody>
+      </table>
+    `;
   }
-  const body = rows.map(r => `
-    <tr>
-      <td>${r.producto}</td>
-      <td>${r.categoria}</td>
-      <td class="num">${fmtNum(r.cantidad)}</td>
-      <td class="num">Bs ${fmtNum(r.monto)}</td>
-    </tr>
-  `).join("");
-  wrap.innerHTML = `
-    <table class="vp-table">
-      <thead><tr><th>Producto</th><th>Categoría</th><th class="num">Cantidad</th><th class="num">Monto</th></tr></thead>
-      <tbody>${body}</tbody>
-    </table>
-  `;
+
+  document.getElementById("metaInfo").textContent =
+    `${state.desde} a ${state.hasta} · ${rows.length} productos con ventas en el rango · fuente: ${state.data.fuente}`;
 }
 
 function populateControls() {
@@ -106,14 +121,35 @@ function populateControls() {
     render();
   });
 
-  document.getElementById("metaInfo").textContent =
-    `${state.data.rango.desde} a ${state.data.rango.hasta} · ${state.data.productos.length} productos · fuente: ${state.data.fuente}`;
+  const desdeInput = document.getElementById("desdeInput");
+  const hastaInput = document.getElementById("hastaInput");
+  desdeInput.min = state.data.rango.desde;
+  desdeInput.max = state.data.rango.hasta;
+  hastaInput.min = state.data.rango.desde;
+  hastaInput.max = state.data.rango.hasta;
+  desdeInput.value = state.desde;
+  hastaInput.value = state.hasta;
+
+  desdeInput.addEventListener("change", () => {
+    if (desdeInput.value > hastaInput.value) hastaInput.value = desdeInput.value;
+    state.desde = desdeInput.value;
+    state.hasta = hastaInput.value;
+    render();
+  });
+  hastaInput.addEventListener("change", () => {
+    if (hastaInput.value < desdeInput.value) desdeInput.value = hastaInput.value;
+    state.desde = desdeInput.value;
+    state.hasta = hastaInput.value;
+    render();
+  });
 }
 
 fetch("data/ventas-por-producto.json")
   .then(r => r.json())
   .then(data => {
     state.data = data;
+    state.desde = data.rango.desde;
+    state.hasta = data.rango.hasta;
     populateControls();
     render();
   })

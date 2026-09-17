@@ -1,0 +1,14 @@
+# Dependencias
+node_modules/
+
+# Variables de entorno / credenciales — NUNCA subir esto al repo
+.env
+.env.*
+*.local
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Nuevo Inventarios | Ancestral</title>
+<link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="topbar__brand">
+      <span class="topbar__title">Nuevo Inventarios</span>
+      <span class="topbar__subtitle">Réplica web del dashboard Power BI</span>
+    </div>
+    <div class="topbar__status" id="dataStatus">
+      <span class="dot dot--pending"></span>
+      <span>Fuente de datos: pendiente de conectar</span>
+    </div>
+  </header>
+
+  <nav class="brandnav">
+    <button class="brandnav__btn is-active" data-brand="ancestral">Ancestral</button>
+    <button class="brandnav__btn" data-brand="omuh">omuH</button>
+  </nav>
+
+  <nav class="pagenav" id="pagenav">
+    <!-- Se llena por JS según la marca activa -->
+  </nav>
+
+  <main class="content" id="content">
+    <section class="filterbar" id="filterbar">
+      <span class="filterbar__label">Filtros de página</span>
+      <div class="filterbar__chips" id="filterChips"></div>
+    </section>
+
+    <section class="kpi-row" id="kpiRow">
+      <!-- Tarjetas KPI (medidas DAX) se insertan aquí -->
+    </section>
+
+    <section class="panel-grid" id="panelGrid">
+      <!-- Tablas y gráficos de la página activa -->
+    </section>
+  </main>
+
+  <footer class="footer">
+    <p>Estructura provisional — en construcción a partir del análisis de <code>Nuevo Inventarios.pbix</code>. Las medidas, tablas y filtros reales se están extrayendo del modelo; ningún dato mostrado aquí es definitivo todavía.</p>
+  </footer>
+
+  <script src="js/app.js"></script>
+</body>
+</html>

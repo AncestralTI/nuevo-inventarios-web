@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Ventas por Producto | Nuevo Inventarios</title>
+<link rel="stylesheet" href="css/styles.css">
+<style>
+  .vp-controls {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    flex-wrap: wrap;
+    padding: 12px 14px;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    margin-bottom: 16px;
+  }
+  .vp-controls label { font-size: 13px; font-weight: 600; color: var(--text-muted); }
+  .vp-controls select {
+    font: inherit;
+    padding: 6px 10px;
+    border-radius: 6px;
+    border: 1px solid var(--border);
+    background: var(--surface);
+    color: var(--text);
+  }
+  .vp-meta { margin-left: auto; font-size: 12px; color: var(--text-muted); }
+  .vp-chart-wrap { position: relative; height: 360px; }
+  table.vp-table { width: 100%; border-collapse: collapse; font-size: 13px; }
+  table.vp-table th, table.vp-table td { text-align: left; padding: 6px 8px; border-bottom: 1px solid var(--border); }
+  table.vp-table th { color: var(--text-muted); font-weight: 600; font-size: 12px; }
+  table.vp-table td.num, table.vp-table th.num { text-align: right; font-variant-numeric: tabular-nums; }
+  .vp-empty { text-align: center; padding: 40px; color: var(--text-muted); }
+</style>
+</head>
+<body>
+  <header class="topbar">
+    <div class="topbar__brand">
+      <span class="topbar__title">Ventas por Producto</span>
+      <span class="topbar__subtitle">Ancestral — datos reales de la API iZi (facturas)</span>
+    </div>
+    <a href="index.html" class="topbar__status" style="text-decoration:none;">&larr; Volver al dashboard</a>
+  </header>
+
+  <main class="content">
+    <section class="vp-controls">
+      <label for="categoriaSelect">Categoría</label>
+      <select id="categoriaSelect"><option value="__all__">Todas</option></select>
+      <label for="topSelect">Mostrar</label>
+      <select id="topSelect">
+        <option value="15">Top 15 productos</option>
+        <option value="30">Top 30 productos</option>
+        <option value="0">Todos</option>
+      </select>
+      <span class="vp-meta" id="metaInfo"></span>
+    </section>
+
+    <section class="panel">
+      <h3 class="panel__title">Cantidad vendida por producto</h3>
+      <div class="vp-chart-wrap"><canvas id="ventasChart"></canvas></div>
+    </section>
+
+    <section class="panel" style="margin-top:16px;">
+      <h3 class="panel__title">Detalle</h3>
+      <div id="tableWrap"></div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <p>Vista independiente de primera versión — ventas reales por producto (cantidad vendida) filtrables por categoría, tomadas directamente de la API de iZi Soluciones (mismo origen que usa <code>Nuevo Inventarios.pbix</code>). No representa todavía una página completa del dashboard original.</p>
+  </footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.4/dist/chart.umd.min.js"></script>
+  <script src="js/ventas-producto.js"></script>
+</body>
+</html>

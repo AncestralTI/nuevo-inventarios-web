@@ -10,5 +10,8 @@ node_modules/
 .DS_Store
 Thumbs.db
 
+# Permisos locales de Claude Code (específicos de esta máquina)
+.claude/settings.local.json
+
 # Logs
 *.log

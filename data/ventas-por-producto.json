@@ -1,0 +1,1271 @@
+{
+  "generatedAt": "2026-09-17T15:14:47.806Z",
+  "fuente": "API iZi Soluciones (facturas + items-inventarios), sucursal Ancestral (79344)",
+  "rango": {
+    "desde": "2026-08-18",
+    "hasta": "2026-09-17"
+  },
+  "categorias": [
+    "AGUAS",
+    "BEBIDAS CALIENTES",
+    "BEBIDAS SIN ALCOHOL",
+    "CERVEZA",
+    "COCTELES",
+    "COMIDAS",
+    "DULCES",
+    "ENTRADAS",
+    "EVENTOS",
+    "FUERTES",
+    "GASEOSA",
+    "GUARNICIONES",
+    "JUGOS",
+    "MENU DEGUSTACION",
+    "MENÚ DE NIÑOS",
+    "POR VASO",
+    "Servicios",
+    "VINOS",
+    "VINOS IMPORTADOS",
+    "VINOS POR COPA"
+  ],
+  "productos": [
+    {
+      "codProducto": "ANC00001",
+      "producto": "AGUA C/G",
+      "categoria": "AGUAS",
+      "cantidad": 319,
+      "monto": 4785
+    },
+    {
+      "codProducto": "ANC00002",
+      "producto": "AGUA S/G",
+      "categoria": "AGUAS",
+      "cantidad": 273,
+      "monto": 3250
+    },
+    {
+      "codProducto": "ANC00099",
+      "producto": "PARRILLA OJO DE BIFE",
+      "categoria": "FUERTES",
+      "cantidad": 235,
+      "monto": 37600
+    },
+    {
+      "codProducto": "ANC00058",
+      "producto": "ALCACHOFAS",
+      "categoria": "ENTRADAS",
+      "cantidad": 150,
+      "monto": 11250
+    },
+    {
+      "codProducto": "ANC00093",
+      "producto": "KEPERI AHUMADO",
+      "categoria": "FUERTES",
+      "cantidad": 122,
+      "monto": 17080
+    },
+    {
+      "codProducto": "ANC00114",
+      "producto": "NARANJA TUMBO",
+      "categoria": "JUGOS",
+      "cantidad": 102,
+      "monto": 1530
+    },
+    {
+      "codProducto": "ANC00328",
+      "producto": "PAVLOVA DE PIÑA A LA BRASA",
+      "categoria": "COMIDAS",
+      "cantidad": 96,
+      "monto": 4800
+    },
+    {
+      "codProducto": "ANC00073",
+      "producto": "EXPERIENCIA ANCESTRAL",
+      "categoria": "MENU DEGUSTACION",
+      "cantidad": 95,
+      "monto": 42750
+    },
+    {
+      "codProducto": "ANC00103",
+      "producto": "PARRILLA TRUCHA",
+      "categoria": "FUERTES",
+      "cantidad": 83,
+      "monto": 12450
+    },
+    {
+      "codProducto": "ANC00065",
+      "producto": "TATAKI DE LLAMA",
+      "categoria": "ENTRADAS",
+      "cantidad": 80,
+      "monto": 6000
+    },
+    {
+      "codProducto": "ANC00331",
+      "producto": "CORDERO A LA CRUZ",
+      "categoria": "COMIDAS",
+      "cantidad": 77,
+      "monto": 11550
+    },
+    {
+      "codProducto": "ANC00101",
+      "producto": "PECHUGA DE POLLO CROCANTE",
+      "categoria": "FUERTES",
+      "cantidad": 72,
+      "monto": 9360
+    },
+    {
+      "codProducto": "ANC00095",
+      "producto": "OSSOBUCO A LA BOLIVIANA",
+      "categoria": "FUERTES",
+      "cantidad": 71,
+      "monto": 11360
+    },
+    {
+      "codProducto": "ANC00111",
+      "producto": "JAMAICA MENTA",
+      "categoria": "JUGOS",
+      "cantidad": 71,
+      "monto": 1065
+    },
+    {
+      "codProducto": "ANC00324",
+      "producto": "TRUCHA CURADA EN PATACÓN",
+      "categoria": "COMIDAS",
+      "cantidad": 70,
+      "monto": 4900
+    },
+    {
+      "codProducto": "ANC00090",
+      "producto": "CHULETON (Kg)",
+      "categoria": "FUERTES",
+      "cantidad": 69.26,
+      "monto": 27572
+    },
+    {
+      "codProducto": "ANC00046",
+      "producto": "CHOCOLATE",
+      "categoria": "DULCES",
+      "cantidad": 69,
+      "monto": 3450
+    },
+    {
+      "codProducto": "ANC00007",
+      "producto": "HUARI",
+      "categoria": "CERVEZA",
+      "cantidad": 69,
+      "monto": 2277
+    },
+    {
+      "codProducto": "ANC00098",
+      "producto": "PARRILLA KEPERI",
+      "categoria": "FUERTES",
+      "cantidad": 67,
+      "monto": 9380
+    },
+    {
+      "codProducto": "ANC00104",
+      "producto": "COCA COLA",
+      "categoria": "GASEOSA",
+      "cantidad": 66,
+      "monto": 990
+    },
+    {
+      "codProducto": "ANC00105",
+      "producto": "COCA COLA SIN AZUCAR",
+      "categoria": "GASEOSA",
+      "cantidad": 63,
+      "monto": 945
+    },
+    {
+      "codProducto": "ANC00057",
+      "producto": "TUETANO BRULEE",
+      "categoria": "DULCES",
+      "cantidad": 62,
+      "monto": 3100
+    },
+    {
+      "codProducto": "ANC00063",
+      "producto": "TACO PULLED PORK",
+      "categoria": "ENTRADAS",
+      "cantidad": 61,
+      "monto": 4270
+    },
+    {
+      "codProducto": "ANC00049",
+      "producto": "FLAN",
+      "categoria": "DULCES",
+      "cantidad": 57,
+      "monto": 2850
+    },
+    {
+      "codProducto": "ANC00040",
+      "producto": "UYUNI SOUR",
+      "categoria": "COCTELES",
+      "cantidad": 56,
+      "monto": 2800
+    },
+    {
+      "codProducto": "ANC00281",
+      "producto": "CUARTO PATO CONFITADO",
+      "categoria": "FUERTES",
+      "cantidad": 54,
+      "monto": 7560
+    },
+    {
+      "codProducto": "ANC00241",
+      "producto": "CEVICHE DE TRUCHA Y HONGOS",
+      "categoria": "ENTRADAS",
+      "cantidad": 51,
+      "monto": 3825
+    },
+    {
+      "codProducto": "ANC00112",
+      "producto": "LIMONADA",
+      "categoria": "JUGOS",
+      "cantidad": 50,
+      "monto": 750
+    },
+    {
+      "codProducto": "ANC00183",
+      "producto": "PANZA FRITA",
+      "categoria": "ENTRADAS",
+      "cantidad": 47,
+      "monto": 2820
+    },
+    {
+      "codProducto": "ANC00110",
+      "producto": "JAMAICA (BOTELLA)",
+      "categoria": "JUGOS",
+      "cantidad": 44,
+      "monto": 1760
+    },
+    {
+      "codProducto": "ANC00064",
+      "producto": "TARTAR DE RES",
+      "categoria": "ENTRADAS",
+      "cantidad": 44,
+      "monto": 3080
+    },
+    {
+      "codProducto": "ANC00330",
+      "producto": "PESCADO AMAZONICO Y TUMBO",
+      "categoria": "COMIDAS",
+      "cantidad": 42,
+      "monto": 5880
+    },
+    {
+      "codProducto": "ANC00280",
+      "producto": "COPA RAIZ KHOLBERG",
+      "categoria": "VINOS POR COPA",
+      "cantidad": 42,
+      "monto": 1910
+    },
+    {
+      "codProducto": "ANC00249",
+      "producto": "ARROZ DE CANGREJOS",
+      "categoria": "FUERTES",
+      "cantidad": 40,
+      "monto": 6000
+    },
+    {
+      "codProducto": "ANC00115",
+      "producto": "NARANJA-TUMBO (BOTELLA)",
+      "categoria": "JUGOS",
+      "cantidad": 40,
+      "monto": 1600
+    },
+    {
+      "codProducto": "ANC00047",
+      "producto": "ESPRESSO",
+      "categoria": "BEBIDAS CALIENTES",
+      "cantidad": 38,
+      "monto": 570
+    },
+    {
+      "codProducto": "ANC00092",
+      "producto": "GNOCCHIS CON HONGOS A LA BRASA",
+      "categoria": "FUERTES",
+      "cantidad": 33,
+      "monto": 4620
+    },
+    {
+      "codProducto": "ANC00184",
+      "producto": "ANTICUCHO DE POLLO",
+      "categoria": "ENTRADAS",
+      "cantidad": 32,
+      "monto": 1760
+    },
+    {
+      "codProducto": "ANC00242",
+      "producto": "PARRILLA PESCADO AMAZÓNICO",
+      "categoria": "FUERTES",
+      "cantidad": 32,
+      "monto": 4800
+    },
+    {
+      "codProducto": "ANC00038",
+      "producto": "APEROL SPRITZ",
+      "categoria": "COCTELES",
+      "cantidad": 29,
+      "monto": 1450
+    },
+    {
+      "codProducto": "ANC00048",
+      "producto": "ESPRESSO DOBLE",
+      "categoria": "BEBIDAS CALIENTES",
+      "cantidad": 29,
+      "monto": 580
+    },
+    {
+      "codProducto": "ANC00325",
+      "producto": "TABLA ANCESTRAL",
+      "categoria": "ENTRADAS",
+      "cantidad": 28,
+      "monto": 3360
+    },
+    {
+      "codProducto": "ANC00182",
+      "producto": "POTOSINA PILSNER",
+      "categoria": "CERVEZA",
+      "cantidad": 28,
+      "monto": 840
+    },
+    {
+      "codProducto": "ANC00051",
+      "producto": "INFUSION MANZANILLA - CEDRON",
+      "categoria": "BEBIDAS CALIENTES",
+      "cantidad": 28,
+      "monto": 420
+    },
+    {
+      "codProducto": "ANC00020",
+      "producto": "CHUFLAY",
+      "categoria": "COCTELES",
+      "cantidad": 28,
+      "monto": 1150
+    },
+    {
+      "codProducto": "ANC00075",
+      "producto": "MARIDAJE ANCESTRAL",
+      "categoria": "MENU DEGUSTACION",
+      "cantidad": 26,
+      "monto": 7650
+    },
+    {
+      "codProducto": "ANC00329",
+      "producto": "PAN CON QUESO",
+      "categoria": "COMIDAS",
+      "cantidad": 24,
+      "monto": 1200
+    },
+    {
+      "codProducto": "ANC00018",
+      "producto": "CHIRIMOYA ALEGRE",
+      "categoria": "COCTELES",
+      "cantidad": 23,
+      "monto": 1150
+    },
+    {
+      "codProducto": "ANC00108",
+      "producto": "ICED TEA",
+      "categoria": "JUGOS",
+      "cantidad": 22,
+      "monto": 330
+    },
+    {
+      "codProducto": "ANC00031",
+      "producto": "NEGRONI",
+      "categoria": "COCTELES",
+      "cantidad": 21,
+      "monto": 1050
+    },
+    {
+      "codProducto": "ANC00222",
+      "producto": "COPA ARANJUEZ- ORIGEN",
+      "categoria": "VINOS POR COPA",
+      "cantidad": 21,
+      "monto": 1050
+    },
+    {
+      "codProducto": "ANC00088",
+      "producto": "ARROZ DE TRUCHA",
+      "categoria": "FUERTES",
+      "cantidad": 20,
+      "monto": 3000
+    },
+    {
+      "codProducto": "ANC00023",
+      "producto": "COCTELITO DE TUMBO",
+      "categoria": "COCTELES",
+      "cantidad": 20,
+      "monto": 800
+    },
+    {
+      "codProducto": "ANC00327",
+      "producto": "ALFAJOR",
+      "categoria": "DULCES",
+      "cantidad": 20,
+      "monto": 1000
+    },
+    {
+      "codProducto": "ANC00024",
+      "producto": "CRISTALINO DE TUMBO",
+      "categoria": "COCTELES",
+      "cantidad": 19,
+      "monto": 950
+    },
+    {
+      "codProducto": "ANC00081",
+      "producto": "PORCION PAPAS",
+      "categoria": "GUARNICIONES",
+      "cantidad": 18,
+      "monto": 720
+    },
+    {
+      "codProducto": "ANC00135",
+      "producto": "CAÑON ESCONDIDO - TANNAT",
+      "categoria": "VINOS",
+      "cantidad": 18,
+      "monto": 5400
+    },
+    {
+      "codProducto": "ANC00079",
+      "producto": "MENU 5 TIEMPOS",
+      "categoria": "EVENTOS",
+      "cantidad": 17,
+      "monto": 5440
+    },
+    {
+      "codProducto": "ANC00206",
+      "producto": "SPICY MARGARITA",
+      "categoria": "COCTELES",
+      "cantidad": 16,
+      "monto": 800
+    },
+    {
+      "codProducto": "ANC00113",
+      "producto": "LIMONADA (BOTELLA)",
+      "categoria": "JUGOS",
+      "cantidad": 16,
+      "monto": 640
+    },
+    {
+      "codProducto": "ANC00066",
+      "producto": "BURGER DE NIÑOS",
+      "categoria": "MENÚ DE NIÑOS",
+      "cantidad": 16,
+      "monto": 800
+    },
+    {
+      "codProducto": "ANC00214",
+      "producto": "PIE DE LIMON SOUR",
+      "categoria": "COCTELES",
+      "cantidad": 15,
+      "monto": 750
+    },
+    {
+      "codProducto": "ANC00005",
+      "producto": "BENDITA IPA",
+      "categoria": "CERVEZA",
+      "cantidad": 14,
+      "monto": 462
+    },
+    {
+      "codProducto": "ANC00150",
+      "producto": "MAGNUS SANGIOVESE",
+      "categoria": "VINOS",
+      "cantidad": 13,
+      "monto": 3835
+    },
+    {
+      "codProducto": "ANC00152",
+      "producto": "MALBEC CALADOC - KUHLMANN",
+      "categoria": "VINOS",
+      "cantidad": 13,
+      "monto": 2600
+    },
+    {
+      "codProducto": "ANC00029",
+      "producto": "MOJITO",
+      "categoria": "COCTELES",
+      "cantidad": 13,
+      "monto": 650
+    },
+    {
+      "codProducto": "ANC00215",
+      "producto": "EXPRESO MARTINI DE CHOCOLATE",
+      "categoria": "COCTELES",
+      "cantidad": 12,
+      "monto": 600
+    },
+    {
+      "codProducto": "ANC00210",
+      "producto": "SINGANI MULE",
+      "categoria": "COCTELES",
+      "cantidad": 11,
+      "monto": 440
+    },
+    {
+      "codProducto": "ANC00106",
+      "producto": "FANTA",
+      "categoria": "GASEOSA",
+      "cantidad": 10,
+      "monto": 150
+    },
+    {
+      "codProducto": "ANC00193",
+      "producto": "REBELION ALBA WEIZEN",
+      "categoria": "CERVEZA",
+      "cantidad": 10,
+      "monto": 330
+    },
+    {
+      "codProducto": "ANC00311",
+      "producto": "SAN MIGUEL SOLSTICIO",
+      "categoria": "CERVEZA",
+      "cantidad": 9,
+      "monto": 351
+    },
+    {
+      "codProducto": "ANC00070",
+      "producto": "ARVEJAS CHINAS",
+      "categoria": "GUARNICIONES",
+      "cantidad": 9,
+      "monto": 360
+    },
+    {
+      "codProducto": "ANC00072",
+      "producto": "ENSALADA EXTRA",
+      "categoria": "GUARNICIONES",
+      "cantidad": 9,
+      "monto": 360
+    },
+    {
+      "codProducto": "ANC00107",
+      "producto": "SPRITE",
+      "categoria": "GASEOSA",
+      "cantidad": 9,
+      "monto": 135
+    },
+    {
+      "codProducto": "ANC00004",
+      "producto": "BENDITA HOPPY",
+      "categoria": "CERVEZA",
+      "cantidad": 9,
+      "monto": 243
+    },
+    {
+      "codProducto": "ANC00207",
+      "producto": "BERRIES TONIC",
+      "categoria": "COCTELES",
+      "cantidad": 8,
+      "monto": 400
+    },
+    {
+      "codProducto": "ANC00131",
+      "producto": "ARANJUEZ / TANNAT \"ORIGEN\"",
+      "categoria": "VINOS",
+      "cantidad": 8,
+      "monto": 2000
+    },
+    {
+      "codProducto": "ANC00200",
+      "producto": "GOLDEN RUSH",
+      "categoria": "COCTELES",
+      "cantidad": 8,
+      "monto": 400
+    },
+    {
+      "codProducto": "ANC00170",
+      "producto": "COPA KOHLBERG - ROSE",
+      "categoria": "VINOS POR COPA",
+      "cantidad": 8,
+      "monto": 300
+    },
+    {
+      "codProducto": "ANC00223",
+      "producto": "PROFITEROLE",
+      "categoria": "COCTELES",
+      "cantidad": 8,
+      "monto": 400
+    },
+    {
+      "codProducto": "ANC00109",
+      "producto": "ICED TEA (BOTELLA)",
+      "categoria": "JUGOS",
+      "cantidad": 7,
+      "monto": 280
+    },
+    {
+      "codProducto": "ANC00015",
+      "producto": "BLOODY MARY DE TOCINO",
+      "categoria": "COCTELES",
+      "cantidad": 7,
+      "monto": 350
+    },
+    {
+      "codProducto": "ANC00039",
+      "producto": "TONIC DEL JARDÍN",
+      "categoria": "COCTELES",
+      "cantidad": 7,
+      "monto": 350
+    },
+    {
+      "codProducto": "ANC00323",
+      "producto": "COPA SYRAH - CEPAS DE FUEGO",
+      "categoria": "VINOS POR COPA",
+      "cantidad": 7,
+      "monto": 420
+    },
+    {
+      "codProducto": "ANC00343",
+      "producto": "GRAN RESERVA CARMENERE - CASA SOLUM",
+      "categoria": "VINOS",
+      "cantidad": 7,
+      "monto": 3185
+    },
+    {
+      "codProducto": "ANC00310",
+      "producto": "SAN MIGUEL MATILDA PALE ALE",
+      "categoria": "CERVEZA",
+      "cantidad": 7,
+      "monto": 266
+    },
+    {
+      "codProducto": "ANC00030",
+      "producto": "MOSCOW MULE",
+      "categoria": "COCTELES",
+      "cantidad": 7,
+      "monto": 350
+    },
+    {
+      "codProducto": "ANC00025",
+      "producto": "GIN TONIC INSURGENTE",
+      "categoria": "COCTELES",
+      "cantidad": 7,
+      "monto": 350
+    },
+    {
+      "codProducto": "ANC00033",
+      "producto": "PALOMA",
+      "categoria": "COCTELES",
+      "cantidad": 7,
+      "monto": 350
+    },
+    {
+      "codProducto": "ANC00305",
+      "producto": "COPA ALAYA - TELLUS",
+      "categoria": "VINOS",
+      "cantidad": 7,
+      "monto": 320
+    },
+    {
+      "codProducto": "ANC00175",
+      "producto": "COPA MAGNUS MERLOT",
+      "categoria": "VINOS POR COPA",
+      "cantidad": 7,
+      "monto": 350
+    },
+    {
+      "codProducto": "ANC00009",
+      "producto": "MADERA DOMINGA",
+      "categoria": "CERVEZA",
+      "cantidad": 6,
+      "monto": 186
+    },
+    {
+      "codProducto": "ANC00086",
+      "producto": "TOMATES AHUMADOS",
+      "categoria": "GUARNICIONES",
+      "cantidad": 6,
+      "monto": 240
+    },
+    {
+      "codProducto": "ANC00167",
+      "producto": "COPA CEPA DE ORO - ORANGE",
+      "categoria": "VINOS POR COPA",
+      "cantidad": 6,
+      "monto": 270
+    },
+    {
+      "codProducto": "ANC00050",
+      "producto": "INFUSION COCA - SULTANA",
+      "categoria": "BEBIDAS CALIENTES",
+      "cantidad": 6,
+      "monto": 90
+    },
+    {
+      "codProducto": "ANC00071",
+      "producto": "COLIFLOR",
+      "categoria": "GUARNICIONES",
+      "cantidad": 6,
+      "monto": 240
+    },
+    {
+      "codProducto": "ANC00258",
+      "producto": "COPA- MARQUEZ MOSCATEL",
+      "categoria": "VINOS POR COPA",
+      "cantidad": 6,
+      "monto": 270
+    },
+    {
+      "codProducto": "ANC00213",
+      "producto": "PINEAPPLE EXPRESS",
+      "categoria": "COCTELES",
+      "cantidad": 6,
+      "monto": 300
+    },
+    {
+      "codProducto": "ANC00178",
+      "producto": "COPA MALBEC - CALADOC",
+      "categoria": "VINOS POR COPA",
+      "cantidad": 6,
+      "monto": 240
+    },
+    {
+      "codProducto": "ANC00161",
+      "producto": "COPA 1750 - SAV BLANC",
+      "categoria": "VINOS POR COPA",
+      "cantidad": 6,
+      "monto": 270
+    },
+    {
+      "codProducto": "ANC00201",
+      "producto": "HAVANA CLUB 7 AÑOS",
+      "categoria": "POR VASO",
+      "cantidad": 6,
+      "monto": 300
+    },
+    {
+      "codProducto": "ANC00080",
+      "producto": "PORCIÓN ARROZ C/ QUESO",
+      "categoria": "GUARNICIONES",
+      "cantidad": 5,
+      "monto": 225
+    },
+    {
+      "codProducto": "ANC00014",
+      "producto": "BAJATIVO",
+      "categoria": "COCTELES",
+      "cantidad": 5,
+      "monto": 150
+    },
+    {
+      "codProducto": "ANC00283",
+      "producto": "ALAYA - TELLUS",
+      "categoria": "VINOS",
+      "cantidad": 5,
+      "monto": 1175
+    },
+    {
+      "codProducto": "ANC00143",
+      "producto": "KOHLBERG - ICONO",
+      "categoria": "VINOS",
+      "cantidad": 5,
+      "monto": 3750
+    },
+    {
+      "codProducto": "ANC00333",
+      "producto": "COPA IMPOREÑA - YOCKICH",
+      "categoria": "VINOS",
+      "cantidad": 5,
+      "monto": 285
+    },
+    {
+      "codProducto": "ANC00253",
+      "producto": "EL ENEMIGO-MALBEC",
+      "categoria": "VINOS IMPORTADOS",
+      "cantidad": 5,
+      "monto": 2350
+    },
+    {
+      "codProducto": "ANC00010",
+      "producto": "MICHELADA ANCESTRAL",
+      "categoria": "COCTELES",
+      "cantidad": 5,
+      "monto": 200
+    },
+    {
+      "codProducto": "ANC00211",
+      "producto": "CUBA LIBRE",
+      "categoria": "COCTELES",
+      "cantidad": 4,
+      "monto": 200
+    },
+    {
+      "codProducto": "ANC00199",
+      "producto": "GIN & TONIC LA REPUBLICA",
+      "categoria": "COCTELES",
+      "cantidad": 4,
+      "monto": 200
+    },
+    {
+      "codProducto": "ANC00345",
+      "producto": "IMPREDECIBLE - TERRA ANCESTRAL",
+      "categoria": "VINOS",
+      "cantidad": 4,
+      "monto": 2200
+    },
+    {
+      "codProducto": "ANC00145",
+      "producto": "STELAR - KOHLBERG",
+      "categoria": "VINOS",
+      "cantidad": 4,
+      "monto": 870
+    },
+    {
+      "codProducto": "ANC00146",
+      "producto": "TANNAT RAIZ - KOHLBERG",
+      "categoria": "VINOS",
+      "cantidad": 4,
+      "monto": 995
+    },
+    {
+      "codProducto": "ANC00128",
+      "producto": "ALTOSAMA - BRUT",
+      "categoria": "VINOS",
+      "cantidad": 4,
+      "monto": 650
+    },
+    {
+      "codProducto": "ANC00287",
+      "producto": "AMOR FATI - TELLUS",
+      "categoria": "VINOS",
+      "cantidad": 4,
+      "monto": 2800
+    },
+    {
+      "codProducto": "ANC00052",
+      "producto": "INFUSION MENTA - CHOCO",
+      "categoria": "BEBIDAS CALIENTES",
+      "cantidad": 4,
+      "monto": 60
+    },
+    {
+      "codProducto": "ANC00149",
+      "producto": "MAGNUS - MERLOT",
+      "categoria": "VINOS",
+      "cantidad": 4,
+      "monto": 1180
+    },
+    {
+      "codProducto": "ANC00276",
+      "producto": "BENDITA PILS",
+      "categoria": "CERVEZA",
+      "cantidad": 4,
+      "monto": 88
+    },
+    {
+      "codProducto": "ANC00173",
+      "producto": "COPA MAGNUS - SANGIOVESE",
+      "categoria": "VINOS POR COPA",
+      "cantidad": 4,
+      "monto": 160
+    },
+    {
+      "codProducto": "ANC00342",
+      "producto": "TRIVARIETAL TINTO - MAGNUS",
+      "categoria": "VINOS",
+      "cantidad": 3,
+      "monto": 975
+    },
+    {
+      "codProducto": "ANC00019",
+      "producto": "CHIVAS 18 AÑOS",
+      "categoria": "COCTELES",
+      "cantidad": 3,
+      "monto": 600
+    },
+    {
+      "codProducto": "ANC00198",
+      "producto": "CACAO TONIC",
+      "categoria": "COCTELES",
+      "cantidad": 3,
+      "monto": 150
+    },
+    {
+      "codProducto": "ANC00196",
+      "producto": "CAMPARI SPRITZ",
+      "categoria": "COCTELES",
+      "cantidad": 3,
+      "monto": 150
+    },
+    {
+      "codProducto": "ANC00017",
+      "producto": "CAMPARI ORANGE",
+      "categoria": "COCTELES",
+      "cantidad": 3,
+      "monto": 150
+    },
+    {
+      "codProducto": "ANC00130",
+      "producto": "BONARDA \"PIONERO\" - ARANJUEZ",
+      "categoria": "VINOS",
+      "cantidad": 3,
+      "monto": 705
+    },
+    {
+      "codProducto": "ANC00069",
+      "producto": "PECHUGA DE NIÑOS",
+      "categoria": "MENÚ DE NIÑOS",
+      "cantidad": 3,
+      "monto": 150
+    },
+    {
+      "codProducto": "ANC00202",
+      "producto": "JHONNIE WALKER",
+      "categoria": "POR VASO",
+      "cantidad": 3,
+      "monto": 270
+    },
+    {
+      "codProducto": "ANC00203",
+      "producto": "MANHATTAN",
+      "categoria": "COCTELES",
+      "cantidad": 3,
+      "monto": 150
+    },
+    {
+      "codProducto": "ANC00043",
+      "producto": "CAFÉ PRENSA TAZA",
+      "categoria": "BEBIDAS CALIENTES",
+      "cantidad": 3,
+      "monto": 60
+    },
+    {
+      "codProducto": "ANC00351",
+      "producto": "COPA BARBERA - MALA CABEZA",
+      "categoria": "VINOS",
+      "cantidad": 3,
+      "monto": 180
+    },
+    {
+      "codProducto": "ANC00133",
+      "producto": "CAMPOS DE SOLANA / \"ESTHER ORTIZ\"",
+      "categoria": "VINOS",
+      "cantidad": 3,
+      "monto": 1875
+    },
+    {
+      "codProducto": "ANC00091",
+      "producto": "CORDERO Y RACACHA",
+      "categoria": "FUERTES",
+      "cantidad": 3,
+      "monto": 450
+    },
+    {
+      "codProducto": "ANC00032",
+      "producto": "OLD FASHIONED",
+      "categoria": "COCTELES",
+      "cantidad": 3,
+      "monto": 150
+    },
+    {
+      "codProducto": "ANC00313",
+      "producto": "COPA PEDRO GIMENEZ - 1750",
+      "categoria": "VINOS",
+      "cantidad": 3,
+      "monto": 120
+    },
+    {
+      "codProducto": "ANC00008",
+      "producto": "MADERA \"LA KALOR\" GOSE",
+      "categoria": "CERVEZA",
+      "cantidad": 3,
+      "monto": 93
+    },
+    {
+      "codProducto": "ANC00144",
+      "producto": "KOHLBERG - FLAMANT ROSE",
+      "categoria": "VINOS",
+      "cantidad": 3,
+      "monto": 465
+    },
+    {
+      "codProducto": "ANC00233",
+      "producto": "S/A MOJITO VIRGEN",
+      "categoria": "BEBIDAS SIN ALCOHOL",
+      "cantidad": 2,
+      "monto": 60
+    },
+    {
+      "codProducto": "ANC00338",
+      "producto": "MARSELAN - ARSAL",
+      "categoria": "VINOS",
+      "cantidad": 2,
+      "monto": 389
+    },
+    {
+      "codProducto": "ANC00041",
+      "producto": "VODKA TONIC",
+      "categoria": "COCTELES",
+      "cantidad": 2,
+      "monto": 80
+    },
+    {
+      "codProducto": "CAT00001",
+      "producto": "Servicio de Catering",
+      "categoria": "Servicios",
+      "cantidad": 2,
+      "monto": 30390
+    },
+    {
+      "codProducto": "ANC00344",
+      "producto": "CORTE GRAN RESERVA - CASA SOLUM",
+      "categoria": "VINOS",
+      "cantidad": 2,
+      "monto": 910
+    },
+    {
+      "codProducto": "ANC00316",
+      "producto": "SINGANI LEYENDA",
+      "categoria": "POR VASO",
+      "cantidad": 2,
+      "monto": 90
+    },
+    {
+      "codProducto": "ANC00127",
+      "producto": "SAV BLANC - 1750",
+      "categoria": "VINOS",
+      "cantidad": 2,
+      "monto": 570
+    },
+    {
+      "codProducto": "ANC00349",
+      "producto": "COPA PEDRO XIMENEZ - LANDSÚA",
+      "categoria": "VINOS",
+      "cantidad": 2,
+      "monto": 110
+    },
+    {
+      "codProducto": "ANC00321",
+      "producto": "JACK DANIEL'S",
+      "categoria": "POR VASO",
+      "cantidad": 2,
+      "monto": 170
+    },
+    {
+      "codProducto": "ANC00279",
+      "producto": "UNICO - CAMPOS DE SOLANA",
+      "categoria": "VINOS",
+      "cantidad": 2,
+      "monto": 520
+    },
+    {
+      "codProducto": "ANC00273",
+      "producto": "COPA TRIVARIETAL - CAMPOS DE SOLANA",
+      "categoria": "VINOS POR COPA",
+      "cantidad": 2,
+      "monto": 90
+    },
+    {
+      "codProducto": "ANC00147",
+      "producto": "TANNAT LADO B - JARDIN OCULTO",
+      "categoria": "VINOS",
+      "cantidad": 2,
+      "monto": 580
+    },
+    {
+      "codProducto": "ANC00141",
+      "producto": "JARDIN OCULTO - VISCHOQUEÑA BLANC DE NOIR",
+      "categoria": "VINOS",
+      "cantidad": 2,
+      "monto": 700
+    },
+    {
+      "codProducto": "ANC00285",
+      "producto": "MEMENTO MORI - TELLUS",
+      "categoria": "VINOS",
+      "cantidad": 2,
+      "monto": 900
+    },
+    {
+      "codProducto": "ANC00278",
+      "producto": "COPA UNICO - CAMPOS DE SOLANA",
+      "categoria": "VINOS POR COPA",
+      "cantidad": 2,
+      "monto": 90
+    },
+    {
+      "codProducto": "ANC00284",
+      "producto": "VISCHOQUEÑA - SAN FRANCISCO",
+      "categoria": "VINOS",
+      "cantidad": 2,
+      "monto": 750
+    },
+    {
+      "codProducto": "ANC00245",
+      "producto": "CABERNET FRANC - CRUCE DEL ZORRO",
+      "categoria": "VINOS",
+      "cantidad": 2,
+      "monto": 600
+    },
+    {
+      "codProducto": "ANC00140",
+      "producto": "GRAN PATRONO MARSELAN - KUHLMANN",
+      "categoria": "VINOS",
+      "cantidad": 2,
+      "monto": 1260
+    },
+    {
+      "codProducto": "ANC00320",
+      "producto": "SERVICIO DE BRINDIS",
+      "categoria": "VINOS",
+      "cantidad": 1,
+      "monto": 370
+    },
+    {
+      "codProducto": "ANC00352",
+      "producto": "ALQUILER ESPACIO PRIVADO",
+      "categoria": "EVENTOS",
+      "cantidad": 1,
+      "monto": 645
+    },
+    {
+      "codProducto": "ANC00142",
+      "producto": "JARDIN OCULTO - NEGRA CRIOLLA",
+      "categoria": "VINOS",
+      "cantidad": 1,
+      "monto": 325
+    },
+    {
+      "codProducto": "ANC00339",
+      "producto": "SYRAH - TERRA ANCESTRAL",
+      "categoria": "VINOS",
+      "cantidad": 1,
+      "monto": 240
+    },
+    {
+      "codProducto": "ANC00341",
+      "producto": "BARBERA - MALA CABEZA",
+      "categoria": "VINOS",
+      "cantidad": 1,
+      "monto": 300
+    },
+    {
+      "codProducto": "ANC00129",
+      "producto": "ARANJUEZ - JUAN CRUZ",
+      "categoria": "VINOS",
+      "cantidad": 1,
+      "monto": 620
+    },
+    {
+      "codProducto": "ANC00286",
+      "producto": "SYRAH - KHOLBERG",
+      "categoria": "VINOS",
+      "cantidad": 1,
+      "monto": 200
+    },
+    {
+      "codProducto": "ANC00158",
+      "producto": "MUGA - RESERVA",
+      "categoria": "VINOS IMPORTADOS",
+      "cantidad": 1,
+      "monto": 950
+    },
+    {
+      "codProducto": "ANC00138",
+      "producto": "NARANJO - CEPA DE ORO",
+      "categoria": "VINOS",
+      "cantidad": 1,
+      "monto": 325
+    },
+    {
+      "codProducto": "ANC00346",
+      "producto": "CAB- FRANC ROSE - CASA SOLUM",
+      "categoria": "VINOS",
+      "cantidad": 1,
+      "monto": 290
+    },
+    {
+      "codProducto": "ANC00340",
+      "producto": "CAB. SAUVIGNON ZINFANDEL - ALMA OCULTA",
+      "categoria": "VINOS",
+      "cantidad": 1,
+      "monto": 250
+    },
+    {
+      "codProducto": "ANC00155",
+      "producto": "BRUT NATURE - ALTO SAMA",
+      "categoria": "VINOS",
+      "cantidad": 1,
+      "monto": 525
+    },
+    {
+      "codProducto": "ANC00231",
+      "producto": "S/A PINEAPPLE EXPRESS",
+      "categoria": "BEBIDAS SIN ALCOHOL",
+      "cantidad": 1,
+      "monto": 30
+    },
+    {
+      "codProducto": "ANC00126",
+      "producto": "1750 - SYRAH ROSE",
+      "categoria": "VINOS",
+      "cantidad": 1,
+      "monto": 145
+    },
+    {
+      "codProducto": "ANC00026",
+      "producto": "GLENLIVET 12 AÑOS",
+      "categoria": "POR VASO",
+      "cantidad": 1,
+      "monto": 75
+    },
+    {
+      "codProducto": "ANC00232",
+      "producto": "S/A PIE DE LIMON",
+      "categoria": "BEBIDAS SIN ALCOHOL",
+      "cantidad": 1,
+      "monto": 30
+    },
+    {
+      "codProducto": "ANC00230",
+      "producto": "SODA JAMAICA",
+      "categoria": "BEBIDAS SIN ALCOHOL",
+      "cantidad": 1,
+      "monto": 15
+    },
+    {
+      "codProducto": "ANC00208",
+      "producto": "GIN & TONICBEEFEATER",
+      "categoria": "COCTELES",
+      "cantidad": 1,
+      "monto": 70
+    },
+    {
+      "codProducto": "ANC00083",
+      "producto": "RISOTTO AJI",
+      "categoria": "GUARNICIONES",
+      "cantidad": 1,
+      "monto": 50
+    },
+    {
+      "codProducto": "ANC00257",
+      "producto": "ALMA OCULTA - FORTIFICADO BLANCO",
+      "categoria": "VINOS",
+      "cantidad": 1,
+      "monto": 200
+    },
+    {
+      "codProducto": "ANC00212",
+      "producto": "AMERICANO",
+      "categoria": "COCTELES",
+      "cantidad": 1,
+      "monto": 50
+    },
+    {
+      "codProducto": "ANC00134",
+      "producto": "CAÑON ESCONDIDO - RED BLEND",
+      "categoria": "VINOS",
+      "cantidad": 1,
+      "monto": 300
+    },
+    {
+      "codProducto": "ANC00125",
+      "producto": "CHARDONNAY - 1750",
+      "categoria": "VINOS",
+      "cantidad": 1,
+      "monto": 285
+    }
+  ]
+}

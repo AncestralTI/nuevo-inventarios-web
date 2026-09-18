@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T01:20:39.774Z",
+  "generatedAt": "2026-09-18T01:35:09.901Z",
   "fuente": "API iZi Soluciones (facturas + items-inventarios), sucursal Ancestral (79344)",
   "rango": {
     "desde": "2026-08-19",
@@ -11043,6 +11043,14 @@
       "fecha": "2026-09-16",
       "cantidad": 1,
       "monto": 40
+    },
+    {
+      "codProducto": "ANC00111",
+      "producto": "JAMAICA MENTA",
+      "categoria": "JUGOS",
+      "fecha": "2026-09-17",
+      "cantidad": 1,
+      "monto": 15
     },
     {
       "codProducto": "ANC00005",

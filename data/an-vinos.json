@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T01:20:37.655Z",
+  "generatedAt": "2026-09-18T01:35:07.122Z",
   "rangoFechas": {
     "desde": "2026-07-13",
     "hasta": "2026-09-18"
@@ -45,6 +45,7 @@
     "COPA ALAYA - TELLUS",
     "COPA BARBERA - MALA CABEZA",
     "COPA BLANC DE NOIR - CEPA DE ORO",
+    "COPA CAB. FRANC ROSE - CASA SOLUM",
     "COPA CAB. ZINFANDDEL - ALMA OCULTA",
     "COPA DE CEPA DE ORO - VISCHOQUEÑA",
     "COPA IMPOREÑA - CEPA DE ORO",
@@ -666,6 +667,20 @@
     },
     {
       "producto": "COPA BLANC DE NOIR - CEPA DE ORO",
+      "weekYear": "202638",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
+      "producto": "COPA CAB. FRANC ROSE - CASA SOLUM",
       "weekYear": "202638",
       "invMenos7": null,
       "compras": 0,
@@ -2234,6 +2249,20 @@
     },
     {
       "producto": "COPA BLANC DE NOIR - CEPA DE ORO",
+      "weekYear": "202637",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
+      "producto": "COPA CAB. FRANC ROSE - CASA SOLUM",
       "weekYear": "202637",
       "invMenos7": null,
       "compras": 0,
@@ -3815,6 +3844,20 @@
       "dif": null
     },
     {
+      "producto": "COPA CAB. FRANC ROSE - CASA SOLUM",
+      "weekYear": "202636",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
       "producto": "COPA CAB. ZINFANDDEL - ALMA OCULTA",
       "weekYear": "202636",
       "invMenos7": null,
@@ -5370,6 +5413,20 @@
     },
     {
       "producto": "COPA BLANC DE NOIR - CEPA DE ORO",
+      "weekYear": "202635",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
+      "producto": "COPA CAB. FRANC ROSE - CASA SOLUM",
       "weekYear": "202635",
       "invMenos7": null,
       "compras": 0,
@@ -6951,6 +7008,20 @@
       "dif": null
     },
     {
+      "producto": "COPA CAB. FRANC ROSE - CASA SOLUM",
+      "weekYear": "202634",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
       "producto": "COPA CAB. ZINFANDDEL - ALMA OCULTA",
       "weekYear": "202634",
       "invMenos7": null,
@@ -8506,6 +8577,20 @@
     },
     {
       "producto": "COPA BLANC DE NOIR - CEPA DE ORO",
+      "weekYear": "202633",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
+      "producto": "COPA CAB. FRANC ROSE - CASA SOLUM",
       "weekYear": "202633",
       "invMenos7": null,
       "compras": 0,
@@ -10087,6 +10172,20 @@
       "dif": null
     },
     {
+      "producto": "COPA CAB. FRANC ROSE - CASA SOLUM",
+      "weekYear": "202632",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
       "producto": "COPA CAB. ZINFANDDEL - ALMA OCULTA",
       "weekYear": "202632",
       "invMenos7": null,
@@ -11642,6 +11741,20 @@
     },
     {
       "producto": "COPA BLANC DE NOIR - CEPA DE ORO",
+      "weekYear": "202631",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
+      "producto": "COPA CAB. FRANC ROSE - CASA SOLUM",
       "weekYear": "202631",
       "invMenos7": null,
       "compras": 0,
@@ -13223,6 +13336,20 @@
       "dif": null
     },
     {
+      "producto": "COPA CAB. FRANC ROSE - CASA SOLUM",
+      "weekYear": "202630",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
       "producto": "COPA CAB. ZINFANDDEL - ALMA OCULTA",
       "weekYear": "202630",
       "invMenos7": null,
@@ -14778,6 +14905,20 @@
     },
     {
       "producto": "COPA BLANC DE NOIR - CEPA DE ORO",
+      "weekYear": "202629",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
+      "producto": "COPA CAB. FRANC ROSE - CASA SOLUM",
       "weekYear": "202629",
       "invMenos7": null,
       "compras": 0,
@@ -17205,9 +17346,9 @@
     "filasInventariosGs": 3662,
     "filasCompras": 2214,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 5840,
+    "filasVentasIzi": 5841,
     "filasMovInv": 402,
-    "filasDimProducto": 438,
+    "filasDimProducto": 439,
     "warnings": []
   }
 }

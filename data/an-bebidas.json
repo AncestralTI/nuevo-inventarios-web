@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T02:05:27.274Z",
+  "generatedAt": "2026-09-18T02:20:51.512Z",
   "rangoFechas": {
     "desde": "2026-07-13",
     "hasta": "2026-09-18"
@@ -292,13 +292,13 @@
       "weekYear": "202638",
       "invMenos7": 18,
       "compras": 24,
-      "vtas": 3,
+      "vtas": 4,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 1,
-      "vtasTot": 4,
+      "vtasTot": 5,
       "inv": null,
-      "cierre": 38,
+      "cierre": 37,
       "dif": null
     },
     {
@@ -306,13 +306,13 @@
       "weekYear": "202638",
       "invMenos7": 57,
       "compras": 0,
-      "vtas": 4,
+      "vtas": 6,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 4,
+      "vtasTot": 6,
       "inv": null,
-      "cierre": 53,
+      "cierre": 51,
       "dif": null
     },
     {
@@ -4337,6 +4337,32 @@
       "dif": null
     },
     {
+      "producto": "COCA COLA",
+      "fecha": "2026-09-17",
+      "dia": "jue",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 37,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "COCA COLA SIN AZUCAR",
+      "fecha": "2026-09-17",
+      "dia": "jue",
+      "compras": 0,
+      "vtas": 2,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 51,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "BENDITA HOPPY",
       "fecha": "2026-09-08",
       "dia": "mar",
@@ -4699,7 +4725,7 @@
       },
       {
         "weekYear": "202638",
-        "valor": 17
+        "valor": 20
       }
     ],
     "Vtas Ext": [
@@ -4777,7 +4803,7 @@
       },
       {
         "weekYear": "202638",
-        "valor": 18
+        "valor": 21
       }
     ],
     "Salidas": [
@@ -4839,8 +4865,8 @@
     "filasInventariosGs": 3662,
     "filasCompras": 2214,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 5855,
-    "filasMovInv": 406,
+    "filasVentasIzi": 5867,
+    "filasMovInv": 410,
     "filasDimProducto": 439,
     "warnings": []
   }

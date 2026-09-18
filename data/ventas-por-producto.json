@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T02:05:29.223Z",
+  "generatedAt": "2026-09-18T02:20:53.382Z",
   "fuente": "API iZi Soluciones (facturas + items-inventarios), sucursal Ancestral (79344)",
   "rango": {
     "desde": "2026-08-19",
@@ -11045,6 +11045,86 @@
       "monto": 40
     },
     {
+      "codProducto": "ANC00058",
+      "producto": "ALCACHOFAS",
+      "categoria": "ENTRADAS",
+      "fecha": "2026-09-17",
+      "cantidad": 4,
+      "monto": 300
+    },
+    {
+      "codProducto": "ANC00090",
+      "producto": "CHULETON (Kg)",
+      "categoria": "FUERTES",
+      "fecha": "2026-09-17",
+      "cantidad": 1.84,
+      "monto": 736
+    },
+    {
+      "codProducto": "ANC00104",
+      "producto": "COCA COLA",
+      "categoria": "GASEOSA",
+      "fecha": "2026-09-17",
+      "cantidad": 1,
+      "monto": 15
+    },
+    {
+      "codProducto": "ANC00105",
+      "producto": "COCA COLA SIN AZUCAR",
+      "categoria": "GASEOSA",
+      "fecha": "2026-09-17",
+      "cantidad": 2,
+      "monto": 30
+    },
+    {
+      "codProducto": "ANC00002",
+      "producto": "AGUA S/G",
+      "categoria": "AGUAS",
+      "fecha": "2026-09-17",
+      "cantidad": 4,
+      "monto": 48
+    },
+    {
+      "codProducto": "ANC00001",
+      "producto": "AGUA C/G",
+      "categoria": "AGUAS",
+      "fecha": "2026-09-17",
+      "cantidad": 12,
+      "monto": 180
+    },
+    {
+      "codProducto": "ANC00183",
+      "producto": "PANZA FRITA",
+      "categoria": "ENTRADAS",
+      "fecha": "2026-09-17",
+      "cantidad": 1,
+      "monto": 60
+    },
+    {
+      "codProducto": "ANC00103",
+      "producto": "PARRILLA TRUCHA",
+      "categoria": "FUERTES",
+      "fecha": "2026-09-17",
+      "cantidad": 1,
+      "monto": 150
+    },
+    {
+      "codProducto": "ANC00051",
+      "producto": "INFUSION MANZANILLA - CEDRON",
+      "categoria": "BEBIDAS CALIENTES",
+      "fecha": "2026-09-17",
+      "cantidad": 2,
+      "monto": 30
+    },
+    {
+      "codProducto": "ANC00249",
+      "producto": "ARROZ DE CANGREJOS",
+      "categoria": "FUERTES",
+      "fecha": "2026-09-17",
+      "cantidad": 2,
+      "monto": 300
+    },
+    {
       "codProducto": "ANC00073",
       "producto": "EXPERIENCIA ANCESTRAL",
       "categoria": "MENU DEGUSTACION",
@@ -11053,28 +11133,12 @@
       "monto": 450
     },
     {
-      "codProducto": "ANC00001",
-      "producto": "AGUA C/G",
-      "categoria": "AGUAS",
-      "fecha": "2026-09-17",
-      "cantidad": 8,
-      "monto": 120
-    },
-    {
       "codProducto": "ANC00358",
       "producto": "COPA CAB. FRANC ROSE - CASA SOLUM",
       "categoria": "VINOS",
       "fecha": "2026-09-17",
       "cantidad": 2,
       "monto": 116
-    },
-    {
-      "codProducto": "ANC00058",
-      "producto": "ALCACHOFAS",
-      "categoria": "ENTRADAS",
-      "fecha": "2026-09-17",
-      "cantidad": 2,
-      "monto": 150
     },
     {
       "codProducto": "ANC00184",
@@ -11157,14 +11221,6 @@
       "monto": 55
     },
     {
-      "codProducto": "ANC00249",
-      "producto": "ARROZ DE CANGREJOS",
-      "categoria": "FUERTES",
-      "fecha": "2026-09-17",
-      "cantidad": 1,
-      "monto": 150
-    },
-    {
       "codProducto": "ANC00327",
       "producto": "ALFAJOR",
       "categoria": "DULCES",
@@ -11179,14 +11235,6 @@
       "fecha": "2026-09-17",
       "cantidad": 2,
       "monto": 90
-    },
-    {
-      "codProducto": "ANC00002",
-      "producto": "AGUA S/G",
-      "categoria": "AGUAS",
-      "fecha": "2026-09-17",
-      "cantidad": 2,
-      "monto": 24
     },
     {
       "codProducto": "ANC00242",

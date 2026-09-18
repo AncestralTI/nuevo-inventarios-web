@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T15:03:15.107Z",
+  "generatedAt": "2026-09-18T15:37:42.788Z",
   "rangoFechas": {
     "desde": "2026-07-13",
     "hasta": "2026-09-18"
@@ -112,7 +112,7 @@
       "insumo": "Pesca Amazonica",
       "weekYear": "202638",
       "invMenos7": 40,
-      "compras": 116,
+      "compras": 162,
       "vtasIzi": 89,
       "vtasAnc": 0,
       "vtasPY": 0,
@@ -122,7 +122,7 @@
       "salidas": 1,
       "vtasTot": 90,
       "inv": null,
-      "cierre": 66,
+      "cierre": 112,
       "dif": null
     },
     {
@@ -711,10 +711,10 @@
       "insumo": "Pesca Amazonica",
       "fecha": "2026-09-17",
       "dia": "jue",
-      "compras": 0,
+      "compras": 46,
       "vtas": 24,
       "salidas": 0,
-      "invEsperado": 66,
+      "invEsperado": 112,
       "invFin": null,
       "dif": null
     },
@@ -1145,7 +1145,7 @@
       },
       {
         "weekYear": "202638",
-        "valor": 793
+        "valor": 839
       }
     ]
   },
@@ -1153,7 +1153,7 @@
     "ventasIziDisponibles": true,
     "filasDimProducto": 439,
     "filasInventariosUnitarios": 108,
-    "filasCompras": 1491,
+    "filasCompras": 1492,
     "filasSalidas": 66,
     "filasVentasIzi": 8200,
     "filasVentasPY": 10519,

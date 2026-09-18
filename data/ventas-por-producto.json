@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T01:35:09.901Z",
+  "generatedAt": "2026-09-18T01:45:50.001Z",
   "fuente": "API iZi Soluciones (facturas + items-inventarios), sucursal Ancestral (79344)",
   "rango": {
     "desde": "2026-08-19",
@@ -11045,6 +11045,22 @@
       "monto": 40
     },
     {
+      "codProducto": "ANC00088",
+      "producto": "ARROZ DE TRUCHA",
+      "categoria": "FUERTES",
+      "fecha": "2026-09-17",
+      "cantidad": 1,
+      "monto": 150
+    },
+    {
+      "codProducto": "ANC00001",
+      "producto": "AGUA C/G",
+      "categoria": "AGUAS",
+      "fecha": "2026-09-17",
+      "cantidad": 2,
+      "monto": 30
+    },
+    {
       "codProducto": "ANC00111",
       "producto": "JAMAICA MENTA",
       "categoria": "JUGOS",
@@ -11083,14 +11099,6 @@
       "fecha": "2026-09-17",
       "cantidad": 1,
       "monto": 140
-    },
-    {
-      "codProducto": "ANC00001",
-      "producto": "AGUA C/G",
-      "categoria": "AGUAS",
-      "fecha": "2026-09-17",
-      "cantidad": 1,
-      "monto": 15
     },
     {
       "codProducto": "ANC00049",

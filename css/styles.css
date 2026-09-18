@@ -34,8 +34,6 @@ body[data-brand="omuh"] {
 
 * { box-sizing: border-box; }
 
-html, body { height: 100%; }
-
 body {
   margin: 0;
   font-family: "Segoe UI", "Segoe UI Variable", -apple-system, BlinkMacSystemFont, sans-serif;
@@ -226,15 +224,17 @@ body {
 }
 
 /* Layout tipo "canvas" de una sola pantalla para los módulos con datos reales (An. Insumos,
-   An. Vinos): todo el contenido cabe en el alto disponible, sin scroll de página -- solo las
+   An. Vinos): en pantallas suficientemente altas, todo cabe sin scroll de página -- solo las
    tablas largas (dentro de .table-scroll) tienen su propio scroll interno, igual que un
-   pivotTable de Power BI. */
+   pivotTable de Power BI. Cada fila/panel tiene un mínimo en píxeles (no 0) para que en
+   ventanas más bajas los datos sigan siendo legibles -- si no alcanza el alto, la PÁGINA
+   scrollea (mejor eso que tablas/gráficos invisibles comprimidos a 0px).
+*/
 .panel-grid--dashboard {
   flex: 1 1 auto;
-  min-height: 0;
   display: grid;
   grid-template-columns: minmax(0, 1.4fr) minmax(0, 1fr);
-  grid-template-rows: auto minmax(0, 1.3fr) minmax(0, 1fr);
+  grid-template-rows: auto minmax(280px, 1.3fr) minmax(220px, 1fr);
   grid-template-areas:
     "slicers slicers"
     "resumen chart"
@@ -247,26 +247,25 @@ body {
 .panel--chart { grid-area: chart; }
 .panel--detalle { grid-area: detalle; }
 
-.panel-grid--dashboard .panel--slicers { min-height: 0; }
 .panel-grid--dashboard .panel--resumen,
 .panel-grid--dashboard .panel--chart,
 .panel-grid--dashboard .panel--detalle {
   display: flex;
   flex-direction: column;
-  min-height: 0;
+  min-height: 200px;
 }
 
 .panel-grid--dashboard .panel--resumen .table-scroll,
 .panel-grid--dashboard .panel--detalle .table-scroll {
   flex: 1 1 auto;
-  min-height: 0;
+  min-height: 140px;
   max-height: none;
 }
 
 .panel-grid--dashboard .chart-canvas-wrap {
   position: relative;
   flex: 1 1 auto;
-  min-height: 0;
+  min-height: 140px;
 }
 
 .panel-grid--dashboard .panel__note { flex: 0 0 auto; }
@@ -299,7 +298,7 @@ body {
   transition: box-shadow 0.15s ease;
 }
 
-.panel-grid--dashboard .panel { min-height: 0; }
+.panel-grid--dashboard .panel { min-height: 200px; }
 
 .panel:hover { box-shadow: var(--shadow-hover); }
 

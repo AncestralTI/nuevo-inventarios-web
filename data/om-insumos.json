@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T19:46:37.109Z",
+  "generatedAt": "2026-09-18T19:53:55.357Z",
   "rangoFechas": {
     "desde": "2026-07-13",
     "hasta": "2026-09-18"
@@ -1188,7 +1188,7 @@
     "filasInventariosUnitarios": 108,
     "filasCompras": 1494,
     "filasSalidas": 66,
-    "filasVentasIzi": 8211,
+    "filasVentasIzi": 8212,
     "filasVentasPY": 10519,
     "filasExtras": 15062,
     "filasMovInv": 420,

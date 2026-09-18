@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T19:46:52.841Z",
+  "generatedAt": "2026-09-18T19:54:11.002Z",
   "rangoFechas": {
     "desde": "2026-07-13",
     "hasta": "2026-09-18"
@@ -820,14 +820,14 @@
       "weekYear": "202638",
       "invMenos7": 22,
       "compras": 12,
-      "vtasIzi": 1,
+      "vtasIzi": 2,
       "vtasExt": 3,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 4,
+      "vtasTot": 5,
       "inv": null,
-      "cierre": 30,
+      "cierre": 29,
       "dif": null
     },
     {
@@ -8350,6 +8350,20 @@
       "dif": null
     },
     {
+      "producto": "Sprite Zero",
+      "fecha": "2026-09-18",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 29,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "Agua",
       "fecha": "2026-09-07",
       "dia": "lun",
@@ -10012,7 +10026,7 @@
       },
       {
         "weekYear": "202638",
-        "valor": 167.75
+        "valor": 168.75
       }
     ],
     "Vtas Ext.": [
@@ -10090,7 +10104,7 @@
       },
       {
         "weekYear": "202638",
-        "valor": 443.75
+        "valor": 444.75
       }
     ],
     "Compras": [
@@ -10126,7 +10140,7 @@
     "filasInventariosOmuh": 349,
     "filasCompras": 1494,
     "filasSalidas": 66,
-    "filasVentasIzi": 8211,
+    "filasVentasIzi": 8212,
     "filasVentasPY": 10519,
     "filasExtras": 15062,
     "filasMovInv": 420,

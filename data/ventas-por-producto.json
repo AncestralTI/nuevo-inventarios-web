@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T17:45:23.986Z",
+  "generatedAt": "2026-09-18T17:53:43.643Z",
   "fuente": "API iZi Soluciones (facturas + items-inventarios), sucursal Ancestral (79344)",
   "rango": {
     "desde": "2026-08-19",
@@ -11291,6 +11291,94 @@
       "fecha": "2026-09-17",
       "cantidad": 1,
       "monto": 160
+    },
+    {
+      "codProducto": "ANC00002",
+      "producto": "AGUA S/G",
+      "categoria": "AGUAS",
+      "fecha": "2026-09-18",
+      "cantidad": 2,
+      "monto": 24
+    },
+    {
+      "codProducto": "ANC00001",
+      "producto": "AGUA C/G",
+      "categoria": "AGUAS",
+      "fecha": "2026-09-18",
+      "cantidad": 2,
+      "monto": 30
+    },
+    {
+      "codProducto": "ANC00005",
+      "producto": "BENDITA IPA",
+      "categoria": "CERVEZA",
+      "fecha": "2026-09-18",
+      "cantidad": 1,
+      "monto": 33
+    },
+    {
+      "codProducto": "ANC00280",
+      "producto": "COPA RAIZ KHOLBERG",
+      "categoria": "VINOS POR COPA",
+      "fecha": "2026-09-18",
+      "cantidad": 2,
+      "monto": 110
+    },
+    {
+      "codProducto": "ANC00184",
+      "producto": "ANTICUCHO DE POLLO",
+      "categoria": "ENTRADAS",
+      "fecha": "2026-09-18",
+      "cantidad": 1,
+      "monto": 55
+    },
+    {
+      "codProducto": "ANC00058",
+      "producto": "ALCACHOFAS",
+      "categoria": "ENTRADAS",
+      "fecha": "2026-09-18",
+      "cantidad": 1,
+      "monto": 75
+    },
+    {
+      "codProducto": "ANC00095",
+      "producto": "OSSOBUCO A LA BOLIVIANA",
+      "categoria": "FUERTES",
+      "fecha": "2026-09-18",
+      "cantidad": 1,
+      "monto": 160
+    },
+    {
+      "codProducto": "ANC00092",
+      "producto": "GNOCCHIS CON HONGOS A LA BRASA",
+      "categoria": "FUERTES",
+      "fecha": "2026-09-18",
+      "cantidad": 2,
+      "monto": 280
+    },
+    {
+      "codProducto": "ANC00358",
+      "producto": "COPA CAB. FRANC ROSE - CASA SOLUM",
+      "categoria": "VINOS",
+      "fecha": "2026-09-18",
+      "cantidad": 1,
+      "monto": 58
+    },
+    {
+      "codProducto": "ANC00047",
+      "producto": "ESPRESSO",
+      "categoria": "BEBIDAS CALIENTES",
+      "fecha": "2026-09-18",
+      "cantidad": 1,
+      "monto": 15
+    },
+    {
+      "codProducto": "ANC00048",
+      "producto": "ESPRESSO DOBLE",
+      "categoria": "BEBIDAS CALIENTES",
+      "fecha": "2026-09-18",
+      "cantidad": 1,
+      "monto": 20
     }
   ]
 }

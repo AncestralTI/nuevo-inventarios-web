@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T17:44:35.666Z",
+  "generatedAt": "2026-09-18T17:52:57.953Z",
   "rangoFechas": {
     "desde": "2026-07-13",
     "hasta": "2026-09-18"
@@ -404,13 +404,13 @@
       "weekYear": "202638",
       "invMenos7": 8,
       "compras": 12,
-      "vtas": 1,
+      "vtas": 2,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 1,
+      "vtasTot": 2,
       "inv": null,
-      "cierre": 19,
+      "cierre": 18,
       "dif": null
     },
     {
@@ -684,11 +684,11 @@
       "weekYear": "202638",
       "invMenos7": null,
       "compras": 0,
-      "vtas": 2,
+      "vtas": 3,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 2,
+      "vtasTot": 3,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -16467,11 +16467,24 @@
       "dif": null
     },
     {
+      "producto": "BENDITA IPA",
+      "fecha": "2026-09-18",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 18,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "COPA CAB. FRANC ROSE - CASA SOLUM",
       "fecha": "2026-09-18",
       "dia": "vie",
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 2,
       "salidas": 0,
@@ -17310,7 +17323,7 @@
       },
       {
         "weekYear": "202638",
-        "valor": 27
+        "valor": 29
       }
     ],
     "Vtas Ext": [
@@ -17388,7 +17401,7 @@
       },
       {
         "weekYear": "202638",
-        "valor": 33
+        "valor": 35
       }
     ],
     "Salidas": [
@@ -17450,8 +17463,8 @@
     "filasInventariosGs": 3662,
     "filasCompras": 2227,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 5886,
-    "filasMovInv": 414,
+    "filasVentasIzi": 5897,
+    "filasMovInv": 418,
     "filasDimProducto": 439,
     "warnings": []
   }

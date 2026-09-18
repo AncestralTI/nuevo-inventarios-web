@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T16:05:50.958Z",
+  "generatedAt": "2026-09-18T16:20:06.661Z",
   "rangoFechas": {
     "desde": "2026-07-13",
     "hasta": "2026-09-18"
@@ -1131,28 +1131,28 @@
       "producto": "KOHLBERG - FLAMANT ROSE",
       "weekYear": "202638",
       "invMenos7": 0,
-      "compras": 0,
+      "compras": 6,
       "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 0,
       "inv": null,
-      "cierre": 0,
+      "cierre": 6,
       "dif": null
     },
     {
       "producto": "KOHLBERG - ICONO",
       "weekYear": "202638",
       "invMenos7": 0,
-      "compras": 0,
+      "compras": 4,
       "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 0,
       "inv": null,
-      "cierre": 0,
+      "cierre": 4,
       "dif": null
     },
     {
@@ -1439,14 +1439,14 @@
       "producto": "POTOSINA PILSNER",
       "weekYear": "202638",
       "invMenos7": 15,
-      "compras": 0,
+      "compras": 24,
       "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 1,
       "inv": null,
-      "cierre": 14,
+      "cierre": 38,
       "dif": null
     },
     {
@@ -1565,14 +1565,14 @@
       "producto": "STELAR - KOHLBERG",
       "weekYear": "202638",
       "invMenos7": 3,
-      "compras": 0,
+      "compras": 6,
       "vtas": 2,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 2,
       "inv": null,
-      "cierre": 1,
+      "cierre": 7,
       "dif": null
     },
     {
@@ -1635,14 +1635,14 @@
       "producto": "TANNAT RAIZ - KOHLBERG",
       "weekYear": "202638",
       "invMenos7": 2,
-      "compras": 0,
+      "compras": 6,
       "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 0,
       "inv": null,
-      "cierre": 2,
+      "cierre": 8,
       "dif": null
     },
     {
@@ -16415,6 +16415,58 @@
       "dif": null
     },
     {
+      "producto": "KOHLBERG - FLAMANT ROSE",
+      "fecha": "2026-09-17",
+      "dia": "jue",
+      "compras": 6,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 6,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "KOHLBERG - ICONO",
+      "fecha": "2026-09-17",
+      "dia": "jue",
+      "compras": 4,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 4,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "STELAR - KOHLBERG",
+      "fecha": "2026-09-17",
+      "dia": "jue",
+      "compras": 6,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 7,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "TANNAT RAIZ - KOHLBERG",
+      "fecha": "2026-09-17",
+      "dia": "jue",
+      "compras": 6,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 8,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "COPA CAB. FRANC ROSE - CASA SOLUM",
       "fecha": "2026-09-18",
       "dia": "vie",
@@ -16424,6 +16476,19 @@
       "cortesias": 2,
       "salidas": 0,
       "invEsperado": 0,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "POTOSINA PILSNER",
+      "fecha": "2026-09-18",
+      "dia": "vie",
+      "compras": 24,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 38,
       "invIniFin": null,
       "dif": null
     },
@@ -17375,7 +17440,7 @@
       },
       {
         "weekYear": "202638",
-        "valor": 64
+        "valor": 110
       }
     ]
   },
@@ -17383,7 +17448,7 @@
     "ventasIziDisponibles": true,
     "filasApertura": 1364,
     "filasInventariosGs": 3662,
-    "filasCompras": 2220,
+    "filasCompras": 2226,
     "filasMatrizChuleton": 1,
     "filasVentasIzi": 5886,
     "filasMovInv": 413,

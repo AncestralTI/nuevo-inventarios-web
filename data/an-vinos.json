@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-17T23:52:59.581Z",
+  "generatedAt": "2026-09-18T00:06:32.822Z",
   "rangoFechas": {
     "desde": "2026-07-13",
-    "hasta": "2026-09-17"
+    "hasta": "2026-09-18"
   },
   "categorias": [
     "CERVEZA",
@@ -47,6 +47,7 @@
     "COPA CAB. ZINFANDDEL - ALMA OCULTA",
     "COPA DE CEPA DE ORO - VISCHOQUEÑA",
     "COPA IMPOREÑA - YOCKICH",
+    "COPA LOCURA 5.1.1. - MAGNUS",
     "COPA MARSELAN - ARSAL",
     "COPA MOSCATEL - JARDIN OCULTO",
     "COPA PEDRO GIMENEZ - 1750",
@@ -690,6 +691,20 @@
     },
     {
       "producto": "COPA IMPOREÑA - YOCKICH",
+      "weekYear": "202638",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
+      "producto": "COPA LOCURA 5.1.1. - MAGNUS",
       "weekYear": "202638",
       "invMenos7": null,
       "compras": 0,
@@ -2215,6 +2230,20 @@
       "dif": null
     },
     {
+      "producto": "COPA LOCURA 5.1.1. - MAGNUS",
+      "weekYear": "202637",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
       "producto": "COPA MARSELAN - ARSAL",
       "weekYear": "202637",
       "invMenos7": null,
@@ -3714,6 +3743,20 @@
     },
     {
       "producto": "COPA IMPOREÑA - YOCKICH",
+      "weekYear": "202636",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
+      "producto": "COPA LOCURA 5.1.1. - MAGNUS",
       "weekYear": "202636",
       "invMenos7": null,
       "compras": 0,
@@ -5239,6 +5282,20 @@
       "dif": null
     },
     {
+      "producto": "COPA LOCURA 5.1.1. - MAGNUS",
+      "weekYear": "202635",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
       "producto": "COPA MARSELAN - ARSAL",
       "weekYear": "202635",
       "invMenos7": null,
@@ -6751,6 +6808,20 @@
       "dif": null
     },
     {
+      "producto": "COPA LOCURA 5.1.1. - MAGNUS",
+      "weekYear": "202634",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
       "producto": "COPA MARSELAN - ARSAL",
       "weekYear": "202634",
       "invMenos7": null,
@@ -8250,6 +8321,20 @@
     },
     {
       "producto": "COPA IMPOREÑA - YOCKICH",
+      "weekYear": "202633",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
+      "producto": "COPA LOCURA 5.1.1. - MAGNUS",
       "weekYear": "202633",
       "invMenos7": null,
       "compras": 0,
@@ -9775,6 +9860,20 @@
       "dif": null
     },
     {
+      "producto": "COPA LOCURA 5.1.1. - MAGNUS",
+      "weekYear": "202632",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
       "producto": "COPA MARSELAN - ARSAL",
       "weekYear": "202632",
       "invMenos7": null,
@@ -11274,6 +11373,20 @@
     },
     {
       "producto": "COPA IMPOREÑA - YOCKICH",
+      "weekYear": "202631",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
+      "producto": "COPA LOCURA 5.1.1. - MAGNUS",
       "weekYear": "202631",
       "invMenos7": null,
       "compras": 0,
@@ -12799,6 +12912,20 @@
       "dif": null
     },
     {
+      "producto": "COPA LOCURA 5.1.1. - MAGNUS",
+      "weekYear": "202630",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
       "producto": "COPA MARSELAN - ARSAL",
       "weekYear": "202630",
       "invMenos7": null,
@@ -14311,6 +14438,20 @@
       "dif": null
     },
     {
+      "producto": "COPA LOCURA 5.1.1. - MAGNUS",
+      "weekYear": "202629",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
       "producto": "COPA MARSELAN - ARSAL",
       "weekYear": "202629",
       "invMenos7": null,
@@ -14567,14 +14708,14 @@
       "weekYear": "202629",
       "invMenos7": 96,
       "compras": 0,
-      "vtas": 1,
+      "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 1,
+      "vtasTot": 0,
       "inv": 81,
-      "cierre": 95,
-      "dif": -14
+      "cierre": 96,
+      "dif": -15
     },
     {
       "producto": "IMPOREÑA - CEPA DE ORO",
@@ -16615,9 +16756,9 @@
     "filasInventariosGs": 3662,
     "filasCompras": 2214,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 5850,
-    "filasMovInv": 399,
-    "filasDimProducto": 434,
+    "filasVentasIzi": 5828,
+    "filasMovInv": 397,
+    "filasDimProducto": 435,
     "warnings": []
   }
 }

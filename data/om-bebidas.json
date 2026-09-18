@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T20:20:47.453Z",
+  "generatedAt": "2026-09-18T20:32:54.211Z",
   "rangoFechas": {
     "desde": "2026-07-13",
     "hasta": "2026-09-18"
@@ -10143,8 +10143,8 @@
     "filasVentasIzi": 8212,
     "filasVentasPY": 10519,
     "filasExtras": 15062,
-    "filasMovInv": 420,
-    "filasVentasAncIzi": 5913,
+    "filasMovInv": 422,
+    "filasVentasAncIzi": 5918,
     "warnings": []
   }
 }

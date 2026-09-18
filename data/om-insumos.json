@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T18:23:32.479Z",
+  "generatedAt": "2026-09-18T18:39:02.048Z",
   "rangoFechas": {
     "desde": "2026-07-13",
     "hasta": "2026-09-18"
@@ -95,7 +95,7 @@
       "insumo": "Pechuga de Pollo",
       "weekYear": "202638",
       "invMenos7": 63,
-      "compras": 35,
+      "compras": 49,
       "vtasIzi": 16,
       "vtasAnc": 0,
       "vtasPY": 4,
@@ -105,7 +105,7 @@
       "salidas": 0,
       "vtasTot": 20,
       "inv": null,
-      "cierre": 78,
+      "cierre": 92,
       "dif": null
     },
     {
@@ -730,6 +730,17 @@
       "dif": null
     },
     {
+      "insumo": "Pechuga de Pollo",
+      "fecha": "2026-09-18",
+      "dia": "vie",
+      "compras": 14,
+      "vtas": 0,
+      "salidas": 0,
+      "invEsperado": 96,
+      "invFin": null,
+      "dif": null
+    },
+    {
       "insumo": "Pesca Amazonica",
       "fecha": "2026-09-18",
       "dia": "vie",
@@ -1167,7 +1178,7 @@
       },
       {
         "weekYear": "202638",
-        "valor": 839
+        "valor": 853
       }
     ]
   },
@@ -1180,8 +1191,8 @@
     "filasVentasIzi": 8207,
     "filasVentasPY": 10519,
     "filasExtras": 15062,
-    "filasMovInv": 418,
-    "filasVentasAncIzi": 5901,
+    "filasMovInv": 420,
+    "filasVentasAncIzi": 5906,
     "warnings": []
   }
 }

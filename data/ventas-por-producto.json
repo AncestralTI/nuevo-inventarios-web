@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T18:23:49.808Z",
+  "generatedAt": "2026-09-18T18:39:17.821Z",
   "fuente": "API iZi Soluciones (facturas + items-inventarios), sucursal Ancestral (79344)",
   "rango": {
     "desde": "2026-08-19",
@@ -11293,6 +11293,46 @@
       "monto": 160
     },
     {
+      "codProducto": "ANC00112",
+      "producto": "LIMONADA",
+      "categoria": "JUGOS",
+      "fecha": "2026-09-18",
+      "cantidad": 2,
+      "monto": 30
+    },
+    {
+      "codProducto": "ANC00241",
+      "producto": "CEVICHE DE TRUCHA Y HONGOS",
+      "categoria": "ENTRADAS",
+      "fecha": "2026-09-18",
+      "cantidad": 2,
+      "monto": 150
+    },
+    {
+      "codProducto": "ANC00058",
+      "producto": "ALCACHOFAS",
+      "categoria": "ENTRADAS",
+      "fecha": "2026-09-18",
+      "cantidad": 2,
+      "monto": 150
+    },
+    {
+      "codProducto": "ANC00103",
+      "producto": "PARRILLA TRUCHA",
+      "categoria": "FUERTES",
+      "fecha": "2026-09-18",
+      "cantidad": 1,
+      "monto": 150
+    },
+    {
+      "codProducto": "ANC00101",
+      "producto": "PECHUGA DE POLLO CROCANTE",
+      "categoria": "FUERTES",
+      "fecha": "2026-09-18",
+      "cantidad": 1,
+      "monto": 130
+    },
+    {
       "codProducto": "ANC00038",
       "producto": "APEROL SPRITZ",
       "categoria": "COCTELES",
@@ -11355,14 +11395,6 @@
       "fecha": "2026-09-18",
       "cantidad": 1,
       "monto": 55
-    },
-    {
-      "codProducto": "ANC00058",
-      "producto": "ALCACHOFAS",
-      "categoria": "ENTRADAS",
-      "fecha": "2026-09-18",
-      "cantidad": 1,
-      "monto": 75
     },
     {
       "codProducto": "ANC00095",

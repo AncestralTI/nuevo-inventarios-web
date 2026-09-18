@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T18:22:47.225Z",
+  "generatedAt": "2026-09-18T18:38:14.295Z",
   "rangoFechas": {
     "desde": "2026-07-13",
     "hasta": "2026-09-18"
@@ -222,11 +222,11 @@
       "weekYear": "202638",
       "invMenos7": 19,
       "compras": 28,
-      "vtas": 13,
+      "vtas": 14,
       "salidas": 1,
-      "vtasTot": 14,
+      "vtasTot": 15,
       "inv": null,
-      "cierre": 33,
+      "cierre": 32,
       "dif": null
     },
     {
@@ -246,11 +246,11 @@
       "weekYear": "202638",
       "invMenos7": 30,
       "compras": 42,
-      "vtas": 18,
+      "vtas": 19,
       "salidas": 4.75,
-      "vtasTot": 22.75,
+      "vtasTot": 23.75,
       "inv": null,
-      "cierre": 49.25,
+      "cierre": 48.25,
       "dif": null
     },
     {
@@ -2252,9 +2252,9 @@
       "fecha": "2026-09-18",
       "dia": "vie",
       "compras": 13,
-      "vtas": 0,
+      "vtas": 1,
       "salidas": 0,
-      "invEsperado": 14,
+      "invEsperado": 13,
       "invIni": null,
       "invFin": null,
       "dif": null
@@ -2267,6 +2267,18 @@
       "vtas": 0,
       "salidas": 0,
       "invEsperado": 4,
+      "invIni": null,
+      "invFin": null,
+      "dif": null
+    },
+    {
+      "insumo": "Trucha",
+      "fecha": "2026-09-18",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 1,
+      "salidas": 0,
+      "invEsperado": 18.25,
       "invIni": null,
       "invFin": null,
       "dif": null
@@ -3184,7 +3196,7 @@
       },
       {
         "weekYear": "202638",
-        "valor": 118
+        "valor": 120
       }
     ],
     "Salidas": [
@@ -3236,7 +3248,7 @@
       },
       {
         "weekYear": "202638",
-        "valor": 136.31
+        "valor": 138.31
       }
     ],
     "Compras (Un)": [
@@ -3272,6 +3284,6 @@
     "filasSalidas": 811,
     "filasMatriz": 22,
     "filasInventarios": 383,
-    "filasVentasIzi": 5901
+    "filasVentasIzi": 5906
   }
 }

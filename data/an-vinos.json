@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T00:06:32.822Z",
+  "generatedAt": "2026-09-18T00:27:34.365Z",
   "rangoFechas": {
     "desde": "2026-07-13",
     "hasta": "2026-09-18"
@@ -44,8 +44,10 @@
     "CONDE DE HARO",
     "COPA ALAYA - TELLUS",
     "COPA BARBERA - MALA CABEZA",
+    "COPA BLANC DE NOIR - CEPA DE ORO",
     "COPA CAB. ZINFANDDEL - ALMA OCULTA",
     "COPA DE CEPA DE ORO - VISCHOQUEÑA",
+    "COPA IMPOREÑA - CEPA DE ORO",
     "COPA IMPOREÑA - YOCKICH",
     "COPA LOCURA 5.1.1. - MAGNUS",
     "COPA MARSELAN - ARSAL",
@@ -53,6 +55,7 @@
     "COPA PEDRO GIMENEZ - 1750",
     "COPA PEDRO XIMENEZ - LANDSÚA",
     "COPA SYRAH - KOHLBERG",
+    "COPA SYRAH - TERRA ANCESTRAL",
     "COPA VISCHOQUEÑA - YOKICH",
     "CORTE GRAN RESERVA - CASA SOLUM",
     "COTES DU RHONE- CAIRANE",
@@ -662,6 +665,20 @@
       "dif": null
     },
     {
+      "producto": "COPA BLANC DE NOIR - CEPA DE ORO",
+      "weekYear": "202638",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
       "producto": "COPA CAB. ZINFANDDEL - ALMA OCULTA",
       "weekYear": "202638",
       "invMenos7": null,
@@ -677,6 +694,20 @@
     },
     {
       "producto": "COPA DE CEPA DE ORO - VISCHOQUEÑA",
+      "weekYear": "202638",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
+      "producto": "COPA IMPOREÑA - CEPA DE ORO",
       "weekYear": "202638",
       "invMenos7": null,
       "compras": 0,
@@ -775,6 +806,20 @@
     },
     {
       "producto": "COPA SYRAH - KOHLBERG",
+      "weekYear": "202638",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
+      "producto": "COPA SYRAH - TERRA ANCESTRAL",
       "weekYear": "202638",
       "invMenos7": null,
       "compras": 0,
@@ -2188,6 +2233,20 @@
       "dif": null
     },
     {
+      "producto": "COPA BLANC DE NOIR - CEPA DE ORO",
+      "weekYear": "202637",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
       "producto": "COPA CAB. ZINFANDDEL - ALMA OCULTA",
       "weekYear": "202637",
       "invMenos7": null,
@@ -2203,6 +2262,20 @@
     },
     {
       "producto": "COPA DE CEPA DE ORO - VISCHOQUEÑA",
+      "weekYear": "202637",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
+      "producto": "COPA IMPOREÑA - CEPA DE ORO",
       "weekYear": "202637",
       "invMenos7": null,
       "compras": 0,
@@ -2301,6 +2374,20 @@
     },
     {
       "producto": "COPA SYRAH - KOHLBERG",
+      "weekYear": "202637",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
+      "producto": "COPA SYRAH - TERRA ANCESTRAL",
       "weekYear": "202637",
       "invMenos7": null,
       "compras": 0,
@@ -3714,6 +3801,20 @@
       "dif": null
     },
     {
+      "producto": "COPA BLANC DE NOIR - CEPA DE ORO",
+      "weekYear": "202636",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
       "producto": "COPA CAB. ZINFANDDEL - ALMA OCULTA",
       "weekYear": "202636",
       "invMenos7": null,
@@ -3729,6 +3830,20 @@
     },
     {
       "producto": "COPA DE CEPA DE ORO - VISCHOQUEÑA",
+      "weekYear": "202636",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
+      "producto": "COPA IMPOREÑA - CEPA DE ORO",
       "weekYear": "202636",
       "invMenos7": null,
       "compras": 0,
@@ -3827,6 +3942,20 @@
     },
     {
       "producto": "COPA SYRAH - KOHLBERG",
+      "weekYear": "202636",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
+      "producto": "COPA SYRAH - TERRA ANCESTRAL",
       "weekYear": "202636",
       "invMenos7": null,
       "compras": 0,
@@ -5240,6 +5369,20 @@
       "dif": null
     },
     {
+      "producto": "COPA BLANC DE NOIR - CEPA DE ORO",
+      "weekYear": "202635",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
       "producto": "COPA CAB. ZINFANDDEL - ALMA OCULTA",
       "weekYear": "202635",
       "invMenos7": null,
@@ -5255,6 +5398,20 @@
     },
     {
       "producto": "COPA DE CEPA DE ORO - VISCHOQUEÑA",
+      "weekYear": "202635",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
+      "producto": "COPA IMPOREÑA - CEPA DE ORO",
       "weekYear": "202635",
       "invMenos7": null,
       "compras": 0,
@@ -5353,6 +5510,20 @@
     },
     {
       "producto": "COPA SYRAH - KOHLBERG",
+      "weekYear": "202635",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
+      "producto": "COPA SYRAH - TERRA ANCESTRAL",
       "weekYear": "202635",
       "invMenos7": null,
       "compras": 0,
@@ -6766,6 +6937,20 @@
       "dif": null
     },
     {
+      "producto": "COPA BLANC DE NOIR - CEPA DE ORO",
+      "weekYear": "202634",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
       "producto": "COPA CAB. ZINFANDDEL - ALMA OCULTA",
       "weekYear": "202634",
       "invMenos7": null,
@@ -6781,6 +6966,20 @@
     },
     {
       "producto": "COPA DE CEPA DE ORO - VISCHOQUEÑA",
+      "weekYear": "202634",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
+      "producto": "COPA IMPOREÑA - CEPA DE ORO",
       "weekYear": "202634",
       "invMenos7": null,
       "compras": 0,
@@ -6879,6 +7078,20 @@
     },
     {
       "producto": "COPA SYRAH - KOHLBERG",
+      "weekYear": "202634",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
+      "producto": "COPA SYRAH - TERRA ANCESTRAL",
       "weekYear": "202634",
       "invMenos7": null,
       "compras": 0,
@@ -8292,6 +8505,20 @@
       "dif": null
     },
     {
+      "producto": "COPA BLANC DE NOIR - CEPA DE ORO",
+      "weekYear": "202633",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
       "producto": "COPA CAB. ZINFANDDEL - ALMA OCULTA",
       "weekYear": "202633",
       "invMenos7": null,
@@ -8307,6 +8534,20 @@
     },
     {
       "producto": "COPA DE CEPA DE ORO - VISCHOQUEÑA",
+      "weekYear": "202633",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
+      "producto": "COPA IMPOREÑA - CEPA DE ORO",
       "weekYear": "202633",
       "invMenos7": null,
       "compras": 0,
@@ -8413,6 +8654,20 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 4,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
+      "producto": "COPA SYRAH - TERRA ANCESTRAL",
+      "weekYear": "202633",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -9818,6 +10073,20 @@
       "dif": null
     },
     {
+      "producto": "COPA BLANC DE NOIR - CEPA DE ORO",
+      "weekYear": "202632",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
       "producto": "COPA CAB. ZINFANDDEL - ALMA OCULTA",
       "weekYear": "202632",
       "invMenos7": null,
@@ -9833,6 +10102,20 @@
     },
     {
       "producto": "COPA DE CEPA DE ORO - VISCHOQUEÑA",
+      "weekYear": "202632",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
+      "producto": "COPA IMPOREÑA - CEPA DE ORO",
       "weekYear": "202632",
       "invMenos7": null,
       "compras": 0,
@@ -9939,6 +10222,20 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 7,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
+      "producto": "COPA SYRAH - TERRA ANCESTRAL",
+      "weekYear": "202632",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -11344,6 +11641,20 @@
       "dif": null
     },
     {
+      "producto": "COPA BLANC DE NOIR - CEPA DE ORO",
+      "weekYear": "202631",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
       "producto": "COPA CAB. ZINFANDDEL - ALMA OCULTA",
       "weekYear": "202631",
       "invMenos7": null,
@@ -11359,6 +11670,20 @@
     },
     {
       "producto": "COPA DE CEPA DE ORO - VISCHOQUEÑA",
+      "weekYear": "202631",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
+      "producto": "COPA IMPOREÑA - CEPA DE ORO",
       "weekYear": "202631",
       "invMenos7": null,
       "compras": 0,
@@ -11457,6 +11782,20 @@
     },
     {
       "producto": "COPA SYRAH - KOHLBERG",
+      "weekYear": "202631",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
+      "producto": "COPA SYRAH - TERRA ANCESTRAL",
       "weekYear": "202631",
       "invMenos7": null,
       "compras": 0,
@@ -12870,6 +13209,20 @@
       "dif": null
     },
     {
+      "producto": "COPA BLANC DE NOIR - CEPA DE ORO",
+      "weekYear": "202630",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
       "producto": "COPA CAB. ZINFANDDEL - ALMA OCULTA",
       "weekYear": "202630",
       "invMenos7": null,
@@ -12885,6 +13238,20 @@
     },
     {
       "producto": "COPA DE CEPA DE ORO - VISCHOQUEÑA",
+      "weekYear": "202630",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
+      "producto": "COPA IMPOREÑA - CEPA DE ORO",
       "weekYear": "202630",
       "invMenos7": null,
       "compras": 0,
@@ -12983,6 +13350,20 @@
     },
     {
       "producto": "COPA SYRAH - KOHLBERG",
+      "weekYear": "202630",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
+      "producto": "COPA SYRAH - TERRA ANCESTRAL",
       "weekYear": "202630",
       "invMenos7": null,
       "compras": 0,
@@ -14396,6 +14777,20 @@
       "dif": null
     },
     {
+      "producto": "COPA BLANC DE NOIR - CEPA DE ORO",
+      "weekYear": "202629",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
       "producto": "COPA CAB. ZINFANDDEL - ALMA OCULTA",
       "weekYear": "202629",
       "invMenos7": null,
@@ -14411,6 +14806,20 @@
     },
     {
       "producto": "COPA DE CEPA DE ORO - VISCHOQUEÑA",
+      "weekYear": "202629",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
+      "producto": "COPA IMPOREÑA - CEPA DE ORO",
       "weekYear": "202629",
       "invMenos7": null,
       "compras": 0,
@@ -14509,6 +14918,20 @@
     },
     {
       "producto": "COPA SYRAH - KOHLBERG",
+      "weekYear": "202629",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
+      "producto": "COPA SYRAH - TERRA ANCESTRAL",
       "weekYear": "202629",
       "invMenos7": null,
       "compras": 0,
@@ -16757,8 +17180,8 @@
     "filasCompras": 2214,
     "filasMatrizChuleton": 1,
     "filasVentasIzi": 5828,
-    "filasMovInv": 397,
-    "filasDimProducto": 435,
+    "filasMovInv": 398,
+    "filasDimProducto": 438,
     "warnings": []
   }
 }

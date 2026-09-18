@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T23:05:47.623Z",
+  "generatedAt": "2026-09-18T23:20:36.371Z",
   "rangoFechas": {
     "desde": "2026-07-13",
     "hasta": "2026-09-18"
@@ -130,14 +130,14 @@
       "weekYear": "202638",
       "invMenos7": 31,
       "compras": 36,
-      "vtasIzi": 12,
+      "vtasIzi": 14,
       "vtasExt": 5,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 17,
+      "vtasTot": 19,
       "inv": null,
-      "cierre": 50,
+      "cierre": 48,
       "dif": null
     },
     {
@@ -8308,6 +8308,20 @@
       "dif": null
     },
     {
+      "producto": "Agua",
+      "fecha": "2026-09-18",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 2,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 48,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "BENDITA IPA",
       "fecha": "2026-09-18",
       "dia": "vie",
@@ -10068,7 +10082,7 @@
       },
       {
         "weekYear": "202638",
-        "valor": 170.75
+        "valor": 172.75
       }
     ],
     "Vtas Ext.": [
@@ -10146,7 +10160,7 @@
       },
       {
         "weekYear": "202638",
-        "valor": 446.75
+        "valor": 448.75
       }
     ],
     "Compras": [
@@ -10182,10 +10196,10 @@
     "filasInventariosOmuh": 349,
     "filasCompras": 1495,
     "filasSalidas": 66,
-    "filasVentasIzi": 8239,
+    "filasVentasIzi": 8258,
     "filasVentasPY": 10519,
     "filasExtras": 15062,
-    "filasMovInv": 422,
+    "filasMovInv": 423,
     "filasVentasAncIzi": 5918,
     "warnings": []
   }

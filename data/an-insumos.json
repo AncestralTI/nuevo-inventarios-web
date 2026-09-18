@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T15:08:36.719Z",
+  "generatedAt": "2026-09-18T15:22:10.321Z",
   "rangoFechas": {
     "desde": "2026-07-13",
     "hasta": "2026-09-18"
@@ -125,24 +125,24 @@
       "insumo": "Keperi",
       "weekYear": "202638",
       "invMenos7": 44,
-      "compras": 24,
+      "compras": 18,
       "vtas": 20,
       "salidas": 0,
       "vtasTot": 20,
       "inv": null,
-      "cierre": 48,
+      "cierre": 42,
       "dif": null
     },
     {
       "insumo": "Llama",
       "weekYear": "202638",
       "invMenos7": 16,
-      "compras": 30,
+      "compras": 24,
       "vtas": 7,
       "salidas": 2.29,
       "vtasTot": 9.29,
       "inv": null,
-      "cierre": 36.71,
+      "cierre": 30.71,
       "dif": null
     },
     {
@@ -1807,10 +1807,10 @@
       "insumo": "Keperi",
       "fecha": "2026-09-15",
       "dia": "mar",
-      "compras": 24,
+      "compras": 18,
       "vtas": 13,
       "salidas": 0,
-      "invEsperado": 11,
+      "invEsperado": 5,
       "invIni": null,
       "invFin": null,
       "dif": null
@@ -1966,7 +1966,7 @@
       "compras": 0,
       "vtas": 3,
       "salidas": 0,
-      "invEsperado": 8,
+      "invEsperado": 2,
       "invIni": null,
       "invFin": null,
       "dif": null
@@ -2110,7 +2110,7 @@
       "compras": 0,
       "vtas": 4,
       "salidas": 0,
-      "invEsperado": 4,
+      "invEsperado": 0,
       "invIni": null,
       "invFin": null,
       "dif": null
@@ -2119,10 +2119,10 @@
       "insumo": "Llama",
       "fecha": "2026-09-17",
       "dia": "jue",
-      "compras": 30,
+      "compras": 24,
       "vtas": 1,
       "salidas": 0,
-      "invEsperado": 20.71,
+      "invEsperado": 14.71,
       "invIni": null,
       "invFin": null,
       "dif": null
@@ -3190,7 +3190,7 @@
       },
       {
         "weekYear": "202638",
-        "valor": 191
+        "valor": 179
       }
     ]
   },

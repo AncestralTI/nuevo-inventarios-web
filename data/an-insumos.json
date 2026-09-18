@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T16:52:42.187Z",
+  "generatedAt": "2026-09-18T17:04:58.983Z",
   "rangoFechas": {
     "desde": "2026-07-13",
     "hasta": "2026-09-18"
@@ -161,12 +161,12 @@
       "insumo": "Ojo de bife",
       "weekYear": "202638",
       "invMenos7": 15,
-      "compras": 58,
+      "compras": 77,
       "vtas": 10,
       "salidas": 5.39,
       "vtasTot": 15.39,
       "inv": null,
-      "cierre": 57.61,
+      "cierre": 76.61,
       "dif": null
     },
     {
@@ -2200,6 +2200,18 @@
       "dif": null
     },
     {
+      "insumo": "Ojo de bife",
+      "fecha": "2026-09-18",
+      "dia": "vie",
+      "compras": 19,
+      "vtas": 0,
+      "salidas": 0,
+      "invEsperado": 61.61,
+      "invIni": null,
+      "invFin": null,
+      "dif": null
+    },
+    {
       "insumo": "Pechuga de pollo",
       "fecha": "2026-09-18",
       "dia": "vie",
@@ -3214,13 +3226,13 @@
       },
       {
         "weekYear": "202638",
-        "valor": 207
+        "valor": 226
       }
     ]
   },
   "meta": {
     "ventasIziDisponibles": true,
-    "filasCompras": 2226,
+    "filasCompras": 2227,
     "filasSalidas": 811,
     "filasMatriz": 22,
     "filasInventarios": 383,

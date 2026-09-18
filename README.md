@@ -2,13 +2,13 @@
 
 Réplica web del dashboard de Power BI **"Nuevo Inventarios"** (`Nuevo Inventarios.pbix`), construida a partir del análisis directo del archivo: mismas páginas, mismos filtros y las mismas medidas y fuentes de datos.
 
-> **Estado actual: "An. Insumos" y "An. Vinos" completos y validados.** Son los dos primeros módulos con datos y medidas reales (pipeline Node.js + frontend), construidos y verificados número por número contra el modelo Power BI real. "An. Vinos" comparte pipeline y medidas con la futura "An. Bebidas" (mismo layout/medidas en el PBIX original, solo cambia el filtro de categoría — ver `pipeline/lib/anc-beb-vin-pipeline.mjs`), pero **"An. Bebidas" todavía NO está cableada** en la navegación a propósito. Om. Insumos y Om. Bebidas siguen como placeholder "pendiente". Ver [ANALISIS_PBIX.md](./ANALISIS_PBIX.md) para el análisis exhaustivo del modelo original.
+> **Estado actual: "An. Insumos", "An. Vinos" y "An. Bebidas" completos y validados.** Son los tres primeros módulos con datos y medidas reales (pipeline Node.js + frontend), construidos y verificados número por número contra el modelo Power BI real. "An. Vinos" y "An. Bebidas" comparten literalmente el mismo pipeline y las mismas medidas (mismo layout en el PBIX original, solo cambia el filtro de categoría — ver `pipeline/lib/anc-beb-vin-pipeline.mjs`), y ambos ya están cableados en la navegación. Om. Insumos y Om. Bebidas siguen como placeholder "pendiente". Ver [ANALISIS_PBIX.md](./ANALISIS_PBIX.md) para el análisis exhaustivo del modelo original.
 
 ## Estructura confirmada del dashboard original
 
 El PBIX compara dos marcas/negocios, cada una con sus propias páginas:
 
-- **Ancestral**: An. Bebidas (pendiente), **An. Vinos** (✅ datos reales), **An. Insumos** (✅ datos reales)
+- **Ancestral**: **An. Bebidas** (✅ datos reales), **An. Vinos** (✅ datos reales), **An. Insumos** (✅ datos reales)
 - **omuH**: Om. Insumos, Om. Bebidas
 
 (Existen además una página duplicada "Duplicate of Om. Insumos" y una página oculta de trabajo "Página 1", que no se muestran al usuario final en Power BI y tampoco se replican aquí.)
@@ -19,15 +19,18 @@ El PBIX compara dos marcas/negocios, cada una con sus propias páginas:
 nuevo-inventarios-web/
 ├── index.html                     # Shell de la aplicación (navegación por marca/página)
 ├── css/styles.css                  # Estilos
-├── js/app.js                       # Lógica de navegación; delega "An. Insumos"/"An. Vinos" a sus módulos reales
+├── js/app.js                       # Lógica de navegación; delega "An. Insumos"/"An. Vinos"/"An. Bebidas" a sus módulos reales
 ├── js/pages/an-insumos.js          # Renderer de "An. Insumos" (slicers, tablas, gráfico)
 ├── js/pages/an-vinos.js            # Renderer de "An. Vinos" (mismo patrón, agrupado por Producto)
+├── js/pages/an-bebidas.js          # Renderer de "An. Bebidas" (copia literal de an-vinos.js, mismo patrón)
 ├── data/an-insumos.json            # Salida del pipeline de An. Insumos (se regenera cada corrida)
 ├── data/an-vinos.json              # Salida del pipeline de An. Vinos (se regenera cada corrida)
+├── data/an-bebidas.json            # Salida del pipeline de An. Bebidas (se regenera cada corrida)
 ├── pipeline/
 │   ├── package.json
 │   ├── build-an-insumos.mjs        # Orquestador: fetch + transform + medidas -> data/an-insumos.json
 │   ├── build-an-vinos.mjs          # Wrapper delgado (fija categorías) -> data/an-vinos.json
+│   ├── build-an-bebidas.mjs        # Wrapper delgado (fija categorías) -> data/an-bebidas.json
 │   └── lib/
 │       ├── sheets.mjs              # fetch + parseo CSV (Google Sheets publicados) + unpivot genérico
 │       ├── izi-api.mjs             # login + fetch de ventas/Dim_Producto_iZi/movimientos (API iZi Soluciones)
@@ -104,15 +107,37 @@ Si se omiten `IZI_EMAIL`/`IZI_PASSWORD`, el pipeline igual corre con los Google 
 `Dim_Producto_iZi` queda vacío y por lo tanto no hay a qué atribuir ninguna medida (JSON con
 `productos: []`) — se imprime una advertencia.
 
-### 3. Servir el sitio estático
+### 3. Correr el pipeline de "An. Bebidas" (genera/actualiza `data/an-bebidas.json`)
+
+```bash
+# Bash / Git Bash
+export IZI_EMAIL="..."
+export IZI_PASSWORD="..."
+node pipeline/build-an-bebidas.mjs
+```
+
+```powershell
+# PowerShell
+$env:IZI_EMAIL = "..."
+$env:IZI_PASSWORD = "..."
+node pipeline/build-an-bebidas.mjs
+```
+
+Wrapper delgado idéntico a `build-an-vinos.mjs`, solo cambia la lista de categorías del filtro de
+página a `Categoria IN {"5. Bebidas alcohólicas", "GASEOSA", "CERVEZA"}` (sección 4.1 de
+ANALISIS_PBIX.md). Reutiliza exactamente el mismo `pipeline/lib/anc-beb-vin-pipeline.mjs` y las
+mismas 15 medidas de "Anc. Beb y Vin" que "An. Vinos" — no hay lógica nueva que validar, solo el
+filtro de categoría (ver sección de validación abajo).
+
+### 4. Servir el sitio estático
 
 ```powershell
 powershell -File tools/devserver.ps1 -Port 5500
 ```
 
 Y abrir `http://localhost:5500`. La página "An. Insumos" (activa por defecto, igual que en el PBIX
-original) lee `data/an-insumos.json`, y "An. Vinos" lee `data/an-vinos.json`, ambas vía `fetch`
-relativo. "An. Bebidas" sigue como placeholder — no está cableada en `js/app.js` todavía.
+original) lee `data/an-insumos.json`, "An. Vinos" lee `data/an-vinos.json` y "An. Bebidas" lee
+`data/an-bebidas.json`, las tres vía `fetch` relativo.
 
 ## Fuente de datos (confirmada, ver ANALISIS_PBIX.md sección 1)
 
@@ -201,13 +226,49 @@ corregirlos y revalidar):
   retroactivamente todas las semanas históricas del lado cacheado — no es un error de lógica del
   pipeline, que de hecho refleja el dato más actualizado.
 
+## Validación de "An. Bebidas"
+
+Los cálculos de `an-bebidas.json` se compararon número por número contra el modelo Power BI real
+(misma técnica: `dax_query_operations` / `EVALUATE CALCULATETABLE(SUMMARIZECOLUMNS(...))`, filtrado
+a `Dim_Producto_iZi[Categoria] IN {"5. Bebidas alcohólicas", "GASEOSA", "CERVEZA"}`) para **29
+productos** y **3 semanas** (202634, 202636, 202637), en las 10 columnas de la tabla resumen (Inv.-7,
+Compras, Vtas, Vtas Ext, Cortesias, Salidas, Vtas Tot., Inv., Cierre, Dif.): coincidencia exacta en
+las tres semanas para los 16 productos con movimiento real en cada una, salvo una única diferencia
+puntual ya conocida (ver abajo). Como se esperaba, esto confirma que el pipeline compartido con
+"An. Vinos" (`anc-beb-vin-pipeline.mjs` + `measures-anc-beb.mjs`, sin ningún cambio de lógica —
+solo la lista de categorías) sigue siendo correcto al reapuntarlo a un filtro de página distinto.
+
+**Discrepancias conocidas, documentadas (no ocultas), heredadas de la validación de "An. Vinos":**
+
+- **`Vtas Ext. Anc Beb` de "HUARI", semana 202634**: JSON=3 vs DAX=0 (y por arrastre, Vtas Tot./Cierre
+  de esa fila) — exactamente la misma causa raíz ya documentada arriba en "Validación de An. Vinos"
+  (el modelo cacheado en Power BI Desktop tiene `'Matriz_de_Relaciones Ancestral'[Cantidad usada (kg
+  o u)]` vacío para la fila HUARI/MICHELADA ANCESTRAL, mientras el Google Sheet en vivo ya tiene
+  `1.00`), no un error del pipeline ni algo nuevo introducido al cambiar el filtro de categoría.
+- **"Chop Bendita"**: aparece en `data/an-bebidas.json` (con todas sus medidas en 0/blank) pero NO
+  existe como fila de `Dim_Producto_iZi` en el modelo cacheado del PBIX (confirmado con
+  `EVALUATE FILTER('Dim_Producto_iZi', SEARCH("chop", [Producto],1,0)>0)`, que solo devuelve "Chop
+  Cerveza" y "Chop Cerveza 2X1"). Es un producto nuevo en el catálogo en vivo de la API iZi que el
+  import cacheado del PBIX todavía no conoce — mismo tipo de desfase de caché ya documentado arriba,
+  sin efecto numérico real porque todas sus medidas son 0 en ambos lados.
+
+**Decisión de diseño — filtro del slicer de Producto** (ver comentario homónimo al inicio de
+`js/pages/an-bebidas.js`): en el PBIX original, el slicer "Producto" de esta página (igual que en
+"An. Vinos") tiene su propio filtro, más amplio que el filtro de página:
+`Categoria IN {AGUAS, CERVEZA, GASEOSA, VINOS, VINOS IMPORTADOS, "5. Bebidas alcohólicas"}`. La
+implementación actual (heredada tal cual de "An. Vinos", que ya está enviado y validado) llena el
+dropdown de Producto con `data.productos`, acotado por el filtro de PÁGINA del pipeline, no por ese
+filtro más amplio del slicer. Se decidió mantener ese mismo comportamiento por consistencia y porque
+no tiene efecto visible: un producto de categoría AGUAS no tiene ninguna fila de Vtas/Compras/
+Inventario bajo el filtro de página de Bebidas, así que agregarlo al slicer solo añadiría una opción
+sin datos, nunca cambiaría un número mostrado. Si se requiere fidelidad 1:1 del slicer más adelante,
+haría falta un segundo parámetro de categorías (independiente de las de página) en
+`anc-beb-vin-pipeline.mjs`.
+
 ## Próximos pasos
 
-1. Activar "An. Bebidas" reutilizando `pipeline/lib/anc-beb-vin-pipeline.mjs` +
-   `pipeline/lib/measures-anc-beb.mjs` (ya parametrizados): un `build-an-bebidas.mjs` análogo a
-   `build-an-vinos.mjs` con `categorias = ["5. Bebidas alcohólicas", "GASEOSA", "CERVEZA"]`, un
-   `js/pages/an-bebidas.js` análogo a `an-vinos.js`, y cablearlo en `js/app.js`/`index.html`.
-2. Replicar el mismo patrón para Om. Insumos y Om. Bebidas.
+1. Replicar el mismo patrón (pipeline compartido + wrapper delgado + renderer) para Om. Insumos y
+   Om. Bebidas.
 
 (El repo ya está creado en GitHub con el GitHub Action de refresh y GitHub Pages activo — ver
 sección "Fuente de datos" abajo.)

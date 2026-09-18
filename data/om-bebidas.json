@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T15:37:57.175Z",
+  "generatedAt": "2026-09-18T15:48:28.628Z",
   "rangoFechas": {
     "desde": "2026-07-13",
     "hasta": "2026-09-18"
@@ -10082,7 +10082,7 @@
     "ventasIziDisponibles": true,
     "filasDimProducto": 439,
     "filasInventariosOmuh": 349,
-    "filasCompras": 1492,
+    "filasCompras": 1494,
     "filasSalidas": 66,
     "filasVentasIzi": 8200,
     "filasVentasPY": 10519,

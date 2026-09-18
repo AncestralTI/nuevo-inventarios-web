@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T21:31:26.751Z",
+  "generatedAt": "2026-09-18T21:44:37.697Z",
   "rangoFechas": {
     "desde": "2026-07-13",
     "hasta": "2026-09-18"
@@ -429,7 +429,7 @@
       "producto": "Curandero",
       "weekYear": "202638",
       "invMenos7": 25,
-      "compras": 0,
+      "compras": 30,
       "vtasIzi": 8,
       "vtasExt": 0,
       "vtasPY": 0,
@@ -437,7 +437,7 @@
       "salidas": 0,
       "vtasTot": 8,
       "inv": null,
-      "cierre": 17,
+      "cierre": 47,
       "dif": null
     },
     {
@@ -8350,6 +8350,20 @@
       "dif": null
     },
     {
+      "producto": "Curandero",
+      "fecha": "2026-09-18",
+      "dia": "vie",
+      "compras": 30,
+      "vtas": 0,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 47,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "Sprite Zero",
       "fecha": "2026-09-18",
       "dia": "vie",
@@ -10130,7 +10144,7 @@
       },
       {
         "weekYear": "202638",
-        "valor": 440
+        "valor": 470
       }
     ]
   },
@@ -10138,7 +10152,7 @@
     "ventasIziDisponibles": true,
     "filasDimProducto": 439,
     "filasInventariosOmuh": 349,
-    "filasCompras": 1494,
+    "filasCompras": 1495,
     "filasSalidas": 66,
     "filasVentasIzi": 8212,
     "filasVentasPY": 10519,

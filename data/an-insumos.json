@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T21:52:51.479Z",
+  "generatedAt": "2026-09-18T22:04:59.170Z",
   "rangoFechas": {
     "desde": "2026-07-13",
     "hasta": "2026-09-18"
@@ -89,12 +89,12 @@
       "insumo": "Chuleton",
       "weekYear": "202638",
       "invMenos7": 20,
-      "compras": 5,
+      "compras": 10,
       "vtas": 8,
       "salidas": 0,
       "vtasTot": 8,
       "inv": null,
-      "cierre": 17,
+      "cierre": 22,
       "dif": null
     },
     {
@@ -113,12 +113,12 @@
       "insumo": "Cordero",
       "weekYear": "202638",
       "invMenos7": 24,
-      "compras": 0,
+      "compras": 8,
       "vtas": 6,
       "salidas": 0,
       "vtasTot": 6,
       "inv": null,
-      "cierre": 18,
+      "cierre": 26,
       "dif": null
     },
     {
@@ -185,12 +185,12 @@
       "insumo": "Ossobuco",
       "weekYear": "202638",
       "invMenos7": 32,
-      "compras": 13,
+      "compras": 23,
       "vtas": 9,
       "salidas": 0,
       "vtasTot": 9,
       "inv": null,
-      "cierre": 36,
+      "cierre": 46,
       "dif": null
     },
     {
@@ -2200,6 +2200,18 @@
       "dif": null
     },
     {
+      "insumo": "Chuleton",
+      "fecha": "2026-09-18",
+      "dia": "vie",
+      "compras": 5,
+      "vtas": 0,
+      "salidas": 0,
+      "invEsperado": 2,
+      "invIni": null,
+      "invFin": null,
+      "dif": null
+    },
+    {
       "insumo": "Corazon de pollo",
       "fecha": "2026-09-18",
       "dia": "vie",
@@ -2207,6 +2219,18 @@
       "vtas": 1,
       "salidas": 0,
       "invEsperado": 0,
+      "invIni": null,
+      "invFin": null,
+      "dif": null
+    },
+    {
+      "insumo": "Cordero",
+      "fecha": "2026-09-18",
+      "dia": "vie",
+      "compras": 8,
+      "vtas": 0,
+      "salidas": 0,
+      "invEsperado": 2,
       "invIni": null,
       "invFin": null,
       "dif": null
@@ -2251,10 +2275,10 @@
       "insumo": "Ossobuco",
       "fecha": "2026-09-18",
       "dia": "vie",
-      "compras": 0,
+      "compras": 10,
       "vtas": 1,
       "salidas": 0,
-      "invEsperado": 4,
+      "invEsperado": 14,
       "invIni": null,
       "invFin": null,
       "dif": null
@@ -3298,13 +3322,13 @@
       },
       {
         "weekYear": "202638",
-        "valor": 238
+        "valor": 261
       }
     ]
   },
   "meta": {
     "ventasIziDisponibles": true,
-    "filasCompras": 2228,
+    "filasCompras": 2230,
     "filasSalidas": 811,
     "filasMatriz": 22,
     "filasInventarios": 383,

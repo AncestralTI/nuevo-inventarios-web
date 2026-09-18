@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T21:53:07.872Z",
+  "generatedAt": "2026-09-18T22:05:13.621Z",
   "rangoFechas": {
     "desde": "2026-07-13",
     "hasta": "2026-09-18"
@@ -305,14 +305,14 @@
       "producto": "AMOR FATI - TELLUS",
       "weekYear": "202638",
       "invMenos7": 0,
-      "compras": 0,
+      "compras": 3,
       "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 0,
       "inv": null,
-      "cierre": 0,
+      "cierre": 3,
       "dif": null
     },
     {
@@ -809,14 +809,14 @@
       "producto": "COPA PEDRO XIMENEZ - LANDSÚA",
       "weekYear": "202638",
       "invMenos7": null,
-      "compras": 0,
+      "compras": 3,
       "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 1,
       "inv": null,
-      "cierre": 0,
+      "cierre": 2,
       "dif": null
     },
     {
@@ -1313,14 +1313,14 @@
       "producto": "MEMENTO MORI - TELLUS",
       "weekYear": "202638",
       "invMenos7": 0,
-      "compras": 0,
+      "compras": 3,
       "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 0,
       "inv": null,
-      "cierre": 0,
+      "cierre": 3,
       "dif": null
     },
     {
@@ -1509,14 +1509,14 @@
       "producto": "SAV BLANC - 1750",
       "weekYear": "202638",
       "invMenos7": 1,
-      "compras": 0,
+      "compras": 6,
       "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 1,
       "vtasTot": 1,
       "inv": null,
-      "cierre": 0,
+      "cierre": 6,
       "dif": null
     },
     {
@@ -16012,6 +16012,19 @@
   ],
   "detalleDiario": [
     {
+      "producto": "AMOR FATI - TELLUS",
+      "fecha": "2026-09-15",
+      "dia": "mar",
+      "compras": 3,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 3,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "ARANJUEZ - JUAN CRUZ",
       "fecha": "2026-09-15",
       "dia": "mar",
@@ -16047,6 +16060,19 @@
       "cortesias": 0,
       "salidas": 0,
       "invEsperado": 8,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "COPA PEDRO XIMENEZ - LANDSÚA",
+      "fecha": "2026-09-15",
+      "dia": "mar",
+      "compras": 3,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 3,
       "invIniFin": null,
       "dif": null
     },
@@ -16116,6 +16142,19 @@
       "dif": null
     },
     {
+      "producto": "MEMENTO MORI - TELLUS",
+      "fecha": "2026-09-15",
+      "dia": "mar",
+      "compras": 3,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 3,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "MOSCATEL RESERVA - MARQUEZ DE LA VIÑA",
       "fecha": "2026-09-15",
       "dia": "mar",
@@ -16164,6 +16203,19 @@
       "cortesias": 0,
       "salidas": 0,
       "invEsperado": 22,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "SAV BLANC - 1750",
+      "fecha": "2026-09-15",
+      "dia": "mar",
+      "compras": 6,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 7,
       "invIniFin": null,
       "dif": null
     },
@@ -16319,7 +16371,7 @@
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 1,
-      "invEsperado": 0,
+      "invEsperado": 6,
       "invIniFin": null,
       "dif": null
     },
@@ -16410,7 +16462,7 @@
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "invEsperado": 0,
+      "invEsperado": 2,
       "invIniFin": null,
       "dif": null
     },
@@ -17453,7 +17505,7 @@
       },
       {
         "weekYear": "202638",
-        "valor": 110
+        "valor": 125
       }
     ]
   },
@@ -17461,7 +17513,7 @@
     "ventasIziDisponibles": true,
     "filasApertura": 1364,
     "filasInventariosGs": 3662,
-    "filasCompras": 2228,
+    "filasCompras": 2230,
     "filasMatrizChuleton": 1,
     "filasVentasIzi": 5918,
     "filasMovInv": 422,

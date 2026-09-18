@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T01:45:50.001Z",
+  "generatedAt": "2026-09-18T02:05:29.223Z",
   "fuente": "API iZi Soluciones (facturas + items-inventarios), sucursal Ancestral (79344)",
   "rango": {
     "desde": "2026-08-19",
@@ -11045,20 +11045,92 @@
       "monto": 40
     },
     {
-      "codProducto": "ANC00088",
-      "producto": "ARROZ DE TRUCHA",
-      "categoria": "FUERTES",
+      "codProducto": "ANC00073",
+      "producto": "EXPERIENCIA ANCESTRAL",
+      "categoria": "MENU DEGUSTACION",
       "fecha": "2026-09-17",
       "cantidad": 1,
-      "monto": 150
+      "monto": 450
     },
     {
       "codProducto": "ANC00001",
       "producto": "AGUA C/G",
       "categoria": "AGUAS",
       "fecha": "2026-09-17",
+      "cantidad": 8,
+      "monto": 120
+    },
+    {
+      "codProducto": "ANC00358",
+      "producto": "COPA CAB. FRANC ROSE - CASA SOLUM",
+      "categoria": "VINOS",
+      "fecha": "2026-09-17",
       "cantidad": 2,
-      "monto": 30
+      "monto": 116
+    },
+    {
+      "codProducto": "ANC00058",
+      "producto": "ALCACHOFAS",
+      "categoria": "ENTRADAS",
+      "fecha": "2026-09-17",
+      "cantidad": 2,
+      "monto": 150
+    },
+    {
+      "codProducto": "ANC00184",
+      "producto": "ANTICUCHO DE POLLO",
+      "categoria": "ENTRADAS",
+      "fecha": "2026-09-17",
+      "cantidad": 1,
+      "monto": 55
+    },
+    {
+      "codProducto": "ANC00330",
+      "producto": "PESCADO AMAZONICO Y TUMBO",
+      "categoria": "COMIDAS",
+      "fecha": "2026-09-17",
+      "cantidad": 2,
+      "monto": 280
+    },
+    {
+      "codProducto": "ANC00099",
+      "producto": "PARRILLA OJO DE BIFE",
+      "categoria": "FUERTES",
+      "fecha": "2026-09-17",
+      "cantidad": 1,
+      "monto": 160
+    },
+    {
+      "codProducto": "ANC00131",
+      "producto": "ARANJUEZ / TANNAT \"ORIGEN\"",
+      "categoria": "VINOS",
+      "fecha": "2026-09-17",
+      "cantidad": 1,
+      "monto": 250
+    },
+    {
+      "codProducto": "ANC00049",
+      "producto": "FLAN",
+      "categoria": "DULCES",
+      "fecha": "2026-09-17",
+      "cantidad": 2,
+      "monto": 100
+    },
+    {
+      "codProducto": "ANC00101",
+      "producto": "PECHUGA DE POLLO CROCANTE",
+      "categoria": "FUERTES",
+      "fecha": "2026-09-17",
+      "cantidad": 1,
+      "monto": 130
+    },
+    {
+      "codProducto": "ANC00088",
+      "producto": "ARROZ DE TRUCHA",
+      "categoria": "FUERTES",
+      "fecha": "2026-09-17",
+      "cantidad": 1,
+      "monto": 150
     },
     {
       "codProducto": "ANC00111",
@@ -11093,22 +11165,6 @@
       "monto": 150
     },
     {
-      "codProducto": "ANC00330",
-      "producto": "PESCADO AMAZONICO Y TUMBO",
-      "categoria": "COMIDAS",
-      "fecha": "2026-09-17",
-      "cantidad": 1,
-      "monto": 140
-    },
-    {
-      "codProducto": "ANC00049",
-      "producto": "FLAN",
-      "categoria": "DULCES",
-      "fecha": "2026-09-17",
-      "cantidad": 1,
-      "monto": 50
-    },
-    {
       "codProducto": "ANC00327",
       "producto": "ALFAJOR",
       "categoria": "DULCES",
@@ -11123,14 +11179,6 @@
       "fecha": "2026-09-17",
       "cantidad": 2,
       "monto": 90
-    },
-    {
-      "codProducto": "ANC00058",
-      "producto": "ALCACHOFAS",
-      "categoria": "ENTRADAS",
-      "fecha": "2026-09-17",
-      "cantidad": 1,
-      "monto": 75
     },
     {
       "codProducto": "ANC00002",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T02:37:58.296Z",
+  "generatedAt": "2026-09-18T02:48:09.670Z",
   "fuente": "API iZi Soluciones (facturas + items-inventarios), sucursal Ancestral (79344)",
   "rango": {
     "desde": "2026-08-19",
@@ -11045,20 +11045,84 @@
       "monto": 40
     },
     {
+      "codProducto": "ANC00093",
+      "producto": "KEPERI AHUMADO",
+      "categoria": "FUERTES",
+      "fecha": "2026-09-17",
+      "cantidad": 3,
+      "monto": 420
+    },
+    {
+      "codProducto": "ANC00065",
+      "producto": "TATAKI DE LLAMA",
+      "categoria": "ENTRADAS",
+      "fecha": "2026-09-17",
+      "cantidad": 1,
+      "monto": 75
+    },
+    {
+      "codProducto": "ANC00088",
+      "producto": "ARROZ DE TRUCHA",
+      "categoria": "FUERTES",
+      "fecha": "2026-09-17",
+      "cantidad": 2,
+      "monto": 300
+    },
+    {
+      "codProducto": "ANC00103",
+      "producto": "PARRILLA TRUCHA",
+      "categoria": "FUERTES",
+      "fecha": "2026-09-17",
+      "cantidad": 2,
+      "monto": 300
+    },
+    {
+      "codProducto": "ANC00330",
+      "producto": "PESCADO AMAZONICO Y TUMBO",
+      "categoria": "COMIDAS",
+      "fecha": "2026-09-17",
+      "cantidad": 3,
+      "monto": 420
+    },
+    {
       "codProducto": "ANC00210",
       "producto": "SINGANI MULE",
       "categoria": "COCTELES",
       "fecha": "2026-09-17",
-      "cantidad": 1,
-      "monto": 40
+      "cantidad": 3,
+      "monto": 120
+    },
+    {
+      "codProducto": "ANC00111",
+      "producto": "JAMAICA MENTA",
+      "categoria": "JUGOS",
+      "fecha": "2026-09-17",
+      "cantidad": 3,
+      "monto": 45
+    },
+    {
+      "codProducto": "ANC00112",
+      "producto": "LIMONADA",
+      "categoria": "JUGOS",
+      "fecha": "2026-09-17",
+      "cantidad": 4,
+      "monto": 60
+    },
+    {
+      "codProducto": "ANC00104",
+      "producto": "COCA COLA",
+      "categoria": "GASEOSA",
+      "fecha": "2026-09-17",
+      "cantidad": 2,
+      "monto": 30
     },
     {
       "codProducto": "ANC00099",
       "producto": "PARRILLA OJO DE BIFE",
       "categoria": "FUERTES",
       "fecha": "2026-09-17",
-      "cantidad": 2,
-      "monto": 320
+      "cantidad": 3,
+      "monto": 480
     },
     {
       "codProducto": "ANC00098",
@@ -11067,14 +11131,6 @@
       "fecha": "2026-09-17",
       "cantidad": 1,
       "monto": 140
-    },
-    {
-      "codProducto": "ANC00112",
-      "producto": "LIMONADA",
-      "categoria": "JUGOS",
-      "fecha": "2026-09-17",
-      "cantidad": 2,
-      "monto": 30
     },
     {
       "codProducto": "ANC00101",
@@ -11099,14 +11155,6 @@
       "fecha": "2026-09-17",
       "cantidad": 1.84,
       "monto": 736
-    },
-    {
-      "codProducto": "ANC00104",
-      "producto": "COCA COLA",
-      "categoria": "GASEOSA",
-      "fecha": "2026-09-17",
-      "cantidad": 1,
-      "monto": 15
     },
     {
       "codProducto": "ANC00105",
@@ -11139,14 +11187,6 @@
       "fecha": "2026-09-17",
       "cantidad": 1,
       "monto": 60
-    },
-    {
-      "codProducto": "ANC00103",
-      "producto": "PARRILLA TRUCHA",
-      "categoria": "FUERTES",
-      "fecha": "2026-09-17",
-      "cantidad": 1,
-      "monto": 150
     },
     {
       "codProducto": "ANC00051",
@@ -11189,14 +11229,6 @@
       "monto": 55
     },
     {
-      "codProducto": "ANC00330",
-      "producto": "PESCADO AMAZONICO Y TUMBO",
-      "categoria": "COMIDAS",
-      "fecha": "2026-09-17",
-      "cantidad": 2,
-      "monto": 280
-    },
-    {
       "codProducto": "ANC00131",
       "producto": "ARANJUEZ / TANNAT \"ORIGEN\"",
       "categoria": "VINOS",
@@ -11211,22 +11243,6 @@
       "fecha": "2026-09-17",
       "cantidad": 2,
       "monto": 100
-    },
-    {
-      "codProducto": "ANC00088",
-      "producto": "ARROZ DE TRUCHA",
-      "categoria": "FUERTES",
-      "fecha": "2026-09-17",
-      "cantidad": 1,
-      "monto": 150
-    },
-    {
-      "codProducto": "ANC00111",
-      "producto": "JAMAICA MENTA",
-      "categoria": "JUGOS",
-      "fecha": "2026-09-17",
-      "cantidad": 1,
-      "monto": 15
     },
     {
       "codProducto": "ANC00005",

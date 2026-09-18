@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T18:05:43.195Z",
+  "generatedAt": "2026-09-18T18:22:47.225Z",
   "rangoFechas": {
     "desde": "2026-07-13",
     "hasta": "2026-09-18"
@@ -138,11 +138,11 @@
       "weekYear": "202638",
       "invMenos7": 16,
       "compras": 24,
-      "vtas": 7,
+      "vtas": 8,
       "salidas": 2.29,
-      "vtasTot": 9.29,
+      "vtasTot": 10.29,
       "inv": null,
-      "cierre": 30.71,
+      "cierre": 29.71,
       "dif": null
     },
     {
@@ -162,11 +162,11 @@
       "weekYear": "202638",
       "invMenos7": 15,
       "compras": 77,
-      "vtas": 10,
+      "vtas": 11,
       "salidas": 5.39,
-      "vtasTot": 15.39,
+      "vtasTot": 16.39,
       "inv": null,
-      "cierre": 76.61,
+      "cierre": 75.61,
       "dif": null
     },
     {
@@ -2212,13 +2212,25 @@
       "dif": null
     },
     {
+      "insumo": "Llama",
+      "fecha": "2026-09-18",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 1,
+      "salidas": 0,
+      "invEsperado": 13.71,
+      "invIni": null,
+      "invFin": null,
+      "dif": null
+    },
+    {
       "insumo": "Ojo de bife",
       "fecha": "2026-09-18",
       "dia": "vie",
       "compras": 19,
-      "vtas": 0,
+      "vtas": 1,
       "salidas": 0,
-      "invEsperado": 61.61,
+      "invEsperado": 60.61,
       "invIni": null,
       "invFin": null,
       "dif": null
@@ -3172,7 +3184,7 @@
       },
       {
         "weekYear": "202638",
-        "valor": 116
+        "valor": 118
       }
     ],
     "Salidas": [
@@ -3224,7 +3236,7 @@
       },
       {
         "weekYear": "202638",
-        "valor": 134.31
+        "valor": 136.31
       }
     ],
     "Compras (Un)": [
@@ -3260,6 +3272,6 @@
     "filasSalidas": 811,
     "filasMatriz": 22,
     "filasInventarios": 383,
-    "filasVentasIzi": 5897
+    "filasVentasIzi": 5901
   }
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T00:27:37.289Z",
+  "generatedAt": "2026-09-18T00:42:51.675Z",
   "fuente": "API iZi Soluciones (facturas + items-inventarios), sucursal Ancestral (79344)",
   "rango": {
     "desde": "2026-08-19",
@@ -11043,6 +11043,102 @@
       "fecha": "2026-09-16",
       "cantidad": 1,
       "monto": 40
+    },
+    {
+      "codProducto": "ANC00005",
+      "producto": "BENDITA IPA",
+      "categoria": "CERVEZA",
+      "fecha": "2026-09-17",
+      "cantidad": 1,
+      "monto": 33
+    },
+    {
+      "codProducto": "ANC00349",
+      "producto": "COPA PEDRO XIMENEZ - LANDSÚA",
+      "categoria": "VINOS",
+      "fecha": "2026-09-17",
+      "cantidad": 1,
+      "monto": 55
+    },
+    {
+      "codProducto": "ANC00249",
+      "producto": "ARROZ DE CANGREJOS",
+      "categoria": "FUERTES",
+      "fecha": "2026-09-17",
+      "cantidad": 1,
+      "monto": 150
+    },
+    {
+      "codProducto": "ANC00330",
+      "producto": "PESCADO AMAZONICO Y TUMBO",
+      "categoria": "COMIDAS",
+      "fecha": "2026-09-17",
+      "cantidad": 1,
+      "monto": 140
+    },
+    {
+      "codProducto": "ANC00001",
+      "producto": "AGUA C/G",
+      "categoria": "AGUAS",
+      "fecha": "2026-09-17",
+      "cantidad": 1,
+      "monto": 15
+    },
+    {
+      "codProducto": "ANC00049",
+      "producto": "FLAN",
+      "categoria": "DULCES",
+      "fecha": "2026-09-17",
+      "cantidad": 1,
+      "monto": 50
+    },
+    {
+      "codProducto": "ANC00327",
+      "producto": "ALFAJOR",
+      "categoria": "DULCES",
+      "fecha": "2026-09-17",
+      "cantidad": 1,
+      "monto": 50
+    },
+    {
+      "codProducto": "ANC00280",
+      "producto": "COPA RAIZ KHOLBERG",
+      "categoria": "VINOS POR COPA",
+      "fecha": "2026-09-17",
+      "cantidad": 2,
+      "monto": 90
+    },
+    {
+      "codProducto": "ANC00058",
+      "producto": "ALCACHOFAS",
+      "categoria": "ENTRADAS",
+      "fecha": "2026-09-17",
+      "cantidad": 1,
+      "monto": 75
+    },
+    {
+      "codProducto": "ANC00002",
+      "producto": "AGUA S/G",
+      "categoria": "AGUAS",
+      "fecha": "2026-09-17",
+      "cantidad": 2,
+      "monto": 24
+    },
+    {
+      "codProducto": "ANC00242",
+      "producto": "PARRILLA PESCADO AMAZÓNICO",
+      "categoria": "FUERTES",
+      "fecha": "2026-09-17",
+      "cantidad": 1,
+      "monto": 150
+    },
+    {
+      "codProducto": "ANC00095",
+      "producto": "OSSOBUCO A LA BOLIVIANA",
+      "categoria": "FUERTES",
+      "fecha": "2026-09-17",
+      "cantidad": 1,
+      "monto": 160
     }
   ]
 }

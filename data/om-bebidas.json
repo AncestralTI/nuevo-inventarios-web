@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T22:31:42.436Z",
+  "generatedAt": "2026-09-18T22:45:15.785Z",
   "rangoFechas": {
     "desde": "2026-07-13",
     "hasta": "2026-09-18"
@@ -730,12 +730,12 @@
       "weekYear": "202638",
       "invMenos7": null,
       "compras": 0,
-      "vtasIzi": 3,
+      "vtasIzi": 4,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 3,
+      "vtasTot": 4,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -8378,6 +8378,20 @@
       "dif": null
     },
     {
+      "producto": "Refresco Artesanal",
+      "fecha": "2026-09-18",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 0,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "Sprite Zero",
       "fecha": "2026-09-18",
       "dia": "vie",
@@ -10054,7 +10068,7 @@
       },
       {
         "weekYear": "202638",
-        "valor": 169.75
+        "valor": 170.75
       }
     ],
     "Vtas Ext.": [
@@ -10132,7 +10146,7 @@
       },
       {
         "weekYear": "202638",
-        "valor": 445.75
+        "valor": 446.75
       }
     ],
     "Compras": [
@@ -10168,7 +10182,7 @@
     "filasInventariosOmuh": 349,
     "filasCompras": 1495,
     "filasSalidas": 66,
-    "filasVentasIzi": 8228,
+    "filasVentasIzi": 8236,
     "filasVentasPY": 10519,
     "filasExtras": 15062,
     "filasMovInv": 422,

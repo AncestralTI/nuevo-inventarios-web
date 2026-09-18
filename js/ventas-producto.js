@@ -6,6 +6,7 @@
 const state = { data: null, categoria: "__all__", top: 15, desde: null, hasta: null, chart: null };
 
 const primary = getComputedStyle(document.documentElement).getPropertyValue("--primary").trim() || "#2f5d50";
+const accent = getComputedStyle(document.documentElement).getPropertyValue("--accent").trim() || "#c9a24b";
 const textMuted = getComputedStyle(document.documentElement).getPropertyValue("--text-muted").trim() || "#6b7280";
 const border = getComputedStyle(document.documentElement).getPropertyValue("--border").trim() || "#e2e4e9";
 
@@ -35,17 +36,27 @@ function productosAgregados() {
   return state.top > 0 ? rows.slice(0, state.top) : rows;
 }
 
+function selectProducto(row) {
+  // Cross-filter: clic en una fila/barra = filtrar por la categoría de ese producto
+  // (clic de nuevo sobre la misma categoría = quitar el filtro), igual que en el dashboard.
+  const catSelect = document.getElementById("categoriaSelect");
+  state.categoria = state.categoria === row.categoria ? "__all__" : row.categoria;
+  catSelect.value = state.categoria;
+  render();
+}
+
 function render() {
   const rows = productosAgregados();
 
   // Gráfico
   const ctx = document.getElementById("ventasChart").getContext("2d");
+  const colors = rows.map((r) => (state.categoria !== "__all__" && r.categoria === state.categoria ? accent : primary));
   const chartData = {
     labels: rows.map(r => r.producto),
     datasets: [{
       label: "Cantidad vendida",
       data: rows.map(r => r.cantidad),
-      backgroundColor: primary,
+      backgroundColor: colors,
       borderRadius: 4,
       borderSkipped: false,
       maxBarThickness: 28
@@ -62,6 +73,13 @@ function render() {
         indexAxis: "y",
         responsive: true,
         maintainAspectRatio: false,
+        onClick: (evt, elements) => {
+          if (!elements.length) return;
+          selectProducto(rows[elements[0].index]);
+        },
+        onHover: (evt, elements) => {
+          evt.native.target.style.cursor = elements.length ? "pointer" : "default";
+        },
         plugins: {
           legend: { display: false },
           tooltip: {
@@ -83,8 +101,8 @@ function render() {
   if (rows.length === 0) {
     wrap.innerHTML = `<div class="vp-empty">Sin ventas en este rango/categoría.</div>`;
   } else {
-    const body = rows.map(r => `
-      <tr>
+    const body = rows.map((r, i) => `
+      <tr data-i="${i}" class="${r.categoria === state.categoria ? "is-selected" : ""}">
         <td>${r.producto}</td>
         <td>${r.categoria}</td>
         <td class="num">${fmtNum(r.cantidad)}</td>
@@ -93,12 +111,15 @@ function render() {
     `).join("");
     wrap.innerHTML = `
       <div class="table-scroll">
-        <table class="data-table">
+        <table class="data-table data-table--clickable">
           <thead><tr><th>Producto</th><th>Categoría</th><th class="num">Cantidad</th><th class="num">Monto</th></tr></thead>
           <tbody>${body}</tbody>
         </table>
       </div>
     `;
+    wrap.querySelectorAll("tbody tr").forEach((tr) => {
+      tr.addEventListener("click", () => selectProducto(rows[Number(tr.dataset.i)]));
+    });
   }
 
   const actualizado = new Date(state.data.generatedAt).toLocaleString("es-BO", { dateStyle: "short", timeStyle: "short" });

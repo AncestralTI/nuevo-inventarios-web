@@ -166,7 +166,7 @@
     return new Date(iso).toLocaleString("es-BO", { dateStyle: "short", timeStyle: "short" });
   }
 
-  function renderSlicers(panel, data, onChange, onRefresh) {
+  function renderSlicers(panel, data, onChange, onRefresh, slicerRefs) {
     panel.innerHTML = "";
     const head = document.createElement("div");
     head.className = "panel__head";
@@ -209,6 +209,7 @@
     });
     wSemana.appendChild(selSemana);
     grid.appendChild(wSemana);
+    slicerRefs.selSemana = selSemana;
 
     // Insumo
     const wInsumo = document.createElement("div");
@@ -237,6 +238,7 @@
     });
     wInsumo.appendChild(selInsumo);
     grid.appendChild(wInsumo);
+    slicerRefs.selInsumo = selInsumo;
 
     // Filtro Dif
     const wFiltro = document.createElement("div");
@@ -279,7 +281,7 @@
     grid.appendChild(wParam);
   }
 
-  function renderResumenSemanal(panel, data) {
+  function renderResumenSemanal(panel, data, onSelect) {
     panel.innerHTML = `<h3 class="panel__title">Resumen semanal por producto — ${weekLabel(data, state.weekYear)}</h3>`;
     const rows = aplicarFiltroDif(resumenSemanaActual(data)).sort((a, b) =>
       a.insumo.localeCompare(b.insumo, "es")
@@ -296,7 +298,7 @@
     const wrap = document.createElement("div");
     wrap.className = "table-scroll";
     const table = document.createElement("table");
-    table.className = "data-table";
+    table.className = "data-table data-table--clickable";
     table.innerHTML = `
       <thead>
         <tr>
@@ -316,6 +318,7 @@
     const tbody = table.querySelector("tbody");
     rows.forEach((r) => {
       const tr = document.createElement("tr");
+      if (r.insumo === state.insumo) tr.classList.add("is-selected");
       tr.innerHTML = `
         <td>${r.insumo}</td>
         <td class="num">${fmtNum(r.invMenos7)}</td>
@@ -327,6 +330,11 @@
         <td class="num">${fmtNum(r.cierre)}</td>
         <td class="num dif-cell ${difClass(r.dif)}">${fmtNum(r.dif)}</td>
       `;
+      // Cross-filter: clic en una fila = elegirla en el slicer Insumo (clic de nuevo = quitar filtro).
+      tr.addEventListener("click", () => {
+        state.insumo = state.insumo === r.insumo ? "__todos__" : r.insumo;
+        onSelect();
+      });
       tbody.appendChild(tr);
     });
     wrap.appendChild(table);
@@ -341,10 +349,10 @@
     panel.appendChild(legend);
   }
 
-  function renderChart(panel, data) {
+  function renderChart(panel, data, onSelect) {
     panel.innerHTML = `<h3 class="panel__title">${PARAMETRO_OPCIONES.find((o) => o.key === state.parametro).label} por semana (últimas 6 semanas)</h3>`;
     const canvasWrap = document.createElement("div");
-    canvasWrap.style.height = "260px";
+    canvasWrap.className = "chart-canvas-wrap";
     const canvas = document.createElement("canvas");
     canvasWrap.appendChild(canvas);
     panel.appendChild(canvasWrap);
@@ -368,6 +376,8 @@
 
     const styles = getComputedStyle(document.documentElement);
     const primary = styles.getPropertyValue("--primary").trim() || "#2f5d50";
+    const accent = styles.getPropertyValue("--accent").trim() || "#c9a24b";
+    const colors = last6.map((wy) => (wy === state.weekYear ? accent : primary));
 
     if (chartInstance) {
       chartInstance.destroy();
@@ -388,7 +398,7 @@
           {
             label: PARAMETRO_OPCIONES.find((o) => o.key === state.parametro).label,
             data: valores,
-            backgroundColor: primary,
+            backgroundColor: colors,
             borderRadius: 4,
             maxBarThickness: 48,
           },
@@ -397,6 +407,16 @@
       options: {
         responsive: true,
         maintainAspectRatio: false,
+        onClick: (evt, elements) => {
+          if (!elements.length) return;
+          const wy = last6[elements[0].index];
+          // Cross-filter: clic en una barra = elegir esa semana (clic de nuevo = volver a la última).
+          state.weekYear = state.weekYear === wy ? data.semanas[0] : wy;
+          onSelect();
+        },
+        onHover: (evt, elements) => {
+          evt.native.target.style.cursor = elements.length ? "pointer" : "default";
+        },
         plugins: {
           legend: { display: false },
           tooltip: {
@@ -413,7 +433,7 @@
     });
   }
 
-  function renderDetalle(panel, data) {
+  function renderDetalle(panel, data, onSelect) {
     panel.innerHTML = `<h3 class="panel__title">Detalle de movimientos por producto</h3>`;
     const visibles = new Set(insumosVisibles(data));
     let rows = data.detalleDiario.filter((r) => visibles.has(r.insumo));
@@ -435,7 +455,7 @@
     const wrap = document.createElement("div");
     wrap.className = "table-scroll";
     const table = document.createElement("table");
-    table.className = "data-table";
+    table.className = "data-table data-table--clickable";
     table.innerHTML = `
       <thead>
         <tr>
@@ -455,6 +475,7 @@
     const tbody = table.querySelector("tbody");
     rows.forEach((r) => {
       const tr = document.createElement("tr");
+      if (r.insumo === state.insumo) tr.classList.add("is-selected");
       tr.innerHTML = `
         <td>${r.insumo}</td>
         <td>${fmtFechaCorta(r.fecha)}</td>
@@ -466,6 +487,10 @@
         <td class="num">${r.invFin !== null ? fmtNum(r.invFin) : "—"}</td>
         <td class="num dif-cell ${difClass(r.dif)}">${r.dif !== null ? fmtNum(r.dif) : "—"}</td>
       `;
+      tr.addEventListener("click", () => {
+        state.insumo = state.insumo === r.insumo ? "__todos__" : r.insumo;
+        onSelect();
+      });
       tbody.appendChild(tr);
     });
     wrap.appendChild(table);
@@ -486,36 +511,48 @@
       renderKpiRow(kpiRowEl, data);
 
       panelGridEl.innerHTML = "";
+      panelGridEl.classList.add("panel-grid--dashboard");
 
       const slicerPanel = document.createElement("div");
-      slicerPanel.className = "panel panel--full";
+      slicerPanel.className = "panel panel--slicers";
       panelGridEl.appendChild(slicerPanel);
 
       const resumenPanel = document.createElement("div");
-      resumenPanel.className = "panel panel--full";
+      resumenPanel.className = "panel panel--resumen";
       panelGridEl.appendChild(resumenPanel);
 
       const chartPanel = document.createElement("div");
-      chartPanel.className = "panel";
+      chartPanel.className = "panel panel--chart";
       panelGridEl.appendChild(chartPanel);
 
       const detallePanel = document.createElement("div");
-      detallePanel.className = "panel panel--full";
+      detallePanel.className = "panel panel--detalle";
       panelGridEl.appendChild(detallePanel);
 
+      const slicerRefs = {};
       let currentData = data;
+
       const rerenderAll = () => {
         renderKpiRow(kpiRowEl, currentData);
-        renderResumenSemanal(resumenPanel, currentData);
-        renderChart(chartPanel, currentData);
-        renderDetalle(detallePanel, currentData);
+        renderResumenSemanal(resumenPanel, currentData, applyFilters);
+        renderChart(chartPanel, currentData, applyFilters);
+        renderDetalle(detallePanel, currentData, applyFilters);
       };
+
+      // Cross-filtering: un clic en una fila de tabla o una barra del gráfico cambia el
+      // state igual que tocar un slicer. Sincronizamos los <select> existentes en vez de
+      // reconstruir todo el panel de slicers (así no se pierde el foco al usarlos a mano).
+      function applyFilters() {
+        if (slicerRefs.selSemana) slicerRefs.selSemana.value = state.weekYear;
+        if (slicerRefs.selInsumo) slicerRefs.selInsumo.value = state.insumo;
+        rerenderAll();
+      }
 
       const doRefresh = async (btn) => {
         if (btn) { btn.disabled = true; btn.textContent = "↻ Actualizando…"; }
         try {
           currentData = await loadData(true);
-          renderSlicers(slicerPanel, currentData, rerenderAllAndReslice, doRefresh);
+          renderSlicers(slicerPanel, currentData, applyFilters, doRefresh, slicerRefs);
           rerenderAll();
         } catch (err) {
           console.error("an-insumos: error al actualizar", err);
@@ -524,13 +561,7 @@
         }
       };
 
-      // onChange de los slicers necesita volver a pintar TODO menos los propios
-      // slicers (para no perder el foco del control que se acaba de tocar).
-      function rerenderAllAndReslice() {
-        rerenderAll();
-      }
-
-      renderSlicers(slicerPanel, currentData, rerenderAllAndReslice, doRefresh);
+      renderSlicers(slicerPanel, currentData, applyFilters, doRefresh, slicerRefs);
       rerenderAll();
 
       if (refreshTimer) clearInterval(refreshTimer);

@@ -34,12 +34,17 @@ body[data-brand="omuh"] {
 
 * { box-sizing: border-box; }
 
+html, body { height: 100%; }
+
 body {
   margin: 0;
   font-family: "Segoe UI", "Segoe UI Variable", -apple-system, BlinkMacSystemFont, sans-serif;
   background: var(--bg);
   color: var(--text);
   transition: background-color 0.2s ease;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
 }
 
 /* ------------------------------------------------------------------ */
@@ -47,10 +52,11 @@ body {
 /* ------------------------------------------------------------------ */
 
 .topbar {
+  flex: 0 0 auto;
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 14px 24px;
+  padding: 10px 24px;
   background: var(--surface);
   border-bottom: 1px solid var(--border);
   border-top: 3px solid var(--primary);
@@ -74,9 +80,10 @@ body {
 .dot--error { background: var(--danger); }
 
 .brandnav {
+  flex: 0 0 auto;
   display: flex;
   gap: 4px;
-  padding: 10px 24px 0;
+  padding: 6px 24px 0;
   background: var(--surface);
   border-bottom: 1px solid var(--border);
 }
@@ -103,9 +110,10 @@ body {
 }
 
 .pagenav {
+  flex: 0 0 auto;
   display: flex;
   gap: 6px;
-  padding: 10px 24px;
+  padding: 8px 24px;
   background: var(--surface);
   border-bottom: 1px solid var(--border);
   flex-wrap: wrap;
@@ -132,22 +140,32 @@ body {
   font-weight: 600;
 }
 
-.content { padding: 20px 24px 40px; max-width: 1400px; margin: 0 auto; }
+.content {
+  flex: 1 1 auto;
+  min-height: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 12px 24px;
+  max-width: 1600px;
+  width: 100%;
+  margin: 0 auto;
+}
 
 /* ------------------------------------------------------------------ */
 /* Filtros / chips                                                     */
 /* ------------------------------------------------------------------ */
 
 .filterbar {
+  flex: 0 0 auto;
   display: flex;
   align-items: center;
   gap: 10px;
-  padding: 10px 14px;
+  padding: 7px 14px;
   background: var(--surface);
   border: 1px solid var(--border);
   border-left: 3px solid var(--primary);
   border-radius: var(--radius);
-  margin-bottom: 16px;
   font-size: 13px;
   color: var(--text-muted);
 }
@@ -168,10 +186,10 @@ body {
 /* ------------------------------------------------------------------ */
 
 .kpi-row {
+  flex: 0 0 auto;
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
-  gap: 14px;
-  margin-bottom: 18px;
+  gap: 10px;
 }
 
 .kpi-card {
@@ -180,7 +198,7 @@ body {
   border: 1px solid var(--border);
   border-radius: var(--radius);
   box-shadow: var(--shadow);
-  padding: 16px 16px 14px;
+  padding: 10px 14px 9px;
   overflow: hidden;
 }
 
@@ -194,7 +212,7 @@ body {
 }
 
 .kpi-card__label { font-size: 11px; color: var(--text-muted); font-weight: 700; text-transform: uppercase; letter-spacing: .04em; }
-.kpi-card__value { font-size: 28px; font-weight: 700; margin-top: 8px; line-height: 1.1; letter-spacing: -0.01em; }
+.kpi-card__value { font-size: 22px; font-weight: 700; margin-top: 4px; line-height: 1.1; letter-spacing: -0.01em; }
 .kpi-card__value.is-placeholder { color: var(--text-muted); font-size: 16px; font-weight: 500; }
 
 /* ------------------------------------------------------------------ */
@@ -207,24 +225,91 @@ body {
   gap: 16px;
 }
 
+/* Layout tipo "canvas" de una sola pantalla para los módulos con datos reales (An. Insumos,
+   An. Vinos): todo el contenido cabe en el alto disponible, sin scroll de página -- solo las
+   tablas largas (dentro de .table-scroll) tienen su propio scroll interno, igual que un
+   pivotTable de Power BI. */
+.panel-grid--dashboard {
+  flex: 1 1 auto;
+  min-height: 0;
+  display: grid;
+  grid-template-columns: minmax(0, 1.4fr) minmax(0, 1fr);
+  grid-template-rows: auto minmax(0, 1.3fr) minmax(0, 1fr);
+  grid-template-areas:
+    "slicers slicers"
+    "resumen chart"
+    "detalle detalle";
+  gap: 12px;
+}
+
+.panel--slicers { grid-area: slicers; }
+.panel--resumen { grid-area: resumen; }
+.panel--chart { grid-area: chart; }
+.panel--detalle { grid-area: detalle; }
+
+.panel-grid--dashboard .panel--slicers { min-height: 0; }
+.panel-grid--dashboard .panel--resumen,
+.panel-grid--dashboard .panel--chart,
+.panel-grid--dashboard .panel--detalle {
+  display: flex;
+  flex-direction: column;
+  min-height: 0;
+}
+
+.panel-grid--dashboard .panel--resumen .table-scroll,
+.panel-grid--dashboard .panel--detalle .table-scroll {
+  flex: 1 1 auto;
+  min-height: 0;
+  max-height: none;
+}
+
+.panel-grid--dashboard .chart-canvas-wrap {
+  position: relative;
+  flex: 1 1 auto;
+  min-height: 0;
+}
+
+.panel-grid--dashboard .panel__note { flex: 0 0 auto; }
+.panel-grid--dashboard .dif-legend { flex: 0 0 auto; }
+
+@media (max-width: 900px) {
+  .panel-grid--dashboard {
+    grid-template-columns: 1fr;
+    grid-template-rows: auto auto auto auto;
+    grid-template-areas:
+      "slicers"
+      "resumen"
+      "chart"
+      "detalle";
+  }
+  .panel-grid--dashboard .panel--resumen .table-scroll,
+  .panel-grid--dashboard .panel--detalle .table-scroll {
+    max-height: 360px;
+  }
+  .panel-grid--dashboard .chart-canvas-wrap { height: 260px; }
+}
+
 .panel {
   background: var(--surface);
   border: 1px solid var(--border);
   border-radius: var(--radius);
   box-shadow: var(--shadow);
-  padding: 16px;
+  padding: 12px 16px;
   min-height: 220px;
   transition: box-shadow 0.15s ease;
 }
 
+.panel-grid--dashboard .panel { min-height: 0; }
+
 .panel:hover { box-shadow: var(--shadow-hover); }
 
 .panel__title {
-  font-size: 14px;
+  font-size: 13px;
   font-weight: 700;
-  margin: 0 0 10px;
+  margin: 0 0 8px;
   padding-left: 10px;
   border-left: 3px solid var(--primary);
+  flex: 0 0 auto;
 }
 
 .panel__placeholder {
@@ -260,11 +345,12 @@ body {
 }
 
 .footer {
-  padding: 16px 24px 30px;
+  flex: 0 0 auto;
+  padding: 6px 24px;
   text-align: center;
   color: var(--text-muted);
-  font-size: 12px;
-  max-width: 900px;
+  font-size: 11px;
+  max-width: 1000px;
   margin: 0 auto;
 }
 
@@ -357,7 +443,7 @@ body {
 
 .data-table th,
 .data-table td {
-  padding: 7px 10px;
+  padding: 5px 9px;
   border-bottom: 1px solid var(--border);
   text-align: left;
   white-space: nowrap;
@@ -393,7 +479,17 @@ body {
 
 .data-table tbody tr:nth-child(even) td { background: var(--table-zebra); }
 .data-table tbody tr:nth-child(even) td:first-child { background: var(--table-zebra); }
-.data-table tbody tr:hover td { background: var(--primary-light); }
+
+.data-table--clickable tbody tr { cursor: pointer; }
+.data-table--clickable tbody tr:hover td { background: var(--primary-light); }
+
+/* Fila/barra seleccionada por cross-filtering (clic en tabla o gráfico) -- misma idea que
+   resaltar el punto de datos activo en un visual de Power BI. */
+.data-table tbody tr.is-selected td {
+  background: var(--primary-light) !important;
+  box-shadow: inset 3px 0 0 var(--primary);
+  font-weight: 600;
+}
 
 .dif-cell {
   font-weight: 700;

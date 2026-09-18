@@ -2,14 +2,14 @@
 
 Réplica web del dashboard de Power BI **"Nuevo Inventarios"** (`Nuevo Inventarios.pbix`), construida a partir del análisis directo del archivo: mismas páginas, mismos filtros y las mismas medidas y fuentes de datos.
 
-> **Estado actual: "An. Insumos", "An. Vinos" y "An. Bebidas" completos y validados.** Son los tres primeros módulos con datos y medidas reales (pipeline Node.js + frontend), construidos y verificados número por número contra el modelo Power BI real. "An. Vinos" y "An. Bebidas" comparten literalmente el mismo pipeline y las mismas medidas (mismo layout en el PBIX original, solo cambia el filtro de categoría — ver `pipeline/lib/anc-beb-vin-pipeline.mjs`), y ambos ya están cableados en la navegación. Om. Insumos y Om. Bebidas siguen como placeholder "pendiente". Ver [ANALISIS_PBIX.md](./ANALISIS_PBIX.md) para el análisis exhaustivo del modelo original.
+> **Estado actual: los 5 módulos reales del dashboard están completos y validados** — "An. Insumos", "An. Vinos", "An. Bebidas" (lado Ancestral) y "Om. Insumos", "Om. Bebidas" (lado omuH). Los cinco tienen datos y medidas reales (pipeline Node.js + frontend), construidos y verificados número por número contra el modelo Power BI real. "An. Vinos"/"An. Bebidas" comparten un pipeline (`pipeline/lib/anc-beb-vin-pipeline.mjs`); "Om. Insumos"/"Om. Bebidas" comparten otro (`pipeline/lib/omuh-pipeline.mjs` + `pipeline/lib/measures-omuh.mjs`), porque las medidas de "Omuh Beb" reutilizan literalmente medidas de "Omuh Insumos" (`[Vtas Anc Izi Om Ins]`, `[Cortesias Om Ins]`). Ver [ANALISIS_PBIX.md](./ANALISIS_PBIX.md) para el análisis exhaustivo del modelo original.
 
 ## Estructura confirmada del dashboard original
 
 El PBIX compara dos marcas/negocios, cada una con sus propias páginas:
 
 - **Ancestral**: **An. Bebidas** (✅ datos reales), **An. Vinos** (✅ datos reales), **An. Insumos** (✅ datos reales)
-- **omuH**: Om. Insumos, Om. Bebidas
+- **omuH**: **Om. Insumos** (✅ datos reales), **Om. Bebidas** (✅ datos reales)
 
 (Existen además una página duplicada "Duplicate of Om. Insumos" y una página oculta de trabajo "Página 1", que no se muestran al usuario final en Power BI y tampoco se replican aquí.)
 
@@ -26,19 +26,31 @@ nuevo-inventarios-web/
 ├── data/an-insumos.json            # Salida del pipeline de An. Insumos (se regenera cada corrida)
 ├── data/an-vinos.json              # Salida del pipeline de An. Vinos (se regenera cada corrida)
 ├── data/an-bebidas.json            # Salida del pipeline de An. Bebidas (se regenera cada corrida)
+├── data/om-insumos.json            # Salida del pipeline de Om. Insumos (se regenera cada corrida)
+├── data/om-bebidas.json            # Salida del pipeline de Om. Bebidas (se regenera cada corrida)
+├── js/pages/om-insumos.js          # Renderer de "Om. Insumos" (sin slicer Filtro Dif; agrupa por Tabla[Insumo])
+├── js/pages/om-bebidas.js          # Renderer de "Om. Bebidas" (con Filtro Dif; agrupa por Producto)
 ├── pipeline/
 │   ├── package.json
 │   ├── build-an-insumos.mjs        # Orquestador: fetch + transform + medidas -> data/an-insumos.json
 │   ├── build-an-vinos.mjs          # Wrapper delgado (fija categorías) -> data/an-vinos.json
 │   ├── build-an-bebidas.mjs        # Wrapper delgado (fija categorías) -> data/an-bebidas.json
+│   ├── build-om-insumos.mjs        # Wrapper delgado -> data/om-insumos.json
+│   ├── build-om-bebidas.mjs        # Wrapper delgado -> data/om-bebidas.json
 │   └── lib/
 │       ├── sheets.mjs              # fetch + parseo CSV (Google Sheets publicados) + unpivot genérico
 │       ├── izi-api.mjs             # login + fetch de ventas/Dim_Producto_iZi/movimientos (API iZi Soluciones)
 │       ├── calendar.mjs            # réplica de la tabla calculada Calendar (WeekYear, WEEKNUM tipo Excel 2, etc.)
 │       ├── measures-an-insumos.mjs # réplica en JS puro de las 13 medidas DAX de "Anc. Insumos"
 │       ├── measures-anc-beb.mjs    # réplica en JS puro de las 15 medidas DAX de "Anc. Beb y Vin"
-│       └── anc-beb-vin-pipeline.mjs # orquestador COMPARTIDO de "An. Vinos"/"An. Bebidas" (fetch +
-│                                      cálculo, parametrizado por lista de categorías de página)
+│       ├── anc-beb-vin-pipeline.mjs # orquestador COMPARTIDO de "An. Vinos"/"An. Bebidas" (fetch +
+│       │                              cálculo, parametrizado por lista de categorías de página)
+│       ├── measures-omuh.mjs       # réplica en JS puro de las 24 medidas DAX de "Omuh Insumos" (9)
+│       │                              + "Omuh Beb" (15), con las funciones de atribución compartidas
+│       │                              (insumoPorCodProducto, vtasAncIziOmuh, cortesiasOmuh, etc.)
+│       └── omuh-pipeline.mjs       # orquestador COMPARTIDO de "Om. Insumos"/"Om. Bebidas" (fetch +
+│                                      cálculo; ambos exponen build*Data() independientes pero
+│                                      reutilizan los mismos loaders/funciones de atribución)
 └── ANALISIS_PBIX.md                # Análisis exhaustivo del modelo PBIX (fuente de verdad)
 ```
 
@@ -129,15 +141,52 @@ ANALISIS_PBIX.md). Reutiliza exactamente el mismo `pipeline/lib/anc-beb-vin-pipe
 mismas 15 medidas de "Anc. Beb y Vin" que "An. Vinos" — no hay lógica nueva que validar, solo el
 filtro de categoría (ver sección de validación abajo).
 
-### 4. Servir el sitio estático
+### 4. Correr los pipelines de "Om. Insumos" / "Om. Bebidas" (lado omuH)
+
+```bash
+# Bash / Git Bash
+export IZI_EMAIL="..."
+export IZI_PASSWORD="..."
+node pipeline/build-om-insumos.mjs
+node pipeline/build-om-bebidas.mjs
+```
+
+```powershell
+# PowerShell
+$env:IZI_EMAIL = "..."
+$env:IZI_PASSWORD = "..."
+node pipeline/build-om-insumos.mjs
+node pipeline/build-om-bebidas.mjs
+```
+
+Ambos scripts son wrappers delgados sobre `pipeline/lib/omuh-pipeline.mjs`, que descarga: los 4
+Google Sheets nuevos de omuH (`Inventarios Unitarios GS omuh`, `Compras Insumos omuH`,
+`Salidas y Mermas omuH`, `Inventarios OMUH` — **spreadsheet propio de omuH, distinto** al de
+Beb/Vin y al de Ancestral, confirmado leyendo cada `.tmdl`, no asumido), las 2 hojas del workbook
+"Fuente Pedidos ya" (`Ventas Pedidos Ya` y `Ventas Extras iZi`, exportadas individualmente como CSV
+por su propio `gid` en vez de parsear el `.xlsx`), `Pesos platos` (reutilizado del spreadsheet de
+Ancestral, para `Cantidad2` de `fac_ventas_Ancestral_iZi`), y vía la API de iZi: `Dim_Producto_iZi`,
+facturas de omuH (sucursal 81761) y de Ancestral (sucursal 79344, ventas cruzadas), y
+`Mov Inv omuh (5)` (reutiliza `izi-api.mjs::fetchMovimientosBeb` sin cambios, ya usado por
+"An. Bebidas"/"An. Vinos"). Calcula las 9 medidas de "Omuh Insumos" (agrupadas por `Tabla[Insumo]`
+— **sólo 3 valores reales**: "Carne Molida 130g", "Pechuga de Pollo", "Pesca Amazonica`, confirmado
+en vivo con `EVALUATE Tabla`) y las 15 de "Omuh Beb" (agrupadas por `Dim_Producto_iZi[Producto]`,
+filtrado a categorías de bebidas), compartiendo la lógica de `Vtas Anc Izi Om Ins`/`Cortesias Om Ins`
+entre ambas (ver `pipeline/lib/measures-omuh.mjs`).
+
+Si se omiten `IZI_EMAIL`/`IZI_PASSWORD`, ambos pipelines corren pero casi todas las medidas quedan
+en 0/vacías (dependen del catálogo `Dim_Producto_iZi`) — se imprime una advertencia.
+
+### 5. Servir el sitio estático
 
 ```powershell
 powershell -File tools/devserver.ps1 -Port 5500
 ```
 
 Y abrir `http://localhost:5500`. La página "An. Insumos" (activa por defecto, igual que en el PBIX
-original) lee `data/an-insumos.json`, "An. Vinos" lee `data/an-vinos.json` y "An. Bebidas" lee
-`data/an-bebidas.json`, las tres vía `fetch` relativo.
+original) lee `data/an-insumos.json`, "An. Vinos" lee `data/an-vinos.json`, "An. Bebidas" lee
+`data/an-bebidas.json`, "Om. Insumos" lee `data/om-insumos.json` y "Om. Bebidas" lee
+`data/om-bebidas.json`, todas vía `fetch` relativo.
 
 ## Fuente de datos (confirmada, ver ANALISIS_PBIX.md sección 1)
 
@@ -265,10 +314,79 @@ sin datos, nunca cambiaría un número mostrado. Si se requiere fidelidad 1:1 de
 haría falta un segundo parámetro de categorías (independiente de las de página) en
 `anc-beb-vin-pipeline.mjs`.
 
+## Validación de "Om. Insumos"
+
+Los cálculos de `om-insumos.json` se compararon número por número contra el modelo Power BI real
+(`dax_query_operations` / `EVALUATE CALCULATETABLE(SUMMARIZECOLUMNS('Tabla'[Insumo], 'Calendar'
+[WeekYear], ...))`) para los **3 insumos reales** de `Tabla[Insumo]` ("Carne Molida 130g",
+"Pechuga de Pollo", "Pesca Amazonica" — confirmado en vivo que `Tabla` sólo tiene 3 filas, no la
+lista larga de insumos que sugería el resumen inicial) y **3 semanas** (202636, 202637 cerradas,
+202638 en curso): **coincidencia exacta en las 13 columnas de la carpeta "Omuh Insumos"** (Inv.-7,
+Compras, Vtas Izi, Vtas Anc Izi, Vtas PY, Vtas Ext., Vtas Vegg, Cortesías, Salidas, Vtas Tot., Inv.,
+Cierre, Dif.) para las 2 semanas cerradas, en los 3 insumos.
+
+La semana en curso (202638, parcial) también coincide exacto contra DAX en las 3 filas, incluido un
+caso interesante: `Salidas Om Ins` de "Carne Molida 130g" = **-3** (una corrección real: la fila de
+`Salidas y Mermas omuH` fechada 17-sep-2026 dice "Se mandaron 6 cortesías pero sólo salieron 3",
+`Porciones = -3` en el Google Sheet) — el pipeline y el DAX en vivo coinciden exactamente en ese
+valor negativo, confirmado con una consulta DAX dirigida a esa celda.
+
+## Validación de "Om. Bebidas"
+
+Los cálculos de `om-bebidas.json` se compararon número por número contra el modelo Power BI real
+(misma técnica, agrupado por `Dim_Producto_iZi[Producto]` filtrado a
+`Categoria IN {"5. Bebidas alcohólicas","CERVEZA","GASEOSA","4. Bebidas no alcohólicas"}`) para
+**27 productos con movimiento real** en la semana 202637, en las 11 columnas de la tabla resumen:
+**24/27 productos coinciden exactamente**.
+
+**Bugs reales encontrados y corregidos durante la construcción** (no se reportó "listo" hasta
+corregirlos y revalidar):
+
+1. **Falta de filtro de semana en `[Vtas Anc Izi Om Ins]` evaluado en contexto de Producto**: la
+   primera versión de `buildOmBebidasData` sumaba TODAS las ventas cruzadas de Ancestral de los
+   últimos 60 días (57 filas) en vez de sólo la semana consultada (10 filas) — p.ej. "HUARI" salía
+   113 en vez de 26. Corregido agregando el filtro `weekYear(r.fecha) === w.weekYear` que ya tenían
+   el resto de medidas (`pipeline/lib/omuh-pipeline.mjs`).
+2. **Reemplazo "Huari Tradicional"→"Cerveza Huari" faltante**: el M original de
+   `'Extras - iZi omuH'` aplica `Table.ReplaceValue(...,"Huari Tradicional","Cerveza Huari",...)`
+   sobre la columna `Value` ANTES de unirla a `Dim_Producto_iZi`; se había omitido, causando
+   `Vtas Ext Om Beb` de "Cerveza Huari" = 0 en vez de 105. Corregido.
+3. **Join case-sensible entre `Extras[Value]` y `Dim_Producto_iZi[Producto]`**: DAX compara texto
+   sin distinguir mayúsculas por defecto; el join inicial era exacto (case-sensitive), así que
+   `Value="Fanta"` no matcheaba `Producto="FANTA"`. Corregido con normalización case/acento-
+   insensible (misma función `norm()` usada en todo `measures-omuh.mjs`).
+
+**Discrepancia conocida, documentada (no oculta), NO corregida (deriva real de catálogo, no bug)**:
+para 3 de los 27 productos (**"FANTA"/"COCA COLA"/"SPRITE"**, en mayúsculas), el catálogo
+`Dim_Producto_iZi` **en vivo** tiene un único código (el de Ancestral, p.ej. `ANC00106` para
+"FANTA"), mientras que el modelo Power BI actualmente abierto (cacheado, no refrescado
+recientemente) todavía tiene DOS códigos para el mismo nombre visible: el de Ancestral (en
+mayúsculas) y uno de omuH ahora inactivo/eliminado del catálogo vivo (`OMU00024`, con
+`Producto="Fanta"` en minúscula inicial). El pipeline, que lee el catálogo EN VIVO, correctamente
+separa "FANTA" (código Ancestral) de "Fanta" (código omuH, todavía referenciado por compras/ventas
+históricas) como dos filas distintas; el modelo cacheado del PBIX todavía los consolida bajo una
+sola fila. **Verificado que la suma de ambas filas coincide exactamente** con el valor validado
+contra DAX (p.ej. Compras "FANTA"=0 + "Fanta"=36 = 36, igual al DAX cacheado) — es decir, los
+NÚMEROS totales son correctos, sólo cambia bajo qué nombre de fila se muestran, por la misma razón
+de desfase de actualización de catálogo ya documentada extensamente arriba para otros módulos
+(no se oculta, se explica en el propio comentario de cabecera de `js/pages/om-bebidas.js`).
+
+## Arquitectura compartida Om. Insumos / Om. Bebidas
+
+`Ventas Tot Om Beb` usa literalmente `[Vtas Anc Izi Om Ins]`, y `Cierre Om Beb` usa literalmente
+`[Cortesias Om Ins]` — ambas son medidas de la carpeta "Omuh Insumos" reutilizadas tal cual dentro
+de "Omuh Beb", evaluadas en un contexto de fila distinto (Producto en vez de Insumo). En DAX esto
+"simplemente funciona" por el motor de contexto de filtro; en JS puro se replica con
+`pipeline/lib/measures-omuh.mjs::vtasAncIziOmuh(rows)` y `cortesiasOmuh(rows)` — funciones puras
+que sólo conocen el SWITCH de factores / el filtro `tipoMovimiento="interna"`, y el CALLER
+(`omuh-pipeline.mjs`) les pasa las filas ya filtradas por insumo (para las medidas de "Omuh
+Insumos") o por producto (para los términos reutilizados dentro de "Omuh Beb"). Así la fórmula de
+negocio vive en un solo lugar y ambos módulos quedan consistentes por construcción.
+
 ## Próximos pasos
 
-1. Replicar el mismo patrón (pipeline compartido + wrapper delgado + renderer) para Om. Insumos y
-   Om. Bebidas.
+Los 5 módulos reales del PBIX (An. Insumos, An. Vinos, An. Bebidas, Om. Insumos, Om. Bebidas) están
+completos, cableados y validados. No quedan módulos pendientes de este dashboard.
 
 (El repo ya está creado en GitHub con el GitHub Action de refresh y GitHub Pages activo — ver
 sección "Fuente de datos" abajo.)

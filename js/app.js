@@ -33,14 +33,14 @@ const DASHBOARD = {
       {
         id: "om-insumos",
         title: "Om. Insumos",
-        filters: ["Categoría (selección invertida)", "Insumo (selección invertida)"],
-        panels: ["Tabla / gráfico de inventario de insumos (pendiente de mapear medidas)"]
+        filters: ["Insumo (Tabla[Insumo], selección invertida)"],
+        panels: ["Tabla / gráfico de inventario de insumos omuH"]
       },
       {
         id: "om-bebidas",
         title: "Om. Bebidas",
         filters: ["Categoría IN: 5. Bebidas alcohólicas, CERVEZA, GASEOSA, 4. Bebidas no alcohólicas"],
-        panels: ["Tabla / gráfico de inventario de bebidas (pendiente de mapear medidas)"]
+        panels: ["Tabla / gráfico de inventario de bebidas omuH"]
       }
     ]
   }
@@ -99,6 +99,17 @@ function renderContent() {
   // filtro de categoría de página -- ver pipeline/lib/anc-beb-vin-pipeline.mjs y js/pages/an-bebidas.js).
   if (page.id === "an-bebidas" && window.AnBebidasPage) {
     window.AnBebidasPage.render(kpiRow, grid, chips);
+    return;
+  }
+
+  // "Om. Insumos" y "Om. Bebidas" (lado omuH): pipeline compartido en pipeline/lib/omuh-pipeline.mjs
+  // (las medidas de Omuh Beb reutilizan medidas de Omuh Insumos -- ver esa nota de arquitectura).
+  if (page.id === "om-insumos" && window.OmInsumosPage) {
+    window.OmInsumosPage.render(kpiRow, grid, chips);
+    return;
+  }
+  if (page.id === "om-bebidas" && window.OmBebidasPage) {
+    window.OmBebidasPage.render(kpiRow, grid, chips);
     return;
   }
 

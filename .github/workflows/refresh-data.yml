@@ -40,6 +40,18 @@ jobs:
           IZI_PASSWORD: ${{ secrets.IZI_PASSWORD }}
         run: node pipeline/build-an-bebidas.mjs
 
+      - name: Build Om. Insumos data
+        env:
+          IZI_EMAIL: ${{ secrets.IZI_EMAIL }}
+          IZI_PASSWORD: ${{ secrets.IZI_PASSWORD }}
+        run: node pipeline/build-om-insumos.mjs
+
+      - name: Build Om. Bebidas data
+        env:
+          IZI_EMAIL: ${{ secrets.IZI_EMAIL }}
+          IZI_PASSWORD: ${{ secrets.IZI_PASSWORD }}
+        run: node pipeline/build-om-bebidas.mjs
+
       - name: Build Ventas por Producto data
         env:
           IZI_EMAIL: ${{ secrets.IZI_EMAIL }}

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T18:55:39.388Z",
+  "generatedAt": "2026-09-18T19:06:30.545Z",
   "rangoFechas": {
     "desde": "2026-07-13",
     "hasta": "2026-09-18"
@@ -126,11 +126,11 @@
       "weekYear": "202638",
       "invMenos7": 44,
       "compras": 18,
-      "vtas": 20,
+      "vtas": 21,
       "salidas": 0,
-      "vtasTot": 20,
+      "vtasTot": 21,
       "inv": null,
-      "cierre": 42,
+      "cierre": 41,
       "dif": null
     },
     {
@@ -162,11 +162,11 @@
       "weekYear": "202638",
       "invMenos7": 15,
       "compras": 77,
-      "vtas": 11,
+      "vtas": 12,
       "salidas": 5.39,
-      "vtasTot": 16.39,
+      "vtasTot": 17.39,
       "inv": null,
-      "cierre": 75.61,
+      "cierre": 74.61,
       "dif": null
     },
     {
@@ -222,11 +222,11 @@
       "weekYear": "202638",
       "invMenos7": 19,
       "compras": 28,
-      "vtas": 14,
+      "vtas": 15,
       "salidas": 1,
-      "vtasTot": 15,
+      "vtasTot": 16,
       "inv": null,
-      "cierre": 32,
+      "cierre": 31,
       "dif": null
     },
     {
@@ -2212,6 +2212,18 @@
       "dif": null
     },
     {
+      "insumo": "Keperi",
+      "fecha": "2026-09-18",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 1,
+      "salidas": 0,
+      "invEsperado": 0,
+      "invIni": null,
+      "invFin": null,
+      "dif": null
+    },
+    {
       "insumo": "Llama",
       "fecha": "2026-09-18",
       "dia": "vie",
@@ -2228,9 +2240,9 @@
       "fecha": "2026-09-18",
       "dia": "vie",
       "compras": 19,
-      "vtas": 1,
+      "vtas": 2,
       "salidas": 0,
-      "invEsperado": 60.61,
+      "invEsperado": 59.61,
       "invIni": null,
       "invFin": null,
       "dif": null
@@ -2252,9 +2264,9 @@
       "fecha": "2026-09-18",
       "dia": "vie",
       "compras": 13,
-      "vtas": 1,
+      "vtas": 2,
       "salidas": 0,
-      "invEsperado": 13,
+      "invEsperado": 12,
       "invIni": null,
       "invFin": null,
       "dif": null
@@ -3196,7 +3208,7 @@
       },
       {
         "weekYear": "202638",
-        "valor": 120
+        "valor": 123
       }
     ],
     "Salidas": [
@@ -3248,7 +3260,7 @@
       },
       {
         "weekYear": "202638",
-        "valor": 138.31
+        "valor": 141.31
       }
     ],
     "Compras (Un)": [
@@ -3284,6 +3296,6 @@
     "filasSalidas": 811,
     "filasMatriz": 22,
     "filasInventarios": 383,
-    "filasVentasIzi": 5906
+    "filasVentasIzi": 5913
   }
 }

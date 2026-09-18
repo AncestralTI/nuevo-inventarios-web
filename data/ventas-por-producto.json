@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T18:56:40.600Z",
+  "generatedAt": "2026-09-18T19:07:38.566Z",
   "fuente": "API iZi Soluciones (facturas + items-inventarios), sucursal Ancestral (79344)",
   "rango": {
     "desde": "2026-08-19",
@@ -11293,6 +11293,62 @@
       "monto": 160
     },
     {
+      "codProducto": "ANC00105",
+      "producto": "COCA COLA SIN AZUCAR",
+      "categoria": "GASEOSA",
+      "fecha": "2026-09-18",
+      "cantidad": 1,
+      "monto": 15
+    },
+    {
+      "codProducto": "ANC00104",
+      "producto": "COCA COLA",
+      "categoria": "GASEOSA",
+      "fecha": "2026-09-18",
+      "cantidad": 1,
+      "monto": 15
+    },
+    {
+      "codProducto": "ANC00063",
+      "producto": "TACO PULLED PORK",
+      "categoria": "ENTRADAS",
+      "fecha": "2026-09-18",
+      "cantidad": 1,
+      "monto": 70
+    },
+    {
+      "codProducto": "ANC00093",
+      "producto": "KEPERI AHUMADO",
+      "categoria": "FUERTES",
+      "fecha": "2026-09-18",
+      "cantidad": 1,
+      "monto": 140
+    },
+    {
+      "codProducto": "ANC00099",
+      "producto": "PARRILLA OJO DE BIFE",
+      "categoria": "FUERTES",
+      "fecha": "2026-09-18",
+      "cantidad": 2,
+      "monto": 320
+    },
+    {
+      "codProducto": "ANC00101",
+      "producto": "PECHUGA DE POLLO CROCANTE",
+      "categoria": "FUERTES",
+      "fecha": "2026-09-18",
+      "cantidad": 2,
+      "monto": 260
+    },
+    {
+      "codProducto": "ANC00111",
+      "producto": "JAMAICA MENTA",
+      "categoria": "JUGOS",
+      "fecha": "2026-09-18",
+      "cantidad": 1,
+      "monto": 15
+    },
+    {
       "codProducto": "ANC00112",
       "producto": "LIMONADA",
       "categoria": "JUGOS",
@@ -11325,14 +11381,6 @@
       "monto": 150
     },
     {
-      "codProducto": "ANC00101",
-      "producto": "PECHUGA DE POLLO CROCANTE",
-      "categoria": "FUERTES",
-      "fecha": "2026-09-18",
-      "cantidad": 1,
-      "monto": 130
-    },
-    {
       "codProducto": "ANC00038",
       "producto": "APEROL SPRITZ",
       "categoria": "COCTELES",
@@ -11347,14 +11395,6 @@
       "fecha": "2026-09-18",
       "cantidad": 1,
       "monto": 75
-    },
-    {
-      "codProducto": "ANC00099",
-      "producto": "PARRILLA OJO DE BIFE",
-      "categoria": "FUERTES",
-      "fecha": "2026-09-18",
-      "cantidad": 1,
-      "monto": 160
     },
     {
       "codProducto": "ANC00002",

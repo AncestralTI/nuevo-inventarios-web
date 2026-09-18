@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T18:56:08.249Z",
+  "generatedAt": "2026-09-18T19:06:58.306Z",
   "rangoFechas": {
     "desde": "2026-07-13",
     "hasta": "2026-09-18"
@@ -292,13 +292,13 @@
       "weekYear": "202638",
       "invMenos7": 18,
       "compras": 24,
-      "vtas": 5,
+      "vtas": 6,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 1,
-      "vtasTot": 6,
+      "vtasTot": 7,
       "inv": null,
-      "cierre": 36,
+      "cierre": 35,
       "dif": null
     },
     {
@@ -306,13 +306,13 @@
       "weekYear": "202638",
       "invMenos7": 57,
       "compras": 0,
-      "vtas": 6,
+      "vtas": 7,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 6,
+      "vtasTot": 7,
       "inv": null,
-      "cierre": 51,
+      "cierre": 50,
       "dif": null
     },
     {
@@ -4376,6 +4376,32 @@
       "dif": null
     },
     {
+      "producto": "COCA COLA",
+      "fecha": "2026-09-18",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 35,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "COCA COLA SIN AZUCAR",
+      "fecha": "2026-09-18",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 50,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "POTOSINA PILSNER",
       "fecha": "2026-09-18",
       "dia": "vie",
@@ -4751,7 +4777,7 @@
       },
       {
         "weekYear": "202638",
-        "valor": 22
+        "valor": 24
       }
     ],
     "Vtas Ext": [
@@ -4829,7 +4855,7 @@
       },
       {
         "weekYear": "202638",
-        "valor": 23
+        "valor": 25
       }
     ],
     "Salidas": [
@@ -4891,7 +4917,7 @@
     "filasInventariosGs": 3662,
     "filasCompras": 2227,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 5906,
+    "filasVentasIzi": 5913,
     "filasMovInv": 420,
     "filasDimProducto": 439,
     "warnings": []

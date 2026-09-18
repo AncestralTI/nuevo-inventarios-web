@@ -40,9 +40,6 @@ body {
   background: var(--bg);
   color: var(--text);
   transition: background-color 0.2s ease;
-  display: flex;
-  flex-direction: column;
-  min-height: 100vh;
 }
 
 /* ------------------------------------------------------------------ */
@@ -139,8 +136,6 @@ body {
 }
 
 .content {
-  flex: 1 1 auto;
-  min-height: 0;
   display: flex;
   flex-direction: column;
   gap: 10px;
@@ -223,23 +218,20 @@ body {
   gap: 16px;
 }
 
-/* Layout tipo "canvas" de una sola pantalla para los módulos con datos reales (An. Insumos,
-   An. Vinos): en pantallas suficientemente altas, todo cabe sin scroll de página -- solo las
-   tablas largas (dentro de .table-scroll) tienen su propio scroll interno, igual que un
-   pivotTable de Power BI. Cada fila/panel tiene un mínimo en píxeles (no 0) para que en
-   ventanas más bajas los datos sigan siendo legibles -- si no alcanza el alto, la PÁGINA
-   scrollea (mejor eso que tablas/gráficos invisibles comprimidos a 0px).
-*/
+/* Layout tipo dashboard para los módulos con datos reales (An. Insumos, An. Vinos): resumen +
+   gráfico lado a lado, detalle abajo -- más denso y parecido al PBIX que un stack vertical
+   simple. Alturas naturales (auto): en pantallas altas se ve casi todo sin scrollear demasiado,
+   en pantallas más bajas la PÁGINA scrollea con normalidad -- cada tabla larga además tiene su
+   propio scroll interno (.table-scroll) para no volverse infinita. */
 .panel-grid--dashboard {
-  flex: 1 1 auto;
   display: grid;
   grid-template-columns: minmax(0, 1.4fr) minmax(0, 1fr);
-  grid-template-rows: auto minmax(280px, 1.3fr) minmax(220px, 1fr);
   grid-template-areas:
     "slicers slicers"
     "resumen chart"
     "detalle detalle";
   gap: 12px;
+  align-items: start;
 }
 
 .panel--slicers { grid-area: slicers; }
@@ -247,45 +239,26 @@ body {
 .panel--chart { grid-area: chart; }
 .panel--detalle { grid-area: detalle; }
 
-.panel-grid--dashboard .panel--resumen,
-.panel-grid--dashboard .panel--chart,
-.panel-grid--dashboard .panel--detalle {
-  display: flex;
-  flex-direction: column;
-  min-height: 200px;
-}
-
 .panel-grid--dashboard .panel--resumen .table-scroll,
 .panel-grid--dashboard .panel--detalle .table-scroll {
-  flex: 1 1 auto;
-  min-height: 140px;
-  max-height: none;
+  max-height: 420px;
 }
 
 .panel-grid--dashboard .chart-canvas-wrap {
   position: relative;
-  flex: 1 1 auto;
-  min-height: 140px;
+  height: 420px;
 }
-
-.panel-grid--dashboard .panel__note { flex: 0 0 auto; }
-.panel-grid--dashboard .dif-legend { flex: 0 0 auto; }
 
 @media (max-width: 900px) {
   .panel-grid--dashboard {
     grid-template-columns: 1fr;
-    grid-template-rows: auto auto auto auto;
     grid-template-areas:
       "slicers"
       "resumen"
       "chart"
       "detalle";
   }
-  .panel-grid--dashboard .panel--resumen .table-scroll,
-  .panel-grid--dashboard .panel--detalle .table-scroll {
-    max-height: 360px;
-  }
-  .panel-grid--dashboard .chart-canvas-wrap { height: 260px; }
+  .panel-grid--dashboard .chart-canvas-wrap { height: 280px; }
 }
 
 .panel {

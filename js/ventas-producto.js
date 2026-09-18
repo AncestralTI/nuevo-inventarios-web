@@ -3,6 +3,10 @@
 // a partir de datos reales de la API iZi — facturas + catálogo de productos), con detalle
 // diario por producto, y agrega en el navegador según los filtros elegidos.
 
+if (typeof Chart !== "undefined" && typeof ChartDataLabels !== "undefined") {
+  Chart.register(ChartDataLabels);
+}
+
 const state = { data: null, categoria: "__all__", top: 15, desde: null, hasta: null, chart: null };
 
 const primary = getComputedStyle(document.documentElement).getPropertyValue("--primary").trim() || "#2f5d50";
@@ -80,12 +84,20 @@ function render() {
         onHover: (evt, elements) => {
           evt.native.target.style.cursor = elements.length ? "pointer" : "default";
         },
+        layout: { padding: { right: 34 } },
         plugins: {
           legend: { display: false },
           tooltip: {
             callbacks: {
               label: (item) => `Cantidad vendida: ${fmtNum(item.parsed.x)}`
             }
+          },
+          datalabels: {
+            anchor: "end",
+            align: "end",
+            color: getComputedStyle(document.documentElement).getPropertyValue("--text").trim() || "#1f2430",
+            font: { weight: "700", size: 11 },
+            formatter: (value) => fmtNum(value)
           }
         },
         scales: {

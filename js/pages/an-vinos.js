@@ -14,6 +14,10 @@
 // cuando la página activa es "an-vinos".
 
 (function () {
+  if (typeof Chart !== "undefined" && typeof ChartDataLabels !== "undefined") {
+    Chart.register(ChartDataLabels);
+  }
+
   const DATA_URL = "data/an-vinos.json";
   const TITULO_MODULO = "An. Vinos";
   const FILTRO_PAGINA_TEXTO = "Categoría IN: CERVEZA, VINOS, VINOS IMPORTADOS";
@@ -432,12 +436,20 @@
         onHover: (evt, elements) => {
           evt.native.target.style.cursor = elements.length ? "pointer" : "default";
         },
+        layout: { padding: { top: 22 } },
         plugins: {
           legend: { display: false },
           tooltip: {
             callbacks: {
               label: (ctx) => ` ${ctx.dataset.label}: ${fmtNum(ctx.parsed.y)}`,
             },
+          },
+          datalabels: {
+            anchor: "end",
+            align: "top",
+            color: getComputedStyle(document.documentElement).getPropertyValue("--text").trim() || "#1f2430",
+            font: { weight: "700", size: 11 },
+            formatter: (value) => fmtNum(value),
           },
         },
         scales: {

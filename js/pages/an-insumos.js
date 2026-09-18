@@ -8,6 +8,10 @@
 // panelGrid/kpiRow cuando la página activa es "an-insumos".
 
 (function () {
+  if (typeof Chart !== "undefined" && typeof ChartDataLabels !== "undefined") {
+    Chart.register(ChartDataLabels);
+  }
+
   const DATA_URL = "data/an-insumos.json";
 
   // Insumos excluidos por el filtro de página real del PBIX (sección 4.3 de ANALISIS_PBIX.md).
@@ -417,12 +421,20 @@
         onHover: (evt, elements) => {
           evt.native.target.style.cursor = elements.length ? "pointer" : "default";
         },
+        layout: { padding: { top: 22 } },
         plugins: {
           legend: { display: false },
           tooltip: {
             callbacks: {
               label: (ctx) => ` ${ctx.dataset.label}: ${fmtNum(ctx.parsed.y)}`,
             },
+          },
+          datalabels: {
+            anchor: "end",
+            align: "top",
+            color: getComputedStyle(document.documentElement).getPropertyValue("--text").trim() || "#1f2430",
+            font: { weight: "700", size: 11 },
+            formatter: (value) => fmtNum(value),
           },
         },
         scales: {

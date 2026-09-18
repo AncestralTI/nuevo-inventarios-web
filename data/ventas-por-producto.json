@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T02:20:53.382Z",
+  "generatedAt": "2026-09-18T02:37:58.296Z",
   "fuente": "API iZi Soluciones (facturas + items-inventarios), sucursal Ancestral (79344)",
   "rango": {
     "desde": "2026-08-19",
@@ -11045,6 +11045,46 @@
       "monto": 40
     },
     {
+      "codProducto": "ANC00210",
+      "producto": "SINGANI MULE",
+      "categoria": "COCTELES",
+      "fecha": "2026-09-17",
+      "cantidad": 1,
+      "monto": 40
+    },
+    {
+      "codProducto": "ANC00099",
+      "producto": "PARRILLA OJO DE BIFE",
+      "categoria": "FUERTES",
+      "fecha": "2026-09-17",
+      "cantidad": 2,
+      "monto": 320
+    },
+    {
+      "codProducto": "ANC00098",
+      "producto": "PARRILLA KEPERI",
+      "categoria": "FUERTES",
+      "fecha": "2026-09-17",
+      "cantidad": 1,
+      "monto": 140
+    },
+    {
+      "codProducto": "ANC00112",
+      "producto": "LIMONADA",
+      "categoria": "JUGOS",
+      "fecha": "2026-09-17",
+      "cantidad": 2,
+      "monto": 30
+    },
+    {
+      "codProducto": "ANC00101",
+      "producto": "PECHUGA DE POLLO CROCANTE",
+      "categoria": "FUERTES",
+      "fecha": "2026-09-17",
+      "cantidad": 2,
+      "monto": 260
+    },
+    {
       "codProducto": "ANC00058",
       "producto": "ALCACHOFAS",
       "categoria": "ENTRADAS",
@@ -11157,14 +11197,6 @@
       "monto": 280
     },
     {
-      "codProducto": "ANC00099",
-      "producto": "PARRILLA OJO DE BIFE",
-      "categoria": "FUERTES",
-      "fecha": "2026-09-17",
-      "cantidad": 1,
-      "monto": 160
-    },
-    {
       "codProducto": "ANC00131",
       "producto": "ARANJUEZ / TANNAT \"ORIGEN\"",
       "categoria": "VINOS",
@@ -11179,14 +11211,6 @@
       "fecha": "2026-09-17",
       "cantidad": 2,
       "monto": 100
-    },
-    {
-      "codProducto": "ANC00101",
-      "producto": "PECHUGA DE POLLO CROCANTE",
-      "categoria": "FUERTES",
-      "fecha": "2026-09-17",
-      "cantidad": 1,
-      "monto": 130
     },
     {
       "codProducto": "ANC00088",

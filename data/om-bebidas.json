@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T16:21:20.762Z",
+  "generatedAt": "2026-09-19T16:36:42.134Z",
   "rangoFechas": {
     "desde": "2026-07-13",
     "hasta": "2026-09-19"
@@ -430,14 +430,14 @@
       "weekYear": "202638",
       "invMenos7": 25,
       "compras": 30,
-      "vtasIzi": 8,
+      "vtasIzi": 9,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 8,
+      "vtasTot": 9,
       "inv": null,
-      "cierre": 47,
+      "cierre": 46,
       "dif": null
     },
     {
@@ -610,14 +610,14 @@
       "weekYear": "202638",
       "invMenos7": 13,
       "compras": 26,
-      "vtasIzi": 7,
+      "vtasIzi": 8,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 7,
+      "vtasTot": 8,
       "inv": null,
-      "cierre": 32,
+      "cierre": 31,
       "dif": null
     },
     {
@@ -8560,6 +8560,34 @@
       "dif": null
     },
     {
+      "producto": "Curandero",
+      "fecha": "2026-09-19",
+      "dia": "sáb",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 46,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "Mandala Frambuesa",
+      "fecha": "2026-09-19",
+      "dia": "sáb",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 31,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "Agua",
       "fecha": "2026-09-07",
       "dia": "lun",
@@ -10222,7 +10250,7 @@
       },
       {
         "weekYear": "202638",
-        "valor": 177.75
+        "valor": 179.75
       }
     ],
     "Vtas Ext.": [
@@ -10300,7 +10328,7 @@
       },
       {
         "weekYear": "202638",
-        "valor": 539.75
+        "valor": 541.75
       }
     ],
     "Compras": [
@@ -10336,7 +10364,7 @@
     "filasInventariosOmuh": 349,
     "filasCompras": 1495,
     "filasSalidas": 68,
-    "filasVentasIzi": 8331,
+    "filasVentasIzi": 8341,
     "filasVentasPY": 10529,
     "filasExtras": 15242,
     "filasMovInv": 422,

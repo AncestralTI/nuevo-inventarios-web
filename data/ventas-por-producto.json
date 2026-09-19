@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T16:36:44.004Z",
+  "generatedAt": "2026-09-19T16:45:35.540Z",
   "fuente": "API iZi Soluciones (facturas + items-inventarios), sucursal Ancestral (79344)",
   "rango": {
     "desde": "2026-08-20",
@@ -350,7 +350,7 @@
     },
     {
       "codProducto": "ANC00258",
-      "producto": "COPA- MARQUEZ MOSCATEL",
+      "producto": "COPA MOSCATEL - MARQUEZ DE LA VIÑA",
       "categoria": "VINOS POR COPA",
       "fecha": "2026-08-20",
       "cantidad": 1,
@@ -1238,7 +1238,7 @@
     },
     {
       "codProducto": "ANC00167",
-      "producto": "COPA CEPA DE ORO - ORANGE",
+      "producto": "COPA ORANGE - CEPA DE ORO",
       "categoria": "VINOS POR COPA",
       "fecha": "2026-08-22",
       "cantidad": 1,
@@ -1318,7 +1318,7 @@
     },
     {
       "codProducto": "ANC00258",
-      "producto": "COPA- MARQUEZ MOSCATEL",
+      "producto": "COPA MOSCATEL - MARQUEZ DE LA VIÑA",
       "categoria": "VINOS POR COPA",
       "fecha": "2026-08-22",
       "cantidad": 1,
@@ -2990,7 +2990,7 @@
     },
     {
       "codProducto": "ANC00280",
-      "producto": "COPA RAIZ KHOLBERG",
+      "producto": "COPA TANNAT RAIZ - KOHLBERG",
       "categoria": "VINOS POR COPA",
       "fecha": "2026-08-27",
       "cantidad": 2,
@@ -3134,7 +3134,7 @@
     },
     {
       "codProducto": "ANC00258",
-      "producto": "COPA- MARQUEZ MOSCATEL",
+      "producto": "COPA MOSCATEL - MARQUEZ DE LA VIÑA",
       "categoria": "VINOS POR COPA",
       "fecha": "2026-08-28",
       "cantidad": 1,
@@ -3278,7 +3278,7 @@
     },
     {
       "codProducto": "ANC00280",
-      "producto": "COPA RAIZ KHOLBERG",
+      "producto": "COPA TANNAT RAIZ - KOHLBERG",
       "categoria": "VINOS POR COPA",
       "fecha": "2026-08-28",
       "cantidad": 7,
@@ -3422,7 +3422,7 @@
     },
     {
       "codProducto": "ANC00167",
-      "producto": "COPA CEPA DE ORO - ORANGE",
+      "producto": "COPA ORANGE - CEPA DE ORO",
       "categoria": "VINOS POR COPA",
       "fecha": "2026-08-28",
       "cantidad": 1,
@@ -3702,7 +3702,7 @@
     },
     {
       "codProducto": "ANC00280",
-      "producto": "COPA RAIZ KHOLBERG",
+      "producto": "COPA TANNAT RAIZ - KOHLBERG",
       "categoria": "VINOS POR COPA",
       "fecha": "2026-08-29",
       "cantidad": 8,
@@ -3894,7 +3894,7 @@
     },
     {
       "codProducto": "ANC00167",
-      "producto": "COPA CEPA DE ORO - ORANGE",
+      "producto": "COPA ORANGE - CEPA DE ORO",
       "categoria": "VINOS POR COPA",
       "fecha": "2026-08-29",
       "cantidad": 2,
@@ -4366,7 +4366,7 @@
     },
     {
       "codProducto": "ANC00280",
-      "producto": "COPA RAIZ KHOLBERG",
+      "producto": "COPA TANNAT RAIZ - KOHLBERG",
       "categoria": "VINOS POR COPA",
       "fecha": "2026-08-30",
       "cantidad": 6,
@@ -4702,7 +4702,7 @@
     },
     {
       "codProducto": "ANC00167",
-      "producto": "COPA CEPA DE ORO - ORANGE",
+      "producto": "COPA ORANGE - CEPA DE ORO",
       "categoria": "VINOS POR COPA",
       "fecha": "2026-08-30",
       "cantidad": 1,
@@ -4894,7 +4894,7 @@
     },
     {
       "codProducto": "ANC00280",
-      "producto": "COPA RAIZ KHOLBERG",
+      "producto": "COPA TANNAT RAIZ - KOHLBERG",
       "categoria": "VINOS POR COPA",
       "fecha": "2026-09-01",
       "cantidad": 4,
@@ -5518,7 +5518,7 @@
     },
     {
       "codProducto": "ANC00280",
-      "producto": "COPA RAIZ KHOLBERG",
+      "producto": "COPA TANNAT RAIZ - KOHLBERG",
       "categoria": "VINOS POR COPA",
       "fecha": "2026-09-02",
       "cantidad": 1,
@@ -5862,7 +5862,7 @@
     },
     {
       "codProducto": "ANC00280",
-      "producto": "COPA RAIZ KHOLBERG",
+      "producto": "COPA TANNAT RAIZ - KOHLBERG",
       "categoria": "VINOS POR COPA",
       "fecha": "2026-09-03",
       "cantidad": 2,
@@ -6126,7 +6126,7 @@
     },
     {
       "codProducto": "ANC00258",
-      "producto": "COPA- MARQUEZ MOSCATEL",
+      "producto": "COPA MOSCATEL - MARQUEZ DE LA VIÑA",
       "categoria": "VINOS POR COPA",
       "fecha": "2026-09-04",
       "cantidad": 1,
@@ -7646,7 +7646,7 @@
     },
     {
       "codProducto": "ANC00280",
-      "producto": "COPA RAIZ KHOLBERG",
+      "producto": "COPA TANNAT RAIZ - KOHLBERG",
       "categoria": "VINOS POR COPA",
       "fecha": "2026-09-09",
       "cantidad": 1,
@@ -8062,7 +8062,7 @@
     },
     {
       "codProducto": "ANC00280",
-      "producto": "COPA RAIZ KHOLBERG",
+      "producto": "COPA TANNAT RAIZ - KOHLBERG",
       "categoria": "VINOS POR COPA",
       "fecha": "2026-09-10",
       "cantidad": 1,
@@ -8158,7 +8158,7 @@
     },
     {
       "codProducto": "ANC00258",
-      "producto": "COPA- MARQUEZ MOSCATEL",
+      "producto": "COPA MOSCATEL - MARQUEZ DE LA VIÑA",
       "categoria": "VINOS POR COPA",
       "fecha": "2026-09-10",
       "cantidad": 1,
@@ -8718,7 +8718,7 @@
     },
     {
       "codProducto": "ANC00280",
-      "producto": "COPA RAIZ KHOLBERG",
+      "producto": "COPA TANNAT RAIZ - KOHLBERG",
       "categoria": "VINOS POR COPA",
       "fecha": "2026-09-11",
       "cantidad": 4,
@@ -8918,7 +8918,7 @@
     },
     {
       "codProducto": "ANC00280",
-      "producto": "COPA RAIZ KHOLBERG",
+      "producto": "COPA TANNAT RAIZ - KOHLBERG",
       "categoria": "VINOS POR COPA",
       "fecha": "2026-09-12",
       "cantidad": 2,
@@ -9614,7 +9614,7 @@
     },
     {
       "codProducto": "ANC00167",
-      "producto": "COPA CEPA DE ORO - ORANGE",
+      "producto": "COPA ORANGE - CEPA DE ORO",
       "categoria": "VINOS POR COPA",
       "fecha": "2026-09-13",
       "cantidad": 1,
@@ -10750,7 +10750,7 @@
     },
     {
       "codProducto": "ANC00280",
-      "producto": "COPA RAIZ KHOLBERG",
+      "producto": "COPA TANNAT RAIZ - KOHLBERG",
       "categoria": "VINOS POR COPA",
       "fecha": "2026-09-17",
       "cantidad": 2,
@@ -11142,7 +11142,7 @@
     },
     {
       "codProducto": "ANC00280",
-      "producto": "COPA RAIZ KHOLBERG",
+      "producto": "COPA TANNAT RAIZ - KOHLBERG",
       "categoria": "VINOS POR COPA",
       "fecha": "2026-09-18",
       "cantidad": 6,
@@ -11190,7 +11190,7 @@
     },
     {
       "codProducto": "ANC00167",
-      "producto": "COPA CEPA DE ORO - ORANGE",
+      "producto": "COPA ORANGE - CEPA DE ORO",
       "categoria": "VINOS POR COPA",
       "fecha": "2026-09-18",
       "cantidad": 1,

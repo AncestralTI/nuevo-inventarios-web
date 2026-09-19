@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T02:21:07.290Z",
+  "generatedAt": "2026-09-19T02:32:50.003Z",
   "fuente": "API iZi Soluciones (facturas + items-inventarios), sucursal Ancestral (79344)",
   "rango": {
     "desde": "2026-08-20",
@@ -10773,6 +10773,110 @@
       "monto": 160
     },
     {
+      "codProducto": "ANC00073",
+      "producto": "EXPERIENCIA ANCESTRAL",
+      "categoria": "MENU DEGUSTACION",
+      "fecha": "2026-09-18",
+      "cantidad": 3,
+      "monto": 1350
+    },
+    {
+      "codProducto": "ANC00075",
+      "producto": "MARIDAJE ANCESTRAL",
+      "categoria": "MENU DEGUSTACION",
+      "fecha": "2026-09-18",
+      "cantidad": 3,
+      "monto": 900
+    },
+    {
+      "codProducto": "ANC00090",
+      "producto": "CHULETON (Kg)",
+      "categoria": "FUERTES",
+      "fecha": "2026-09-18",
+      "cantidad": 2.29,
+      "monto": 916
+    },
+    {
+      "codProducto": "ANC00001",
+      "producto": "AGUA C/G",
+      "categoria": "AGUAS",
+      "fecha": "2026-09-18",
+      "cantidad": 8,
+      "monto": 120
+    },
+    {
+      "codProducto": "ANC00130",
+      "producto": "BONARDA \"PIONERO\" - ARANJUEZ",
+      "categoria": "VINOS",
+      "fecha": "2026-09-18",
+      "cantidad": 1,
+      "monto": 235
+    },
+    {
+      "codProducto": "ANC00046",
+      "producto": "CHOCOLATE",
+      "categoria": "DULCES",
+      "fecha": "2026-09-18",
+      "cantidad": 3,
+      "monto": 150
+    },
+    {
+      "codProducto": "ANC00329",
+      "producto": "PAN CON QUESO",
+      "categoria": "COMIDAS",
+      "fecha": "2026-09-18",
+      "cantidad": 1,
+      "monto": 50
+    },
+    {
+      "codProducto": "ANC00115",
+      "producto": "NARANJA-TUMBO (BOTELLA)",
+      "categoria": "JUGOS",
+      "fecha": "2026-09-18",
+      "cantidad": 1,
+      "monto": 40
+    },
+    {
+      "codProducto": "ANC00093",
+      "producto": "KEPERI AHUMADO",
+      "categoria": "FUERTES",
+      "fecha": "2026-09-18",
+      "cantidad": 3,
+      "monto": 420
+    },
+    {
+      "codProducto": "ANC00098",
+      "producto": "PARRILLA KEPERI",
+      "categoria": "FUERTES",
+      "fecha": "2026-09-18",
+      "cantidad": 2,
+      "monto": 280
+    },
+    {
+      "codProducto": "ANC00101",
+      "producto": "PECHUGA DE POLLO CROCANTE",
+      "categoria": "FUERTES",
+      "fecha": "2026-09-18",
+      "cantidad": 3,
+      "monto": 390
+    },
+    {
+      "codProducto": "ANC00207",
+      "producto": "BERRIES TONIC",
+      "categoria": "COCTELES",
+      "fecha": "2026-09-18",
+      "cantidad": 1,
+      "monto": 50
+    },
+    {
+      "codProducto": "ANC00104",
+      "producto": "COCA COLA",
+      "categoria": "GASEOSA",
+      "fecha": "2026-09-18",
+      "cantidad": 2,
+      "monto": 30
+    },
+    {
       "codProducto": "ANC00105",
       "producto": "COCA COLA SIN AZUCAR",
       "categoria": "GASEOSA",
@@ -10861,22 +10965,6 @@
       "monto": 150
     },
     {
-      "codProducto": "ANC00098",
-      "producto": "PARRILLA KEPERI",
-      "categoria": "FUERTES",
-      "fecha": "2026-09-18",
-      "cantidad": 1,
-      "monto": 140
-    },
-    {
-      "codProducto": "ANC00001",
-      "producto": "AGUA C/G",
-      "categoria": "AGUAS",
-      "fecha": "2026-09-18",
-      "cantidad": 4,
-      "monto": 60
-    },
-    {
       "codProducto": "ANC00280",
       "producto": "COPA RAIZ KHOLBERG",
       "categoria": "VINOS POR COPA",
@@ -10925,14 +11013,6 @@
       "monto": 15
     },
     {
-      "codProducto": "ANC00046",
-      "producto": "CHOCOLATE",
-      "categoria": "DULCES",
-      "fecha": "2026-09-18",
-      "cantidad": 1,
-      "monto": 50
-    },
-    {
       "codProducto": "ANC00241",
       "producto": "CEVICHE DE TRUCHA Y HONGOS",
       "categoria": "ENTRADAS",
@@ -10949,14 +11029,6 @@
       "monto": 70
     },
     {
-      "codProducto": "ANC00090",
-      "producto": "CHULETON (Kg)",
-      "categoria": "FUERTES",
-      "fecha": "2026-09-18",
-      "cantidad": 0.7,
-      "monto": 280
-    },
-    {
       "codProducto": "ANC00167",
       "producto": "COPA CEPA DE ORO - ORANGE",
       "categoria": "VINOS POR COPA",
@@ -10971,14 +11043,6 @@
       "fecha": "2026-09-18",
       "cantidad": 1,
       "monto": 55
-    },
-    {
-      "codProducto": "ANC00093",
-      "producto": "KEPERI AHUMADO",
-      "categoria": "FUERTES",
-      "fecha": "2026-09-18",
-      "cantidad": 2,
-      "monto": 280
     },
     {
       "codProducto": "ANC00330",
@@ -11005,28 +11069,12 @@
       "monto": 15
     },
     {
-      "codProducto": "ANC00104",
-      "producto": "COCA COLA",
-      "categoria": "GASEOSA",
-      "fecha": "2026-09-18",
-      "cantidad": 1,
-      "monto": 15
-    },
-    {
       "codProducto": "ANC00063",
       "producto": "TACO PULLED PORK",
       "categoria": "ENTRADAS",
       "fecha": "2026-09-18",
       "cantidad": 1,
       "monto": 70
-    },
-    {
-      "codProducto": "ANC00101",
-      "producto": "PECHUGA DE POLLO CROCANTE",
-      "categoria": "FUERTES",
-      "fecha": "2026-09-18",
-      "cantidad": 2,
-      "monto": 260
     },
     {
       "codProducto": "ANC00112",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T18:38:32.961Z",
+  "generatedAt": "2026-09-19T18:48:33.788Z",
   "rangoFechas": {
     "desde": "2026-07-13",
     "hasta": "2026-09-19"
@@ -130,14 +130,14 @@
       "weekYear": "202638",
       "invMenos7": 31,
       "compras": 36,
-      "vtasIzi": 14,
+      "vtasIzi": 15,
       "vtasExt": 9,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 23,
+      "vtasTot": 24,
       "inv": null,
-      "cierre": 44,
+      "cierre": 43,
       "dif": null
     },
     {
@@ -8560,6 +8560,20 @@
       "dif": null
     },
     {
+      "producto": "Agua",
+      "fecha": "2026-09-19",
+      "dia": "sáb",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 43,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "Agua con gas",
       "fecha": "2026-09-19",
       "dia": "sáb",
@@ -10306,7 +10320,7 @@
       },
       {
         "weekYear": "202638",
-        "valor": 184.75
+        "valor": 185.75
       }
     ],
     "Vtas Ext.": [
@@ -10384,7 +10398,7 @@
       },
       {
         "weekYear": "202638",
-        "valor": 547.75
+        "valor": 548.75
       }
     ],
     "Compras": [
@@ -10416,11 +10430,11 @@
   },
   "meta": {
     "ventasIziDisponibles": true,
-    "filasDimProducto": 439,
+    "filasDimProducto": 440,
     "filasInventariosOmuh": 349,
     "filasCompras": 1495,
     "filasSalidas": 68,
-    "filasVentasIzi": 8406,
+    "filasVentasIzi": 8411,
     "filasVentasPY": 10529,
     "filasExtras": 15242,
     "filasMovInv": 423,

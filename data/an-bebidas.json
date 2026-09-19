@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T18:37:54.550Z",
+  "generatedAt": "2026-09-19T18:47:57.319Z",
   "rangoFechas": {
     "desde": "2026-07-13",
     "hasta": "2026-09-19"
@@ -4945,7 +4945,7 @@
     "filasMatrizChuleton": 1,
     "filasVentasIzi": 6005,
     "filasMovInv": 423,
-    "filasDimProducto": 439,
+    "filasDimProducto": 440,
     "warnings": []
   }
 }

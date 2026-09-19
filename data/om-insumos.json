@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T22:56:12.576Z",
+  "generatedAt": "2026-09-19T23:05:20.913Z",
   "rangoFechas": {
     "desde": "2026-07-13",
     "hasta": "2026-09-19"
@@ -79,16 +79,16 @@
       "weekYear": "202638",
       "invMenos7": 265.5,
       "compras": 642,
-      "vtasIzi": 458.5,
+      "vtasIzi": 463.5,
       "vtasAnc": 0,
       "vtasPY": 34,
       "vtasExt": 9,
       "vtasVegg": -3,
       "cortesias": 0,
       "salidas": -2,
-      "vtasTot": 496.5,
+      "vtasTot": 501.5,
       "inv": null,
-      "cierre": 411,
+      "cierre": 406,
       "dif": null
     },
     {
@@ -113,16 +113,16 @@
       "weekYear": "202638",
       "invMenos7": 40,
       "compras": 162,
-      "vtasIzi": 137,
+      "vtasIzi": 138,
       "vtasAnc": 0,
       "vtasPY": 0,
       "vtasExt": 0,
       "vtasVegg": 0,
       "cortesias": 0,
       "salidas": 1,
-      "vtasTot": 138,
+      "vtasTot": 139,
       "inv": null,
-      "cierre": 64,
+      "cierre": 63,
       "dif": null
     },
     {
@@ -756,9 +756,9 @@
       "fecha": "2026-09-19",
       "dia": "sáb",
       "compras": 0,
-      "vtas": 75.5,
+      "vtas": 80.5,
       "salidas": 0,
-      "invEsperado": 451,
+      "invEsperado": 446,
       "invFin": null,
       "dif": null
     },
@@ -778,9 +778,9 @@
       "fecha": "2026-09-19",
       "dia": "sáb",
       "compras": 0,
-      "vtas": 19,
+      "vtas": 20,
       "salidas": 0,
-      "invEsperado": 64,
+      "invEsperado": 63,
       "invFin": null,
       "dif": null
     },
@@ -1029,7 +1029,7 @@
       },
       {
         "weekYear": "202638",
-        "valor": 617.5
+        "valor": 623.5
       }
     ],
     "Vtas Anc": [
@@ -1185,7 +1185,7 @@
       },
       {
         "weekYear": "202638",
-        "valor": 662.5
+        "valor": 668.5
       }
     ],
     "Compras": [
@@ -1221,7 +1221,7 @@
     "filasInventariosUnitarios": 108,
     "filasCompras": 1495,
     "filasSalidas": 68,
-    "filasVentasIzi": 8460,
+    "filasVentasIzi": 8469,
     "filasVentasPY": 10529,
     "filasExtras": 15242,
     "filasMovInv": 428,

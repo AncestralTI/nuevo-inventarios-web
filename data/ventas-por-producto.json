@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T19:17:42.877Z",
+  "generatedAt": "2026-09-19T19:27:01.484Z",
   "fuente": "API iZi Soluciones (facturas + items-inventarios), sucursal Ancestral (79344)",
   "rango": {
     "desde": "2026-08-20",
@@ -11261,6 +11261,38 @@
       "monto": 20
     },
     {
+      "codProducto": "ANC00110",
+      "producto": "JAMAICA (BOTELLA)",
+      "categoria": "JUGOS",
+      "fecha": "2026-09-19",
+      "cantidad": 1,
+      "monto": 40
+    },
+    {
+      "codProducto": "ANC00090",
+      "producto": "CHULETON (Kg)",
+      "categoria": "FUERTES",
+      "fecha": "2026-09-19",
+      "cantidad": 1.83,
+      "monto": 732
+    },
+    {
+      "codProducto": "ANC00057",
+      "producto": "TUETANO BRULEE",
+      "categoria": "DULCES",
+      "fecha": "2026-09-19",
+      "cantidad": 3,
+      "monto": 150
+    },
+    {
+      "codProducto": "ANC00223",
+      "producto": "PROFITEROLE",
+      "categoria": "COCTELES",
+      "fecha": "2026-09-19",
+      "cantidad": 1,
+      "monto": 50
+    },
+    {
       "codProducto": "ANC00112",
       "producto": "LIMONADA",
       "categoria": "JUGOS",
@@ -11299,14 +11331,6 @@
       "fecha": "2026-09-19",
       "cantidad": 2,
       "monto": 320
-    },
-    {
-      "codProducto": "ANC00057",
-      "producto": "TUETANO BRULEE",
-      "categoria": "DULCES",
-      "fecha": "2026-09-19",
-      "cantidad": 2,
-      "monto": 100
     },
     {
       "codProducto": "ANC00184",
@@ -11443,14 +11467,6 @@
       "fecha": "2026-09-19",
       "cantidad": 2,
       "monto": 280
-    },
-    {
-      "codProducto": "ANC00090",
-      "producto": "CHULETON (Kg)",
-      "categoria": "FUERTES",
-      "fecha": "2026-09-19",
-      "cantidad": 1.03,
-      "monto": 412
     },
     {
       "codProducto": "ANC00080",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T19:05:18.820Z",
+  "generatedAt": "2026-09-19T19:17:42.877Z",
   "fuente": "API iZi Soluciones (facturas + items-inventarios), sucursal Ancestral (79344)",
   "rango": {
     "desde": "2026-08-20",
@@ -11261,20 +11261,60 @@
       "monto": 20
     },
     {
-      "codProducto": "ANC00184",
-      "producto": "ANTICUCHO DE POLLO",
-      "categoria": "ENTRADAS",
+      "codProducto": "ANC00112",
+      "producto": "LIMONADA",
+      "categoria": "JUGOS",
       "fecha": "2026-09-19",
       "cantidad": 1,
-      "monto": 55
+      "monto": 15
+    },
+    {
+      "codProducto": "ANC00111",
+      "producto": "JAMAICA MENTA",
+      "categoria": "JUGOS",
+      "fecha": "2026-09-19",
+      "cantidad": 1,
+      "monto": 15
     },
     {
       "codProducto": "ANC00065",
       "producto": "TATAKI DE LLAMA",
       "categoria": "ENTRADAS",
       "fecha": "2026-09-19",
+      "cantidad": 3,
+      "monto": 225
+    },
+    {
+      "codProducto": "ANC00331",
+      "producto": "CORDERO A LA CRUZ",
+      "categoria": "COMIDAS",
+      "fecha": "2026-09-19",
       "cantidad": 2,
-      "monto": 150
+      "monto": 300
+    },
+    {
+      "codProducto": "ANC00099",
+      "producto": "PARRILLA OJO DE BIFE",
+      "categoria": "FUERTES",
+      "fecha": "2026-09-19",
+      "cantidad": 2,
+      "monto": 320
+    },
+    {
+      "codProducto": "ANC00057",
+      "producto": "TUETANO BRULEE",
+      "categoria": "DULCES",
+      "fecha": "2026-09-19",
+      "cantidad": 2,
+      "monto": 100
+    },
+    {
+      "codProducto": "ANC00184",
+      "producto": "ANTICUCHO DE POLLO",
+      "categoria": "ENTRADAS",
+      "fecha": "2026-09-19",
+      "cantidad": 1,
+      "monto": 55
     },
     {
       "codProducto": "ANC00063",
@@ -11291,14 +11331,6 @@
       "fecha": "2026-09-19",
       "cantidad": 1,
       "monto": 70
-    },
-    {
-      "codProducto": "ANC00331",
-      "producto": "CORDERO A LA CRUZ",
-      "categoria": "COMIDAS",
-      "fecha": "2026-09-19",
-      "cantidad": 1,
-      "monto": 150
     },
     {
       "codProducto": "ANC00001",
@@ -11352,14 +11384,6 @@
       "codProducto": "ANC00328",
       "producto": "PAVLOVA DE PIÑA A LA BRASA",
       "categoria": "COMIDAS",
-      "fecha": "2026-09-19",
-      "cantidad": 1,
-      "monto": 50
-    },
-    {
-      "codProducto": "ANC00057",
-      "producto": "TUETANO BRULEE",
-      "categoria": "DULCES",
       "fecha": "2026-09-19",
       "cantidad": 1,
       "monto": 50
@@ -11455,14 +11479,6 @@
     {
       "codProducto": "ANC00095",
       "producto": "OSSOBUCO A LA BOLIVIANA",
-      "categoria": "FUERTES",
-      "fecha": "2026-09-19",
-      "cantidad": 1,
-      "monto": 160
-    },
-    {
-      "codProducto": "ANC00099",
-      "producto": "PARRILLA OJO DE BIFE",
       "categoria": "FUERTES",
       "fecha": "2026-09-19",
       "cantidad": 1,

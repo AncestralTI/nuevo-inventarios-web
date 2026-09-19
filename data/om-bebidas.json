@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T18:56:12.352Z",
+  "generatedAt": "2026-09-19T19:05:17.107Z",
   "rangoFechas": {
     "desde": "2026-07-13",
     "hasta": "2026-09-19"
@@ -490,14 +490,14 @@
       "weekYear": "202638",
       "invMenos7": 23,
       "compras": 0,
-      "vtasIzi": 2,
+      "vtasIzi": 3,
       "vtasExt": 2,
       "vtasPY": 1,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 5,
+      "vtasTot": 6,
       "inv": null,
-      "cierre": 18,
+      "cierre": 17,
       "dif": null
     },
     {
@@ -8658,6 +8658,20 @@
       "dif": null
     },
     {
+      "producto": "Fanta Papaya",
+      "fecha": "2026-09-19",
+      "dia": "sáb",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 17,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "Mandala Frambuesa",
       "fecha": "2026-09-19",
       "dia": "sáb",
@@ -10362,7 +10376,7 @@
       },
       {
         "weekYear": "202638",
-        "valor": 185.75
+        "valor": 186.75
       }
     ],
     "Vtas Ext.": [
@@ -10440,7 +10454,7 @@
       },
       {
         "weekYear": "202638",
-        "valor": 552.75
+        "valor": 553.75
       }
     ],
     "Compras": [
@@ -10476,7 +10490,7 @@
     "filasInventariosOmuh": 349,
     "filasCompras": 1495,
     "filasSalidas": 68,
-    "filasVentasIzi": 8411,
+    "filasVentasIzi": 8415,
     "filasVentasPY": 10529,
     "filasExtras": 15242,
     "filasMovInv": 425,

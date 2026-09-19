@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T19:34:35.987Z",
+  "generatedAt": "2026-09-19T19:43:34.925Z",
   "rangoFechas": {
     "desde": "2026-07-13",
     "hasta": "2026-09-19"
@@ -418,13 +418,13 @@
       "weekYear": "202638",
       "invMenos7": 7,
       "compras": 12,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 19,
+      "cierre": 18,
       "dif": null
     },
     {
@@ -16649,6 +16649,19 @@
       "dif": null
     },
     {
+      "producto": "BENDITA PILS",
+      "fecha": "2026-09-19",
+      "dia": "sáb",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 18,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "POTOSINA PILSNER",
       "fecha": "2026-09-19",
       "dia": "sáb",
@@ -17479,7 +17492,7 @@
       },
       {
         "weekYear": "202638",
-        "valor": 35
+        "valor": 36
       }
     ],
     "Vtas Ext": [
@@ -17557,7 +17570,7 @@
       },
       {
         "weekYear": "202638",
-        "valor": 45
+        "valor": 46
       }
     ],
     "Salidas": [
@@ -17619,7 +17632,7 @@
     "filasInventariosGs": 3662,
     "filasCompras": 2230,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 6047,
+    "filasVentasIzi": 6053,
     "filasMovInv": 425,
     "filasDimProducto": 440,
     "warnings": []

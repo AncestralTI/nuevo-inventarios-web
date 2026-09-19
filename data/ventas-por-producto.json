@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T19:35:27.329Z",
+  "generatedAt": "2026-09-19T19:44:24.240Z",
   "fuente": "API iZi Soluciones (facturas + items-inventarios), sucursal Ancestral (79344)",
   "rango": {
     "desde": "2026-08-20",
@@ -11261,6 +11261,46 @@
       "monto": 20
     },
     {
+      "codProducto": "ANC00331",
+      "producto": "CORDERO A LA CRUZ",
+      "categoria": "COMIDAS",
+      "fecha": "2026-09-19",
+      "cantidad": 3,
+      "monto": 450
+    },
+    {
+      "codProducto": "ANC00001",
+      "producto": "AGUA C/G",
+      "categoria": "AGUAS",
+      "fecha": "2026-09-19",
+      "cantidad": 7,
+      "monto": 105
+    },
+    {
+      "codProducto": "ANC00095",
+      "producto": "OSSOBUCO A LA BOLIVIANA",
+      "categoria": "FUERTES",
+      "fecha": "2026-09-19",
+      "cantidad": 2,
+      "monto": 320
+    },
+    {
+      "codProducto": "ANC00103",
+      "producto": "PARRILLA TRUCHA",
+      "categoria": "FUERTES",
+      "fecha": "2026-09-19",
+      "cantidad": 4,
+      "monto": 600
+    },
+    {
+      "codProducto": "ANC00276",
+      "producto": "BENDITA PILS",
+      "categoria": "CERVEZA",
+      "fecha": "2026-09-19",
+      "cantidad": 1,
+      "monto": 22
+    },
+    {
       "codProducto": "ANC00110",
       "producto": "JAMAICA (BOTELLA)",
       "categoria": "JUGOS",
@@ -11317,14 +11357,6 @@
       "monto": 225
     },
     {
-      "codProducto": "ANC00331",
-      "producto": "CORDERO A LA CRUZ",
-      "categoria": "COMIDAS",
-      "fecha": "2026-09-19",
-      "cantidad": 2,
-      "monto": 300
-    },
-    {
       "codProducto": "ANC00099",
       "producto": "PARRILLA OJO DE BIFE",
       "categoria": "FUERTES",
@@ -11355,22 +11387,6 @@
       "fecha": "2026-09-19",
       "cantidad": 1,
       "monto": 70
-    },
-    {
-      "codProducto": "ANC00001",
-      "producto": "AGUA C/G",
-      "categoria": "AGUAS",
-      "fecha": "2026-09-19",
-      "cantidad": 5,
-      "monto": 75
-    },
-    {
-      "codProducto": "ANC00103",
-      "producto": "PARRILLA TRUCHA",
-      "categoria": "FUERTES",
-      "fecha": "2026-09-19",
-      "cantidad": 3,
-      "monto": 450
     },
     {
       "codProducto": "ANC00092",
@@ -11491,14 +11507,6 @@
       "fecha": "2026-09-19",
       "cantidad": 1,
       "monto": 140
-    },
-    {
-      "codProducto": "ANC00095",
-      "producto": "OSSOBUCO A LA BOLIVIANA",
-      "categoria": "FUERTES",
-      "fecha": "2026-09-19",
-      "cantidad": 1,
-      "monto": 160
     },
     {
       "codProducto": "ANC00207",

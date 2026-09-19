@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T18:22:36.279Z",
+  "generatedAt": "2026-09-19T18:38:15.127Z",
   "rangoFechas": {
     "desde": "2026-07-13",
     "hasta": "2026-09-19"
@@ -79,16 +79,16 @@
       "weekYear": "202638",
       "invMenos7": 265.5,
       "compras": 642,
-      "vtasIzi": 429,
+      "vtasIzi": 432,
       "vtasAnc": 0,
       "vtasPY": 34,
       "vtasExt": 9,
       "vtasVegg": -3,
       "cortesias": 0,
       "salidas": -2,
-      "vtasTot": 467,
+      "vtasTot": 470,
       "inv": null,
-      "cierre": 440.5,
+      "cierre": 437.5,
       "dif": null
     },
     {
@@ -756,9 +756,9 @@
       "fecha": "2026-09-19",
       "dia": "sáb",
       "compras": 0,
-      "vtas": 46,
+      "vtas": 49,
       "salidas": 0,
-      "invEsperado": 480.5,
+      "invEsperado": 477.5,
       "invFin": null,
       "dif": null
     },
@@ -1018,7 +1018,7 @@
       },
       {
         "weekYear": "202638",
-        "valor": 580
+        "valor": 583
       }
     ],
     "Vtas Anc": [
@@ -1174,7 +1174,7 @@
       },
       {
         "weekYear": "202638",
-        "valor": 625
+        "valor": 628
       }
     ],
     "Compras": [
@@ -1210,11 +1210,11 @@
     "filasInventariosUnitarios": 108,
     "filasCompras": 1495,
     "filasSalidas": 68,
-    "filasVentasIzi": 8403,
+    "filasVentasIzi": 8406,
     "filasVentasPY": 10529,
     "filasExtras": 15242,
     "filasMovInv": 423,
-    "filasVentasAncIzi": 5997,
+    "filasVentasAncIzi": 6005,
     "warnings": []
   }
 }

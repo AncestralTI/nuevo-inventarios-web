@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T18:22:51.927Z",
+  "generatedAt": "2026-09-19T18:38:32.961Z",
   "rangoFechas": {
     "desde": "2026-07-13",
     "hasta": "2026-09-19"
@@ -145,14 +145,14 @@
       "weekYear": "202638",
       "invMenos7": 30,
       "compras": 48,
-      "vtasIzi": 4,
+      "vtasIzi": 5,
       "vtasExt": 5,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 9,
+      "vtasTot": 10,
       "inv": null,
-      "cierre": 69,
+      "cierre": 68,
       "dif": null
     },
     {
@@ -688,9 +688,9 @@
       "vtasIzi": 0,
       "vtasExt": 0,
       "vtasPY": 0,
-      "vtasAnc": 1,
+      "vtasAnc": 2,
       "salidas": 0,
-      "vtasTot": 1,
+      "vtasTot": 2,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -8560,6 +8560,20 @@
       "dif": null
     },
     {
+      "producto": "Agua con gas",
+      "fecha": "2026-09-19",
+      "dia": "sáb",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 68,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "Coca Cola",
       "fecha": "2026-09-19",
       "dia": "sáb",
@@ -8598,6 +8612,20 @@
       "vtasAnc": 0,
       "salidas": 0,
       "invEsperado": 31,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "POTOSINA PILSNER",
+      "fecha": "2026-09-19",
+      "dia": "sáb",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 1,
+      "salidas": 0,
+      "invEsperado": 0,
       "invIniFin": null,
       "dif": null
     },
@@ -10278,7 +10306,7 @@
       },
       {
         "weekYear": "202638",
-        "valor": 183.75
+        "valor": 184.75
       }
     ],
     "Vtas Ext.": [
@@ -10356,7 +10384,7 @@
       },
       {
         "weekYear": "202638",
-        "valor": 545.75
+        "valor": 547.75
       }
     ],
     "Compras": [
@@ -10392,11 +10420,11 @@
     "filasInventariosOmuh": 349,
     "filasCompras": 1495,
     "filasSalidas": 68,
-    "filasVentasIzi": 8403,
+    "filasVentasIzi": 8406,
     "filasVentasPY": 10529,
     "filasExtras": 15242,
     "filasMovInv": 423,
-    "filasVentasAncIzi": 5997,
+    "filasVentasAncIzi": 6005,
     "warnings": []
   }
 }

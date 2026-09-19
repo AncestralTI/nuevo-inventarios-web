@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T18:22:05.390Z",
+  "generatedAt": "2026-09-19T18:37:40.915Z",
   "rangoFechas": {
     "desde": "2026-07-13",
     "hasta": "2026-09-19"
@@ -1440,13 +1440,13 @@
       "weekYear": "202638",
       "invMenos7": 15,
       "compras": 24,
-      "vtas": 1,
+      "vtas": 2,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 1,
+      "vtasTot": 2,
       "inv": null,
-      "cierre": 38,
+      "cierre": 37,
       "dif": null
     },
     {
@@ -16649,6 +16649,19 @@
       "dif": null
     },
     {
+      "producto": "POTOSINA PILSNER",
+      "fecha": "2026-09-19",
+      "dia": "sáb",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 37,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "IMPREDECIBLE - TERRA ANCESTRAL",
       "fecha": "2026-09-07",
       "dia": "lun",
@@ -17466,7 +17479,7 @@
       },
       {
         "weekYear": "202638",
-        "valor": 33
+        "valor": 34
       }
     ],
     "Vtas Ext": [
@@ -17544,7 +17557,7 @@
       },
       {
         "weekYear": "202638",
-        "valor": 43
+        "valor": 44
       }
     ],
     "Salidas": [
@@ -17606,7 +17619,7 @@
     "filasInventariosGs": 3662,
     "filasCompras": 2230,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 5997,
+    "filasVentasIzi": 6005,
     "filasMovInv": 423,
     "filasDimProducto": 439,
     "warnings": []

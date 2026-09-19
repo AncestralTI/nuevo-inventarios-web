@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T18:22:16.865Z",
+  "generatedAt": "2026-09-19T18:37:54.550Z",
   "rangoFechas": {
     "desde": "2026-07-13",
     "hasta": "2026-09-19"
@@ -418,13 +418,13 @@
       "weekYear": "202638",
       "invMenos7": 15,
       "compras": 24,
-      "vtas": 1,
+      "vtas": 2,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 1,
+      "vtasTot": 2,
       "inv": null,
-      "cierre": 38,
+      "cierre": 37,
       "dif": null
     },
     {
@@ -4428,6 +4428,19 @@
       "dif": null
     },
     {
+      "producto": "POTOSINA PILSNER",
+      "fecha": "2026-09-19",
+      "dia": "sáb",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 37,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "BENDITA HOPPY",
       "fecha": "2026-09-08",
       "dia": "mar",
@@ -4790,7 +4803,7 @@
       },
       {
         "weekYear": "202638",
-        "valor": 30
+        "valor": 31
       }
     ],
     "Vtas Ext": [
@@ -4868,7 +4881,7 @@
       },
       {
         "weekYear": "202638",
-        "valor": 31
+        "valor": 32
       }
     ],
     "Salidas": [
@@ -4930,7 +4943,7 @@
     "filasInventariosGs": 3662,
     "filasCompras": 2230,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 5997,
+    "filasVentasIzi": 6005,
     "filasMovInv": 423,
     "filasDimProducto": 439,
     "warnings": []

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T18:22:53.799Z",
+  "generatedAt": "2026-09-19T18:38:34.851Z",
   "fuente": "API iZi Soluciones (facturas + items-inventarios), sucursal Ancestral (79344)",
   "rango": {
     "desde": "2026-08-20",
@@ -11259,6 +11259,70 @@
       "fecha": "2026-09-18",
       "cantidad": 1,
       "monto": 20
+    },
+    {
+      "codProducto": "ANC00038",
+      "producto": "APEROL SPRITZ",
+      "categoria": "COCTELES",
+      "fecha": "2026-09-19",
+      "cantidad": 2,
+      "monto": 100
+    },
+    {
+      "codProducto": "ANC00199",
+      "producto": "GIN & TONIC LA REPUBLICA",
+      "categoria": "COCTELES",
+      "fecha": "2026-09-19",
+      "cantidad": 1,
+      "monto": 50
+    },
+    {
+      "codProducto": "ANC00065",
+      "producto": "TATAKI DE LLAMA",
+      "categoria": "ENTRADAS",
+      "fecha": "2026-09-19",
+      "cantidad": 1,
+      "monto": 75
+    },
+    {
+      "codProducto": "ANC00183",
+      "producto": "PANZA FRITA",
+      "categoria": "ENTRADAS",
+      "fecha": "2026-09-19",
+      "cantidad": 1,
+      "monto": 60
+    },
+    {
+      "codProducto": "ANC00088",
+      "producto": "ARROZ DE TRUCHA",
+      "categoria": "FUERTES",
+      "fecha": "2026-09-19",
+      "cantidad": 1,
+      "monto": 150
+    },
+    {
+      "codProducto": "ANC00281",
+      "producto": "CUARTO PATO CONFITADO",
+      "categoria": "FUERTES",
+      "fecha": "2026-09-19",
+      "cantidad": 1,
+      "monto": 140
+    },
+    {
+      "codProducto": "ANC00103",
+      "producto": "PARRILLA TRUCHA",
+      "categoria": "FUERTES",
+      "fecha": "2026-09-19",
+      "cantidad": 1,
+      "monto": 150
+    },
+    {
+      "codProducto": "ANC00182",
+      "producto": "POTOSINA PILSNER",
+      "categoria": "CERVEZA",
+      "fecha": "2026-09-19",
+      "cantidad": 1,
+      "monto": 30
     }
   ]
 }

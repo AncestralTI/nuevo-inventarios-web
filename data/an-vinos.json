@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T00:29:02.014Z",
+  "generatedAt": "2026-09-19T00:44:16.622Z",
   "rangoFechas": {
     "desde": "2026-07-13",
     "hasta": "2026-09-19"
@@ -810,13 +810,13 @@
       "weekYear": "202638",
       "invMenos7": null,
       "compras": 3,
-      "vtas": 1,
+      "vtas": 2,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 1,
+      "vtasTot": 2,
       "inv": null,
-      "cierre": 2,
+      "cierre": 1,
       "dif": null
     },
     {
@@ -16545,6 +16545,19 @@
       "dif": null
     },
     {
+      "producto": "COPA PEDRO XIMENEZ - LANDSÚA",
+      "fecha": "2026-09-18",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 1,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "POTOSINA PILSNER",
       "fecha": "2026-09-18",
       "dia": "vie",
@@ -17375,7 +17388,7 @@
       },
       {
         "weekYear": "202638",
-        "valor": 29
+        "valor": 30
       }
     ],
     "Vtas Ext": [
@@ -17453,7 +17466,7 @@
       },
       {
         "weekYear": "202638",
-        "valor": 35
+        "valor": 36
       }
     ],
     "Salidas": [
@@ -17515,7 +17528,7 @@
     "filasInventariosGs": 3662,
     "filasCompras": 2230,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 5918,
+    "filasVentasIzi": 5925,
     "filasMovInv": 417,
     "filasDimProducto": 439,
     "warnings": []

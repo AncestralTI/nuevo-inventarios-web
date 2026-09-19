@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T00:29:49.559Z",
+  "generatedAt": "2026-09-19T00:45:03.853Z",
   "fuente": "API iZi Soluciones (facturas + items-inventarios), sucursal Ancestral (79344)",
   "rango": {
     "desde": "2026-08-20",
@@ -10773,6 +10773,62 @@
       "monto": 160
     },
     {
+      "codProducto": "ANC00241",
+      "producto": "CEVICHE DE TRUCHA Y HONGOS",
+      "categoria": "ENTRADAS",
+      "fecha": "2026-09-18",
+      "cantidad": 3,
+      "monto": 225
+    },
+    {
+      "codProducto": "ANC00183",
+      "producto": "PANZA FRITA",
+      "categoria": "ENTRADAS",
+      "fecha": "2026-09-18",
+      "cantidad": 1,
+      "monto": 60
+    },
+    {
+      "codProducto": "ANC00064",
+      "producto": "TARTAR DE RES",
+      "categoria": "ENTRADAS",
+      "fecha": "2026-09-18",
+      "cantidad": 1,
+      "monto": 70
+    },
+    {
+      "codProducto": "ANC00090",
+      "producto": "CHULETON (Kg)",
+      "categoria": "FUERTES",
+      "fecha": "2026-09-18",
+      "cantidad": 0.7,
+      "monto": 280
+    },
+    {
+      "codProducto": "ANC00167",
+      "producto": "COPA CEPA DE ORO - ORANGE",
+      "categoria": "VINOS POR COPA",
+      "fecha": "2026-09-18",
+      "cantidad": 1,
+      "monto": 45
+    },
+    {
+      "codProducto": "ANC00349",
+      "producto": "COPA PEDRO XIMENEZ - LANDSÚA",
+      "categoria": "VINOS",
+      "fecha": "2026-09-18",
+      "cantidad": 1,
+      "monto": 55
+    },
+    {
+      "codProducto": "ANC00280",
+      "producto": "COPA RAIZ KHOLBERG",
+      "categoria": "VINOS POR COPA",
+      "fecha": "2026-09-18",
+      "cantidad": 4,
+      "monto": 200
+    },
+    {
       "codProducto": "ANC00058",
       "producto": "ALCACHOFAS",
       "categoria": "ENTRADAS",
@@ -10869,14 +10925,6 @@
       "monto": 30
     },
     {
-      "codProducto": "ANC00241",
-      "producto": "CEVICHE DE TRUCHA Y HONGOS",
-      "categoria": "ENTRADAS",
-      "fecha": "2026-09-18",
-      "cantidad": 2,
-      "monto": 150
-    },
-    {
       "codProducto": "ANC00103",
       "producto": "PARRILLA TRUCHA",
       "categoria": "FUERTES",
@@ -10923,14 +10971,6 @@
       "fecha": "2026-09-18",
       "cantidad": 1,
       "monto": 33
-    },
-    {
-      "codProducto": "ANC00280",
-      "producto": "COPA RAIZ KHOLBERG",
-      "categoria": "VINOS POR COPA",
-      "fecha": "2026-09-18",
-      "cantidad": 2,
-      "monto": 110
     },
     {
       "codProducto": "ANC00184",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T02:32:00.052Z",
+  "generatedAt": "2026-09-19T02:45:40.968Z",
   "rangoFechas": {
     "desde": "2026-07-13",
     "hasta": "2026-09-19"
@@ -334,13 +334,13 @@
       "weekYear": "202638",
       "invMenos7": 0,
       "compras": 6,
-      "vtas": 2,
+      "vtas": 3,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 1,
-      "vtasTot": 3,
+      "vtasTot": 4,
       "inv": null,
-      "cierre": 3,
+      "cierre": 2,
       "dif": null
     },
     {
@@ -16519,6 +16519,19 @@
       "dif": null
     },
     {
+      "producto": "ARANJUEZ / TANNAT \"ORIGEN\"",
+      "fecha": "2026-09-18",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 2,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "BENDITA IPA",
       "fecha": "2026-09-18",
       "dia": "vie",
@@ -17401,7 +17414,7 @@
       },
       {
         "weekYear": "202638",
-        "valor": 31
+        "valor": 32
       }
     ],
     "Vtas Ext": [
@@ -17479,7 +17492,7 @@
       },
       {
         "weekYear": "202638",
-        "valor": 37
+        "valor": 38
       }
     ],
     "Salidas": [
@@ -17541,7 +17554,7 @@
     "filasInventariosGs": 3662,
     "filasCompras": 2230,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 5965,
+    "filasVentasIzi": 5979,
     "filasMovInv": 422,
     "filasDimProducto": 439,
     "warnings": []

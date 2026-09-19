@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T02:32:50.003Z",
+  "generatedAt": "2026-09-19T02:46:36.659Z",
   "fuente": "API iZi Soluciones (facturas + items-inventarios), sucursal Ancestral (79344)",
   "rango": {
     "desde": "2026-08-20",
@@ -10773,6 +10773,110 @@
       "monto": 160
     },
     {
+      "codProducto": "ANC00112",
+      "producto": "LIMONADA",
+      "categoria": "JUGOS",
+      "fecha": "2026-09-18",
+      "cantidad": 5,
+      "monto": 75
+    },
+    {
+      "codProducto": "ANC00196",
+      "producto": "CAMPARI SPRITZ",
+      "categoria": "COCTELES",
+      "fecha": "2026-09-18",
+      "cantidad": 1,
+      "monto": 50
+    },
+    {
+      "codProducto": "ANC00184",
+      "producto": "ANTICUCHO DE POLLO",
+      "categoria": "ENTRADAS",
+      "fecha": "2026-09-18",
+      "cantidad": 3,
+      "monto": 165
+    },
+    {
+      "codProducto": "ANC00324",
+      "producto": "TRUCHA CURADA EN PATACÓN",
+      "categoria": "COMIDAS",
+      "fecha": "2026-09-18",
+      "cantidad": 2,
+      "monto": 140
+    },
+    {
+      "codProducto": "ANC00099",
+      "producto": "PARRILLA OJO DE BIFE",
+      "categoria": "FUERTES",
+      "fecha": "2026-09-18",
+      "cantidad": 5,
+      "monto": 800
+    },
+    {
+      "codProducto": "ANC00242",
+      "producto": "PARRILLA PESCADO AMAZÓNICO",
+      "categoria": "FUERTES",
+      "fecha": "2026-09-18",
+      "cantidad": 1,
+      "monto": 150
+    },
+    {
+      "codProducto": "ANC00092",
+      "producto": "GNOCCHIS CON HONGOS A LA BRASA",
+      "categoria": "FUERTES",
+      "fecha": "2026-09-18",
+      "cantidad": 4,
+      "monto": 560
+    },
+    {
+      "codProducto": "ANC00072",
+      "producto": "ENSALADA EXTRA",
+      "categoria": "GUARNICIONES",
+      "fecha": "2026-09-18",
+      "cantidad": 1,
+      "monto": 40
+    },
+    {
+      "codProducto": "ANC00131",
+      "producto": "ARANJUEZ / TANNAT \"ORIGEN\"",
+      "categoria": "VINOS",
+      "fecha": "2026-09-18",
+      "cantidad": 1,
+      "monto": 250
+    },
+    {
+      "codProducto": "ANC00103",
+      "producto": "PARRILLA TRUCHA",
+      "categoria": "FUERTES",
+      "fecha": "2026-09-18",
+      "cantidad": 2,
+      "monto": 300
+    },
+    {
+      "codProducto": "ANC00161",
+      "producto": "COPA 1750 - SAV BLANC",
+      "categoria": "VINOS POR COPA",
+      "fecha": "2026-09-18",
+      "cantidad": 1,
+      "monto": 45
+    },
+    {
+      "codProducto": "ANC00104",
+      "producto": "COCA COLA",
+      "categoria": "GASEOSA",
+      "fecha": "2026-09-18",
+      "cantidad": 3,
+      "monto": 45
+    },
+    {
+      "codProducto": "ANC00051",
+      "producto": "INFUSION MANZANILLA - CEDRON",
+      "categoria": "BEBIDAS CALIENTES",
+      "fecha": "2026-09-18",
+      "cantidad": 2,
+      "monto": 30
+    },
+    {
       "codProducto": "ANC00073",
       "producto": "EXPERIENCIA ANCESTRAL",
       "categoria": "MENU DEGUSTACION",
@@ -10869,14 +10973,6 @@
       "monto": 50
     },
     {
-      "codProducto": "ANC00104",
-      "producto": "COCA COLA",
-      "categoria": "GASEOSA",
-      "fecha": "2026-09-18",
-      "cantidad": 2,
-      "monto": 30
-    },
-    {
       "codProducto": "ANC00105",
       "producto": "COCA COLA SIN AZUCAR",
       "categoria": "GASEOSA",
@@ -10907,22 +11003,6 @@
       "fecha": "2026-09-18",
       "cantidad": 4,
       "monto": 640
-    },
-    {
-      "codProducto": "ANC00184",
-      "producto": "ANTICUCHO DE POLLO",
-      "categoria": "ENTRADAS",
-      "fecha": "2026-09-18",
-      "cantidad": 2,
-      "monto": 110
-    },
-    {
-      "codProducto": "ANC00092",
-      "producto": "GNOCCHIS CON HONGOS A LA BRASA",
-      "categoria": "FUERTES",
-      "fecha": "2026-09-18",
-      "cantidad": 3,
-      "monto": 420
     },
     {
       "codProducto": "ANC00038",
@@ -10979,22 +11059,6 @@
       "fecha": "2026-09-18",
       "cantidad": 1,
       "monto": 50
-    },
-    {
-      "codProducto": "ANC00099",
-      "producto": "PARRILLA OJO DE BIFE",
-      "categoria": "FUERTES",
-      "fecha": "2026-09-18",
-      "cantidad": 3,
-      "monto": 480
-    },
-    {
-      "codProducto": "ANC00324",
-      "producto": "TRUCHA CURADA EN PATACÓN",
-      "categoria": "COMIDAS",
-      "fecha": "2026-09-18",
-      "cantidad": 1,
-      "monto": 70
     },
     {
       "codProducto": "ANC00081",
@@ -11075,22 +11139,6 @@
       "fecha": "2026-09-18",
       "cantidad": 1,
       "monto": 70
-    },
-    {
-      "codProducto": "ANC00112",
-      "producto": "LIMONADA",
-      "categoria": "JUGOS",
-      "fecha": "2026-09-18",
-      "cantidad": 2,
-      "monto": 30
-    },
-    {
-      "codProducto": "ANC00103",
-      "producto": "PARRILLA TRUCHA",
-      "categoria": "FUERTES",
-      "fecha": "2026-09-18",
-      "cantidad": 1,
-      "monto": 150
     },
     {
       "codProducto": "ANC00065",

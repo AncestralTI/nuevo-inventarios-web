@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T02:05:58.858Z",
+  "generatedAt": "2026-09-19T02:21:07.290Z",
   "fuente": "API iZi Soluciones (facturas + items-inventarios), sucursal Ancestral (79344)",
   "rango": {
     "desde": "2026-08-20",
@@ -10773,20 +10773,84 @@
       "monto": 160
     },
     {
-      "codProducto": "ANC00183",
-      "producto": "PANZA FRITA",
-      "categoria": "ENTRADAS",
+      "codProducto": "ANC00105",
+      "producto": "COCA COLA SIN AZUCAR",
+      "categoria": "GASEOSA",
+      "fecha": "2026-09-18",
+      "cantidad": 4,
+      "monto": 60
+    },
+    {
+      "codProducto": "ANC00111",
+      "producto": "JAMAICA MENTA",
+      "categoria": "JUGOS",
       "fecha": "2026-09-18",
       "cantidad": 2,
-      "monto": 120
+      "monto": 30
     },
     {
       "codProducto": "ANC00058",
       "producto": "ALCACHOFAS",
       "categoria": "ENTRADAS",
       "fecha": "2026-09-18",
+      "cantidad": 5,
+      "monto": 375
+    },
+    {
+      "codProducto": "ANC00095",
+      "producto": "OSSOBUCO A LA BOLIVIANA",
+      "categoria": "FUERTES",
+      "fecha": "2026-09-18",
       "cantidad": 4,
-      "monto": 300
+      "monto": 640
+    },
+    {
+      "codProducto": "ANC00184",
+      "producto": "ANTICUCHO DE POLLO",
+      "categoria": "ENTRADAS",
+      "fecha": "2026-09-18",
+      "cantidad": 2,
+      "monto": 110
+    },
+    {
+      "codProducto": "ANC00092",
+      "producto": "GNOCCHIS CON HONGOS A LA BRASA",
+      "categoria": "FUERTES",
+      "fecha": "2026-09-18",
+      "cantidad": 3,
+      "monto": 420
+    },
+    {
+      "codProducto": "ANC00038",
+      "producto": "APEROL SPRITZ",
+      "categoria": "COCTELES",
+      "fecha": "2026-09-18",
+      "cantidad": 2,
+      "monto": 100
+    },
+    {
+      "codProducto": "ANC00222",
+      "producto": "COPA ARANJUEZ- ORIGEN",
+      "categoria": "VINOS POR COPA",
+      "fecha": "2026-09-18",
+      "cantidad": 1,
+      "monto": 50
+    },
+    {
+      "codProducto": "ANC00178",
+      "producto": "COPA MALBEC - CALADOC",
+      "categoria": "VINOS POR COPA",
+      "fecha": "2026-09-18",
+      "cantidad": 1,
+      "monto": 40
+    },
+    {
+      "codProducto": "ANC00183",
+      "producto": "PANZA FRITA",
+      "categoria": "ENTRADAS",
+      "fecha": "2026-09-18",
+      "cantidad": 2,
+      "monto": 120
     },
     {
       "codProducto": "ANC00331",
@@ -10829,14 +10893,6 @@
       "monto": 50
     },
     {
-      "codProducto": "ANC00095",
-      "producto": "OSSOBUCO A LA BOLIVIANA",
-      "categoria": "FUERTES",
-      "fecha": "2026-09-18",
-      "cantidad": 2,
-      "monto": 320
-    },
-    {
       "codProducto": "ANC00099",
       "producto": "PARRILLA OJO DE BIFE",
       "categoria": "FUERTES",
@@ -10859,14 +10915,6 @@
       "fecha": "2026-09-18",
       "cantidad": 1,
       "monto": 40
-    },
-    {
-      "codProducto": "ANC00105",
-      "producto": "COCA COLA SIN AZUCAR",
-      "categoria": "GASEOSA",
-      "fecha": "2026-09-18",
-      "cantidad": 3,
-      "monto": 45
     },
     {
       "codProducto": "ANC00107",
@@ -10981,14 +11029,6 @@
       "monto": 260
     },
     {
-      "codProducto": "ANC00111",
-      "producto": "JAMAICA MENTA",
-      "categoria": "JUGOS",
-      "fecha": "2026-09-18",
-      "cantidad": 1,
-      "monto": 15
-    },
-    {
       "codProducto": "ANC00112",
       "producto": "LIMONADA",
       "categoria": "JUGOS",
@@ -11003,14 +11043,6 @@
       "fecha": "2026-09-18",
       "cantidad": 1,
       "monto": 150
-    },
-    {
-      "codProducto": "ANC00038",
-      "producto": "APEROL SPRITZ",
-      "categoria": "COCTELES",
-      "fecha": "2026-09-18",
-      "cantidad": 1,
-      "monto": 50
     },
     {
       "codProducto": "ANC00065",
@@ -11035,22 +11067,6 @@
       "fecha": "2026-09-18",
       "cantidad": 1,
       "monto": 33
-    },
-    {
-      "codProducto": "ANC00184",
-      "producto": "ANTICUCHO DE POLLO",
-      "categoria": "ENTRADAS",
-      "fecha": "2026-09-18",
-      "cantidad": 1,
-      "monto": 55
-    },
-    {
-      "codProducto": "ANC00092",
-      "producto": "GNOCCHIS CON HONGOS A LA BRASA",
-      "categoria": "FUERTES",
-      "fecha": "2026-09-18",
-      "cantidad": 2,
-      "monto": 280
     },
     {
       "codProducto": "ANC00358",

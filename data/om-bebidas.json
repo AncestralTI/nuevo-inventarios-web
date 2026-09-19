@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T16:45:32.837Z",
+  "generatedAt": "2026-09-19T16:54:15.448Z",
   "rangoFechas": {
     "desde": "2026-07-13",
     "hasta": "2026-09-19"
@@ -355,14 +355,14 @@
       "weekYear": "202638",
       "invMenos7": null,
       "compras": 138,
-      "vtasIzi": 6,
+      "vtasIzi": 7,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 6,
+      "vtasTot": 7,
       "inv": null,
-      "cierre": 132,
+      "cierre": 131,
       "dif": null
     },
     {
@@ -8560,6 +8560,20 @@
       "dif": null
     },
     {
+      "producto": "Coca Cola",
+      "fecha": "2026-09-19",
+      "dia": "sáb",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 131,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "Curandero",
       "fecha": "2026-09-19",
       "dia": "sáb",
@@ -10264,7 +10278,7 @@
       },
       {
         "weekYear": "202638",
-        "valor": 181.75
+        "valor": 182.75
       }
     ],
     "Vtas Ext.": [
@@ -10342,7 +10356,7 @@
       },
       {
         "weekYear": "202638",
-        "valor": 543.75
+        "valor": 544.75
       }
     ],
     "Compras": [
@@ -10378,7 +10392,7 @@
     "filasInventariosOmuh": 349,
     "filasCompras": 1495,
     "filasSalidas": 68,
-    "filasVentasIzi": 8347,
+    "filasVentasIzi": 8352,
     "filasVentasPY": 10529,
     "filasExtras": 15242,
     "filasMovInv": 422,

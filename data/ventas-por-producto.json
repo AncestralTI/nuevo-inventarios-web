@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T02:54:29.797Z",
+  "generatedAt": "2026-09-19T03:06:35.241Z",
   "fuente": "API iZi Soluciones (facturas + items-inventarios), sucursal Ancestral (79344)",
   "rango": {
     "desde": "2026-08-20",
@@ -10773,6 +10773,70 @@
       "monto": 160
     },
     {
+      "codProducto": "ANC00030",
+      "producto": "MOSCOW MULE",
+      "categoria": "COCTELES",
+      "fecha": "2026-09-18",
+      "cantidad": 1,
+      "monto": 50
+    },
+    {
+      "codProducto": "ANC00038",
+      "producto": "APEROL SPRITZ",
+      "categoria": "COCTELES",
+      "fecha": "2026-09-18",
+      "cantidad": 3,
+      "monto": 150
+    },
+    {
+      "codProducto": "ANC00018",
+      "producto": "CHIRIMOYA ALEGRE",
+      "categoria": "COCTELES",
+      "fecha": "2026-09-18",
+      "cantidad": 1,
+      "monto": 50
+    },
+    {
+      "codProducto": "ANC00114",
+      "producto": "NARANJA TUMBO",
+      "categoria": "JUGOS",
+      "fecha": "2026-09-18",
+      "cantidad": 3,
+      "monto": 45
+    },
+    {
+      "codProducto": "ANC00099",
+      "producto": "PARRILLA OJO DE BIFE",
+      "categoria": "FUERTES",
+      "fecha": "2026-09-18",
+      "cantidad": 8,
+      "monto": 1280
+    },
+    {
+      "codProducto": "ANC00103",
+      "producto": "PARRILLA TRUCHA",
+      "categoria": "FUERTES",
+      "fecha": "2026-09-18",
+      "cantidad": 3,
+      "monto": 450
+    },
+    {
+      "codProducto": "ANC00214",
+      "producto": "PIE DE LIMON SOUR",
+      "categoria": "COCTELES",
+      "fecha": "2026-09-18",
+      "cantidad": 1,
+      "monto": 50
+    },
+    {
+      "codProducto": "ANC00328",
+      "producto": "PAVLOVA DE PIÑA A LA BRASA",
+      "categoria": "COMIDAS",
+      "fecha": "2026-09-18",
+      "cantidad": 1,
+      "monto": 50
+    },
+    {
       "codProducto": "ANC00112",
       "producto": "LIMONADA",
       "categoria": "JUGOS",
@@ -10805,14 +10869,6 @@
       "monto": 140
     },
     {
-      "codProducto": "ANC00099",
-      "producto": "PARRILLA OJO DE BIFE",
-      "categoria": "FUERTES",
-      "fecha": "2026-09-18",
-      "cantidad": 5,
-      "monto": 800
-    },
-    {
       "codProducto": "ANC00242",
       "producto": "PARRILLA PESCADO AMAZÓNICO",
       "categoria": "FUERTES",
@@ -10843,14 +10899,6 @@
       "fecha": "2026-09-18",
       "cantidad": 1,
       "monto": 250
-    },
-    {
-      "codProducto": "ANC00103",
-      "producto": "PARRILLA TRUCHA",
-      "categoria": "FUERTES",
-      "fecha": "2026-09-18",
-      "cantidad": 2,
-      "monto": 300
     },
     {
       "codProducto": "ANC00161",
@@ -11005,14 +11053,6 @@
       "monto": 640
     },
     {
-      "codProducto": "ANC00038",
-      "producto": "APEROL SPRITZ",
-      "categoria": "COCTELES",
-      "fecha": "2026-09-18",
-      "cantidad": 2,
-      "monto": 100
-    },
-    {
       "codProducto": "ANC00222",
       "producto": "COPA ARANJUEZ- ORIGEN",
       "categoria": "VINOS POR COPA",
@@ -11120,14 +11160,6 @@
       "codProducto": "ANC00052",
       "producto": "INFUSION MENTA - CHOCO",
       "categoria": "BEBIDAS CALIENTES",
-      "fecha": "2026-09-18",
-      "cantidad": 1,
-      "monto": 15
-    },
-    {
-      "codProducto": "ANC00114",
-      "producto": "NARANJA TUMBO",
-      "categoria": "JUGOS",
       "fecha": "2026-09-18",
       "cantidad": 1,
       "monto": 15

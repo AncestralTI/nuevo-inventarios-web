@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T00:45:02.058Z",
+  "generatedAt": "2026-09-19T00:56:28.429Z",
   "rangoFechas": {
     "desde": "2026-07-13",
     "hasta": "2026-09-19"
@@ -640,14 +640,14 @@
       "weekYear": "202638",
       "invMenos7": 68,
       "compras": 120,
-      "vtasIzi": 2,
+      "vtasIzi": 3,
       "vtasExt": 76,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 78,
+      "vtasTot": 79,
       "inv": null,
-      "cierre": 110,
+      "cierre": 109,
       "dif": null
     },
     {
@@ -8420,6 +8420,20 @@
       "dif": null
     },
     {
+      "producto": "Pepsi Black",
+      "fecha": "2026-09-18",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 109,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "Refresco Artesanal",
       "fecha": "2026-09-18",
       "dia": "vie",
@@ -10110,7 +10124,7 @@
       },
       {
         "weekYear": "202638",
-        "valor": 174.75
+        "valor": 175.75
       }
     ],
     "Vtas Ext.": [
@@ -10188,7 +10202,7 @@
       },
       {
         "weekYear": "202638",
-        "valor": 450.75
+        "valor": 451.75
       }
     ],
     "Compras": [
@@ -10224,7 +10238,7 @@
     "filasInventariosOmuh": 349,
     "filasCompras": 1495,
     "filasSalidas": 66,
-    "filasVentasIzi": 8279,
+    "filasVentasIzi": 8285,
     "filasVentasPY": 10519,
     "filasExtras": 15062,
     "filasMovInv": 417,

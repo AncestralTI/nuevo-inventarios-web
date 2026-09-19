@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T01:05:56.899Z",
+  "generatedAt": "2026-09-19T01:20:06.764Z",
   "fuente": "API iZi Soluciones (facturas + items-inventarios), sucursal Ancestral (79344)",
   "rango": {
     "desde": "2026-08-20",
@@ -10773,6 +10773,62 @@
       "monto": 160
     },
     {
+      "codProducto": "ANC00095",
+      "producto": "OSSOBUCO A LA BOLIVIANA",
+      "categoria": "FUERTES",
+      "fecha": "2026-09-18",
+      "cantidad": 2,
+      "monto": 320
+    },
+    {
+      "codProducto": "ANC00099",
+      "producto": "PARRILLA OJO DE BIFE",
+      "categoria": "FUERTES",
+      "fecha": "2026-09-18",
+      "cantidad": 3,
+      "monto": 480
+    },
+    {
+      "codProducto": "ANC00324",
+      "producto": "TRUCHA CURADA EN PATACÓN",
+      "categoria": "COMIDAS",
+      "fecha": "2026-09-18",
+      "cantidad": 1,
+      "monto": 70
+    },
+    {
+      "codProducto": "ANC00081",
+      "producto": "PORCION PAPAS",
+      "categoria": "GUARNICIONES",
+      "fecha": "2026-09-18",
+      "cantidad": 1,
+      "monto": 40
+    },
+    {
+      "codProducto": "ANC00105",
+      "producto": "COCA COLA SIN AZUCAR",
+      "categoria": "GASEOSA",
+      "fecha": "2026-09-18",
+      "cantidad": 3,
+      "monto": 45
+    },
+    {
+      "codProducto": "ANC00107",
+      "producto": "SPRITE",
+      "categoria": "GASEOSA",
+      "fecha": "2026-09-18",
+      "cantidad": 1,
+      "monto": 15
+    },
+    {
+      "codProducto": "ANC00046",
+      "producto": "CHOCOLATE",
+      "categoria": "DULCES",
+      "fecha": "2026-09-18",
+      "cantidad": 1,
+      "monto": 50
+    },
+    {
       "codProducto": "ANC00241",
       "producto": "CEVICHE DE TRUCHA Y HONGOS",
       "categoria": "ENTRADAS",
@@ -10869,14 +10925,6 @@
       "monto": 15
     },
     {
-      "codProducto": "ANC00105",
-      "producto": "COCA COLA SIN AZUCAR",
-      "categoria": "GASEOSA",
-      "fecha": "2026-09-18",
-      "cantidad": 1,
-      "monto": 15
-    },
-    {
       "codProducto": "ANC00104",
       "producto": "COCA COLA",
       "categoria": "GASEOSA",
@@ -10891,14 +10939,6 @@
       "fecha": "2026-09-18",
       "cantidad": 1,
       "monto": 70
-    },
-    {
-      "codProducto": "ANC00099",
-      "producto": "PARRILLA OJO DE BIFE",
-      "categoria": "FUERTES",
-      "fecha": "2026-09-18",
-      "cantidad": 2,
-      "monto": 320
     },
     {
       "codProducto": "ANC00101",
@@ -10979,14 +11019,6 @@
       "fecha": "2026-09-18",
       "cantidad": 1,
       "monto": 55
-    },
-    {
-      "codProducto": "ANC00095",
-      "producto": "OSSOBUCO A LA BOLIVIANA",
-      "categoria": "FUERTES",
-      "fecha": "2026-09-18",
-      "cantidad": 1,
-      "monto": 160
     },
     {
       "codProducto": "ANC00092",

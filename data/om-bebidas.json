@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T01:05:54.986Z",
+  "generatedAt": "2026-09-19T01:20:04.971Z",
   "rangoFechas": {
     "desde": "2026-07-13",
     "hasta": "2026-09-19"
@@ -403,9 +403,9 @@
       "vtasIzi": 0,
       "vtasExt": 0,
       "vtasPY": 0,
-      "vtasAnc": 7,
+      "vtasAnc": 9,
       "salidas": 0,
-      "vtasTot": 7,
+      "vtasTot": 9,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -808,11 +808,11 @@
       "vtasIzi": 0,
       "vtasExt": 4,
       "vtasPY": 0,
-      "vtasAnc": 0,
+      "vtasAnc": 1,
       "salidas": 0,
-      "vtasTot": 4,
+      "vtasTot": 5,
       "inv": null,
-      "cierre": 31,
+      "cierre": 30,
       "dif": null
     },
     {
@@ -8371,7 +8371,7 @@
       "vtas": 0,
       "vtasExt": 0,
       "vtasPY": 0,
-      "vtasAnc": 1,
+      "vtasAnc": 3,
       "salidas": 0,
       "invEsperado": 0,
       "invIniFin": null,
@@ -8444,6 +8444,20 @@
       "vtasAnc": 0,
       "salidas": 0,
       "invEsperado": 0,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "SPRITE",
+      "fecha": "2026-09-18",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 1,
+      "salidas": 0,
+      "invEsperado": 30,
       "invIniFin": null,
       "dif": null
     },
@@ -10202,7 +10216,7 @@
       },
       {
         "weekYear": "202638",
-        "valor": 452.75
+        "valor": 455.75
       }
     ],
     "Compras": [
@@ -10238,11 +10252,11 @@
     "filasInventariosOmuh": 349,
     "filasCompras": 1495,
     "filasSalidas": 66,
-    "filasVentasIzi": 8309,
+    "filasVentasIzi": 8312,
     "filasVentasPY": 10519,
     "filasExtras": 15062,
     "filasMovInv": 418,
-    "filasVentasAncIzi": 5925,
+    "filasVentasAncIzi": 5932,
     "warnings": []
   }
 }

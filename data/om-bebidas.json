@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-18T23:57:18.101Z",
+  "generatedAt": "2026-09-19T00:10:26.516Z",
   "rangoFechas": {
     "desde": "2026-07-13",
-    "hasta": "2026-09-18"
+    "hasta": "2026-09-19"
   },
   "categorias": [
     "5. Bebidas alcohólicas",
@@ -355,14 +355,14 @@
       "weekYear": "202638",
       "invMenos7": null,
       "compras": 138,
-      "vtasIzi": 4,
+      "vtasIzi": 5,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 4,
+      "vtasTot": 5,
       "inv": null,
-      "cierre": 134,
+      "cierre": 133,
       "dif": null
     },
     {
@@ -490,14 +490,14 @@
       "weekYear": "202638",
       "invMenos7": 23,
       "compras": 0,
-      "vtasIzi": 1,
+      "vtasIzi": 2,
       "vtasExt": 2,
       "vtasPY": 1,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 4,
+      "vtasTot": 5,
       "inv": null,
-      "cierre": 19,
+      "cierre": 18,
       "dif": null
     },
     {
@@ -5890,30 +5890,30 @@
       "weekYear": "202630",
       "invMenos7": 42,
       "compras": 24,
-      "vtasIzi": 19,
+      "vtasIzi": 18,
       "vtasExt": 20,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 39,
+      "vtasTot": 38,
       "inv": 26,
-      "cierre": 27,
-      "dif": -1
+      "cierre": 28,
+      "dif": -2
     },
     {
       "producto": "Agua con gas",
       "weekYear": "202630",
       "invMenos7": 11,
       "compras": 18,
-      "vtasIzi": 6,
+      "vtasIzi": 5,
       "vtasExt": 21,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 27,
+      "vtasTot": 26,
       "inv": 2,
-      "cierre": 2,
-      "dif": 0
+      "cierre": 3,
+      "dif": -1
     },
     {
       "producto": "BENDITA HOPPY",
@@ -6175,15 +6175,15 @@
       "weekYear": "202630",
       "invMenos7": 55,
       "compras": 48,
-      "vtasIzi": 8,
+      "vtasIzi": 7,
       "vtasExt": 42,
       "vtasPY": 5,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 55,
+      "vtasTot": 54,
       "inv": 40,
-      "cierre": 48,
-      "dif": -8
+      "cierre": 49,
+      "dif": -9
     },
     {
       "producto": "Curandero",
@@ -6370,15 +6370,15 @@
       "weekYear": "202630",
       "invMenos7": 15,
       "compras": 26,
-      "vtasIzi": 12,
+      "vtasIzi": 11,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 12,
+      "vtasTot": 11,
       "inv": 28,
-      "cierre": 29,
-      "dif": -1
+      "cierre": 30,
+      "dif": -2
     },
     {
       "producto": "Pepsi",
@@ -6550,14 +6550,14 @@
       "weekYear": "202630",
       "invMenos7": null,
       "compras": 12,
-      "vtasIzi": 3,
+      "vtasIzi": 2,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 3,
+      "vtasTot": 2,
       "inv": null,
-      "cierre": 9,
+      "cierre": 10,
       "dif": null
     },
     {
@@ -8336,6 +8336,20 @@
       "dif": null
     },
     {
+      "producto": "Coca Cola",
+      "fecha": "2026-09-18",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 133,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "COCA COLA",
       "fecha": "2026-09-18",
       "dia": "vie",
@@ -8374,6 +8388,20 @@
       "vtasAnc": 0,
       "salidas": 0,
       "invEsperado": 47,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "Fanta Papaya",
+      "fecha": "2026-09-18",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 18,
       "invIniFin": null,
       "dif": null
     },
@@ -10082,7 +10110,7 @@
       },
       {
         "weekYear": "202638",
-        "valor": 172.75
+        "valor": 174.75
       }
     ],
     "Vtas Ext.": [
@@ -10160,7 +10188,7 @@
       },
       {
         "weekYear": "202638",
-        "valor": 448.75
+        "valor": 450.75
       }
     ],
     "Compras": [
@@ -10196,10 +10224,10 @@
     "filasInventariosOmuh": 349,
     "filasCompras": 1495,
     "filasSalidas": 66,
-    "filasVentasIzi": 8281,
+    "filasVentasIzi": 8257,
     "filasVentasPY": 10519,
     "filasExtras": 15062,
-    "filasMovInv": 424,
+    "filasMovInv": 417,
     "filasVentasAncIzi": 5918,
     "warnings": []
   }

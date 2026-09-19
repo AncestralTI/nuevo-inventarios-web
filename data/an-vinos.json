@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T03:05:41.740Z",
+  "generatedAt": "2026-09-19T03:20:13.366Z",
   "rangoFechas": {
     "desde": "2026-07-13",
     "hasta": "2026-09-19"
@@ -992,13 +992,13 @@
       "weekYear": "202638",
       "invMenos7": 3,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 3,
+      "cierre": 2,
       "dif": null
     },
     {
@@ -16597,6 +16597,19 @@
       "dif": null
     },
     {
+      "producto": "GRAN PATRONO MARSELAN - KUHLMANN",
+      "fecha": "2026-09-18",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 2,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "NARANJO - CEPA DE ORO",
       "fecha": "2026-09-18",
       "dia": "vie",
@@ -17453,7 +17466,7 @@
       },
       {
         "weekYear": "202638",
-        "valor": 32
+        "valor": 33
       }
     ],
     "Vtas Ext": [
@@ -17531,7 +17544,7 @@
       },
       {
         "weekYear": "202638",
-        "valor": 42
+        "valor": 43
       }
     ],
     "Salidas": [
@@ -17593,7 +17606,7 @@
     "filasInventariosGs": 3662,
     "filasCompras": 2230,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 5987,
+    "filasVentasIzi": 5997,
     "filasMovInv": 422,
     "filasDimProducto": 439,
     "warnings": []

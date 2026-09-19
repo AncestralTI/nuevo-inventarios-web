@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T03:06:35.241Z",
+  "generatedAt": "2026-09-19T03:21:03.270Z",
   "fuente": "API iZi Soluciones (facturas + items-inventarios), sucursal Ancestral (79344)",
   "rango": {
     "desde": "2026-08-20",
@@ -10773,6 +10773,86 @@
       "monto": 160
     },
     {
+      "codProducto": "ANC00063",
+      "producto": "TACO PULLED PORK",
+      "categoria": "ENTRADAS",
+      "fecha": "2026-09-18",
+      "cantidad": 2,
+      "monto": 140
+    },
+    {
+      "codProducto": "ANC00183",
+      "producto": "PANZA FRITA",
+      "categoria": "ENTRADAS",
+      "fecha": "2026-09-18",
+      "cantidad": 3,
+      "monto": 180
+    },
+    {
+      "codProducto": "ANC00325",
+      "producto": "TABLA ANCESTRAL",
+      "categoria": "ENTRADAS",
+      "fecha": "2026-09-18",
+      "cantidad": 1,
+      "monto": 120
+    },
+    {
+      "codProducto": "ANC00020",
+      "producto": "CHUFLAY",
+      "categoria": "COCTELES",
+      "fecha": "2026-09-18",
+      "cantidad": 4,
+      "monto": 160
+    },
+    {
+      "codProducto": "ANC00029",
+      "producto": "MOJITO",
+      "categoria": "COCTELES",
+      "fecha": "2026-09-18",
+      "cantidad": 1,
+      "monto": 50
+    },
+    {
+      "codProducto": "ANC00090",
+      "producto": "CHULETON (Kg)",
+      "categoria": "FUERTES",
+      "fecha": "2026-09-18",
+      "cantidad": 3.3,
+      "monto": 1320
+    },
+    {
+      "codProducto": "ANC00001",
+      "producto": "AGUA C/G",
+      "categoria": "AGUAS",
+      "fecha": "2026-09-18",
+      "cantidad": 11,
+      "monto": 165
+    },
+    {
+      "codProducto": "ANC00140",
+      "producto": "GRAN PATRONO MARSELAN - KUHLMANN",
+      "categoria": "VINOS",
+      "fecha": "2026-09-18",
+      "cantidad": 1,
+      "monto": 640
+    },
+    {
+      "codProducto": "ANC00002",
+      "producto": "AGUA S/G",
+      "categoria": "AGUAS",
+      "fecha": "2026-09-18",
+      "cantidad": 4,
+      "monto": 48
+    },
+    {
+      "codProducto": "ANC00057",
+      "producto": "TUETANO BRULEE",
+      "categoria": "DULCES",
+      "fecha": "2026-09-18",
+      "cantidad": 1,
+      "monto": 50
+    },
+    {
       "codProducto": "ANC00030",
       "producto": "MOSCOW MULE",
       "categoria": "COCTELES",
@@ -10941,22 +11021,6 @@
       "monto": 900
     },
     {
-      "codProducto": "ANC00090",
-      "producto": "CHULETON (Kg)",
-      "categoria": "FUERTES",
-      "fecha": "2026-09-18",
-      "cantidad": 2.29,
-      "monto": 916
-    },
-    {
-      "codProducto": "ANC00001",
-      "producto": "AGUA C/G",
-      "categoria": "AGUAS",
-      "fecha": "2026-09-18",
-      "cantidad": 8,
-      "monto": 120
-    },
-    {
       "codProducto": "ANC00130",
       "producto": "BONARDA \"PIONERO\" - ARANJUEZ",
       "categoria": "VINOS",
@@ -11069,14 +11133,6 @@
       "monto": 40
     },
     {
-      "codProducto": "ANC00183",
-      "producto": "PANZA FRITA",
-      "categoria": "ENTRADAS",
-      "fecha": "2026-09-18",
-      "cantidad": 2,
-      "monto": 120
-    },
-    {
       "codProducto": "ANC00331",
       "producto": "CORDERO A LA CRUZ",
       "categoria": "COMIDAS",
@@ -11165,28 +11221,12 @@
       "monto": 15
     },
     {
-      "codProducto": "ANC00063",
-      "producto": "TACO PULLED PORK",
-      "categoria": "ENTRADAS",
-      "fecha": "2026-09-18",
-      "cantidad": 1,
-      "monto": 70
-    },
-    {
       "codProducto": "ANC00065",
       "producto": "TATAKI DE LLAMA",
       "categoria": "ENTRADAS",
       "fecha": "2026-09-18",
       "cantidad": 1,
       "monto": 75
-    },
-    {
-      "codProducto": "ANC00002",
-      "producto": "AGUA S/G",
-      "categoria": "AGUAS",
-      "fecha": "2026-09-18",
-      "cantidad": 3,
-      "monto": 36
     },
     {
       "codProducto": "ANC00005",

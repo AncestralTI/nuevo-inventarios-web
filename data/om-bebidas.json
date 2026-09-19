@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T18:48:33.788Z",
+  "generatedAt": "2026-09-19T18:56:12.352Z",
   "rangoFechas": {
     "desde": "2026-07-13",
     "hasta": "2026-09-19"
@@ -373,11 +373,11 @@
       "vtasIzi": 0,
       "vtasExt": 41,
       "vtasPY": 0,
-      "vtasAnc": 8,
+      "vtasAnc": 9,
       "salidas": 0,
-      "vtasTot": 49,
+      "vtasTot": 50,
       "inv": null,
-      "cierre": 46,
+      "cierre": 45,
       "dif": null
     },
     {
@@ -403,9 +403,9 @@
       "vtasIzi": 0,
       "vtasExt": 0,
       "vtasPY": 0,
-      "vtasAnc": 10,
+      "vtasAnc": 11,
       "salidas": 0,
-      "vtasTot": 10,
+      "vtasTot": 11,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -463,11 +463,11 @@
       "vtasIzi": 0,
       "vtasExt": 11,
       "vtasPY": 0,
-      "vtasAnc": 4,
+      "vtasAnc": 5,
       "salidas": 0,
-      "vtasTot": 15,
+      "vtasTot": 16,
       "inv": null,
-      "cierre": 31,
+      "cierre": 30,
       "dif": null
     },
     {
@@ -688,9 +688,9 @@
       "vtasIzi": 0,
       "vtasExt": 0,
       "vtasPY": 0,
-      "vtasAnc": 2,
+      "vtasAnc": 3,
       "salidas": 0,
-      "vtasTot": 2,
+      "vtasTot": 3,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -8602,6 +8602,34 @@
       "dif": null
     },
     {
+      "producto": "COCA COLA",
+      "fecha": "2026-09-19",
+      "dia": "sáb",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 1,
+      "salidas": 0,
+      "invEsperado": 45,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "COCA COLA SIN AZUCAR",
+      "fecha": "2026-09-19",
+      "dia": "sáb",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 1,
+      "salidas": 0,
+      "invEsperado": 0,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "Curandero",
       "fecha": "2026-09-19",
       "dia": "sáb",
@@ -8612,6 +8640,20 @@
       "vtasAnc": 0,
       "salidas": 0,
       "invEsperado": 46,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "FANTA",
+      "fecha": "2026-09-19",
+      "dia": "sáb",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 1,
+      "salidas": 0,
+      "invEsperado": 30,
       "invIniFin": null,
       "dif": null
     },
@@ -8637,7 +8679,7 @@
       "vtas": 0,
       "vtasExt": 0,
       "vtasPY": 0,
-      "vtasAnc": 1,
+      "vtasAnc": 2,
       "salidas": 0,
       "invEsperado": 0,
       "invIniFin": null,
@@ -10398,7 +10440,7 @@
       },
       {
         "weekYear": "202638",
-        "valor": 548.75
+        "valor": 552.75
       }
     ],
     "Compras": [
@@ -10437,8 +10479,8 @@
     "filasVentasIzi": 8411,
     "filasVentasPY": 10529,
     "filasExtras": 15242,
-    "filasMovInv": 423,
-    "filasVentasAncIzi": 6005,
+    "filasMovInv": 425,
+    "filasVentasAncIzi": 6037,
     "warnings": []
   }
 }

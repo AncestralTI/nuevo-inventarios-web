@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T18:47:57.319Z",
+  "generatedAt": "2026-09-19T18:55:37.719Z",
   "rangoFechas": {
     "desde": "2026-07-13",
     "hasta": "2026-09-19"
@@ -292,13 +292,13 @@
       "weekYear": "202638",
       "invMenos7": 18,
       "compras": 24,
-      "vtas": 8,
+      "vtas": 9,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 1,
-      "vtasTot": 9,
+      "vtasTot": 10,
       "inv": null,
-      "cierre": 33,
+      "cierre": 32,
       "dif": null
     },
     {
@@ -306,13 +306,13 @@
       "weekYear": "202638",
       "invMenos7": 57,
       "compras": 0,
-      "vtas": 10,
+      "vtas": 11,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 10,
+      "vtasTot": 11,
       "inv": null,
-      "cierre": 47,
+      "cierre": 46,
       "dif": null
     },
     {
@@ -320,13 +320,13 @@
       "weekYear": "202638",
       "invMenos7": 23,
       "compras": 0,
-      "vtas": 4,
+      "vtas": 5,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 4,
+      "vtasTot": 5,
       "inv": null,
-      "cierre": 19,
+      "cierre": 18,
       "dif": null
     },
     {
@@ -418,13 +418,13 @@
       "weekYear": "202638",
       "invMenos7": 15,
       "compras": 24,
-      "vtas": 2,
+      "vtas": 3,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 2,
+      "vtasTot": 3,
       "inv": null,
-      "cierre": 37,
+      "cierre": 36,
       "dif": null
     },
     {
@@ -4428,7 +4428,7 @@
       "dif": null
     },
     {
-      "producto": "POTOSINA PILSNER",
+      "producto": "COCA COLA",
       "fecha": "2026-09-19",
       "dia": "sáb",
       "compras": 0,
@@ -4436,7 +4436,46 @@
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "invEsperado": 37,
+      "invEsperado": 32,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "COCA COLA SIN AZUCAR",
+      "fecha": "2026-09-19",
+      "dia": "sáb",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 46,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "FANTA",
+      "fecha": "2026-09-19",
+      "dia": "sáb",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 18,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "POTOSINA PILSNER",
+      "fecha": "2026-09-19",
+      "dia": "sáb",
+      "compras": 0,
+      "vtas": 2,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 36,
       "invIniFin": null,
       "dif": null
     },
@@ -4803,7 +4842,7 @@
       },
       {
         "weekYear": "202638",
-        "valor": 31
+        "valor": 35
       }
     ],
     "Vtas Ext": [
@@ -4881,7 +4920,7 @@
       },
       {
         "weekYear": "202638",
-        "valor": 32
+        "valor": 36
       }
     ],
     "Salidas": [
@@ -4943,8 +4982,8 @@
     "filasInventariosGs": 3662,
     "filasCompras": 2230,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 6005,
-    "filasMovInv": 423,
+    "filasVentasIzi": 6037,
+    "filasMovInv": 425,
     "filasDimProducto": 440,
     "warnings": []
   }

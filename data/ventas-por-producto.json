@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T18:48:35.586Z",
+  "generatedAt": "2026-09-19T18:56:14.511Z",
   "fuente": "API iZi Soluciones (facturas + items-inventarios), sucursal Ancestral (79344)",
   "rango": {
     "desde": "2026-08-20",
@@ -11261,28 +11261,252 @@
       "monto": 20
     },
     {
-      "codProducto": "ANC00038",
-      "producto": "APEROL SPRITZ",
-      "categoria": "COCTELES",
-      "fecha": "2026-09-19",
-      "cantidad": 2,
-      "monto": 100
-    },
-    {
-      "codProducto": "ANC00199",
-      "producto": "GIN & TONIC LA REPUBLICA",
-      "categoria": "COCTELES",
+      "codProducto": "ANC00184",
+      "producto": "ANTICUCHO DE POLLO",
+      "categoria": "ENTRADAS",
       "fecha": "2026-09-19",
       "cantidad": 1,
-      "monto": 50
+      "monto": 55
     },
     {
       "codProducto": "ANC00065",
       "producto": "TATAKI DE LLAMA",
       "categoria": "ENTRADAS",
       "fecha": "2026-09-19",
+      "cantidad": 2,
+      "monto": 150
+    },
+    {
+      "codProducto": "ANC00063",
+      "producto": "TACO PULLED PORK",
+      "categoria": "ENTRADAS",
+      "fecha": "2026-09-19",
+      "cantidad": 2,
+      "monto": 140
+    },
+    {
+      "codProducto": "ANC00324",
+      "producto": "TRUCHA CURADA EN PATACÓN",
+      "categoria": "COMIDAS",
+      "fecha": "2026-09-19",
+      "cantidad": 1,
+      "monto": 70
+    },
+    {
+      "codProducto": "ANC00331",
+      "producto": "CORDERO A LA CRUZ",
+      "categoria": "COMIDAS",
+      "fecha": "2026-09-19",
+      "cantidad": 1,
+      "monto": 150
+    },
+    {
+      "codProducto": "ANC00001",
+      "producto": "AGUA C/G",
+      "categoria": "AGUAS",
+      "fecha": "2026-09-19",
+      "cantidad": 5,
+      "monto": 75
+    },
+    {
+      "codProducto": "ANC00103",
+      "producto": "PARRILLA TRUCHA",
+      "categoria": "FUERTES",
+      "fecha": "2026-09-19",
+      "cantidad": 3,
+      "monto": 450
+    },
+    {
+      "codProducto": "ANC00092",
+      "producto": "GNOCCHIS CON HONGOS A LA BRASA",
+      "categoria": "FUERTES",
+      "fecha": "2026-09-19",
+      "cantidad": 1,
+      "monto": 140
+    },
+    {
+      "codProducto": "ANC00114",
+      "producto": "NARANJA TUMBO",
+      "categoria": "JUGOS",
+      "fecha": "2026-09-19",
+      "cantidad": 1,
+      "monto": 15
+    },
+    {
+      "codProducto": "ANC00182",
+      "producto": "POTOSINA PILSNER",
+      "categoria": "CERVEZA",
+      "fecha": "2026-09-19",
+      "cantidad": 2,
+      "monto": 60
+    },
+    {
+      "codProducto": "ANC00024",
+      "producto": "CRISTALINO DE TUMBO",
+      "categoria": "COCTELES",
+      "fecha": "2026-09-19",
+      "cantidad": 2,
+      "monto": 100
+    },
+    {
+      "codProducto": "ANC00328",
+      "producto": "PAVLOVA DE PIÑA A LA BRASA",
+      "categoria": "COMIDAS",
+      "fecha": "2026-09-19",
+      "cantidad": 1,
+      "monto": 50
+    },
+    {
+      "codProducto": "ANC00057",
+      "producto": "TUETANO BRULEE",
+      "categoria": "DULCES",
+      "fecha": "2026-09-19",
+      "cantidad": 1,
+      "monto": 50
+    },
+    {
+      "codProducto": "ANC00106",
+      "producto": "FANTA",
+      "categoria": "GASEOSA",
+      "fecha": "2026-09-19",
+      "cantidad": 1,
+      "monto": 15
+    },
+    {
+      "codProducto": "ANC00108",
+      "producto": "ICED TEA",
+      "categoria": "JUGOS",
+      "fecha": "2026-09-19",
+      "cantidad": 2,
+      "monto": 30
+    },
+    {
+      "codProducto": "ANC00115",
+      "producto": "NARANJA-TUMBO (BOTELLA)",
+      "categoria": "JUGOS",
+      "fecha": "2026-09-19",
+      "cantidad": 1,
+      "monto": 40
+    },
+    {
+      "codProducto": "ANC00020",
+      "producto": "CHUFLAY",
+      "categoria": "COCTELES",
+      "fecha": "2026-09-19",
+      "cantidad": 2,
+      "monto": 80
+    },
+    {
+      "codProducto": "ANC00249",
+      "producto": "ARROZ DE CANGREJOS",
+      "categoria": "FUERTES",
+      "fecha": "2026-09-19",
+      "cantidad": 1,
+      "monto": 150
+    },
+    {
+      "codProducto": "ANC00101",
+      "producto": "PECHUGA DE POLLO CROCANTE",
+      "categoria": "FUERTES",
+      "fecha": "2026-09-19",
+      "cantidad": 2,
+      "monto": 260
+    },
+    {
+      "codProducto": "ANC00281",
+      "producto": "CUARTO PATO CONFITADO",
+      "categoria": "FUERTES",
+      "fecha": "2026-09-19",
+      "cantidad": 2,
+      "monto": 280
+    },
+    {
+      "codProducto": "ANC00090",
+      "producto": "CHULETON (Kg)",
+      "categoria": "FUERTES",
+      "fecha": "2026-09-19",
+      "cantidad": 1.03,
+      "monto": 412
+    },
+    {
+      "codProducto": "ANC00080",
+      "producto": "PORCIÓN ARROZ C/ QUESO",
+      "categoria": "GUARNICIONES",
+      "fecha": "2026-09-19",
+      "cantidad": 1,
+      "monto": 45
+    },
+    {
+      "codProducto": "ANC00058",
+      "producto": "ALCACHOFAS",
+      "categoria": "ENTRADAS",
+      "fecha": "2026-09-19",
       "cantidad": 1,
       "monto": 75
+    },
+    {
+      "codProducto": "ANC00093",
+      "producto": "KEPERI AHUMADO",
+      "categoria": "FUERTES",
+      "fecha": "2026-09-19",
+      "cantidad": 1,
+      "monto": 140
+    },
+    {
+      "codProducto": "ANC00095",
+      "producto": "OSSOBUCO A LA BOLIVIANA",
+      "categoria": "FUERTES",
+      "fecha": "2026-09-19",
+      "cantidad": 1,
+      "monto": 160
+    },
+    {
+      "codProducto": "ANC00099",
+      "producto": "PARRILLA OJO DE BIFE",
+      "categoria": "FUERTES",
+      "fecha": "2026-09-19",
+      "cantidad": 1,
+      "monto": 160
+    },
+    {
+      "codProducto": "ANC00207",
+      "producto": "BERRIES TONIC",
+      "categoria": "COCTELES",
+      "fecha": "2026-09-19",
+      "cantidad": 1,
+      "monto": 50
+    },
+    {
+      "codProducto": "ANC00199",
+      "producto": "GIN & TONIC LA REPUBLICA",
+      "categoria": "COCTELES",
+      "fecha": "2026-09-19",
+      "cantidad": 2,
+      "monto": 100
+    },
+    {
+      "codProducto": "ANC00104",
+      "producto": "COCA COLA",
+      "categoria": "GASEOSA",
+      "fecha": "2026-09-19",
+      "cantidad": 1,
+      "monto": 15
+    },
+    {
+      "codProducto": "ANC00105",
+      "producto": "COCA COLA SIN AZUCAR",
+      "categoria": "GASEOSA",
+      "fecha": "2026-09-19",
+      "cantidad": 1,
+      "monto": 15
+    },
+    {
+      "codProducto": "ANC00038",
+      "producto": "APEROL SPRITZ",
+      "categoria": "COCTELES",
+      "fecha": "2026-09-19",
+      "cantidad": 2,
+      "monto": 100
     },
     {
       "codProducto": "ANC00183",
@@ -11299,30 +11523,6 @@
       "fecha": "2026-09-19",
       "cantidad": 1,
       "monto": 150
-    },
-    {
-      "codProducto": "ANC00281",
-      "producto": "CUARTO PATO CONFITADO",
-      "categoria": "FUERTES",
-      "fecha": "2026-09-19",
-      "cantidad": 1,
-      "monto": 140
-    },
-    {
-      "codProducto": "ANC00103",
-      "producto": "PARRILLA TRUCHA",
-      "categoria": "FUERTES",
-      "fecha": "2026-09-19",
-      "cantidad": 1,
-      "monto": 150
-    },
-    {
-      "codProducto": "ANC00182",
-      "producto": "POTOSINA PILSNER",
-      "categoria": "CERVEZA",
-      "fecha": "2026-09-19",
-      "cantidad": 1,
-      "monto": 30
     }
   ]
 }

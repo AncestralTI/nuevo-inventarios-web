@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T20:06:03.554Z",
+  "generatedAt": "2026-09-19T20:20:32.332Z",
   "fuente": "API iZi Soluciones (facturas + items-inventarios), sucursal Ancestral (79344)",
   "rango": {
     "desde": "2026-08-20",
@@ -11261,6 +11261,54 @@
       "monto": 20
     },
     {
+      "codProducto": "ANC00184",
+      "producto": "ANTICUCHO DE POLLO",
+      "categoria": "ENTRADAS",
+      "fecha": "2026-09-19",
+      "cantidad": 2,
+      "monto": 110
+    },
+    {
+      "codProducto": "ANC00281",
+      "producto": "CUARTO PATO CONFITADO",
+      "categoria": "FUERTES",
+      "fecha": "2026-09-19",
+      "cantidad": 3,
+      "monto": 420
+    },
+    {
+      "codProducto": "ANC00330",
+      "producto": "PESCADO AMAZONICO Y TUMBO",
+      "categoria": "COMIDAS",
+      "fecha": "2026-09-19",
+      "cantidad": 1,
+      "monto": 140
+    },
+    {
+      "codProducto": "ANC00328",
+      "producto": "PAVLOVA DE PIÑA A LA BRASA",
+      "categoria": "COMIDAS",
+      "fecha": "2026-09-19",
+      "cantidad": 3,
+      "monto": 150
+    },
+    {
+      "codProducto": "ANC00280",
+      "producto": "COPA TANNAT RAIZ - KOHLBERG",
+      "categoria": "VINOS POR COPA",
+      "fecha": "2026-09-19",
+      "cantidad": 1,
+      "monto": 55
+    },
+    {
+      "codProducto": "ANC00001",
+      "producto": "AGUA C/G",
+      "categoria": "AGUAS",
+      "fecha": "2026-09-19",
+      "cantidad": 12,
+      "monto": 180
+    },
+    {
       "codProducto": "ANC00063",
       "producto": "TACO PULLED PORK",
       "categoria": "ENTRADAS",
@@ -11301,14 +11349,6 @@
       "monto": 1084
     },
     {
-      "codProducto": "ANC00001",
-      "producto": "AGUA C/G",
-      "categoria": "AGUAS",
-      "fecha": "2026-09-19",
-      "cantidad": 11,
-      "monto": 165
-    },
-    {
       "codProducto": "ANC00359",
       "producto": "CAIPIROSKA",
       "categoria": "COCTELES",
@@ -11323,14 +11363,6 @@
       "fecha": "2026-09-19",
       "cantidad": 4,
       "monto": 60
-    },
-    {
-      "codProducto": "ANC00328",
-      "producto": "PAVLOVA DE PIÑA A LA BRASA",
-      "categoria": "COMIDAS",
-      "fecha": "2026-09-19",
-      "cantidad": 2,
-      "monto": 100
     },
     {
       "codProducto": "ANC00329",
@@ -11429,14 +11461,6 @@
       "monto": 320
     },
     {
-      "codProducto": "ANC00184",
-      "producto": "ANTICUCHO DE POLLO",
-      "categoria": "ENTRADAS",
-      "fecha": "2026-09-19",
-      "cantidad": 1,
-      "monto": 55
-    },
-    {
       "codProducto": "ANC00324",
       "producto": "TRUCHA CURADA EN PATACÓN",
       "categoria": "COMIDAS",
@@ -11515,14 +11539,6 @@
       "fecha": "2026-09-19",
       "cantidad": 2,
       "monto": 260
-    },
-    {
-      "codProducto": "ANC00281",
-      "producto": "CUARTO PATO CONFITADO",
-      "categoria": "FUERTES",
-      "fecha": "2026-09-19",
-      "cantidad": 2,
-      "monto": 280
     },
     {
       "codProducto": "ANC00080",

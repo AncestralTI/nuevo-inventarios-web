@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T00:08:31.637Z",
+  "generatedAt": "2026-09-20T00:30:40.160Z",
   "rangoFechas": {
     "desde": "2026-07-13",
     "hasta": "2026-09-20"
@@ -280,14 +280,14 @@
       "weekYear": "202638",
       "invMenos7": 386,
       "compras": 0,
-      "vtasIzi": 11,
+      "vtasIzi": 14,
       "vtasExt": 61,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 72,
+      "vtasTot": 75,
       "inv": null,
-      "cierre": 314,
+      "cierre": 311,
       "dif": null
     },
     {
@@ -8616,6 +8616,20 @@
       "dif": null
     },
     {
+      "producto": "Cerveza Huari",
+      "fecha": "2026-09-19",
+      "dia": "sáb",
+      "compras": 0,
+      "vtas": 3,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 311,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "Chop Cerveza",
       "fecha": "2026-09-19",
       "dia": "sáb",
@@ -10460,7 +10474,7 @@
       },
       {
         "weekYear": "202638",
-        "valor": 203.5
+        "valor": 206.5
       }
     ],
     "Vtas Ext.": [
@@ -10538,7 +10552,7 @@
       },
       {
         "weekYear": "202638",
-        "valor": 574.5
+        "valor": 577.5
       }
     ],
     "Compras": [
@@ -10574,10 +10588,10 @@
     "filasInventariosOmuh": 349,
     "filasCompras": 1495,
     "filasSalidas": 68,
-    "filasVentasIzi": 8435,
+    "filasVentasIzi": 8445,
     "filasVentasPY": 10529,
     "filasExtras": 15242,
-    "filasMovInv": 411,
+    "filasMovInv": 412,
     "filasVentasAncIzi": 5987,
     "warnings": []
   }

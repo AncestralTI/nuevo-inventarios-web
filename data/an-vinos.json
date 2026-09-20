@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T02:05:22.040Z",
+  "generatedAt": "2026-09-20T02:20:41.451Z",
   "rangoFechas": {
     "desde": "2026-07-13",
     "hasta": "2026-09-20"
@@ -1454,13 +1454,13 @@
       "weekYear": "202638",
       "invMenos7": 11,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 11,
+      "cierre": 10,
       "dif": null
     },
     {
@@ -16701,6 +16701,19 @@
       "dif": null
     },
     {
+      "producto": "REBELION ALBA WEIZEN",
+      "fecha": "2026-09-19",
+      "dia": "sáb",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 10,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "IMPREDECIBLE - TERRA ANCESTRAL",
       "fecha": "2026-09-07",
       "dia": "lun",
@@ -17518,7 +17531,7 @@
       },
       {
         "weekYear": "202638",
-        "valor": 40
+        "valor": 41
       }
     ],
     "Vtas Ext": [
@@ -17596,7 +17609,7 @@
       },
       {
         "weekYear": "202638",
-        "valor": 50
+        "valor": 51
       }
     ],
     "Salidas": [
@@ -17658,8 +17671,8 @@
     "filasInventariosGs": 3662,
     "filasCompras": 2230,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 6023,
-    "filasMovInv": 416,
+    "filasVentasIzi": 6027,
+    "filasMovInv": 418,
     "filasDimProducto": 440,
     "warnings": []
   }

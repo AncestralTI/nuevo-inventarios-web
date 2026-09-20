@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T02:06:08.693Z",
+  "generatedAt": "2026-09-20T02:21:36.586Z",
   "fuente": "API iZi Soluciones (facturas + items-inventarios), sucursal Ancestral (79344)",
   "rango": {
     "desde": "2026-08-21",
@@ -10881,8 +10881,32 @@
       "producto": "ALCACHOFAS",
       "categoria": "ENTRADAS",
       "fecha": "2026-09-19",
+      "cantidad": 5,
+      "monto": 375
+    },
+    {
+      "codProducto": "ANC00098",
+      "producto": "PARRILLA KEPERI",
+      "categoria": "FUERTES",
+      "fecha": "2026-09-19",
+      "cantidad": 2,
+      "monto": 280
+    },
+    {
+      "codProducto": "ANC00193",
+      "producto": "REBELION ALBA WEIZEN",
+      "categoria": "CERVEZA",
+      "fecha": "2026-09-19",
+      "cantidad": 1,
+      "monto": 33
+    },
+    {
+      "codProducto": "ANC00002",
+      "producto": "AGUA S/G",
+      "categoria": "AGUAS",
+      "fecha": "2026-09-19",
       "cantidad": 4,
-      "monto": 300
+      "monto": 48
     },
     {
       "codProducto": "ANC00099",
@@ -10979,14 +11003,6 @@
       "fecha": "2026-09-19",
       "cantidad": 3.42,
       "monto": 1368
-    },
-    {
-      "codProducto": "ANC00002",
-      "producto": "AGUA S/G",
-      "categoria": "AGUAS",
-      "fecha": "2026-09-19",
-      "cantidad": 2,
-      "monto": 24
     },
     {
       "codProducto": "ANC00161",

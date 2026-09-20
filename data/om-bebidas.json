@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T02:06:06.936Z",
+  "generatedAt": "2026-09-20T02:21:34.152Z",
   "rangoFechas": {
     "desde": "2026-07-13",
     "hasta": "2026-09-20"
@@ -130,14 +130,14 @@
       "weekYear": "202638",
       "invMenos7": 31,
       "compras": 36,
-      "vtasIzi": 20,
+      "vtasIzi": 21,
       "vtasExt": 9,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 29,
+      "vtasTot": 30,
       "inv": null,
-      "cierre": 38,
+      "cierre": 37,
       "dif": null
     },
     {
@@ -703,9 +703,9 @@
       "vtasIzi": 0,
       "vtasExt": 0,
       "vtasPY": 0,
-      "vtasAnc": 0,
+      "vtasAnc": 1,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -8564,12 +8564,12 @@
       "fecha": "2026-09-19",
       "dia": "sáb",
       "compras": 0,
-      "vtas": 6,
+      "vtas": 7,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "invEsperado": 38,
+      "invEsperado": 37,
       "invIniFin": null,
       "dif": null
     },
@@ -8792,6 +8792,20 @@
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 3,
+      "salidas": 0,
+      "invEsperado": 0,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "REBELION ALBA WEIZEN",
+      "fecha": "2026-09-19",
+      "dia": "sáb",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 1,
       "salidas": 0,
       "invEsperado": 0,
       "invIniFin": null,
@@ -10474,7 +10488,7 @@
       },
       {
         "weekYear": "202638",
-        "valor": 212.5
+        "valor": 213.5
       }
     ],
     "Vtas Ext.": [
@@ -10552,7 +10566,7 @@
       },
       {
         "weekYear": "202638",
-        "valor": 584.5
+        "valor": 586.5
       }
     ],
     "Compras": [
@@ -10588,11 +10602,11 @@
     "filasInventariosOmuh": 349,
     "filasCompras": 1495,
     "filasSalidas": 68,
-    "filasVentasIzi": 8492,
+    "filasVentasIzi": 8494,
     "filasVentasPY": 10529,
     "filasExtras": 15242,
-    "filasMovInv": 416,
-    "filasVentasAncIzi": 6023,
+    "filasMovInv": 418,
+    "filasVentasAncIzi": 6027,
     "warnings": []
   }
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T00:46:51.455Z",
+  "generatedAt": "2026-09-20T00:58:13.169Z",
   "fuente": "API iZi Soluciones (facturas + items-inventarios), sucursal Ancestral (79344)",
   "rango": {
     "desde": "2026-08-21",
@@ -10877,6 +10877,158 @@
       "monto": 20
     },
     {
+      "codProducto": "ANC00058",
+      "producto": "ALCACHOFAS",
+      "categoria": "ENTRADAS",
+      "fecha": "2026-09-19",
+      "cantidad": 3,
+      "monto": 225
+    },
+    {
+      "codProducto": "ANC00324",
+      "producto": "TRUCHA CURADA EN PATACÓN",
+      "categoria": "COMIDAS",
+      "fecha": "2026-09-19",
+      "cantidad": 4,
+      "monto": 280
+    },
+    {
+      "codProducto": "ANC00090",
+      "producto": "CHULETON (Kg)",
+      "categoria": "FUERTES",
+      "fecha": "2026-09-19",
+      "cantidad": 3.42,
+      "monto": 1368
+    },
+    {
+      "codProducto": "ANC00002",
+      "producto": "AGUA S/G",
+      "categoria": "AGUAS",
+      "fecha": "2026-09-19",
+      "cantidad": 2,
+      "monto": 24
+    },
+    {
+      "codProducto": "ANC00161",
+      "producto": "COPA 1750 - SAV BLANC",
+      "categoria": "VINOS POR COPA",
+      "fecha": "2026-09-19",
+      "cantidad": 1,
+      "monto": 45
+    },
+    {
+      "codProducto": "ANC00178",
+      "producto": "COPA MALBEC - CALADOC",
+      "categoria": "VINOS POR COPA",
+      "fecha": "2026-09-19",
+      "cantidad": 1,
+      "monto": 45
+    },
+    {
+      "codProducto": "ANC00349",
+      "producto": "COPA PEDRO XIMENEZ - LANDSÚA",
+      "categoria": "VINOS",
+      "fecha": "2026-09-19",
+      "cantidad": 1,
+      "monto": 55
+    },
+    {
+      "codProducto": "ANC00350",
+      "producto": "COPA MARSELAN - ARSAL",
+      "categoria": "VINOS",
+      "fecha": "2026-09-19",
+      "cantidad": 2,
+      "monto": 90
+    },
+    {
+      "codProducto": "ANC00057",
+      "producto": "TUETANO BRULEE",
+      "categoria": "DULCES",
+      "fecha": "2026-09-19",
+      "cantidad": 4,
+      "monto": 200
+    },
+    {
+      "codProducto": "ANC00115",
+      "producto": "NARANJA-TUMBO (BOTELLA)",
+      "categoria": "JUGOS",
+      "fecha": "2026-09-19",
+      "cantidad": 3,
+      "monto": 120
+    },
+    {
+      "codProducto": "ANC00110",
+      "producto": "JAMAICA (BOTELLA)",
+      "categoria": "JUGOS",
+      "fecha": "2026-09-19",
+      "cantidad": 3,
+      "monto": 120
+    },
+    {
+      "codProducto": "ANC00099",
+      "producto": "PARRILLA OJO DE BIFE",
+      "categoria": "FUERTES",
+      "fecha": "2026-09-19",
+      "cantidad": 9,
+      "monto": 1440
+    },
+    {
+      "codProducto": "ANC00093",
+      "producto": "KEPERI AHUMADO",
+      "categoria": "FUERTES",
+      "fecha": "2026-09-19",
+      "cantidad": 5,
+      "monto": 700
+    },
+    {
+      "codProducto": "ANC00331",
+      "producto": "CORDERO A LA CRUZ",
+      "categoria": "COMIDAS",
+      "fecha": "2026-09-19",
+      "cantidad": 6,
+      "monto": 900
+    },
+    {
+      "codProducto": "ANC00069",
+      "producto": "PECHUGA DE NIÑOS",
+      "categoria": "MENÚ DE NIÑOS",
+      "fecha": "2026-09-19",
+      "cantidad": 1,
+      "monto": 50
+    },
+    {
+      "codProducto": "ANC00001",
+      "producto": "AGUA C/G",
+      "categoria": "AGUAS",
+      "fecha": "2026-09-19",
+      "cantidad": 13,
+      "monto": 195
+    },
+    {
+      "codProducto": "ANC00040",
+      "producto": "UYUNI SOUR",
+      "categoria": "COCTELES",
+      "fecha": "2026-09-19",
+      "cantidad": 2,
+      "monto": 100
+    },
+    {
+      "codProducto": "ANC00114",
+      "producto": "NARANJA TUMBO",
+      "categoria": "JUGOS",
+      "fecha": "2026-09-19",
+      "cantidad": 2,
+      "monto": 30
+    },
+    {
+      "codProducto": "ANC00242",
+      "producto": "PARRILLA PESCADO AMAZÓNICO",
+      "categoria": "FUERTES",
+      "fecha": "2026-09-19",
+      "cantidad": 1,
+      "monto": 150
+    },
+    {
       "codProducto": "ANC00184",
       "producto": "ANTICUCHO DE POLLO",
       "categoria": "ENTRADAS",
@@ -10917,35 +11069,11 @@
       "monto": 55
     },
     {
-      "codProducto": "ANC00001",
-      "producto": "AGUA C/G",
-      "categoria": "AGUAS",
-      "fecha": "2026-09-19",
-      "cantidad": 12,
-      "monto": 180
-    },
-    {
       "codProducto": "ANC00063",
       "producto": "TACO PULLED PORK",
       "categoria": "ENTRADAS",
       "fecha": "2026-09-19",
       "cantidad": 4,
-      "monto": 280
-    },
-    {
-      "codProducto": "ANC00058",
-      "producto": "ALCACHOFAS",
-      "categoria": "ENTRADAS",
-      "fecha": "2026-09-19",
-      "cantidad": 2,
-      "monto": 150
-    },
-    {
-      "codProducto": "ANC00093",
-      "producto": "KEPERI AHUMADO",
-      "categoria": "FUERTES",
-      "fecha": "2026-09-19",
-      "cantidad": 2,
       "monto": 280
     },
     {
@@ -10955,14 +11083,6 @@
       "fecha": "2026-09-19",
       "cantidad": 3,
       "monto": 420
-    },
-    {
-      "codProducto": "ANC00090",
-      "producto": "CHULETON (Kg)",
-      "categoria": "FUERTES",
-      "fecha": "2026-09-19",
-      "cantidad": 2.71,
-      "monto": 1084
     },
     {
       "codProducto": "ANC00359",
@@ -10989,14 +11109,6 @@
       "monto": 50
     },
     {
-      "codProducto": "ANC00331",
-      "producto": "CORDERO A LA CRUZ",
-      "categoria": "COMIDAS",
-      "fecha": "2026-09-19",
-      "cantidad": 3,
-      "monto": 450
-    },
-    {
       "codProducto": "ANC00095",
       "producto": "OSSOBUCO A LA BOLIVIANA",
       "categoria": "FUERTES",
@@ -11019,22 +11131,6 @@
       "fecha": "2026-09-19",
       "cantidad": 1,
       "monto": 22
-    },
-    {
-      "codProducto": "ANC00110",
-      "producto": "JAMAICA (BOTELLA)",
-      "categoria": "JUGOS",
-      "fecha": "2026-09-19",
-      "cantidad": 1,
-      "monto": 40
-    },
-    {
-      "codProducto": "ANC00057",
-      "producto": "TUETANO BRULEE",
-      "categoria": "DULCES",
-      "fecha": "2026-09-19",
-      "cantidad": 3,
-      "monto": 150
     },
     {
       "codProducto": "ANC00223",
@@ -11069,30 +11165,6 @@
       "monto": 225
     },
     {
-      "codProducto": "ANC00099",
-      "producto": "PARRILLA OJO DE BIFE",
-      "categoria": "FUERTES",
-      "fecha": "2026-09-19",
-      "cantidad": 2,
-      "monto": 320
-    },
-    {
-      "codProducto": "ANC00324",
-      "producto": "TRUCHA CURADA EN PATACÓN",
-      "categoria": "COMIDAS",
-      "fecha": "2026-09-19",
-      "cantidad": 1,
-      "monto": 70
-    },
-    {
-      "codProducto": "ANC00114",
-      "producto": "NARANJA TUMBO",
-      "categoria": "JUGOS",
-      "fecha": "2026-09-19",
-      "cantidad": 1,
-      "monto": 15
-    },
-    {
       "codProducto": "ANC00182",
       "producto": "POTOSINA PILSNER",
       "categoria": "CERVEZA",
@@ -11123,14 +11195,6 @@
       "fecha": "2026-09-19",
       "cantidad": 2,
       "monto": 30
-    },
-    {
-      "codProducto": "ANC00115",
-      "producto": "NARANJA-TUMBO (BOTELLA)",
-      "categoria": "JUGOS",
-      "fecha": "2026-09-19",
-      "cantidad": 1,
-      "monto": 40
     },
     {
       "codProducto": "ANC00020",

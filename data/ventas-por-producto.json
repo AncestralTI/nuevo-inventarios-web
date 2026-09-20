@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T02:55:54.536Z",
+  "generatedAt": "2026-09-20T03:21:33.805Z",
   "fuente": "API iZi Soluciones (facturas + items-inventarios), sucursal Ancestral (79344)",
   "rango": {
     "desde": "2026-08-21",
@@ -10877,6 +10877,286 @@
       "monto": 20
     },
     {
+      "codProducto": "ANC00040",
+      "producto": "UYUNI SOUR",
+      "categoria": "COCTELES",
+      "fecha": "2026-09-19",
+      "cantidad": 3,
+      "monto": 150
+    },
+    {
+      "codProducto": "ANC00018",
+      "producto": "CHIRIMOYA ALEGRE",
+      "categoria": "COCTELES",
+      "fecha": "2026-09-19",
+      "cantidad": 3,
+      "monto": 150
+    },
+    {
+      "codProducto": "ANC00001",
+      "producto": "AGUA C/G",
+      "categoria": "AGUAS",
+      "fecha": "2026-09-19",
+      "cantidad": 18,
+      "monto": 270
+    },
+    {
+      "codProducto": "ANC00105",
+      "producto": "COCA COLA SIN AZUCAR",
+      "categoria": "GASEOSA",
+      "fecha": "2026-09-19",
+      "cantidad": 5,
+      "monto": 75
+    },
+    {
+      "codProducto": "ANC00058",
+      "producto": "ALCACHOFAS",
+      "categoria": "ENTRADAS",
+      "fecha": "2026-09-19",
+      "cantidad": 7,
+      "monto": 525
+    },
+    {
+      "codProducto": "ANC00324",
+      "producto": "TRUCHA CURADA EN PATACÓN",
+      "categoria": "COMIDAS",
+      "fecha": "2026-09-19",
+      "cantidad": 5,
+      "monto": 350
+    },
+    {
+      "codProducto": "ANC00090",
+      "producto": "CHULETON (Kg)",
+      "categoria": "FUERTES",
+      "fecha": "2026-09-19",
+      "cantidad": 5.68,
+      "monto": 2272
+    },
+    {
+      "codProducto": "ANC00328",
+      "producto": "PAVLOVA DE PIÑA A LA BRASA",
+      "categoria": "COMIDAS",
+      "fecha": "2026-09-19",
+      "cantidad": 5,
+      "monto": 250
+    },
+    {
+      "codProducto": "ANC00183",
+      "producto": "PANZA FRITA",
+      "categoria": "ENTRADAS",
+      "fecha": "2026-09-19",
+      "cantidad": 4,
+      "monto": 240
+    },
+    {
+      "codProducto": "ANC00330",
+      "producto": "PESCADO AMAZONICO Y TUMBO",
+      "categoria": "COMIDAS",
+      "fecha": "2026-09-19",
+      "cantidad": 3,
+      "monto": 420
+    },
+    {
+      "codProducto": "ANC00095",
+      "producto": "OSSOBUCO A LA BOLIVIANA",
+      "categoria": "FUERTES",
+      "fecha": "2026-09-19",
+      "cantidad": 4,
+      "monto": 640
+    },
+    {
+      "codProducto": "ANC00114",
+      "producto": "NARANJA TUMBO",
+      "categoria": "JUGOS",
+      "fecha": "2026-09-19",
+      "cantidad": 5,
+      "monto": 75
+    },
+    {
+      "codProducto": "ANC00005",
+      "producto": "BENDITA IPA",
+      "categoria": "CERVEZA",
+      "fecha": "2026-09-19",
+      "cantidad": 1,
+      "monto": 33
+    },
+    {
+      "codProducto": "ANC00049",
+      "producto": "FLAN",
+      "categoria": "DULCES",
+      "fecha": "2026-09-19",
+      "cantidad": 2,
+      "monto": 100
+    },
+    {
+      "codProducto": "ANC00110",
+      "producto": "JAMAICA (BOTELLA)",
+      "categoria": "JUGOS",
+      "fecha": "2026-09-19",
+      "cantidad": 4,
+      "monto": 160
+    },
+    {
+      "codProducto": "ANC00002",
+      "producto": "AGUA S/G",
+      "categoria": "AGUAS",
+      "fecha": "2026-09-19",
+      "cantidad": 5,
+      "monto": 60
+    },
+    {
+      "codProducto": "ANC00152",
+      "producto": "MALBEC CALADOC - KUHLMANN",
+      "categoria": "VINOS",
+      "fecha": "2026-09-19",
+      "cantidad": 1,
+      "monto": 200
+    },
+    {
+      "codProducto": "ANC00134",
+      "producto": "CAÑON ESCONDIDO - RED BLEND",
+      "categoria": "VINOS",
+      "fecha": "2026-09-19",
+      "cantidad": 2,
+      "monto": 600
+    },
+    {
+      "codProducto": "ANC00099",
+      "producto": "PARRILLA OJO DE BIFE",
+      "categoria": "FUERTES",
+      "fecha": "2026-09-19",
+      "cantidad": 13,
+      "monto": 2080
+    },
+    {
+      "codProducto": "ANC00103",
+      "producto": "PARRILLA TRUCHA",
+      "categoria": "FUERTES",
+      "fecha": "2026-09-19",
+      "cantidad": 5,
+      "monto": 750
+    },
+    {
+      "codProducto": "ANC00098",
+      "producto": "PARRILLA KEPERI",
+      "categoria": "FUERTES",
+      "fecha": "2026-09-19",
+      "cantidad": 4,
+      "monto": 560
+    },
+    {
+      "codProducto": "ANC00092",
+      "producto": "GNOCCHIS CON HONGOS A LA BRASA",
+      "categoria": "FUERTES",
+      "fecha": "2026-09-19",
+      "cantidad": 5,
+      "monto": 700
+    },
+    {
+      "codProducto": "ANC00056",
+      "producto": "PIÑA AL RESCOLDO",
+      "categoria": "DULCES",
+      "fecha": "2026-09-19",
+      "cantidad": 1,
+      "monto": 50
+    },
+    {
+      "codProducto": "ANC00046",
+      "producto": "CHOCOLATE",
+      "categoria": "DULCES",
+      "fecha": "2026-09-19",
+      "cantidad": 3,
+      "monto": 150
+    },
+    {
+      "codProducto": "ANC00213",
+      "producto": "PINEAPPLE EXPRESS",
+      "categoria": "COCTELES",
+      "fecha": "2026-09-19",
+      "cantidad": 1,
+      "monto": 50
+    },
+    {
+      "codProducto": "ANC00020",
+      "producto": "CHUFLAY",
+      "categoria": "COCTELES",
+      "fecha": "2026-09-19",
+      "cantidad": 5,
+      "monto": 200
+    },
+    {
+      "codProducto": "ANC00030",
+      "producto": "MOSCOW MULE",
+      "categoria": "COCTELES",
+      "fecha": "2026-09-19",
+      "cantidad": 2,
+      "monto": 100
+    },
+    {
+      "codProducto": "ANC00024",
+      "producto": "CRISTALINO DE TUMBO",
+      "categoria": "COCTELES",
+      "fecha": "2026-09-19",
+      "cantidad": 3,
+      "monto": 150
+    },
+    {
+      "codProducto": "ANC00023",
+      "producto": "COCTELITO DE TUMBO",
+      "categoria": "COCTELES",
+      "fecha": "2026-09-19",
+      "cantidad": 2,
+      "monto": 80
+    },
+    {
+      "codProducto": "ANC00035",
+      "producto": "SHOT",
+      "categoria": "COCTELES",
+      "fecha": "2026-09-19",
+      "cantidad": 12,
+      "monto": 420
+    },
+    {
+      "codProducto": "ANC00064",
+      "producto": "TARTAR DE RES",
+      "categoria": "ENTRADAS",
+      "fecha": "2026-09-19",
+      "cantidad": 2,
+      "monto": 140
+    },
+    {
+      "codProducto": "ANC00325",
+      "producto": "TABLA ANCESTRAL",
+      "categoria": "ENTRADAS",
+      "fecha": "2026-09-19",
+      "cantidad": 1,
+      "monto": 120
+    },
+    {
+      "codProducto": "ANC00281",
+      "producto": "CUARTO PATO CONFITADO",
+      "categoria": "FUERTES",
+      "fecha": "2026-09-19",
+      "cantidad": 4,
+      "monto": 560
+    },
+    {
+      "codProducto": "ANC00245",
+      "producto": "CABERNET FRANC - CRUCE DEL ZORRO",
+      "categoria": "VINOS",
+      "fecha": "2026-09-19",
+      "cantidad": 1,
+      "monto": 350
+    },
+    {
+      "codProducto": "ANC00243",
+      "producto": "GIN & TONIC GEORG FORSTER",
+      "categoria": "COCTELES",
+      "fecha": "2026-09-19",
+      "cantidad": 2,
+      "monto": 140
+    },
+    {
       "codProducto": "ANC00200",
       "producto": "GOLDEN RUSH",
       "categoria": "COCTELES",
@@ -10901,28 +11181,12 @@
       "monto": 75
     },
     {
-      "codProducto": "ANC00064",
-      "producto": "TARTAR DE RES",
-      "categoria": "ENTRADAS",
-      "fecha": "2026-09-19",
-      "cantidad": 1,
-      "monto": 70
-    },
-    {
       "codProducto": "ANC00093",
       "producto": "KEPERI AHUMADO",
       "categoria": "FUERTES",
       "fecha": "2026-09-19",
       "cantidad": 7,
       "monto": 980
-    },
-    {
-      "codProducto": "ANC00095",
-      "producto": "OSSOBUCO A LA BOLIVIANA",
-      "categoria": "FUERTES",
-      "fecha": "2026-09-19",
-      "cantidad": 3,
-      "monto": 480
     },
     {
       "codProducto": "ANC00047",
@@ -10933,28 +11197,12 @@
       "monto": 15
     },
     {
-      "codProducto": "ANC00090",
-      "producto": "CHULETON (Kg)",
-      "categoria": "FUERTES",
-      "fecha": "2026-09-19",
-      "cantidad": 4.09,
-      "monto": 1636
-    },
-    {
       "codProducto": "ANC00188",
       "producto": "CHARDONNAY - APALTAGUA",
       "categoria": "VINOS IMPORTADOS",
       "fecha": "2026-09-19",
       "cantidad": 1,
       "monto": 525
-    },
-    {
-      "codProducto": "ANC00098",
-      "producto": "PARRILLA KEPERI",
-      "categoria": "FUERTES",
-      "fecha": "2026-09-19",
-      "cantidad": 3,
-      "monto": 420
     },
     {
       "codProducto": "ANC00331",
@@ -10989,36 +11237,12 @@
       "monto": 160
     },
     {
-      "codProducto": "ANC00018",
-      "producto": "CHIRIMOYA ALEGRE",
-      "categoria": "COCTELES",
-      "fecha": "2026-09-19",
-      "cantidad": 1,
-      "monto": 50
-    },
-    {
-      "codProducto": "ANC00183",
-      "producto": "PANZA FRITA",
-      "categoria": "ENTRADAS",
-      "fecha": "2026-09-19",
-      "cantidad": 2,
-      "monto": 120
-    },
-    {
       "codProducto": "ANC00147",
       "producto": "TANNAT LADO B - JARDIN OCULTO",
       "categoria": "VINOS",
       "fecha": "2026-09-19",
       "cantidad": 1,
       "monto": 290
-    },
-    {
-      "codProducto": "ANC00058",
-      "producto": "ALCACHOFAS",
-      "categoria": "ENTRADAS",
-      "fecha": "2026-09-19",
-      "cantidad": 5,
-      "monto": 375
     },
     {
       "codProducto": "ANC00193",
@@ -11029,36 +11253,12 @@
       "monto": 33
     },
     {
-      "codProducto": "ANC00002",
-      "producto": "AGUA S/G",
-      "categoria": "AGUAS",
-      "fecha": "2026-09-19",
-      "cantidad": 4,
-      "monto": 48
-    },
-    {
-      "codProducto": "ANC00099",
-      "producto": "PARRILLA OJO DE BIFE",
-      "categoria": "FUERTES",
-      "fecha": "2026-09-19",
-      "cantidad": 11,
-      "monto": 1760
-    },
-    {
       "codProducto": "ANC00038",
       "producto": "APEROL SPRITZ",
       "categoria": "COCTELES",
       "fecha": "2026-09-19",
       "cantidad": 3,
       "monto": 150
-    },
-    {
-      "codProducto": "ANC00046",
-      "producto": "CHOCOLATE",
-      "categoria": "DULCES",
-      "fecha": "2026-09-19",
-      "cantidad": 1,
-      "monto": 50
     },
     {
       "codProducto": "ANC00182",
@@ -11085,14 +11285,6 @@
       "monto": 15
     },
     {
-      "codProducto": "ANC00330",
-      "producto": "PESCADO AMAZONICO Y TUMBO",
-      "categoria": "COMIDAS",
-      "fecha": "2026-09-19",
-      "cantidad": 2,
-      "monto": 280
-    },
-    {
       "codProducto": "ANC00088",
       "producto": "ARROZ DE TRUCHA",
       "categoria": "FUERTES",
@@ -11115,14 +11307,6 @@
       "fecha": "2026-09-19",
       "cantidad": 1,
       "monto": 30
-    },
-    {
-      "codProducto": "ANC00324",
-      "producto": "TRUCHA CURADA EN PATACÓN",
-      "categoria": "COMIDAS",
-      "fecha": "2026-09-19",
-      "cantidad": 4,
-      "monto": 280
     },
     {
       "codProducto": "ANC00161",
@@ -11165,60 +11349,12 @@
       "monto": 200
     },
     {
-      "codProducto": "ANC00110",
-      "producto": "JAMAICA (BOTELLA)",
-      "categoria": "JUGOS",
-      "fecha": "2026-09-19",
-      "cantidad": 3,
-      "monto": 120
-    },
-    {
-      "codProducto": "ANC00001",
-      "producto": "AGUA C/G",
-      "categoria": "AGUAS",
-      "fecha": "2026-09-19",
-      "cantidad": 13,
-      "monto": 195
-    },
-    {
-      "codProducto": "ANC00040",
-      "producto": "UYUNI SOUR",
-      "categoria": "COCTELES",
-      "fecha": "2026-09-19",
-      "cantidad": 2,
-      "monto": 100
-    },
-    {
-      "codProducto": "ANC00114",
-      "producto": "NARANJA TUMBO",
-      "categoria": "JUGOS",
-      "fecha": "2026-09-19",
-      "cantidad": 2,
-      "monto": 30
-    },
-    {
       "codProducto": "ANC00184",
       "producto": "ANTICUCHO DE POLLO",
       "categoria": "ENTRADAS",
       "fecha": "2026-09-19",
       "cantidad": 2,
       "monto": 110
-    },
-    {
-      "codProducto": "ANC00281",
-      "producto": "CUARTO PATO CONFITADO",
-      "categoria": "FUERTES",
-      "fecha": "2026-09-19",
-      "cantidad": 3,
-      "monto": 420
-    },
-    {
-      "codProducto": "ANC00328",
-      "producto": "PAVLOVA DE PIÑA A LA BRASA",
-      "categoria": "COMIDAS",
-      "fecha": "2026-09-19",
-      "cantidad": 3,
-      "monto": 150
     },
     {
       "codProducto": "ANC00280",
@@ -11237,14 +11373,6 @@
       "monto": 280
     },
     {
-      "codProducto": "ANC00092",
-      "producto": "GNOCCHIS CON HONGOS A LA BRASA",
-      "categoria": "FUERTES",
-      "fecha": "2026-09-19",
-      "cantidad": 3,
-      "monto": 420
-    },
-    {
       "codProducto": "ANC00359",
       "producto": "CAIPIROSKA",
       "categoria": "COCTELES",
@@ -11253,28 +11381,12 @@
       "monto": 150
     },
     {
-      "codProducto": "ANC00105",
-      "producto": "COCA COLA SIN AZUCAR",
-      "categoria": "GASEOSA",
-      "fecha": "2026-09-19",
-      "cantidad": 4,
-      "monto": 60
-    },
-    {
       "codProducto": "ANC00329",
       "producto": "PAN CON QUESO",
       "categoria": "COMIDAS",
       "fecha": "2026-09-19",
       "cantidad": 1,
       "monto": 50
-    },
-    {
-      "codProducto": "ANC00103",
-      "producto": "PARRILLA TRUCHA",
-      "categoria": "FUERTES",
-      "fecha": "2026-09-19",
-      "cantidad": 4,
-      "monto": 600
     },
     {
       "codProducto": "ANC00276",
@@ -11309,14 +11421,6 @@
       "monto": 225
     },
     {
-      "codProducto": "ANC00024",
-      "producto": "CRISTALINO DE TUMBO",
-      "categoria": "COCTELES",
-      "fecha": "2026-09-19",
-      "cantidad": 2,
-      "monto": 100
-    },
-    {
       "codProducto": "ANC00106",
       "producto": "FANTA",
       "categoria": "GASEOSA",
@@ -11331,14 +11435,6 @@
       "fecha": "2026-09-19",
       "cantidad": 2,
       "monto": 30
-    },
-    {
-      "codProducto": "ANC00020",
-      "producto": "CHUFLAY",
-      "categoria": "COCTELES",
-      "fecha": "2026-09-19",
-      "cantidad": 2,
-      "monto": 80
     },
     {
       "codProducto": "ANC00249",

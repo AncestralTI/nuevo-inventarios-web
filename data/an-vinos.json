@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T02:55:05.561Z",
+  "generatedAt": "2026-09-20T03:20:41.099Z",
   "rangoFechas": {
     "desde": "2026-07-13",
     "hasta": "2026-09-20"
@@ -404,13 +404,13 @@
       "weekYear": "202638",
       "invMenos7": 8,
       "compras": 12,
-      "vtas": 2,
+      "vtas": 3,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 2,
+      "vtasTot": 3,
       "inv": null,
-      "cierre": 18,
+      "cierre": 17,
       "dif": null
     },
     {
@@ -516,13 +516,13 @@
       "weekYear": "202638",
       "invMenos7": 3,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 3,
+      "cierre": 2,
       "dif": null
     },
     {
@@ -544,13 +544,13 @@
       "weekYear": "202638",
       "invMenos7": 6,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 2,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 2,
       "inv": null,
-      "cierre": 6,
+      "cierre": 4,
       "dif": null
     },
     {
@@ -1272,13 +1272,13 @@
       "weekYear": "202638",
       "invMenos7": 6,
       "compras": 0,
-      "vtas": 2,
+      "vtas": 3,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 2,
+      "vtasTot": 3,
       "inv": null,
-      "cierre": 4,
+      "cierre": 3,
       "dif": null
     },
     {
@@ -16649,6 +16649,19 @@
       "dif": null
     },
     {
+      "producto": "BENDITA IPA",
+      "fecha": "2026-09-19",
+      "dia": "sáb",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 17,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "BENDITA PILS",
       "fecha": "2026-09-19",
       "dia": "sáb",
@@ -16658,6 +16671,32 @@
       "cortesias": 0,
       "salidas": 0,
       "invEsperado": 18,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "CABERNET FRANC - CRUCE DEL ZORRO",
+      "fecha": "2026-09-19",
+      "dia": "sáb",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 2,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "CAÑON ESCONDIDO - RED BLEND",
+      "fecha": "2026-09-19",
+      "dia": "sáb",
+      "compras": 0,
+      "vtas": 2,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 4,
       "invIniFin": null,
       "dif": null
     },
@@ -16697,6 +16736,19 @@
       "cortesias": 0,
       "salidas": 0,
       "invEsperado": 0,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "MALBEC CALADOC - KUHLMANN",
+      "fecha": "2026-09-19",
+      "dia": "sáb",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 3,
       "invIniFin": null,
       "dif": null
     },
@@ -17557,7 +17609,7 @@
       },
       {
         "weekYear": "202638",
-        "valor": 43
+        "valor": 48
       }
     ],
     "Vtas Ext": [
@@ -17635,7 +17687,7 @@
       },
       {
         "weekYear": "202638",
-        "valor": 53
+        "valor": 58
       }
     ],
     "Salidas": [
@@ -17697,8 +17749,8 @@
     "filasInventariosGs": 3662,
     "filasCompras": 2230,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 6045,
-    "filasMovInv": 418,
+    "filasVentasIzi": 6088,
+    "filasMovInv": 422,
     "filasDimProducto": 440,
     "warnings": []
   }

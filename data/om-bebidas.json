@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T02:55:52.653Z",
+  "generatedAt": "2026-09-20T03:21:31.900Z",
   "rangoFechas": {
     "desde": "2026-07-13",
     "hasta": "2026-09-20"
@@ -178,9 +178,9 @@
       "vtasIzi": 0,
       "vtasExt": 0,
       "vtasPY": 0,
-      "vtasAnc": 2,
+      "vtasAnc": 3,
       "salidas": 0,
-      "vtasTot": 2,
+      "vtasTot": 3,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -403,9 +403,9 @@
       "vtasIzi": 0,
       "vtasExt": 0,
       "vtasPY": 0,
-      "vtasAnc": 14,
+      "vtasAnc": 15,
       "salidas": 0,
-      "vtasTot": 14,
+      "vtasTot": 15,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -8588,6 +8588,20 @@
       "dif": null
     },
     {
+      "producto": "BENDITA IPA",
+      "fecha": "2026-09-19",
+      "dia": "sáb",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 1,
+      "salidas": 0,
+      "invEsperado": 0,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "BENDITA PILS",
       "fecha": "2026-09-19",
       "dia": "sáb",
@@ -8679,7 +8693,7 @@
       "vtas": 0,
       "vtasExt": 0,
       "vtasPY": 0,
-      "vtasAnc": 4,
+      "vtasAnc": 5,
       "salidas": 0,
       "invEsperado": 0,
       "invIniFin": null,
@@ -10622,7 +10636,7 @@
       },
       {
         "weekYear": "202638",
-        "valor": 715.5
+        "valor": 717.5
       }
     ],
     "Compras": [
@@ -10661,8 +10675,8 @@
     "filasVentasIzi": 8494,
     "filasVentasPY": 10550,
     "filasExtras": 15481,
-    "filasMovInv": 418,
-    "filasVentasAncIzi": 6045,
+    "filasMovInv": 422,
+    "filasVentasAncIzi": 6088,
     "warnings": []
   }
 }

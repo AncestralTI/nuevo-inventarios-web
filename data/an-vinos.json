@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T02:20:41.451Z",
+  "generatedAt": "2026-09-20T02:36:45.417Z",
   "rangoFechas": {
     "desde": "2026-07-13",
     "hasta": "2026-09-20"
@@ -614,13 +614,13 @@
       "weekYear": "202638",
       "invMenos7": 4,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 4,
+      "cierre": 3,
       "dif": null
     },
     {
@@ -1622,13 +1622,13 @@
       "weekYear": "202638",
       "invMenos7": 5,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 5,
+      "cierre": 4,
       "dif": null
     },
     {
@@ -16662,6 +16662,19 @@
       "dif": null
     },
     {
+      "producto": "CHARDONNAY - APALTAGUA",
+      "fecha": "2026-09-19",
+      "dia": "sáb",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 3,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "COPA MARSELAN - ARSAL",
       "fecha": "2026-09-19",
       "dia": "sáb",
@@ -16710,6 +16723,19 @@
       "cortesias": 0,
       "salidas": 0,
       "invEsperado": 10,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "TANNAT LADO B - JARDIN OCULTO",
+      "fecha": "2026-09-19",
+      "dia": "sáb",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 4,
       "invIniFin": null,
       "dif": null
     },
@@ -17531,7 +17557,7 @@
       },
       {
         "weekYear": "202638",
-        "valor": 41
+        "valor": 43
       }
     ],
     "Vtas Ext": [
@@ -17609,7 +17635,7 @@
       },
       {
         "weekYear": "202638",
-        "valor": 51
+        "valor": 53
       }
     ],
     "Salidas": [
@@ -17671,7 +17697,7 @@
     "filasInventariosGs": 3662,
     "filasCompras": 2230,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 6027,
+    "filasVentasIzi": 6045,
     "filasMovInv": 418,
     "filasDimProducto": 440,
     "warnings": []

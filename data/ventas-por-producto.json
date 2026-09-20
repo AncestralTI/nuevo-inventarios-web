@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T02:21:36.586Z",
+  "generatedAt": "2026-09-20T02:37:38.355Z",
   "fuente": "API iZi Soluciones (facturas + items-inventarios), sucursal Ancestral (79344)",
   "rango": {
     "desde": "2026-08-21",
@@ -10877,20 +10877,148 @@
       "monto": 20
     },
     {
-      "codProducto": "ANC00058",
-      "producto": "ALCACHOFAS",
+      "codProducto": "ANC00200",
+      "producto": "GOLDEN RUSH",
+      "categoria": "COCTELES",
+      "fecha": "2026-09-19",
+      "cantidad": 1,
+      "monto": 50
+    },
+    {
+      "codProducto": "ANC00207",
+      "producto": "BERRIES TONIC",
+      "categoria": "COCTELES",
+      "fecha": "2026-09-19",
+      "cantidad": 2,
+      "monto": 100
+    },
+    {
+      "codProducto": "ANC00241",
+      "producto": "CEVICHE DE TRUCHA Y HONGOS",
       "categoria": "ENTRADAS",
       "fecha": "2026-09-19",
-      "cantidad": 5,
-      "monto": 375
+      "cantidad": 1,
+      "monto": 75
+    },
+    {
+      "codProducto": "ANC00064",
+      "producto": "TARTAR DE RES",
+      "categoria": "ENTRADAS",
+      "fecha": "2026-09-19",
+      "cantidad": 1,
+      "monto": 70
+    },
+    {
+      "codProducto": "ANC00093",
+      "producto": "KEPERI AHUMADO",
+      "categoria": "FUERTES",
+      "fecha": "2026-09-19",
+      "cantidad": 7,
+      "monto": 980
+    },
+    {
+      "codProducto": "ANC00095",
+      "producto": "OSSOBUCO A LA BOLIVIANA",
+      "categoria": "FUERTES",
+      "fecha": "2026-09-19",
+      "cantidad": 3,
+      "monto": 480
+    },
+    {
+      "codProducto": "ANC00047",
+      "producto": "ESPRESSO",
+      "categoria": "BEBIDAS CALIENTES",
+      "fecha": "2026-09-19",
+      "cantidad": 1,
+      "monto": 15
+    },
+    {
+      "codProducto": "ANC00090",
+      "producto": "CHULETON (Kg)",
+      "categoria": "FUERTES",
+      "fecha": "2026-09-19",
+      "cantidad": 4.09,
+      "monto": 1636
+    },
+    {
+      "codProducto": "ANC00188",
+      "producto": "CHARDONNAY - APALTAGUA",
+      "categoria": "VINOS IMPORTADOS",
+      "fecha": "2026-09-19",
+      "cantidad": 1,
+      "monto": 525
     },
     {
       "codProducto": "ANC00098",
       "producto": "PARRILLA KEPERI",
       "categoria": "FUERTES",
       "fecha": "2026-09-19",
+      "cantidad": 3,
+      "monto": 420
+    },
+    {
+      "codProducto": "ANC00331",
+      "producto": "CORDERO A LA CRUZ",
+      "categoria": "COMIDAS",
+      "fecha": "2026-09-19",
+      "cantidad": 7,
+      "monto": 1050
+    },
+    {
+      "codProducto": "ANC00069",
+      "producto": "PECHUGA DE NIÑOS",
+      "categoria": "MENÚ DE NIÑOS",
+      "fecha": "2026-09-19",
       "cantidad": 2,
-      "monto": 280
+      "monto": 100
+    },
+    {
+      "codProducto": "ANC00066",
+      "producto": "BURGER DE NIÑOS",
+      "categoria": "MENÚ DE NIÑOS",
+      "fecha": "2026-09-19",
+      "cantidad": 1,
+      "monto": 50
+    },
+    {
+      "codProducto": "ANC00115",
+      "producto": "NARANJA-TUMBO (BOTELLA)",
+      "categoria": "JUGOS",
+      "fecha": "2026-09-19",
+      "cantidad": 4,
+      "monto": 160
+    },
+    {
+      "codProducto": "ANC00018",
+      "producto": "CHIRIMOYA ALEGRE",
+      "categoria": "COCTELES",
+      "fecha": "2026-09-19",
+      "cantidad": 1,
+      "monto": 50
+    },
+    {
+      "codProducto": "ANC00183",
+      "producto": "PANZA FRITA",
+      "categoria": "ENTRADAS",
+      "fecha": "2026-09-19",
+      "cantidad": 2,
+      "monto": 120
+    },
+    {
+      "codProducto": "ANC00147",
+      "producto": "TANNAT LADO B - JARDIN OCULTO",
+      "categoria": "VINOS",
+      "fecha": "2026-09-19",
+      "cantidad": 1,
+      "monto": 290
+    },
+    {
+      "codProducto": "ANC00058",
+      "producto": "ALCACHOFAS",
+      "categoria": "ENTRADAS",
+      "fecha": "2026-09-19",
+      "cantidad": 5,
+      "monto": 375
     },
     {
       "codProducto": "ANC00193",
@@ -10997,14 +11125,6 @@
       "monto": 280
     },
     {
-      "codProducto": "ANC00090",
-      "producto": "CHULETON (Kg)",
-      "categoria": "FUERTES",
-      "fecha": "2026-09-19",
-      "cantidad": 3.42,
-      "monto": 1368
-    },
-    {
       "codProducto": "ANC00161",
       "producto": "COPA 1750 - SAV BLANC",
       "categoria": "VINOS POR COPA",
@@ -11045,44 +11165,12 @@
       "monto": 200
     },
     {
-      "codProducto": "ANC00115",
-      "producto": "NARANJA-TUMBO (BOTELLA)",
-      "categoria": "JUGOS",
-      "fecha": "2026-09-19",
-      "cantidad": 3,
-      "monto": 120
-    },
-    {
       "codProducto": "ANC00110",
       "producto": "JAMAICA (BOTELLA)",
       "categoria": "JUGOS",
       "fecha": "2026-09-19",
       "cantidad": 3,
       "monto": 120
-    },
-    {
-      "codProducto": "ANC00093",
-      "producto": "KEPERI AHUMADO",
-      "categoria": "FUERTES",
-      "fecha": "2026-09-19",
-      "cantidad": 5,
-      "monto": 700
-    },
-    {
-      "codProducto": "ANC00331",
-      "producto": "CORDERO A LA CRUZ",
-      "categoria": "COMIDAS",
-      "fecha": "2026-09-19",
-      "cantidad": 6,
-      "monto": 900
-    },
-    {
-      "codProducto": "ANC00069",
-      "producto": "PECHUGA DE NIÑOS",
-      "categoria": "MENÚ DE NIÑOS",
-      "fecha": "2026-09-19",
-      "cantidad": 1,
-      "monto": 50
     },
     {
       "codProducto": "ANC00001",
@@ -11181,14 +11269,6 @@
       "monto": 50
     },
     {
-      "codProducto": "ANC00095",
-      "producto": "OSSOBUCO A LA BOLIVIANA",
-      "categoria": "FUERTES",
-      "fecha": "2026-09-19",
-      "cantidad": 2,
-      "monto": 320
-    },
-    {
       "codProducto": "ANC00103",
       "producto": "PARRILLA TRUCHA",
       "categoria": "FUERTES",
@@ -11285,14 +11365,6 @@
       "monto": 45
     },
     {
-      "codProducto": "ANC00207",
-      "producto": "BERRIES TONIC",
-      "categoria": "COCTELES",
-      "fecha": "2026-09-19",
-      "cantidad": 1,
-      "monto": 50
-    },
-    {
       "codProducto": "ANC00199",
       "producto": "GIN & TONIC LA REPUBLICA",
       "categoria": "COCTELES",
@@ -11307,14 +11379,6 @@
       "fecha": "2026-09-19",
       "cantidad": 1,
       "monto": 15
-    },
-    {
-      "codProducto": "ANC00183",
-      "producto": "PANZA FRITA",
-      "categoria": "ENTRADAS",
-      "fecha": "2026-09-19",
-      "cantidad": 1,
-      "monto": 60
     }
   ]
 }

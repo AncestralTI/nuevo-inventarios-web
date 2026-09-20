@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T21:55:36.563Z",
+  "generatedAt": "2026-09-20T23:45:08.720Z",
   "rangoFechas": {
     "desde": "2026-07-13",
     "hasta": "2026-09-20"
@@ -115,9 +115,9 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 0,
-      "inv": null,
+      "inv": 27,
       "cierre": 27,
-      "dif": null
+      "dif": 0
     },
     {
       "producto": "BENDITA IPA",
@@ -129,9 +129,9 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 4,
-      "inv": null,
+      "inv": 16,
       "cierre": 16,
-      "dif": null
+      "dif": 0
     },
     {
       "producto": "BENDITA PILS",
@@ -141,11 +141,11 @@
       "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 1,
-      "inv": null,
-      "cierre": 18,
-      "dif": null
+      "salidas": 2,
+      "vtasTot": 3,
+      "inv": 16,
+      "cierre": 16,
+      "dif": 0
     },
     {
       "producto": "Cerveza",
@@ -297,9 +297,9 @@
       "cortesias": 0,
       "salidas": 1,
       "vtasTot": 10,
-      "inv": null,
+      "inv": 32,
       "cierre": 32,
-      "dif": null
+      "dif": 0
     },
     {
       "producto": "COCA COLA SIN AZUCAR",
@@ -309,11 +309,11 @@
       "vtas": 17,
       "vtasExt": 0,
       "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 17,
-      "inv": null,
-      "cierre": 40,
-      "dif": null
+      "salidas": 2,
+      "vtasTot": 19,
+      "inv": 38,
+      "cierre": 38,
+      "dif": 0
     },
     {
       "producto": "FANTA",
@@ -325,9 +325,9 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 6,
-      "inv": null,
+      "inv": 17,
       "cierre": 17,
-      "dif": null
+      "dif": 0
     },
     {
       "producto": "HOPPY BARRIL",
@@ -353,7 +353,7 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 6,
-      "inv": null,
+      "inv": 0,
       "cierre": 0,
       "dif": null
     },
@@ -367,9 +367,9 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 0,
-      "inv": null,
+      "inv": 25,
       "cierre": 27,
-      "dif": null
+      "dif": -2
     },
     {
       "producto": "MADERA DOMINGA",
@@ -381,9 +381,9 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 3,
-      "inv": null,
+      "inv": 23,
       "cierre": 21,
-      "dif": null
+      "dif": 2
     },
     {
       "producto": "POTOSINA 4000",
@@ -423,9 +423,9 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 7,
-      "inv": null,
+      "inv": 8,
       "cierre": 32,
-      "dif": null
+      "dif": -24
     },
     {
       "producto": "REBELION ALBA WEIZEN",
@@ -437,9 +437,9 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 3,
-      "inv": null,
+      "inv": 8,
       "cierre": 8,
-      "dif": null
+      "dif": 0
     },
     {
       "producto": "REBELION OBSESSION IPA",
@@ -451,7 +451,7 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 0,
-      "inv": null,
+      "inv": 0,
       "cierre": 0,
       "dif": null
     },
@@ -465,9 +465,9 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 0,
-      "inv": null,
+      "inv": 3,
       "cierre": 3,
-      "dif": null
+      "dif": 0
     },
     {
       "producto": "SAN MIGUEL SOLSTICIO",
@@ -479,9 +479,9 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 1,
-      "inv": null,
+      "inv": 22,
       "cierre": 22,
-      "dif": null
+      "dif": 0
     },
     {
       "producto": "SPRITE",
@@ -493,9 +493,9 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 1,
-      "inv": null,
+      "inv": 23,
       "cierre": 23,
-      "dif": null
+      "dif": 0
     },
     {
       "producto": "UYUNI",
@@ -507,7 +507,7 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 0,
-      "inv": null,
+      "inv": 0,
       "cierre": 0,
       "dif": null
     },
@@ -4175,8 +4175,8 @@
       "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
-      "salidas": 0,
-      "invEsperado": 56,
+      "salidas": 2,
+      "invEsperado": 54,
       "invIniFin": null,
       "dif": null
     },
@@ -4306,7 +4306,7 @@
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "invEsperado": 53,
+      "invEsperado": 51,
       "invIniFin": null,
       "dif": null
     },
@@ -4358,7 +4358,7 @@
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "invEsperado": 51,
+      "invEsperado": 49,
       "invIniFin": null,
       "dif": null
     },
@@ -4397,7 +4397,7 @@
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "invEsperado": 47,
+      "invEsperado": 45,
       "invIniFin": null,
       "dif": null
     },
@@ -4448,8 +4448,8 @@
       "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
-      "salidas": 0,
-      "invEsperado": 18,
+      "salidas": 2,
+      "invEsperado": 16,
       "invIniFin": null,
       "dif": null
     },
@@ -4475,7 +4475,7 @@
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "invEsperado": 42,
+      "invEsperado": 40,
       "invIniFin": null,
       "dif": null
     },
@@ -4528,8 +4528,8 @@
       "cortesias": 0,
       "salidas": 0,
       "invEsperado": 16,
-      "invIniFin": null,
-      "dif": null
+      "invIniFin": 16,
+      "dif": 0
     },
     {
       "producto": "COCA COLA SIN AZUCAR",
@@ -4540,9 +4540,9 @@
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "invEsperado": 40,
-      "invIniFin": null,
-      "dif": null
+      "invEsperado": 38,
+      "invIniFin": 38,
+      "dif": 0
     },
     {
       "producto": "FANTA",
@@ -4554,8 +4554,8 @@
       "cortesias": 0,
       "salidas": 0,
       "invEsperado": 17,
-      "invIniFin": null,
-      "dif": null
+      "invIniFin": 17,
+      "dif": 0
     },
     {
       "producto": "HUARI",
@@ -4567,8 +4567,8 @@
       "cortesias": 0,
       "salidas": 0,
       "invEsperado": 0,
-      "invIniFin": null,
-      "dif": null
+      "invIniFin": 0,
+      "dif": 0
     },
     {
       "producto": "MADERA DOMINGA",
@@ -4580,8 +4580,8 @@
       "cortesias": 0,
       "salidas": 0,
       "invEsperado": 21,
-      "invIniFin": null,
-      "dif": null
+      "invIniFin": 23,
+      "dif": 2
     },
     {
       "producto": "POTOSINA PILSNER",
@@ -4593,8 +4593,8 @@
       "cortesias": 0,
       "salidas": 0,
       "invEsperado": 32,
-      "invIniFin": null,
-      "dif": null
+      "invIniFin": 8,
+      "dif": -24
     },
     {
       "producto": "REBELION ALBA WEIZEN",
@@ -4606,8 +4606,8 @@
       "cortesias": 0,
       "salidas": 0,
       "invEsperado": 8,
-      "invIniFin": null,
-      "dif": null
+      "invIniFin": 8,
+      "dif": 0
     },
     {
       "producto": "BENDITA HOPPY",
@@ -5050,7 +5050,7 @@
       },
       {
         "weekYear": "202638",
-        "valor": 59
+        "valor": 63
       }
     ],
     "Salidas": [
@@ -5076,7 +5076,7 @@
       },
       {
         "weekYear": "202638",
-        "valor": 1
+        "valor": 5
       }
     ],
     "Compras": [
@@ -5108,8 +5108,8 @@
   },
   "meta": {
     "ventasIziDisponibles": true,
-    "filasApertura": 1368,
-    "filasInventariosGs": 3662,
+    "filasApertura": 1377,
+    "filasInventariosGs": 3744,
     "filasCompras": 2230,
     "filasMatrizChuleton": 1,
     "filasVentasIzi": 6210,

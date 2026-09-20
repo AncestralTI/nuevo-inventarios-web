@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T01:46:01.649Z",
+  "generatedAt": "2026-09-20T01:54:54.132Z",
   "fuente": "API iZi Soluciones (facturas + items-inventarios), sucursal Ancestral (79344)",
   "rango": {
     "desde": "2026-08-21",
@@ -10877,6 +10877,62 @@
       "monto": 20
     },
     {
+      "codProducto": "ANC00058",
+      "producto": "ALCACHOFAS",
+      "categoria": "ENTRADAS",
+      "fecha": "2026-09-19",
+      "cantidad": 4,
+      "monto": 300
+    },
+    {
+      "codProducto": "ANC00099",
+      "producto": "PARRILLA OJO DE BIFE",
+      "categoria": "FUERTES",
+      "fecha": "2026-09-19",
+      "cantidad": 11,
+      "monto": 1760
+    },
+    {
+      "codProducto": "ANC00038",
+      "producto": "APEROL SPRITZ",
+      "categoria": "COCTELES",
+      "fecha": "2026-09-19",
+      "cantidad": 3,
+      "monto": 150
+    },
+    {
+      "codProducto": "ANC00046",
+      "producto": "CHOCOLATE",
+      "categoria": "DULCES",
+      "fecha": "2026-09-19",
+      "cantidad": 1,
+      "monto": 50
+    },
+    {
+      "codProducto": "ANC00182",
+      "producto": "POTOSINA PILSNER",
+      "categoria": "CERVEZA",
+      "fecha": "2026-09-19",
+      "cantidad": 3,
+      "monto": 90
+    },
+    {
+      "codProducto": "ANC00242",
+      "producto": "PARRILLA PESCADO AMAZÓNICO",
+      "categoria": "FUERTES",
+      "fecha": "2026-09-19",
+      "cantidad": 2,
+      "monto": 300
+    },
+    {
+      "codProducto": "ANC00052",
+      "producto": "INFUSION MENTA - CHOCO",
+      "categoria": "BEBIDAS CALIENTES",
+      "fecha": "2026-09-19",
+      "cantidad": 1,
+      "monto": 15
+    },
+    {
       "codProducto": "ANC00330",
       "producto": "PESCADO AMAZONICO Y TUMBO",
       "categoria": "COMIDAS",
@@ -10907,14 +10963,6 @@
       "fecha": "2026-09-19",
       "cantidad": 1,
       "monto": 30
-    },
-    {
-      "codProducto": "ANC00058",
-      "producto": "ALCACHOFAS",
-      "categoria": "ENTRADAS",
-      "fecha": "2026-09-19",
-      "cantidad": 3,
-      "monto": 225
     },
     {
       "codProducto": "ANC00324",
@@ -10997,14 +11045,6 @@
       "monto": 120
     },
     {
-      "codProducto": "ANC00099",
-      "producto": "PARRILLA OJO DE BIFE",
-      "categoria": "FUERTES",
-      "fecha": "2026-09-19",
-      "cantidad": 9,
-      "monto": 1440
-    },
-    {
       "codProducto": "ANC00093",
       "producto": "KEPERI AHUMADO",
       "categoria": "FUERTES",
@@ -11051,14 +11091,6 @@
       "fecha": "2026-09-19",
       "cantidad": 2,
       "monto": 30
-    },
-    {
-      "codProducto": "ANC00242",
-      "producto": "PARRILLA PESCADO AMAZÓNICO",
-      "categoria": "FUERTES",
-      "fecha": "2026-09-19",
-      "cantidad": 1,
-      "monto": 150
     },
     {
       "codProducto": "ANC00184",
@@ -11181,14 +11213,6 @@
       "monto": 225
     },
     {
-      "codProducto": "ANC00182",
-      "producto": "POTOSINA PILSNER",
-      "categoria": "CERVEZA",
-      "fecha": "2026-09-19",
-      "cantidad": 2,
-      "monto": 60
-    },
-    {
       "codProducto": "ANC00024",
       "producto": "CRISTALINO DE TUMBO",
       "categoria": "COCTELES",
@@ -11267,14 +11291,6 @@
       "fecha": "2026-09-19",
       "cantidad": 1,
       "monto": 15
-    },
-    {
-      "codProducto": "ANC00038",
-      "producto": "APEROL SPRITZ",
-      "categoria": "COCTELES",
-      "fecha": "2026-09-19",
-      "cantidad": 2,
-      "monto": 100
     },
     {
       "codProducto": "ANC00183",

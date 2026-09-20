@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T16:32:51.959Z",
+  "generatedAt": "2026-09-20T16:45:27.879Z",
   "rangoFechas": {
     "desde": "2026-07-13",
     "hasta": "2026-09-20"
@@ -113,16 +113,16 @@
       "weekYear": "202638",
       "invMenos7": 40,
       "compras": 162,
-      "vtasIzi": 163,
+      "vtasIzi": 166,
       "vtasAnc": 0,
       "vtasPY": 0,
       "vtasExt": 0,
       "vtasVegg": 0,
       "cortesias": 0,
       "salidas": 1,
-      "vtasTot": 164,
+      "vtasTot": 167,
       "inv": null,
-      "cierre": 38,
+      "cierre": 35,
       "dif": null
     },
     {
@@ -807,6 +807,17 @@
       "dif": null
     },
     {
+      "insumo": "Pesca Amazonica",
+      "fecha": "2026-09-20",
+      "dia": "dom",
+      "compras": 0,
+      "vtas": 3,
+      "salidas": 0,
+      "invEsperado": 35,
+      "invFin": null,
+      "dif": null
+    },
+    {
       "insumo": "Carne Molida 130g",
       "fecha": "2026-09-07",
       "dia": "lun",
@@ -1051,7 +1062,7 @@
       },
       {
         "weekYear": "202638",
-        "valor": 714
+        "valor": 717
       }
     ],
     "Vtas Anc": [
@@ -1207,7 +1218,7 @@
       },
       {
         "weekYear": "202638",
-        "valor": 776
+        "valor": 779
       }
     ],
     "Compras": [
@@ -1243,7 +1254,7 @@
     "filasInventariosUnitarios": 108,
     "filasCompras": 1495,
     "filasSalidas": 69,
-    "filasVentasIzi": 8501,
+    "filasVentasIzi": 8505,
     "filasVentasPY": 10550,
     "filasExtras": 15481,
     "filasMovInv": 422,

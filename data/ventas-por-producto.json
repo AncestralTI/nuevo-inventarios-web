@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T01:09:22.426Z",
+  "generatedAt": "2026-09-20T01:21:02.709Z",
   "fuente": "API iZi Soluciones (facturas + items-inventarios), sucursal Ancestral (79344)",
   "rango": {
     "desde": "2026-08-21",
@@ -10877,6 +10877,38 @@
       "monto": 20
     },
     {
+      "codProducto": "ANC00330",
+      "producto": "PESCADO AMAZONICO Y TUMBO",
+      "categoria": "COMIDAS",
+      "fecha": "2026-09-19",
+      "cantidad": 2,
+      "monto": 280
+    },
+    {
+      "codProducto": "ANC00088",
+      "producto": "ARROZ DE TRUCHA",
+      "categoria": "FUERTES",
+      "fecha": "2026-09-19",
+      "cantidad": 2,
+      "monto": 300
+    },
+    {
+      "codProducto": "ANC00112",
+      "producto": "LIMONADA",
+      "categoria": "JUGOS",
+      "fecha": "2026-09-19",
+      "cantidad": 2,
+      "monto": 30
+    },
+    {
+      "codProducto": "ANC00233",
+      "producto": "S/A MOJITO VIRGEN",
+      "categoria": "BEBIDAS SIN ALCOHOL",
+      "fecha": "2026-09-19",
+      "cantidad": 1,
+      "monto": 30
+    },
+    {
       "codProducto": "ANC00058",
       "producto": "ALCACHOFAS",
       "categoria": "ENTRADAS",
@@ -11045,14 +11077,6 @@
       "monto": 420
     },
     {
-      "codProducto": "ANC00330",
-      "producto": "PESCADO AMAZONICO Y TUMBO",
-      "categoria": "COMIDAS",
-      "fecha": "2026-09-19",
-      "cantidad": 1,
-      "monto": 140
-    },
-    {
       "codProducto": "ANC00328",
       "producto": "PAVLOVA DE PIÑA A LA BRASA",
       "categoria": "COMIDAS",
@@ -11139,14 +11163,6 @@
       "fecha": "2026-09-19",
       "cantidad": 1,
       "monto": 50
-    },
-    {
-      "codProducto": "ANC00112",
-      "producto": "LIMONADA",
-      "categoria": "JUGOS",
-      "fecha": "2026-09-19",
-      "cantidad": 1,
-      "monto": 15
     },
     {
       "codProducto": "ANC00111",
@@ -11267,14 +11283,6 @@
       "fecha": "2026-09-19",
       "cantidad": 1,
       "monto": 60
-    },
-    {
-      "codProducto": "ANC00088",
-      "producto": "ARROZ DE TRUCHA",
-      "categoria": "FUERTES",
-      "fecha": "2026-09-19",
-      "cantidad": 1,
-      "monto": 150
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T17:46:47.228Z",
+  "generatedAt": "2026-09-20T19:48:44.648Z",
   "rangoFechas": {
     "desde": "2026-07-13",
     "hasta": "2026-09-20"
@@ -90,11 +90,11 @@
       "weekYear": "202638",
       "invMenos7": 20,
       "compras": 10,
-      "vtas": 20,
+      "vtas": 21,
       "salidas": 0,
-      "vtasTot": 20,
+      "vtasTot": 21,
       "inv": null,
-      "cierre": 10,
+      "cierre": 9,
       "dif": null
     },
     {
@@ -102,11 +102,11 @@
       "weekYear": "202638",
       "invMenos7": 14,
       "compras": 4,
-      "vtas": 8,
+      "vtas": 12,
       "salidas": 0,
-      "vtasTot": 8,
+      "vtasTot": 12,
       "inv": null,
-      "cierre": 10,
+      "cierre": 6,
       "dif": null
     },
     {
@@ -114,11 +114,11 @@
       "weekYear": "202638",
       "invMenos7": 24,
       "compras": 8,
-      "vtas": 15,
+      "vtas": 18,
       "salidas": 0,
-      "vtasTot": 15,
+      "vtasTot": 18,
       "inv": null,
-      "cierre": 17,
+      "cierre": 14,
       "dif": null
     },
     {
@@ -126,11 +126,11 @@
       "weekYear": "202638",
       "invMenos7": 44,
       "compras": 18,
-      "vtas": 37,
+      "vtas": 48,
       "salidas": 0,
-      "vtasTot": 37,
+      "vtasTot": 48,
       "inv": null,
-      "cierre": 25,
+      "cierre": 14,
       "dif": null
     },
     {
@@ -162,11 +162,11 @@
       "weekYear": "202638",
       "invMenos7": 15,
       "compras": 81,
-      "vtas": 33,
+      "vtas": 41,
       "salidas": 5.4,
-      "vtasTot": 38.4,
+      "vtasTot": 46.4,
       "inv": null,
-      "cierre": 57.6,
+      "cierre": 49.6,
       "dif": null
     },
     {
@@ -186,11 +186,11 @@
       "weekYear": "202638",
       "invMenos7": 32,
       "compras": 23,
-      "vtas": 16,
+      "vtas": 21,
       "salidas": 0,
-      "vtasTot": 16,
+      "vtasTot": 21,
       "inv": null,
-      "cierre": 39,
+      "cierre": 34,
       "dif": null
     },
     {
@@ -198,11 +198,11 @@
       "weekYear": "202638",
       "invMenos7": 25,
       "compras": 9,
-      "vtas": 11,
+      "vtas": 13,
       "salidas": 1.86,
-      "vtasTot": 12.86,
+      "vtasTot": 14.86,
       "inv": null,
-      "cierre": 21.14,
+      "cierre": 19.14,
       "dif": null
     },
     {
@@ -210,11 +210,11 @@
       "weekYear": "202638",
       "invMenos7": 54,
       "compras": 0,
-      "vtas": 10,
+      "vtas": 12,
       "salidas": 0,
-      "vtasTot": 10,
+      "vtasTot": 12,
       "inv": null,
-      "cierre": 44,
+      "cierre": 42,
       "dif": null
     },
     {
@@ -222,11 +222,11 @@
       "weekYear": "202638",
       "invMenos7": 19,
       "compras": 27,
-      "vtas": 18,
+      "vtas": 22,
       "salidas": 1,
-      "vtasTot": 19,
+      "vtasTot": 23,
       "inv": null,
-      "cierre": 27,
+      "cierre": 23,
       "dif": null
     },
     {
@@ -234,11 +234,11 @@
       "weekYear": "202638",
       "invMenos7": 26,
       "compras": 15,
-      "vtas": 19,
+      "vtas": 21,
       "salidas": 0,
-      "vtasTot": 19,
+      "vtasTot": 21,
       "inv": null,
-      "cierre": 22,
+      "cierre": 20,
       "dif": null
     },
     {
@@ -246,11 +246,11 @@
       "weekYear": "202638",
       "invMenos7": 30,
       "compras": 42,
-      "vtas": 35,
+      "vtas": 36,
       "salidas": 4.75,
-      "vtasTot": 39.75,
+      "vtasTot": 40.75,
       "inv": null,
-      "cierre": 32.25,
+      "cierre": 31.25,
       "dif": null
     },
     {
@@ -2480,7 +2480,19 @@
       "fecha": "2026-09-20",
       "dia": "dom",
       "compras": 0,
-      "vtas": 1,
+      "vtas": 2,
+      "salidas": 0,
+      "invEsperado": 0,
+      "invIni": null,
+      "invFin": null,
+      "dif": null
+    },
+    {
+      "insumo": "Corazon de pollo",
+      "fecha": "2026-09-20",
+      "dia": "dom",
+      "compras": 0,
+      "vtas": 4,
       "salidas": 0,
       "invEsperado": 0,
       "invIni": null,
@@ -2492,7 +2504,7 @@
       "fecha": "2026-09-20",
       "dia": "dom",
       "compras": 0,
-      "vtas": 1,
+      "vtas": 4,
       "salidas": 0,
       "invEsperado": 0,
       "invIni": null,
@@ -2504,7 +2516,7 @@
       "fecha": "2026-09-20",
       "dia": "dom",
       "compras": 0,
-      "vtas": 1,
+      "vtas": 12,
       "salidas": 0,
       "invEsperado": 0,
       "invIni": null,
@@ -2528,9 +2540,57 @@
       "fecha": "2026-09-20",
       "dia": "dom",
       "compras": 0,
+      "vtas": 10,
+      "salidas": 0,
+      "invEsperado": 34.6,
+      "invIni": null,
+      "invFin": null,
+      "dif": null
+    },
+    {
+      "insumo": "Ossobuco",
+      "fecha": "2026-09-20",
+      "dia": "dom",
+      "compras": 0,
+      "vtas": 5,
+      "salidas": 0,
+      "invEsperado": 2,
+      "invIni": null,
+      "invFin": null,
+      "dif": null
+    },
+    {
+      "insumo": "Panza",
+      "fecha": "2026-09-20",
+      "dia": "dom",
+      "compras": 0,
       "vtas": 2,
       "salidas": 0,
-      "invEsperado": 42.6,
+      "invEsperado": 0,
+      "invIni": null,
+      "invFin": null,
+      "dif": null
+    },
+    {
+      "insumo": "Pato",
+      "fecha": "2026-09-20",
+      "dia": "dom",
+      "compras": 0,
+      "vtas": 2,
+      "salidas": 0,
+      "invEsperado": 0,
+      "invIni": null,
+      "invFin": null,
+      "dif": null
+    },
+    {
+      "insumo": "Pechuga de pollo",
+      "fecha": "2026-09-20",
+      "dia": "dom",
+      "compras": 0,
+      "vtas": 4,
+      "salidas": 0,
+      "invEsperado": 4,
       "invIni": null,
       "invFin": null,
       "dif": null
@@ -2540,9 +2600,21 @@
       "fecha": "2026-09-20",
       "dia": "dom",
       "compras": 0,
-      "vtas": 1,
+      "vtas": 3,
       "salidas": 0,
       "invEsperado": 0,
+      "invIni": null,
+      "invFin": null,
+      "dif": null
+    },
+    {
+      "insumo": "Trucha",
+      "fecha": "2026-09-20",
+      "dia": "dom",
+      "compras": 0,
+      "vtas": 1,
+      "salidas": 0,
+      "invEsperado": 1.25,
       "invIni": null,
       "invFin": null,
       "dif": null
@@ -3460,7 +3532,7 @@
       },
       {
         "weekYear": "202638",
-        "valor": 234
+        "valor": 277
       }
     ],
     "Salidas": [
@@ -3512,7 +3584,7 @@
       },
       {
         "weekYear": "202638",
-        "valor": 252.31
+        "valor": 295.31
       }
     ],
     "Compras (Un)": [
@@ -3548,6 +3620,6 @@
     "filasSalidas": 811,
     "filasMatriz": 22,
     "filasInventarios": 383,
-    "filasVentasIzi": 6109
+    "filasVentasIzi": 6191
   }
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T17:47:18.322Z",
+  "generatedAt": "2026-09-20T19:49:16.220Z",
   "rangoFechas": {
     "desde": "2026-07-13",
     "hasta": "2026-09-20"
@@ -306,13 +306,13 @@
       "weekYear": "202638",
       "invMenos7": 57,
       "compras": 0,
-      "vtas": 15,
+      "vtas": 17,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 15,
+      "vtasTot": 17,
       "inv": null,
-      "cierre": 42,
+      "cierre": 40,
       "dif": null
     },
     {
@@ -320,13 +320,13 @@
       "weekYear": "202638",
       "invMenos7": 23,
       "compras": 0,
-      "vtas": 5,
+      "vtas": 6,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 5,
+      "vtasTot": 6,
       "inv": null,
-      "cierre": 18,
+      "cierre": 17,
       "dif": null
     },
     {
@@ -418,13 +418,13 @@
       "weekYear": "202638",
       "invMenos7": 15,
       "compras": 24,
-      "vtas": 4,
+      "vtas": 7,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 4,
+      "vtasTot": 7,
       "inv": null,
-      "cierre": 35,
+      "cierre": 32,
       "dif": null
     },
     {
@@ -432,13 +432,13 @@
       "weekYear": "202638",
       "invMenos7": 11,
       "compras": 0,
-      "vtas": 1,
+      "vtas": 3,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 1,
+      "vtasTot": 3,
       "inv": null,
-      "cierre": 10,
+      "cierre": 8,
       "dif": null
     },
     {
@@ -4532,6 +4532,32 @@
       "dif": null
     },
     {
+      "producto": "COCA COLA SIN AZUCAR",
+      "fecha": "2026-09-20",
+      "dia": "dom",
+      "compras": 0,
+      "vtas": 2,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 40,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "FANTA",
+      "fecha": "2026-09-20",
+      "dia": "dom",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 17,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "HUARI",
       "fecha": "2026-09-20",
       "dia": "dom",
@@ -4541,6 +4567,32 @@
       "cortesias": 0,
       "salidas": 0,
       "invEsperado": 4,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "POTOSINA PILSNER",
+      "fecha": "2026-09-20",
+      "dia": "dom",
+      "compras": 0,
+      "vtas": 3,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 32,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "REBELION ALBA WEIZEN",
+      "fecha": "2026-09-20",
+      "dia": "dom",
+      "compras": 0,
+      "vtas": 2,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 8,
       "invIniFin": null,
       "dif": null
     },
@@ -4907,7 +4959,7 @@
       },
       {
         "weekYear": "202638",
-        "valor": 45
+        "valor": 53
       }
     ],
     "Vtas Ext": [
@@ -4985,7 +5037,7 @@
       },
       {
         "weekYear": "202638",
-        "valor": 46
+        "valor": 54
       }
     ],
     "Salidas": [
@@ -5047,8 +5099,8 @@
     "filasInventariosGs": 3662,
     "filasCompras": 2230,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 6109,
-    "filasMovInv": 423,
+    "filasVentasIzi": 6191,
+    "filasMovInv": 427,
     "filasDimProducto": 440,
     "warnings": []
   }

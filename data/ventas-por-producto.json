@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T17:05:57.648Z",
+  "generatedAt": "2026-09-20T17:19:27.567Z",
   "fuente": "API iZi Soluciones (facturas + items-inventarios), sucursal Ancestral (79344)",
   "rango": {
     "desde": "2026-08-21",
@@ -11475,6 +11475,86 @@
       "fecha": "2026-09-19",
       "cantidad": 1,
       "monto": 15
+    },
+    {
+      "codProducto": "ANC00110",
+      "producto": "JAMAICA (BOTELLA)",
+      "categoria": "JUGOS",
+      "fecha": "2026-09-20",
+      "cantidad": 1,
+      "monto": 40
+    },
+    {
+      "codProducto": "ANC00099",
+      "producto": "PARRILLA OJO DE BIFE",
+      "categoria": "FUERTES",
+      "fecha": "2026-09-20",
+      "cantidad": 2,
+      "monto": 320
+    },
+    {
+      "codProducto": "ANC00178",
+      "producto": "COPA MALBEC - CALADOC",
+      "categoria": "VINOS POR COPA",
+      "fecha": "2026-09-20",
+      "cantidad": 1,
+      "monto": 40
+    },
+    {
+      "codProducto": "ANC00111",
+      "producto": "JAMAICA MENTA",
+      "categoria": "JUGOS",
+      "fecha": "2026-09-20",
+      "cantidad": 1,
+      "monto": 15
+    },
+    {
+      "codProducto": "ANC00001",
+      "producto": "AGUA C/G",
+      "categoria": "AGUAS",
+      "fecha": "2026-09-20",
+      "cantidad": 1,
+      "monto": 15
+    },
+    {
+      "codProducto": "ANC00093",
+      "producto": "KEPERI AHUMADO",
+      "categoria": "FUERTES",
+      "fecha": "2026-09-20",
+      "cantidad": 1,
+      "monto": 140
+    },
+    {
+      "codProducto": "ANC00331",
+      "producto": "CORDERO A LA CRUZ",
+      "categoria": "COMIDAS",
+      "fecha": "2026-09-20",
+      "cantidad": 1,
+      "monto": 150
+    },
+    {
+      "codProducto": "ANC00057",
+      "producto": "TUETANO BRULEE",
+      "categoria": "DULCES",
+      "fecha": "2026-09-20",
+      "cantidad": 1,
+      "monto": 50
+    },
+    {
+      "codProducto": "ANC00049",
+      "producto": "FLAN",
+      "categoria": "DULCES",
+      "fecha": "2026-09-20",
+      "cantidad": 1,
+      "monto": 50
+    },
+    {
+      "codProducto": "ANC00048",
+      "producto": "ESPRESSO DOBLE",
+      "categoria": "BEBIDAS CALIENTES",
+      "fecha": "2026-09-20",
+      "cantidad": 1,
+      "monto": 20
     }
   ]
 }

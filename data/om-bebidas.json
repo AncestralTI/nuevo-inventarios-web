@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T17:05:55.497Z",
+  "generatedAt": "2026-09-20T17:19:25.605Z",
   "rangoFechas": {
     "desde": "2026-07-13",
     "hasta": "2026-09-20"
@@ -445,14 +445,14 @@
       "weekYear": "202638",
       "invMenos7": null,
       "compras": 36,
-      "vtasIzi": 3,
+      "vtasIzi": 4,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 3,
+      "vtasTot": 4,
       "inv": null,
-      "cierre": 33,
+      "cierre": 32,
       "dif": null
     },
     {
@@ -8896,6 +8896,20 @@
       "dif": null
     },
     {
+      "producto": "Fanta",
+      "fecha": "2026-09-20",
+      "dia": "dom",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 32,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "Agua",
       "fecha": "2026-09-07",
       "dia": "lun",
@@ -10558,7 +10572,7 @@
       },
       {
         "weekYear": "202638",
-        "valor": 213.5
+        "valor": 214.5
       }
     ],
     "Vtas Ext.": [
@@ -10636,7 +10650,7 @@
       },
       {
         "weekYear": "202638",
-        "valor": 717.5
+        "valor": 718.5
       }
     ],
     "Compras": [
@@ -10672,11 +10686,11 @@
     "filasInventariosOmuh": 349,
     "filasCompras": 1495,
     "filasSalidas": 69,
-    "filasVentasIzi": 8527,
+    "filasVentasIzi": 8538,
     "filasVentasPY": 10550,
     "filasExtras": 15481,
     "filasMovInv": 422,
-    "filasVentasAncIzi": 6088,
+    "filasVentasAncIzi": 6098,
     "warnings": []
   }
 }

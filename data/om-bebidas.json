@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-19T23:54:04.036Z",
+  "generatedAt": "2026-09-20T00:08:31.637Z",
   "rangoFechas": {
     "desde": "2026-07-13",
-    "hasta": "2026-09-19"
+    "hasta": "2026-09-20"
   },
   "categorias": [
     "5. Bebidas alcohólicas",
@@ -5890,15 +5890,15 @@
       "weekYear": "202630",
       "invMenos7": 42,
       "compras": 24,
-      "vtasIzi": 18,
+      "vtasIzi": 17,
       "vtasExt": 20,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 38,
+      "vtasTot": 37,
       "inv": 26,
-      "cierre": 28,
-      "dif": -2
+      "cierre": 29,
+      "dif": -3
     },
     {
       "producto": "Agua con gas",
@@ -6040,15 +6040,15 @@
       "weekYear": "202630",
       "invMenos7": 20,
       "compras": 0,
-      "vtasIzi": 8,
+      "vtasIzi": 7,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 8,
+      "vtasTot": 7,
       "inv": 12,
-      "cierre": 12,
-      "dif": 0
+      "cierre": 13,
+      "dif": -1
     },
     {
       "producto": "Cerveza Uyuni",
@@ -6133,12 +6133,12 @@
       "vtasIzi": 0,
       "vtasExt": 82,
       "vtasPY": 0,
-      "vtasAnc": 12,
+      "vtasAnc": 11,
       "salidas": 0,
-      "vtasTot": 94,
+      "vtasTot": 93,
       "inv": 137,
-      "cierre": 41,
-      "dif": 96
+      "cierre": 42,
+      "dif": 95
     },
     {
       "producto": "Coca Cola MINI",
@@ -6163,9 +6163,9 @@
       "vtasIzi": 0,
       "vtasExt": 0,
       "vtasPY": 0,
-      "vtasAnc": 14,
+      "vtasAnc": 12,
       "salidas": 0,
-      "vtasTot": 14,
+      "vtasTot": 12,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -6205,14 +6205,14 @@
       "weekYear": "202630",
       "invMenos7": null,
       "compras": 24,
-      "vtasIzi": 5,
+      "vtasIzi": 4,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 5,
+      "vtasTot": 4,
       "inv": null,
-      "cierre": 19,
+      "cierre": 20,
       "dif": null
     },
     {
@@ -6313,9 +6313,9 @@
       "vtasIzi": 0,
       "vtasExt": 0,
       "vtasPY": 0,
-      "vtasAnc": 10,
+      "vtasAnc": 9,
       "salidas": 0,
-      "vtasTot": 10,
+      "vtasTot": 9,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -6478,9 +6478,9 @@
       "vtasIzi": 0,
       "vtasExt": 0,
       "vtasPY": 0,
-      "vtasAnc": 1,
+      "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 1,
+      "vtasTot": 0,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -10574,11 +10574,11 @@
     "filasInventariosOmuh": 349,
     "filasCompras": 1495,
     "filasSalidas": 68,
-    "filasVentasIzi": 8501,
+    "filasVentasIzi": 8435,
     "filasVentasPY": 10529,
     "filasExtras": 15242,
-    "filasMovInv": 428,
-    "filasVentasAncIzi": 6070,
+    "filasMovInv": 411,
+    "filasVentasAncIzi": 5987,
     "warnings": []
   }
 }

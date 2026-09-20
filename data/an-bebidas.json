@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-19T23:53:28.218Z",
+  "generatedAt": "2026-09-20T00:07:56.698Z",
   "rangoFechas": {
     "desde": "2026-07-13",
-    "hasta": "2026-09-19"
+    "hasta": "2026-09-20"
   },
   "categorias": [
     "5. Bebidas alcohólicas",
@@ -3540,28 +3540,28 @@
       "weekYear": "202630",
       "invMenos7": 43,
       "compras": 0,
-      "vtas": 12,
+      "vtas": 11,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 4,
-      "vtasTot": 16,
+      "vtasTot": 15,
       "inv": 27,
-      "cierre": 27,
-      "dif": 0
+      "cierre": 28,
+      "dif": -1
     },
     {
       "producto": "COCA COLA SIN AZUCAR",
       "weekYear": "202630",
       "invMenos7": 33,
       "compras": 18,
-      "vtas": 14,
+      "vtas": 12,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 14,
+      "vtasTot": 12,
       "inv": 37,
-      "cierre": 37,
-      "dif": 0
+      "cierre": 39,
+      "dif": -2
     },
     {
       "producto": "FANTA",
@@ -3596,14 +3596,14 @@
       "weekYear": "202630",
       "invMenos7": 81,
       "compras": 0,
-      "vtas": 10,
+      "vtas": 9,
       "vtasExt": 2,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 12,
+      "vtasTot": 11,
       "inv": 69,
-      "cierre": 69,
-      "dif": 0
+      "cierre": 70,
+      "dif": -1
     },
     {
       "producto": "MADERA \"LA KALOR\" GOSE",
@@ -3694,14 +3694,14 @@
       "weekYear": "202630",
       "invMenos7": 4,
       "compras": 0,
-      "vtas": 1,
+      "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 1,
+      "vtasTot": 0,
       "inv": 3,
-      "cierre": 3,
-      "dif": 0
+      "cierre": 4,
+      "dif": -1
     },
     {
       "producto": "SAN MIGUEL MATILDA PALE ALE",
@@ -4995,8 +4995,8 @@
     "filasInventariosGs": 3662,
     "filasCompras": 2230,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 6070,
-    "filasMovInv": 428,
+    "filasVentasIzi": 5987,
+    "filasMovInv": 411,
     "filasDimProducto": 440,
     "warnings": []
   }

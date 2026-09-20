@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T17:39:59.475Z",
+  "generatedAt": "2026-09-20T17:47:53.850Z",
   "rangoFechas": {
     "desde": "2026-07-13",
     "hasta": "2026-09-20"
@@ -178,9 +178,9 @@
       "vtasIzi": 0,
       "vtasExt": 0,
       "vtasPY": 0,
-      "vtasAnc": 3,
+      "vtasAnc": 4,
       "salidas": 0,
-      "vtasTot": 3,
+      "vtasTot": 4,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -553,9 +553,9 @@
       "vtasIzi": 0,
       "vtasExt": 0,
       "vtasPY": 0,
-      "vtasAnc": 1,
+      "vtasAnc": 2,
       "salidas": 0,
-      "vtasTot": 1,
+      "vtasTot": 2,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -8896,6 +8896,20 @@
       "dif": null
     },
     {
+      "producto": "BENDITA IPA",
+      "fecha": "2026-09-20",
+      "dia": "dom",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 1,
+      "salidas": 0,
+      "invEsperado": 0,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "Fanta",
       "fecha": "2026-09-20",
       "dia": "dom",
@@ -8906,6 +8920,20 @@
       "vtasAnc": 0,
       "salidas": 0,
       "invEsperado": 32,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "HUARI",
+      "fecha": "2026-09-20",
+      "dia": "dom",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 1,
+      "salidas": 0,
+      "invEsperado": 0,
       "invIniFin": null,
       "dif": null
     },
@@ -10664,7 +10692,7 @@
       },
       {
         "weekYear": "202638",
-        "valor": 719.5
+        "valor": 721.5
       }
     ],
     "Compras": [
@@ -10700,11 +10728,11 @@
     "filasInventariosOmuh": 349,
     "filasCompras": 1495,
     "filasSalidas": 69,
-    "filasVentasIzi": 8546,
+    "filasVentasIzi": 8559,
     "filasVentasPY": 10550,
     "filasExtras": 15481,
-    "filasMovInv": 422,
-    "filasVentasAncIzi": 6102,
+    "filasMovInv": 423,
+    "filasVentasAncIzi": 6109,
     "warnings": []
   }
 }

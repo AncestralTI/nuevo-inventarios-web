@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T17:38:53.709Z",
+  "generatedAt": "2026-09-20T17:46:47.228Z",
   "rangoFechas": {
     "desde": "2026-07-13",
     "hasta": "2026-09-20"
@@ -90,11 +90,11 @@
       "weekYear": "202638",
       "invMenos7": 20,
       "compras": 10,
-      "vtas": 19,
+      "vtas": 20,
       "salidas": 0,
-      "vtasTot": 19,
+      "vtasTot": 20,
       "inv": null,
-      "cierre": 11,
+      "cierre": 10,
       "dif": null
     },
     {
@@ -138,11 +138,11 @@
       "weekYear": "202638",
       "invMenos7": 16,
       "compras": 24,
-      "vtas": 11,
+      "vtas": 12,
       "salidas": 2.29,
-      "vtasTot": 13.29,
+      "vtasTot": 14.29,
       "inv": null,
-      "cierre": 26.71,
+      "cierre": 25.71,
       "dif": null
     },
     {
@@ -2476,6 +2476,18 @@
       "dif": null
     },
     {
+      "insumo": "Chuleton",
+      "fecha": "2026-09-20",
+      "dia": "dom",
+      "compras": 0,
+      "vtas": 1,
+      "salidas": 0,
+      "invEsperado": 0,
+      "invIni": null,
+      "invFin": null,
+      "dif": null
+    },
+    {
       "insumo": "Cordero",
       "fecha": "2026-09-20",
       "dia": "dom",
@@ -2495,6 +2507,18 @@
       "vtas": 1,
       "salidas": 0,
       "invEsperado": 0,
+      "invIni": null,
+      "invFin": null,
+      "dif": null
+    },
+    {
+      "insumo": "Llama",
+      "fecha": "2026-09-20",
+      "dia": "dom",
+      "compras": 0,
+      "vtas": 1,
+      "salidas": 0,
+      "invEsperado": 9.71,
       "invIni": null,
       "invFin": null,
       "dif": null
@@ -3436,7 +3460,7 @@
       },
       {
         "weekYear": "202638",
-        "valor": 232
+        "valor": 234
       }
     ],
     "Salidas": [
@@ -3488,7 +3512,7 @@
       },
       {
         "weekYear": "202638",
-        "valor": 250.31
+        "valor": 252.31
       }
     ],
     "Compras (Un)": [
@@ -3524,6 +3548,6 @@
     "filasSalidas": 811,
     "filasMatriz": 22,
     "filasInventarios": 383,
-    "filasVentasIzi": 6102
+    "filasVentasIzi": 6109
   }
 }

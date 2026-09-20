@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T17:40:01.287Z",
+  "generatedAt": "2026-09-20T17:47:56.067Z",
   "fuente": "API iZi Soluciones (facturas + items-inventarios), sucursal Ancestral (79344)",
   "rango": {
     "desde": "2026-08-21",
@@ -11477,6 +11477,62 @@
       "monto": 15
     },
     {
+      "codProducto": "ANC00007",
+      "producto": "HUARI",
+      "categoria": "CERVEZA",
+      "fecha": "2026-09-20",
+      "cantidad": 1,
+      "monto": 33
+    },
+    {
+      "codProducto": "ANC00005",
+      "producto": "BENDITA IPA",
+      "categoria": "CERVEZA",
+      "fecha": "2026-09-20",
+      "cantidad": 1,
+      "monto": 33
+    },
+    {
+      "codProducto": "ANC00241",
+      "producto": "CEVICHE DE TRUCHA Y HONGOS",
+      "categoria": "ENTRADAS",
+      "fecha": "2026-09-20",
+      "cantidad": 1,
+      "monto": 75
+    },
+    {
+      "codProducto": "ANC00065",
+      "producto": "TATAKI DE LLAMA",
+      "categoria": "ENTRADAS",
+      "fecha": "2026-09-20",
+      "cantidad": 1,
+      "monto": 75
+    },
+    {
+      "codProducto": "ANC00090",
+      "producto": "CHULETON (Kg)",
+      "categoria": "FUERTES",
+      "fecha": "2026-09-20",
+      "cantidad": 0.7,
+      "monto": 280
+    },
+    {
+      "codProducto": "ANC00049",
+      "producto": "FLAN",
+      "categoria": "DULCES",
+      "fecha": "2026-09-20",
+      "cantidad": 2,
+      "monto": 100
+    },
+    {
+      "codProducto": "ANC00047",
+      "producto": "ESPRESSO",
+      "categoria": "BEBIDAS CALIENTES",
+      "fecha": "2026-09-20",
+      "cantidad": 2,
+      "monto": 30
+    },
+    {
       "codProducto": "ANC00242",
       "producto": "PARRILLA PESCADO AMAZÓNICO",
       "categoria": "FUERTES",
@@ -11567,14 +11623,6 @@
     {
       "codProducto": "ANC00057",
       "producto": "TUETANO BRULEE",
-      "categoria": "DULCES",
-      "fecha": "2026-09-20",
-      "cantidad": 1,
-      "monto": 50
-    },
-    {
-      "codProducto": "ANC00049",
-      "producto": "FLAN",
       "categoria": "DULCES",
       "fecha": "2026-09-20",
       "cantidad": 1,

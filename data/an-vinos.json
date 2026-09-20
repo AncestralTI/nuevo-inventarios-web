@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T17:39:11.869Z",
+  "generatedAt": "2026-09-20T17:47:04.771Z",
   "rangoFechas": {
     "desde": "2026-07-13",
     "hasta": "2026-09-20"
@@ -404,13 +404,13 @@
       "weekYear": "202638",
       "invMenos7": 8,
       "compras": 12,
-      "vtas": 3,
+      "vtas": 4,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 3,
+      "vtasTot": 4,
       "inv": null,
-      "cierre": 17,
+      "cierre": 16,
       "dif": null
     },
     {
@@ -1034,13 +1034,13 @@
       "weekYear": "202638",
       "invMenos7": 6,
       "compras": 0,
-      "vtas": 1,
+      "vtas": 2,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 1,
+      "vtasTot": 2,
       "inv": null,
-      "cierre": 5,
+      "cierre": 4,
       "dif": null
     },
     {
@@ -16792,6 +16792,19 @@
       "dif": null
     },
     {
+      "producto": "BENDITA IPA",
+      "fecha": "2026-09-20",
+      "dia": "dom",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 16,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "COPA MARSELAN - ARSAL",
       "fecha": "2026-09-20",
       "dia": "dom",
@@ -16801,6 +16814,19 @@
       "cortesias": 0,
       "salidas": 0,
       "invEsperado": 0,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "HUARI",
+      "fecha": "2026-09-20",
+      "dia": "dom",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 4,
       "invIniFin": null,
       "dif": null
     },
@@ -17622,7 +17648,7 @@
       },
       {
         "weekYear": "202638",
-        "valor": 49
+        "valor": 51
       }
     ],
     "Vtas Ext": [
@@ -17700,7 +17726,7 @@
       },
       {
         "weekYear": "202638",
-        "valor": 59
+        "valor": 61
       }
     ],
     "Salidas": [
@@ -17762,8 +17788,8 @@
     "filasInventariosGs": 3662,
     "filasCompras": 2230,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 6102,
-    "filasMovInv": 422,
+    "filasVentasIzi": 6109,
+    "filasMovInv": 423,
     "filasDimProducto": 440,
     "warnings": []
   }

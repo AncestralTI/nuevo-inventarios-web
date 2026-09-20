@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T17:30:04.872Z",
+  "generatedAt": "2026-09-20T17:40:01.287Z",
   "fuente": "API iZi Soluciones (facturas + items-inventarios), sucursal Ancestral (79344)",
   "rango": {
     "desde": "2026-08-21",
@@ -11475,6 +11475,38 @@
       "fecha": "2026-09-19",
       "cantidad": 1,
       "monto": 15
+    },
+    {
+      "codProducto": "ANC00242",
+      "producto": "PARRILLA PESCADO AMAZÓNICO",
+      "categoria": "FUERTES",
+      "fecha": "2026-09-20",
+      "cantidad": 1,
+      "monto": 150
+    },
+    {
+      "codProducto": "ANC00092",
+      "producto": "GNOCCHIS CON HONGOS A LA BRASA",
+      "categoria": "FUERTES",
+      "fecha": "2026-09-20",
+      "cantidad": 1,
+      "monto": 140
+    },
+    {
+      "codProducto": "ANC00207",
+      "producto": "BERRIES TONIC",
+      "categoria": "COCTELES",
+      "fecha": "2026-09-20",
+      "cantidad": 1,
+      "monto": 50
+    },
+    {
+      "codProducto": "ANC00350",
+      "producto": "COPA MARSELAN - ARSAL",
+      "categoria": "VINOS",
+      "fecha": "2026-09-20",
+      "cantidad": 1,
+      "monto": 45
     },
     {
       "codProducto": "ANC00110",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T19:49:03.005Z",
+  "generatedAt": "2026-09-20T21:55:22.738Z",
   "rangoFechas": {
     "desde": "2026-07-13",
     "hasta": "2026-09-20"
@@ -320,13 +320,13 @@
       "weekYear": "202638",
       "invMenos7": 5,
       "compras": 0,
-      "vtas": 1,
+      "vtas": 3,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 1,
+      "vtasTot": 3,
       "inv": null,
-      "cierre": 4,
+      "cierre": 2,
       "dif": null
     },
     {
@@ -1034,13 +1034,13 @@
       "weekYear": "202638",
       "invMenos7": 6,
       "compras": 0,
-      "vtas": 2,
+      "vtas": 6,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 2,
+      "vtasTot": 6,
       "inv": null,
-      "cierre": 4,
+      "cierre": 0,
       "dif": null
     },
     {
@@ -1230,13 +1230,13 @@
       "weekYear": "202638",
       "invMenos7": 24,
       "compras": 0,
-      "vtas": 2,
+      "vtas": 3,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 2,
+      "vtasTot": 3,
       "inv": null,
-      "cierre": 22,
+      "cierre": 21,
       "dif": null
     },
     {
@@ -16792,6 +16792,19 @@
       "dif": null
     },
     {
+      "producto": "ARANJUEZ - JUAN CRUZ",
+      "fecha": "2026-09-20",
+      "dia": "dom",
+      "compras": 0,
+      "vtas": 2,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 2,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "BENDITA IPA",
       "fecha": "2026-09-20",
       "dia": "dom",
@@ -16822,11 +16835,11 @@
       "fecha": "2026-09-20",
       "dia": "dom",
       "compras": 0,
-      "vtas": 1,
+      "vtas": 5,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "invEsperado": 4,
+      "invEsperado": 0,
       "invIniFin": null,
       "dif": null
     },
@@ -16840,6 +16853,19 @@
       "cortesias": 0,
       "salidas": 0,
       "invEsperado": 9,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "MADERA DOMINGA",
+      "fecha": "2026-09-20",
+      "dia": "dom",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 21,
       "invIniFin": null,
       "dif": null
     },
@@ -17700,7 +17726,7 @@
       },
       {
         "weekYear": "202638",
-        "valor": 59
+        "valor": 66
       }
     ],
     "Vtas Ext": [
@@ -17778,7 +17804,7 @@
       },
       {
         "weekYear": "202638",
-        "valor": 69
+        "valor": 76
       }
     ],
     "Salidas": [
@@ -17840,7 +17866,7 @@
     "filasInventariosGs": 3662,
     "filasCompras": 2230,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 6191,
+    "filasVentasIzi": 6210,
     "filasMovInv": 427,
     "filasDimProducto": 440,
     "warnings": []

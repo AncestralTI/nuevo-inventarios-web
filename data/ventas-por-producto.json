@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T19:49:55.412Z",
+  "generatedAt": "2026-09-20T21:56:15.129Z",
   "fuente": "API iZi Soluciones (facturas + items-inventarios), sucursal Ancestral (79344)",
   "rango": {
     "desde": "2026-08-21",
@@ -11477,12 +11477,156 @@
       "monto": 15
     },
     {
+      "codProducto": "ANC00110",
+      "producto": "JAMAICA (BOTELLA)",
+      "categoria": "JUGOS",
+      "fecha": "2026-09-20",
+      "cantidad": 4,
+      "monto": 160
+    },
+    {
       "codProducto": "ANC00115",
       "producto": "NARANJA-TUMBO (BOTELLA)",
       "categoria": "JUGOS",
       "fecha": "2026-09-20",
+      "cantidad": 3,
+      "monto": 120
+    },
+    {
+      "codProducto": "ANC00063",
+      "producto": "TACO PULLED PORK",
+      "categoria": "ENTRADAS",
+      "fecha": "2026-09-20",
       "cantidad": 1,
-      "monto": 40
+      "monto": 70
+    },
+    {
+      "codProducto": "ANC00093",
+      "producto": "KEPERI AHUMADO",
+      "categoria": "FUERTES",
+      "fecha": "2026-09-20",
+      "cantidad": 10,
+      "monto": 1400
+    },
+    {
+      "codProducto": "ANC00098",
+      "producto": "PARRILLA KEPERI",
+      "categoria": "FUERTES",
+      "fecha": "2026-09-20",
+      "cantidad": 5,
+      "monto": 700
+    },
+    {
+      "codProducto": "ANC00092",
+      "producto": "GNOCCHIS CON HONGOS A LA BRASA",
+      "categoria": "FUERTES",
+      "fecha": "2026-09-20",
+      "cantidad": 3,
+      "monto": 420
+    },
+    {
+      "codProducto": "ANC00331",
+      "producto": "CORDERO A LA CRUZ",
+      "categoria": "COMIDAS",
+      "fecha": "2026-09-20",
+      "cantidad": 5,
+      "monto": 750
+    },
+    {
+      "codProducto": "ANC00009",
+      "producto": "MADERA DOMINGA",
+      "categoria": "CERVEZA",
+      "fecha": "2026-09-20",
+      "cantidad": 1,
+      "monto": 31
+    },
+    {
+      "codProducto": "ANC00002",
+      "producto": "AGUA S/G",
+      "categoria": "AGUAS",
+      "fecha": "2026-09-20",
+      "cantidad": 3,
+      "monto": 36
+    },
+    {
+      "codProducto": "ANC00001",
+      "producto": "AGUA C/G",
+      "categoria": "AGUAS",
+      "fecha": "2026-09-20",
+      "cantidad": 5,
+      "monto": 75
+    },
+    {
+      "codProducto": "ANC00007",
+      "producto": "HUARI",
+      "categoria": "CERVEZA",
+      "fecha": "2026-09-20",
+      "cantidad": 5,
+      "monto": 165
+    },
+    {
+      "codProducto": "ANC00325",
+      "producto": "TABLA ANCESTRAL",
+      "categoria": "ENTRADAS",
+      "fecha": "2026-09-20",
+      "cantidad": 3,
+      "monto": 360
+    },
+    {
+      "codProducto": "ANC00281",
+      "producto": "CUARTO PATO CONFITADO",
+      "categoria": "FUERTES",
+      "fecha": "2026-09-20",
+      "cantidad": 3,
+      "monto": 420
+    },
+    {
+      "codProducto": "ANC00103",
+      "producto": "PARRILLA TRUCHA",
+      "categoria": "FUERTES",
+      "fecha": "2026-09-20",
+      "cantidad": 1,
+      "monto": 150
+    },
+    {
+      "codProducto": "ANC00099",
+      "producto": "PARRILLA OJO DE BIFE",
+      "categoria": "FUERTES",
+      "fecha": "2026-09-20",
+      "cantidad": 11,
+      "monto": 1760
+    },
+    {
+      "codProducto": "ANC00129",
+      "producto": "ARANJUEZ - JUAN CRUZ",
+      "categoria": "VINOS",
+      "fecha": "2026-09-20",
+      "cantidad": 2,
+      "monto": 1240
+    },
+    {
+      "codProducto": "ANC00047",
+      "producto": "ESPRESSO",
+      "categoria": "BEBIDAS CALIENTES",
+      "fecha": "2026-09-20",
+      "cantidad": 6,
+      "monto": 90
+    },
+    {
+      "codProducto": "ANC00048",
+      "producto": "ESPRESSO DOBLE",
+      "categoria": "BEBIDAS CALIENTES",
+      "fecha": "2026-09-20",
+      "cantidad": 4,
+      "monto": 80
+    },
+    {
+      "codProducto": "ANC00049",
+      "producto": "FLAN",
+      "categoria": "DULCES",
+      "fecha": "2026-09-20",
+      "cantidad": 4,
+      "monto": 200
     },
     {
       "codProducto": "ANC00024",
@@ -11493,36 +11637,12 @@
       "monto": 100
     },
     {
-      "codProducto": "ANC00098",
-      "producto": "PARRILLA KEPERI",
-      "categoria": "FUERTES",
-      "fecha": "2026-09-20",
-      "cantidad": 4,
-      "monto": 560
-    },
-    {
       "codProducto": "ANC00330",
       "producto": "PESCADO AMAZONICO Y TUMBO",
       "categoria": "COMIDAS",
       "fecha": "2026-09-20",
       "cantidad": 2,
       "monto": 280
-    },
-    {
-      "codProducto": "ANC00049",
-      "producto": "FLAN",
-      "categoria": "DULCES",
-      "fecha": "2026-09-20",
-      "cantidad": 3,
-      "monto": 150
-    },
-    {
-      "codProducto": "ANC00325",
-      "producto": "TABLA ANCESTRAL",
-      "categoria": "ENTRADAS",
-      "fecha": "2026-09-20",
-      "cantidad": 2,
-      "monto": 240
     },
     {
       "codProducto": "ANC00095",
@@ -11533,52 +11653,12 @@
       "monto": 800
     },
     {
-      "codProducto": "ANC00281",
-      "producto": "CUARTO PATO CONFITADO",
-      "categoria": "FUERTES",
-      "fecha": "2026-09-20",
-      "cantidad": 2,
-      "monto": 280
-    },
-    {
       "codProducto": "ANC00113",
       "producto": "LIMONADA (BOTELLA)",
       "categoria": "JUGOS",
       "fecha": "2026-09-20",
       "cantidad": 3,
       "monto": 120
-    },
-    {
-      "codProducto": "ANC00110",
-      "producto": "JAMAICA (BOTELLA)",
-      "categoria": "JUGOS",
-      "fecha": "2026-09-20",
-      "cantidad": 3,
-      "monto": 120
-    },
-    {
-      "codProducto": "ANC00001",
-      "producto": "AGUA C/G",
-      "categoria": "AGUAS",
-      "fecha": "2026-09-20",
-      "cantidad": 4,
-      "monto": 60
-    },
-    {
-      "codProducto": "ANC00047",
-      "producto": "ESPRESSO",
-      "categoria": "BEBIDAS CALIENTES",
-      "fecha": "2026-09-20",
-      "cantidad": 4,
-      "monto": 60
-    },
-    {
-      "codProducto": "ANC00048",
-      "producto": "ESPRESSO DOBLE",
-      "categoria": "BEBIDAS CALIENTES",
-      "fecha": "2026-09-20",
-      "cantidad": 3,
-      "monto": 60
     },
     {
       "codProducto": "ANC00050",
@@ -11595,14 +11675,6 @@
       "fecha": "2026-09-20",
       "cantidad": 2,
       "monto": 120
-    },
-    {
-      "codProducto": "ANC00099",
-      "producto": "PARRILLA OJO DE BIFE",
-      "categoria": "FUERTES",
-      "fecha": "2026-09-20",
-      "cantidad": 10,
-      "monto": 1600
     },
     {
       "codProducto": "ANC00350",
@@ -11653,14 +11725,6 @@
       "monto": 520
     },
     {
-      "codProducto": "ANC00092",
-      "producto": "GNOCCHIS CON HONGOS A LA BRASA",
-      "categoria": "FUERTES",
-      "fecha": "2026-09-20",
-      "cantidad": 2,
-      "monto": 280
-    },
-    {
       "codProducto": "ANC00182",
       "producto": "POTOSINA PILSNER",
       "categoria": "CERVEZA",
@@ -11685,14 +11749,6 @@
       "monto": 576
     },
     {
-      "codProducto": "ANC00002",
-      "producto": "AGUA S/G",
-      "categoria": "AGUAS",
-      "fecha": "2026-09-20",
-      "cantidad": 1,
-      "monto": 12
-    },
-    {
       "codProducto": "ANC00193",
       "producto": "REBELION ALBA WEIZEN",
       "categoria": "CERVEZA",
@@ -11715,22 +11771,6 @@
       "fecha": "2026-09-20",
       "cantidad": 5,
       "monto": 75
-    },
-    {
-      "codProducto": "ANC00331",
-      "producto": "CORDERO A LA CRUZ",
-      "categoria": "COMIDAS",
-      "fecha": "2026-09-20",
-      "cantidad": 4,
-      "monto": 600
-    },
-    {
-      "codProducto": "ANC00093",
-      "producto": "KEPERI AHUMADO",
-      "categoria": "FUERTES",
-      "fecha": "2026-09-20",
-      "cantidad": 8,
-      "monto": 1120
     },
     {
       "codProducto": "ANC00069",
@@ -11819,14 +11859,6 @@
       "fecha": "2026-09-20",
       "cantidad": 1,
       "monto": 350
-    },
-    {
-      "codProducto": "ANC00007",
-      "producto": "HUARI",
-      "categoria": "CERVEZA",
-      "fecha": "2026-09-20",
-      "cantidad": 1,
-      "monto": 33
     },
     {
       "codProducto": "ANC00005",

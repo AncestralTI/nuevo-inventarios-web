@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T19:49:53.712Z",
+  "generatedAt": "2026-09-20T21:56:13.597Z",
   "rangoFechas": {
     "desde": "2026-07-13",
     "hasta": "2026-09-20"
@@ -553,9 +553,9 @@
       "vtasIzi": 0,
       "vtasExt": 0,
       "vtasPY": 0,
-      "vtasAnc": 2,
+      "vtasAnc": 6,
       "salidas": 0,
-      "vtasTot": 2,
+      "vtasTot": 6,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -598,9 +598,9 @@
       "vtasIzi": 0,
       "vtasExt": 0,
       "vtasPY": 0,
-      "vtasAnc": 2,
+      "vtasAnc": 3,
       "salidas": 0,
-      "vtasTot": 2,
+      "vtasTot": 3,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -8973,6 +8973,20 @@
       "vtas": 0,
       "vtasExt": 0,
       "vtasPY": 0,
+      "vtasAnc": 5,
+      "salidas": 0,
+      "invEsperado": 0,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "MADERA DOMINGA",
+      "fecha": "2026-09-20",
+      "dia": "dom",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "vtasPY": 0,
       "vtasAnc": 1,
       "salidas": 0,
       "invEsperado": 0,
@@ -10762,7 +10776,7 @@
       },
       {
         "weekYear": "202638",
-        "valor": 732.5
+        "valor": 737.5
       }
     ],
     "Compras": [
@@ -10802,7 +10816,7 @@
     "filasVentasPY": 10550,
     "filasExtras": 15481,
     "filasMovInv": 427,
-    "filasVentasAncIzi": 6191,
+    "filasVentasAncIzi": 6210,
     "warnings": []
   }
 }

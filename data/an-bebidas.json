@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T19:49:16.220Z",
+  "generatedAt": "2026-09-20T21:55:36.563Z",
   "rangoFechas": {
     "desde": "2026-07-13",
     "hasta": "2026-09-20"
@@ -348,13 +348,13 @@
       "weekYear": "202638",
       "invMenos7": 6,
       "compras": 0,
-      "vtas": 2,
+      "vtas": 6,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 2,
+      "vtasTot": 6,
       "inv": null,
-      "cierre": 4,
+      "cierre": 0,
       "dif": null
     },
     {
@@ -376,13 +376,13 @@
       "weekYear": "202638",
       "invMenos7": 24,
       "compras": 0,
-      "vtas": 2,
+      "vtas": 3,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 2,
+      "vtasTot": 3,
       "inv": null,
-      "cierre": 22,
+      "cierre": 21,
       "dif": null
     },
     {
@@ -4562,11 +4562,24 @@
       "fecha": "2026-09-20",
       "dia": "dom",
       "compras": 0,
+      "vtas": 5,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 0,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "MADERA DOMINGA",
+      "fecha": "2026-09-20",
+      "dia": "dom",
+      "compras": 0,
       "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "invEsperado": 4,
+      "invEsperado": 21,
       "invIniFin": null,
       "dif": null
     },
@@ -4959,7 +4972,7 @@
       },
       {
         "weekYear": "202638",
-        "valor": 53
+        "valor": 58
       }
     ],
     "Vtas Ext": [
@@ -5037,7 +5050,7 @@
       },
       {
         "weekYear": "202638",
-        "valor": 54
+        "valor": 59
       }
     ],
     "Salidas": [
@@ -5099,7 +5112,7 @@
     "filasInventariosGs": 3662,
     "filasCompras": 2230,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 6191,
+    "filasVentasIzi": 6210,
     "filasMovInv": 427,
     "filasDimProducto": 440,
     "warnings": []

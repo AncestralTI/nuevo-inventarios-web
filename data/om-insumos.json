@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T07:15:41.450Z",
+  "generatedAt": "2026-09-21T14:14:06.862Z",
   "rangoFechas": {
     "desde": "2026-07-20",
     "hasta": "2026-09-21"
@@ -129,7 +129,7 @@
       "insumo": "Carne Molida 130g",
       "weekYear": "202638",
       "invMenos7": 265.5,
-      "compras": 642,
+      "compras": 848,
       "vtasIzi": 644,
       "vtasAnc": 1,
       "vtasPY": 56,
@@ -139,8 +139,8 @@
       "salidas": -1,
       "vtasTot": 713,
       "inv": 380,
-      "cierre": 194.5,
-      "dif": 185.5
+      "cierre": 400.5,
+      "dif": -20.5
     },
     {
       "insumo": "Pechuga de Pollo",
@@ -689,10 +689,10 @@
       "insumo": "Carne Molida 130g",
       "fecha": "2026-09-17",
       "dia": "jue",
-      "compras": 0,
+      "compras": 206,
       "vtas": 78,
       "salidas": -3,
-      "invEsperado": 629.5,
+      "invEsperado": 835.5,
       "invFin": null,
       "dif": null
     },
@@ -725,7 +725,7 @@
       "compras": 0,
       "vtas": 103,
       "salidas": 1,
-      "invEsperado": 526.5,
+      "invEsperado": 732.5,
       "invFin": null,
       "dif": null
     },
@@ -758,7 +758,7 @@
       "compras": 0,
       "vtas": 140.5,
       "salidas": 1,
-      "invEsperado": 386,
+      "invEsperado": 592,
       "invFin": null,
       "dif": null
     },
@@ -791,9 +791,9 @@
       "compras": 0,
       "vtas": 121.5,
       "salidas": 0,
-      "invEsperado": 264.5,
+      "invEsperado": 470.5,
       "invFin": 380,
-      "dif": 115.5
+      "dif": -90.5
     },
     {
       "insumo": "Pechuga de Pollo",
@@ -1020,7 +1020,7 @@
       },
       {
         "weekYear": "202638",
-        "valor": 853
+        "valor": 1059
       },
       {
         "weekYear": "202639",

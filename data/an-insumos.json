@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T19:30:58.474Z",
+  "generatedAt": "2026-09-21T22:47:53.626Z",
   "rangoFechas": {
     "desde": "2026-07-20",
     "hasta": "2026-09-21"
@@ -329,13 +329,13 @@
       "insumo": "Ojo de bife",
       "weekYear": "202638",
       "invMenos7": 15,
-      "compras": 100,
+      "compras": 81,
       "vtas": 42,
       "salidas": 9.23,
       "vtasTot": 51.23,
       "inv": 42,
-      "cierre": 63.77,
-      "dif": -21.77
+      "cierre": 44.77,
+      "dif": -2.77
     },
     {
       "insumo": "Oreja de cerdo",
@@ -2407,10 +2407,10 @@
       "insumo": "Ojo de bife",
       "fecha": "2026-09-19",
       "dia": "sáb",
-      "compras": 19,
+      "compras": 0,
       "vtas": 13,
       "salidas": 0,
-      "invEsperado": 102.62,
+      "invEsperado": 83.62,
       "invIni": null,
       "invFin": null,
       "dif": null
@@ -2554,10 +2554,10 @@
       "compras": 0,
       "vtas": 11,
       "salidas": 0.8448974238552219,
-      "invEsperado": 90.77,
+      "invEsperado": 71.77,
       "invIni": 42,
       "invFin": 42,
-      "dif": -48.77
+      "dif": -29.77
     },
     {
       "insumo": "Oreja de cerdo",
@@ -2742,7 +2742,7 @@
       },
       {
         "weekYear": "202638",
-        "valor": 289
+        "valor": 270
       },
       {
         "weekYear": "202639",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T19:31:17.430Z",
+  "generatedAt": "2026-09-21T22:48:10.338Z",
   "rangoFechas": {
     "desde": "2026-07-20",
     "hasta": "2026-09-21"
@@ -1438,7 +1438,7 @@
     {
       "producto": "POTOSINA PILSNER",
       "weekYear": "202639",
-      "invMenos7": 8,
+      "invMenos7": 30,
       "compras": 0,
       "vtas": 0,
       "vtasExt": 0,
@@ -1446,7 +1446,7 @@
       "salidas": 0,
       "vtasTot": 0,
       "inv": null,
-      "cierre": 8,
+      "cierre": 30,
       "dif": null
     },
     {
@@ -2587,15 +2587,15 @@
       "producto": "GRAN RESERVA CARMENERE - CASA SOLUM",
       "weekYear": "202638",
       "invMenos7": 0,
-      "compras": 0,
+      "compras": 4,
       "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 0,
       "inv": 4,
-      "cierre": 0,
-      "dif": 4
+      "cierre": 4,
+      "dif": 0
     },
     {
       "producto": "HOPPY BARRIL",
@@ -3027,9 +3027,9 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 7,
-      "inv": 8,
+      "inv": 30,
       "cierre": 32,
-      "dif": -24
+      "dif": -2
     },
     {
       "producto": "REBELION ALBA WEIZEN",
@@ -16493,6 +16493,19 @@
       "dif": null
     },
     {
+      "producto": "GRAN RESERVA CARMENERE - CASA SOLUM",
+      "fecha": "2026-09-17",
+      "dia": "jue",
+      "compras": 4,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 4,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "KOHLBERG - FLAMANT ROSE",
       "fecha": "2026-09-17",
       "dia": "jue",
@@ -16970,8 +16983,8 @@
       "cortesias": 0,
       "salidas": 0,
       "invEsperado": 32,
-      "invIniFin": 8,
-      "dif": -24
+      "invIniFin": 30,
+      "dif": -2
     },
     {
       "producto": "REBELION ALBA WEIZEN",
@@ -17150,7 +17163,7 @@
       },
       {
         "weekYear": "202638",
-        "valor": 125
+        "valor": 129
       },
       {
         "weekYear": "202639",

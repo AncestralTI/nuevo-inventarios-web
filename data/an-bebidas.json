@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T19:31:31.902Z",
+  "generatedAt": "2026-09-21T22:48:23.881Z",
   "rangoFechas": {
     "desde": "2026-07-20",
     "hasta": "2026-09-21"
@@ -416,7 +416,7 @@
     {
       "producto": "POTOSINA PILSNER",
       "weekYear": "202639",
-      "invMenos7": 8,
+      "invMenos7": 30,
       "compras": 0,
       "vtas": 0,
       "vtasExt": 0,
@@ -424,7 +424,7 @@
       "salidas": 0,
       "vtasTot": 0,
       "inv": null,
-      "cierre": 8,
+      "cierre": 30,
       "dif": null
     },
     {
@@ -829,9 +829,9 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 7,
-      "inv": 8,
+      "inv": 30,
       "cierre": 32,
-      "dif": -24
+      "dif": -2
     },
     {
       "producto": "REBELION ALBA WEIZEN",
@@ -4593,8 +4593,8 @@
       "cortesias": 0,
       "salidas": 0,
       "invEsperado": 32,
-      "invIniFin": 8,
-      "dif": -24
+      "invIniFin": 30,
+      "dif": -2
     },
     {
       "producto": "REBELION ALBA WEIZEN",

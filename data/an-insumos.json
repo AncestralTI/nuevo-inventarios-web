@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T14:13:25.192Z",
+  "generatedAt": "2026-09-21T19:30:58.474Z",
   "rangoFechas": {
     "desde": "2026-07-20",
     "hasta": "2026-09-21"
@@ -88,13 +88,13 @@
     {
       "insumo": "Chuleton",
       "weekYear": "202639",
-      "invMenos7": 6,
+      "invMenos7": 8,
       "compras": 0,
       "vtas": 0,
       "salidas": 0,
       "vtasTot": 0,
       "inv": null,
-      "cierre": 6,
+      "cierre": 8,
       "dif": null
     },
     {
@@ -261,9 +261,9 @@
       "vtas": 21,
       "salidas": 0,
       "vtasTot": 21,
-      "inv": 6,
+      "inv": 8,
       "cierre": 9,
-      "dif": -3
+      "dif": -1
     },
     {
       "insumo": "Corazon de pollo",
@@ -424,14 +424,14 @@
     {
       "insumo": "Chuleton",
       "weekYear": "202637",
-      "invMenos7": null,
+      "invMenos7": 6,
       "compras": 23,
       "vtas": 9,
       "salidas": 0,
       "vtasTot": 9,
       "inv": 20,
-      "cierre": 14,
-      "dif": 6
+      "cierre": 20,
+      "dif": 0
     },
     {
       "insumo": "Corazon de pollo",
@@ -597,9 +597,9 @@
       "vtas": 14,
       "salidas": 0,
       "vtasTot": 14,
-      "inv": null,
+      "inv": 6,
       "cierre": 6,
-      "dif": null
+      "dif": 0
     },
     {
       "insumo": "Corazon de pollo",
@@ -1774,7 +1774,7 @@
       "compras": 5,
       "vtas": 2,
       "salidas": 0,
-      "invEsperado": 9,
+      "invEsperado": 11,
       "invIni": null,
       "invFin": null,
       "dif": null
@@ -1930,7 +1930,7 @@
       "compras": 0,
       "vtas": 4,
       "salidas": 0,
-      "invEsperado": 5,
+      "invEsperado": 7,
       "invIni": null,
       "invFin": null,
       "dif": null
@@ -2086,7 +2086,7 @@
       "compras": 0,
       "vtas": 2,
       "salidas": 0,
-      "invEsperado": 3,
+      "invEsperado": 5,
       "invIni": null,
       "invFin": null,
       "dif": null
@@ -2206,7 +2206,7 @@
       "compras": 5,
       "vtas": 4,
       "salidas": 0,
-      "invEsperado": 4,
+      "invEsperado": 6,
       "invIni": null,
       "invFin": null,
       "dif": null
@@ -2495,9 +2495,9 @@
       "vtas": 2,
       "salidas": 0,
       "invEsperado": 0,
-      "invIni": 6,
-      "invFin": 6,
-      "dif": 6
+      "invIni": 8,
+      "invFin": 8,
+      "dif": 8
     },
     {
       "insumo": "Corazon de pollo",
@@ -2755,7 +2755,7 @@
     "filasCompras": 2232,
     "filasSalidas": 825,
     "filasMatriz": 22,
-    "filasInventarios": 396,
+    "filasInventarios": 397,
     "filasVentasIzi": 6120
   }
 }

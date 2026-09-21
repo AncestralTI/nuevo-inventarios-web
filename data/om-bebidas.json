@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T14:14:23.002Z",
+  "generatedAt": "2026-09-21T19:32:05.425Z",
   "rangoFechas": {
     "desde": "2026-07-20",
     "hasta": "2026-09-21"
@@ -280,14 +280,14 @@
       "weekYear": "202639",
       "invMenos7": 241,
       "compras": 0,
-      "vtasIzi": 0,
+      "vtasIzi": 1,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 241,
+      "cierre": 240,
       "dif": null
     },
     {
@@ -7328,6 +7328,20 @@
   ],
   "detalleDiario": [
     {
+      "producto": "Cerveza Huari",
+      "fecha": "2026-09-21",
+      "dia": "lun",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 240,
+      "invIniFin": 241,
+      "dif": 1
+    },
+    {
       "producto": "Agua",
       "fecha": "2026-09-14",
       "dia": "lun",
@@ -9214,7 +9228,7 @@
       },
       {
         "weekYear": "202639",
-        "valor": 0
+        "valor": 1
       }
     ],
     "Vtas Ext.": [
@@ -9292,7 +9306,7 @@
       },
       {
         "weekYear": "202639",
-        "valor": 0
+        "valor": 1
       }
     ],
     "Compras": [
@@ -9324,11 +9338,11 @@
   },
   "meta": {
     "ventasIziDisponibles": true,
-    "filasDimProducto": 440,
+    "filasDimProducto": 441,
     "filasInventariosOmuh": 368,
-    "filasCompras": 1495,
-    "filasSalidas": 69,
-    "filasVentasIzi": 8595,
+    "filasCompras": 1496,
+    "filasSalidas": 71,
+    "filasVentasIzi": 8615,
     "filasVentasPY": 10577,
     "filasExtras": 15688,
     "filasMovInv": 418,

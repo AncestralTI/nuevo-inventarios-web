@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-20T23:45:30.727Z",
+  "generatedAt": "2026-09-21T01:44:33.474Z",
   "rangoFechas": {
-    "desde": "2026-07-13",
-    "hasta": "2026-09-20"
+    "desde": "2026-07-20",
+    "hasta": "2026-09-21"
   },
   "insumos": [
     "Carne Molida 130g",
@@ -10,6 +10,7 @@
     "Pesca Amazonica"
   ],
   "semanas": [
+    "202639",
     "202638",
     "202637",
     "202636",
@@ -18,10 +19,14 @@
     "202633",
     "202632",
     "202631",
-    "202630",
-    "202629"
+    "202630"
   ],
   "semanasInfo": [
+    {
+      "weekYear": "202639",
+      "desde": "2026-09-21",
+      "hasta": "2026-09-27"
+    },
     {
       "weekYear": "202638",
       "desde": "2026-09-14",
@@ -66,29 +71,75 @@
       "weekYear": "202630",
       "desde": "2026-07-20",
       "hasta": "2026-07-26"
-    },
-    {
-      "weekYear": "202629",
-      "desde": "2026-07-13",
-      "hasta": "2026-07-19"
     }
   ],
   "resumenSemanal": [
     {
       "insumo": "Carne Molida 130g",
+      "weekYear": "202639",
+      "invMenos7": null,
+      "compras": 0,
+      "vtasIzi": 0,
+      "vtasAnc": 0,
+      "vtasPY": 0,
+      "vtasExt": 0,
+      "vtasVegg": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
+      "insumo": "Pechuga de Pollo",
+      "weekYear": "202639",
+      "invMenos7": null,
+      "compras": 0,
+      "vtasIzi": 0,
+      "vtasAnc": 0,
+      "vtasPY": 0,
+      "vtasExt": 0,
+      "vtasVegg": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
+      "insumo": "Pesca Amazonica",
+      "weekYear": "202639",
+      "invMenos7": null,
+      "compras": 0,
+      "vtasIzi": 0,
+      "vtasAnc": 0,
+      "vtasPY": 0,
+      "vtasExt": 0,
+      "vtasVegg": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
+      "insumo": "Carne Molida 130g",
       "weekYear": "202638",
       "invMenos7": 265.5,
       "compras": 642,
-      "vtasIzi": 614,
+      "vtasIzi": 644,
       "vtasAnc": 1,
       "vtasPY": 40,
       "vtasExt": 14,
       "vtasVegg": -3,
       "cortesias": 0,
       "salidas": -1,
-      "vtasTot": 665,
+      "vtasTot": 695,
       "inv": null,
-      "cierre": 242.5,
+      "cierre": 212.5,
       "dif": null
     },
     {
@@ -96,16 +147,16 @@
       "weekYear": "202638",
       "invMenos7": 63,
       "compras": 49,
-      "vtasIzi": 29,
+      "vtasIzi": 31,
       "vtasAnc": 0,
       "vtasPY": 9,
       "vtasExt": 0,
       "vtasVegg": 0,
       "cortesias": 0,
       "salidas": 1,
-      "vtasTot": 39,
+      "vtasTot": 41,
       "inv": null,
-      "cierre": 73,
+      "cierre": 71,
       "dif": null
     },
     {
@@ -113,16 +164,16 @@
       "weekYear": "202638",
       "invMenos7": 40,
       "compras": 162,
-      "vtasIzi": 185,
+      "vtasIzi": 193,
       "vtasAnc": 0,
       "vtasPY": 0,
       "vtasExt": 0,
       "vtasVegg": 0,
       "cortesias": 0,
       "salidas": 1,
-      "vtasTot": 186,
+      "vtasTot": 194,
       "inv": null,
-      "cierre": 16,
+      "cierre": 8,
       "dif": null
     },
     {
@@ -487,102 +538,51 @@
       "weekYear": "202630",
       "invMenos7": 354,
       "compras": 537,
-      "vtasIzi": 377,
-      "vtasAnc": 3,
+      "vtasIzi": 324,
+      "vtasAnc": 2,
       "vtasPY": 49,
       "vtasExt": 24,
       "vtasVegg": -11,
       "cortesias": 0,
       "salidas": 5,
-      "vtasTot": 447,
+      "vtasTot": 393,
       "inv": 368.5,
-      "cierre": 444,
-      "dif": -75.5
+      "cierre": 498,
+      "dif": -129.5
     },
     {
       "insumo": "Pechuga de Pollo",
       "weekYear": "202630",
       "invMenos7": 68,
       "compras": 67,
-      "vtasIzi": 39,
+      "vtasIzi": 31,
       "vtasAnc": 0,
       "vtasPY": 14,
       "vtasExt": 0,
       "vtasVegg": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 53,
+      "vtasTot": 45,
       "inv": 76,
-      "cierre": 82,
-      "dif": -6
+      "cierre": 90,
+      "dif": -14
     },
     {
       "insumo": "Pesca Amazonica",
       "weekYear": "202630",
       "invMenos7": 86,
       "compras": 0,
-      "vtasIzi": 13,
+      "vtasIzi": 12,
       "vtasAnc": 0,
       "vtasPY": 0,
       "vtasExt": 0,
       "vtasVegg": 0,
       "cortesias": 0,
       "salidas": 1,
-      "vtasTot": 14,
+      "vtasTot": 13,
       "inv": 64,
-      "cierre": 72,
-      "dif": -8
-    },
-    {
-      "insumo": "Carne Molida 130g",
-      "weekYear": "202629",
-      "invMenos7": 136,
-      "compras": 946,
-      "vtasIzi": 0,
-      "vtasAnc": 0,
-      "vtasPY": 78,
-      "vtasExt": 29,
-      "vtasVegg": -7,
-      "cortesias": 0,
-      "salidas": 10,
-      "vtasTot": 110,
-      "inv": 354,
-      "cierre": 972,
-      "dif": -618
-    },
-    {
-      "insumo": "Pechuga de Pollo",
-      "weekYear": "202629",
-      "invMenos7": 44,
-      "compras": 124,
-      "vtasIzi": 0,
-      "vtasAnc": 0,
-      "vtasPY": 29,
-      "vtasExt": 0,
-      "vtasVegg": -1,
-      "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 28,
-      "inv": 68,
-      "cierre": 140,
-      "dif": -72
-    },
-    {
-      "insumo": "Pesca Amazonica",
-      "weekYear": "202629",
-      "invMenos7": 104,
-      "compras": 0,
-      "vtasIzi": 0,
-      "vtasAnc": 0,
-      "vtasPY": 0,
-      "vtasExt": 0,
-      "vtasVegg": 0,
-      "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 0,
-      "inv": 86,
-      "cierre": 104,
-      "dif": -18
+      "cierre": 73,
+      "dif": -9
     }
   ],
   "detalleDiario": [
@@ -789,9 +789,9 @@
       "fecha": "2026-09-20",
       "dia": "dom",
       "compras": 0,
-      "vtas": 91.5,
+      "vtas": 121.5,
       "salidas": 0,
-      "invEsperado": 294.5,
+      "invEsperado": 264.5,
       "invFin": null,
       "dif": null
     },
@@ -800,128 +800,7 @@
       "fecha": "2026-09-20",
       "dia": "dom",
       "compras": 0,
-      "vtas": 6,
-      "salidas": 0,
-      "invEsperado": 82,
-      "invFin": null,
-      "dif": null
-    },
-    {
-      "insumo": "Pesca Amazonica",
-      "fecha": "2026-09-20",
-      "dia": "dom",
-      "compras": 0,
-      "vtas": 22,
-      "salidas": 0,
-      "invEsperado": 16,
-      "invFin": null,
-      "dif": null
-    },
-    {
-      "insumo": "Carne Molida 130g",
-      "fecha": "2026-09-07",
-      "dia": "lun",
-      "compras": 0,
-      "vtas": 34.5,
-      "salidas": 0,
-      "invEsperado": 291.5,
-      "invFin": null,
-      "dif": null
-    },
-    {
-      "insumo": "Pechuga de Pollo",
-      "fecha": "2026-09-07",
-      "dia": "lun",
-      "compras": 0,
-      "vtas": 7,
-      "salidas": 0,
-      "invEsperado": 30,
-      "invFin": null,
-      "dif": null
-    },
-    {
-      "insumo": "Carne Molida 130g",
-      "fecha": "2026-09-08",
-      "dia": "mar",
-      "compras": 566,
-      "vtas": 51,
-      "salidas": 1,
-      "invEsperado": 806.5,
-      "invFin": null,
-      "dif": null
-    },
-    {
-      "insumo": "Pechuga de Pollo",
-      "fecha": "2026-09-08",
-      "dia": "mar",
-      "compras": 63,
-      "vtas": 4,
-      "salidas": 0,
-      "invEsperado": 89,
-      "invFin": null,
-      "dif": null
-    },
-    {
-      "insumo": "Pesca Amazonica",
-      "fecha": "2026-09-08",
-      "dia": "mar",
-      "compras": 0,
-      "vtas": 10,
-      "salidas": 1,
-      "invEsperado": 108,
-      "invFin": null,
-      "dif": null
-    },
-    {
-      "insumo": "Carne Molida 130g",
-      "fecha": "2026-09-09",
-      "dia": "mié",
-      "compras": 0,
-      "vtas": 79.5,
-      "salidas": 0,
-      "invEsperado": 727,
-      "invFin": null,
-      "dif": null
-    },
-    {
-      "insumo": "Pechuga de Pollo",
-      "fecha": "2026-09-09",
-      "dia": "mié",
-      "compras": 0,
-      "vtas": 6,
-      "salidas": 0,
-      "invEsperado": 83,
-      "invFin": null,
-      "dif": null
-    },
-    {
-      "insumo": "Pesca Amazonica",
-      "fecha": "2026-09-09",
-      "dia": "mié",
-      "compras": 0,
-      "vtas": 24,
-      "salidas": 0,
-      "invEsperado": 84,
-      "invFin": null,
-      "dif": null
-    },
-    {
-      "insumo": "Carne Molida 130g",
-      "fecha": "2026-09-10",
-      "dia": "jue",
-      "compras": 175,
-      "vtas": 74,
-      "salidas": 0,
-      "invEsperado": 828,
-      "invFin": null,
-      "dif": null
-    },
-    {
-      "insumo": "Pechuga de Pollo",
-      "fecha": "2026-09-10",
-      "dia": "jue",
-      "compras": 0,
-      "vtas": 3,
+      "vtas": 8,
       "salidas": 0,
       "invEsperado": 80,
       "invFin": null,
@@ -929,121 +808,18 @@
     },
     {
       "insumo": "Pesca Amazonica",
-      "fecha": "2026-09-10",
-      "dia": "jue",
-      "compras": 0,
-      "vtas": 20,
-      "salidas": 1,
-      "invEsperado": 64,
-      "invFin": null,
-      "dif": null
-    },
-    {
-      "insumo": "Carne Molida 130g",
-      "fecha": "2026-09-11",
-      "dia": "vie",
-      "compras": 0,
-      "vtas": 123.5,
-      "salidas": 4,
-      "invEsperado": 704.5,
-      "invFin": null,
-      "dif": null
-    },
-    {
-      "insumo": "Pechuga de Pollo",
-      "fecha": "2026-09-11",
-      "dia": "vie",
-      "compras": 25,
-      "vtas": 10,
-      "salidas": 0,
-      "invEsperado": 95,
-      "invFin": null,
-      "dif": null
-    },
-    {
-      "insumo": "Pesca Amazonica",
-      "fecha": "2026-09-11",
-      "dia": "vie",
-      "compras": 80,
-      "vtas": 31,
-      "salidas": 2,
-      "invEsperado": 113,
-      "invFin": null,
-      "dif": null
-    },
-    {
-      "insumo": "Carne Molida 130g",
-      "fecha": "2026-09-12",
-      "dia": "sáb",
-      "compras": 0,
-      "vtas": 143.5,
-      "salidas": 2,
-      "invEsperado": 561,
-      "invFin": null,
-      "dif": null
-    },
-    {
-      "insumo": "Pechuga de Pollo",
-      "fecha": "2026-09-12",
-      "dia": "sáb",
-      "compras": 0,
-      "vtas": 13,
-      "salidas": 0,
-      "invEsperado": 82,
-      "invFin": null,
-      "dif": null
-    },
-    {
-      "insumo": "Pesca Amazonica",
-      "fecha": "2026-09-12",
-      "dia": "sáb",
-      "compras": 0,
-      "vtas": 45,
-      "salidas": 0,
-      "invEsperado": 68,
-      "invFin": null,
-      "dif": null
-    },
-    {
-      "insumo": "Carne Molida 130g",
-      "fecha": "2026-09-13",
+      "fecha": "2026-09-20",
       "dia": "dom",
       "compras": 0,
-      "vtas": 237,
+      "vtas": 30,
       "salidas": 0,
-      "invEsperado": 324,
-      "invFin": 265.5,
-      "dif": -58.5
-    },
-    {
-      "insumo": "Pechuga de Pollo",
-      "fecha": "2026-09-13",
-      "dia": "dom",
-      "compras": 0,
-      "vtas": 6,
-      "salidas": 0,
-      "invEsperado": 76,
-      "invFin": 63,
-      "dif": -13
-    },
-    {
-      "insumo": "Pesca Amazonica",
-      "fecha": "2026-09-13",
-      "dia": "dom",
-      "compras": 0,
-      "vtas": 27,
-      "salidas": 0,
-      "invEsperado": 41,
-      "invFin": 40,
-      "dif": -1
+      "invEsperado": 8,
+      "invFin": null,
+      "dif": null
     }
   ],
   "serieSemanal": {
     "Vtas": [
-      {
-        "weekYear": "202633",
-        "valor": 712.5
-      },
       {
         "weekYear": "202634",
         "valor": 716
@@ -1062,14 +838,14 @@
       },
       {
         "weekYear": "202638",
-        "valor": 828
+        "valor": 868
+      },
+      {
+        "weekYear": "202639",
+        "valor": 0
       }
     ],
     "Vtas Anc": [
-      {
-        "weekYear": "202633",
-        "valor": 4
-      },
       {
         "weekYear": "202634",
         "valor": 6
@@ -1089,13 +865,13 @@
       {
         "weekYear": "202638",
         "valor": 1
+      },
+      {
+        "weekYear": "202639",
+        "valor": 0
       }
     ],
     "Vtas PY": [
-      {
-        "weekYear": "202633",
-        "valor": 85
-      },
       {
         "weekYear": "202634",
         "valor": 63
@@ -1115,13 +891,13 @@
       {
         "weekYear": "202638",
         "valor": 49
+      },
+      {
+        "weekYear": "202639",
+        "valor": 0
       }
     ],
     "Vtas Ext.": [
-      {
-        "weekYear": "202633",
-        "valor": 25
-      },
       {
         "weekYear": "202634",
         "valor": 23
@@ -1141,13 +917,13 @@
       {
         "weekYear": "202638",
         "valor": 14
+      },
+      {
+        "weekYear": "202639",
+        "valor": 0
       }
     ],
     "Cortesias": [
-      {
-        "weekYear": "202633",
-        "valor": 0
-      },
       {
         "weekYear": "202634",
         "valor": 1
@@ -1167,13 +943,13 @@
       {
         "weekYear": "202638",
         "valor": 0
+      },
+      {
+        "weekYear": "202639",
+        "valor": 0
       }
     ],
     "Salidas": [
-      {
-        "weekYear": "202633",
-        "valor": 7
-      },
       {
         "weekYear": "202634",
         "valor": 10
@@ -1193,13 +969,13 @@
       {
         "weekYear": "202638",
         "valor": 1
+      },
+      {
+        "weekYear": "202639",
+        "valor": 0
       }
     ],
     "Vtas Tot.": [
-      {
-        "weekYear": "202633",
-        "valor": 828.5
-      },
       {
         "weekYear": "202634",
         "valor": 811
@@ -1218,14 +994,14 @@
       },
       {
         "weekYear": "202638",
-        "valor": 890
+        "valor": 930
+      },
+      {
+        "weekYear": "202639",
+        "valor": 0
       }
     ],
     "Compras": [
-      {
-        "weekYear": "202633",
-        "valor": 906
-      },
       {
         "weekYear": "202634",
         "valor": 894
@@ -1245,6 +1021,10 @@
       {
         "weekYear": "202638",
         "valor": 853
+      },
+      {
+        "weekYear": "202639",
+        "valor": 0
       }
     ]
   },
@@ -1254,11 +1034,11 @@
     "filasInventariosUnitarios": 108,
     "filasCompras": 1495,
     "filasSalidas": 69,
-    "filasVentasIzi": 8643,
+    "filasVentasIzi": 8595,
     "filasVentasPY": 10550,
     "filasExtras": 15481,
-    "filasMovInv": 427,
-    "filasVentasAncIzi": 6210,
+    "filasMovInv": 418,
+    "filasVentasAncIzi": 6120,
     "warnings": []
   }
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T01:15:52.469Z",
+  "generatedAt": "2026-09-22T06:18:38.107Z",
   "rangoFechas": {
     "desde": "2026-07-20",
     "hasta": "2026-09-22"
@@ -79,16 +79,16 @@
       "weekYear": "202639",
       "invMenos7": 380,
       "compras": 0,
-      "vtasIzi": 62,
+      "vtasIzi": 75,
       "vtasAnc": 0,
-      "vtasPY": 0,
-      "vtasExt": 0,
-      "vtasVegg": 0,
+      "vtasPY": 2,
+      "vtasExt": 4,
+      "vtasVegg": -1,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 62,
+      "vtasTot": 80,
       "inv": null,
-      "cierre": 318,
+      "cierre": 300,
       "dif": null
     },
     {
@@ -591,9 +591,9 @@
       "fecha": "2026-09-21",
       "dia": "lun",
       "compras": 0,
-      "vtas": 62,
+      "vtas": 75,
       "salidas": 0,
-      "invEsperado": 318,
+      "invEsperado": 305,
       "invFin": null,
       "dif": null
     },
@@ -875,7 +875,7 @@
       },
       {
         "weekYear": "202639",
-        "valor": 71
+        "valor": 84
       }
     ],
     "Vtas Anc": [
@@ -927,7 +927,7 @@
       },
       {
         "weekYear": "202639",
-        "valor": 0
+        "valor": 2
       }
     ],
     "Vtas Ext.": [
@@ -953,7 +953,7 @@
       },
       {
         "weekYear": "202639",
-        "valor": 0
+        "valor": 4
       }
     ],
     "Cortesias": [
@@ -1031,7 +1031,7 @@
       },
       {
         "weekYear": "202639",
-        "valor": 71
+        "valor": 89
       }
     ],
     "Compras": [
@@ -1067,9 +1067,9 @@
     "filasInventariosUnitarios": 113,
     "filasCompras": 1496,
     "filasSalidas": 71,
-    "filasVentasIzi": 8600,
-    "filasVentasPY": 10577,
-    "filasExtras": 15688,
+    "filasVentasIzi": 8622,
+    "filasVentasPY": 10581,
+    "filasExtras": 15777,
     "filasMovInv": 407,
     "filasVentasAncIzi": 6060,
     "warnings": []

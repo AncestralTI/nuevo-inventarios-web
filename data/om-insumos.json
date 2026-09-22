@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T15:45:59.507Z",
+  "generatedAt": "2026-09-22T19:15:35.456Z",
   "rangoFechas": {
     "desde": "2026-07-20",
     "hasta": "2026-09-22"
@@ -95,7 +95,7 @@
       "insumo": "Pechuga de Pollo",
       "weekYear": "202639",
       "invMenos7": 50,
-      "compras": 0,
+      "compras": 57,
       "vtasIzi": 8,
       "vtasAnc": 0,
       "vtasPY": 0,
@@ -105,7 +105,7 @@
       "salidas": 0,
       "vtasTot": 8,
       "inv": null,
-      "cierre": 42,
+      "cierre": 99,
       "dif": null
     },
     {
@@ -620,6 +620,17 @@
       "dif": null
     },
     {
+      "insumo": "Pechuga de Pollo",
+      "fecha": "2026-09-22",
+      "dia": "mar",
+      "compras": 57,
+      "vtas": 0,
+      "salidas": 0,
+      "invEsperado": 99,
+      "invFin": null,
+      "dif": null
+    },
+    {
       "insumo": "Carne Molida 130g",
       "fecha": "2026-09-14",
       "dia": "lun",
@@ -1057,7 +1068,7 @@
       },
       {
         "weekYear": "202639",
-        "valor": 63
+        "valor": 120
       }
     ]
   },
@@ -1065,7 +1076,7 @@
     "ventasIziDisponibles": true,
     "filasDimProducto": 441,
     "filasInventariosUnitarios": 113,
-    "filasCompras": 1496,
+    "filasCompras": 1501,
     "filasSalidas": 71,
     "filasVentasIzi": 8622,
     "filasVentasPY": 10581,

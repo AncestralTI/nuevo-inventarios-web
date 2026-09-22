@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T15:45:06.639Z",
+  "generatedAt": "2026-09-22T19:14:52.597Z",
   "rangoFechas": {
     "desde": "2026-07-20",
     "hasta": "2026-09-22"
@@ -161,12 +161,12 @@
       "insumo": "Ojo de bife",
       "weekYear": "202639",
       "invMenos7": 42,
-      "compras": 0,
+      "compras": 33,
       "vtas": 0,
       "salidas": 0,
       "vtasTot": 0,
       "inv": null,
-      "cierre": 42,
+      "cierre": 75,
       "dif": null
     },
     {
@@ -221,12 +221,12 @@
       "insumo": "Pechuga de pollo",
       "weekYear": "202639",
       "invMenos7": 20,
-      "compras": 0,
+      "compras": 14,
       "vtas": 0,
       "salidas": 0,
       "vtasTot": 0,
       "inv": null,
-      "cierre": 20,
+      "cierre": 34,
       "dif": null
     },
     {
@@ -1768,6 +1768,30 @@
   ],
   "detalleDiario": [
     {
+      "insumo": "Ojo de bife",
+      "fecha": "2026-09-22",
+      "dia": "mar",
+      "compras": 33,
+      "vtas": 0,
+      "salidas": 0,
+      "invEsperado": 33,
+      "invIni": null,
+      "invFin": null,
+      "dif": null
+    },
+    {
+      "insumo": "Pechuga de pollo",
+      "fecha": "2026-09-22",
+      "dia": "mar",
+      "compras": 14,
+      "vtas": 0,
+      "salidas": 0,
+      "invEsperado": 14,
+      "invIni": null,
+      "invFin": null,
+      "dif": null
+    },
+    {
       "insumo": "Chuleton",
       "fecha": "2026-09-15",
       "dia": "mar",
@@ -2746,13 +2770,13 @@
       },
       {
         "weekYear": "202639",
-        "valor": 0
+        "valor": 47
       }
     ]
   },
   "meta": {
     "ventasIziDisponibles": true,
-    "filasCompras": 2232,
+    "filasCompras": 2236,
     "filasSalidas": 825,
     "filasMatriz": 22,
     "filasInventarios": 397,

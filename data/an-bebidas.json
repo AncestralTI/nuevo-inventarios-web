@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T19:15:18.662Z",
+  "generatedAt": "2026-09-22T22:12:56.582Z",
   "rangoFechas": {
     "desde": "2026-07-20",
     "hasta": "2026-09-22"
@@ -347,14 +347,14 @@
       "producto": "HUARI",
       "weekYear": "202639",
       "invMenos7": 0,
-      "compras": 0,
+      "compras": 48,
       "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 0,
       "inv": null,
-      "cierre": 0,
+      "cierre": 48,
       "dif": null
     },
     {
@@ -416,7 +416,7 @@
     {
       "producto": "POTOSINA PILSNER",
       "weekYear": "202639",
-      "invMenos7": 30,
+      "invMenos7": 32,
       "compras": 0,
       "vtas": 0,
       "vtasExt": 0,
@@ -424,7 +424,7 @@
       "salidas": 0,
       "vtasTot": 0,
       "inv": null,
-      "cierre": 30,
+      "cierre": 32,
       "dif": null
     },
     {
@@ -829,9 +829,9 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 7,
-      "inv": 30,
+      "inv": 32,
       "cierre": 32,
-      "dif": -2
+      "dif": 0
     },
     {
       "producto": "REBELION ALBA WEIZEN",
@@ -4168,6 +4168,19 @@
   ],
   "detalleDiario": [
     {
+      "producto": "HUARI",
+      "fecha": "2026-09-22",
+      "dia": "mar",
+      "compras": 48,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 48,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "COCA COLA SIN AZUCAR",
       "fecha": "2026-09-15",
       "dia": "mar",
@@ -4593,8 +4606,8 @@
       "cortesias": 0,
       "salidas": 0,
       "invEsperado": 32,
-      "invIniFin": 30,
-      "dif": -2
+      "invIniFin": 32,
+      "dif": 0
     },
     {
       "producto": "REBELION ALBA WEIZEN",
@@ -4764,7 +4777,7 @@
       },
       {
         "weekYear": "202639",
-        "valor": 0
+        "valor": 48
       }
     ]
   },
@@ -4772,7 +4785,7 @@
     "ventasIziDisponibles": true,
     "filasApertura": 1377,
     "filasInventariosGs": 3744,
-    "filasCompras": 2236,
+    "filasCompras": 2243,
     "filasMatrizChuleton": 1,
     "filasVentasIzi": 6060,
     "filasMovInv": 407,

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T19:14:52.597Z",
+  "generatedAt": "2026-09-22T22:12:29.005Z",
   "rangoFechas": {
     "desde": "2026-07-20",
     "hasta": "2026-09-22"
@@ -89,24 +89,24 @@
       "insumo": "Chuleton",
       "weekYear": "202639",
       "invMenos7": 8,
-      "compras": 0,
+      "compras": 17,
       "vtas": 0,
       "salidas": 0,
       "vtasTot": 0,
       "inv": null,
-      "cierre": 8,
+      "cierre": 25,
       "dif": null
     },
     {
       "insumo": "Corazon de pollo",
       "weekYear": "202639",
       "invMenos7": 6,
-      "compras": 0,
+      "compras": 10,
       "vtas": 0,
       "salidas": 0,
       "vtasTot": 0,
       "inv": null,
-      "cierre": 6,
+      "cierre": 16,
       "dif": null
     },
     {
@@ -125,12 +125,12 @@
       "insumo": "Keperi",
       "weekYear": "202639",
       "invMenos7": 11,
-      "compras": 0,
+      "compras": 58,
       "vtas": 0,
       "salidas": 0,
       "vtasTot": 0,
       "inv": null,
-      "cierre": 11,
+      "cierre": 69,
       "dif": null
     },
     {
@@ -197,12 +197,12 @@
       "insumo": "Panza",
       "weekYear": "202639",
       "invMenos7": 20,
-      "compras": 0,
+      "compras": 10,
       "vtas": 0,
       "salidas": 0,
       "vtasTot": 0,
       "inv": null,
-      "cierre": 20,
+      "cierre": 30,
       "dif": null
     },
     {
@@ -1768,6 +1768,42 @@
   ],
   "detalleDiario": [
     {
+      "insumo": "Chuleton",
+      "fecha": "2026-09-22",
+      "dia": "mar",
+      "compras": 17,
+      "vtas": 0,
+      "salidas": 0,
+      "invEsperado": 17,
+      "invIni": null,
+      "invFin": null,
+      "dif": null
+    },
+    {
+      "insumo": "Corazon de pollo",
+      "fecha": "2026-09-22",
+      "dia": "mar",
+      "compras": 10,
+      "vtas": 0,
+      "salidas": 0,
+      "invEsperado": 10,
+      "invIni": null,
+      "invFin": null,
+      "dif": null
+    },
+    {
+      "insumo": "Keperi",
+      "fecha": "2026-09-22",
+      "dia": "mar",
+      "compras": 58,
+      "vtas": 0,
+      "salidas": 0,
+      "invEsperado": 58,
+      "invIni": null,
+      "invFin": null,
+      "dif": null
+    },
+    {
       "insumo": "Ojo de bife",
       "fecha": "2026-09-22",
       "dia": "mar",
@@ -1775,6 +1811,18 @@
       "vtas": 0,
       "salidas": 0,
       "invEsperado": 33,
+      "invIni": null,
+      "invFin": null,
+      "dif": null
+    },
+    {
+      "insumo": "Panza",
+      "fecha": "2026-09-22",
+      "dia": "mar",
+      "compras": 10,
+      "vtas": 0,
+      "salidas": 0,
+      "invEsperado": 10,
       "invIni": null,
       "invFin": null,
       "dif": null
@@ -2770,13 +2818,13 @@
       },
       {
         "weekYear": "202639",
-        "valor": 47
+        "valor": 142
       }
     ]
   },
   "meta": {
     "ventasIziDisponibles": true,
-    "filasCompras": 2236,
+    "filasCompras": 2243,
     "filasSalidas": 825,
     "filasMatriz": 22,
     "filasInventarios": 397,

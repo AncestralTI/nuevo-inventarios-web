@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T19:15:35.456Z",
+  "generatedAt": "2026-09-22T22:13:14.799Z",
   "rangoFechas": {
     "desde": "2026-07-20",
     "hasta": "2026-09-22"
@@ -78,7 +78,7 @@
       "insumo": "Carne Molida 130g",
       "weekYear": "202639",
       "invMenos7": 380,
-      "compras": 0,
+      "compras": 225,
       "vtasIzi": 75,
       "vtasAnc": 0,
       "vtasPY": 2,
@@ -88,7 +88,7 @@
       "salidas": 0,
       "vtasTot": 80,
       "inv": null,
-      "cierre": 300,
+      "cierre": 525,
       "dif": null
     },
     {
@@ -620,6 +620,17 @@
       "dif": null
     },
     {
+      "insumo": "Carne Molida 130g",
+      "fecha": "2026-09-22",
+      "dia": "mar",
+      "compras": 225,
+      "vtas": 0,
+      "salidas": 0,
+      "invEsperado": 530,
+      "invFin": null,
+      "dif": null
+    },
+    {
       "insumo": "Pechuga de Pollo",
       "fecha": "2026-09-22",
       "dia": "mar",
@@ -1068,7 +1079,7 @@
       },
       {
         "weekYear": "202639",
-        "valor": 120
+        "valor": 345
       }
     ]
   },

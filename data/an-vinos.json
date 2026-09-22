@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-21T22:48:10.338Z",
+  "generatedAt": "2026-09-22T01:15:14.629Z",
   "rangoFechas": {
     "desde": "2026-07-20",
-    "hasta": "2026-09-21"
+    "hasta": "2026-09-22"
   },
   "categorias": [
     "CERVEZA",
@@ -14488,14 +14488,14 @@
       "weekYear": "202630",
       "invMenos7": 4,
       "compras": 0,
-      "vtas": 2,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 2,
+      "vtasTot": 1,
       "inv": 2,
-      "cierre": 2,
-      "dif": 0
+      "cierre": 3,
+      "dif": -1
     },
     {
       "producto": "ALMA OCULTA - FORTIFICADO BLANCO",
@@ -14530,14 +14530,14 @@
       "weekYear": "202630",
       "invMenos7": 3,
       "compras": 12,
-      "vtas": 1,
+      "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 3,
-      "vtasTot": 4,
+      "vtasTot": 3,
       "inv": 11,
-      "cierre": 11,
-      "dif": 0
+      "cierre": 12,
+      "dif": -1
     },
     {
       "producto": "AMOR FATI - TELLUS",
@@ -15804,14 +15804,14 @@
       "weekYear": "202630",
       "invMenos7": 5,
       "compras": 0,
-      "vtas": 2,
+      "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 2,
+      "vtasTot": 0,
       "inv": 2,
-      "cierre": 3,
-      "dif": -1
+      "cierre": 5,
+      "dif": -3
     },
     {
       "producto": "SYRAH - CEPAS DE FUEGO",
@@ -17177,8 +17177,8 @@
     "filasInventariosGs": 3744,
     "filasCompras": 2232,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 6120,
-    "filasMovInv": 418,
+    "filasVentasIzi": 6060,
+    "filasMovInv": 407,
     "filasDimProducto": 441,
     "warnings": []
   }

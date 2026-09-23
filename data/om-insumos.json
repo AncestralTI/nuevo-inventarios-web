@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T00:37:48.472Z",
+  "generatedAt": "2026-09-23T05:08:46.933Z",
   "rangoFechas": {
     "desde": "2026-07-20",
     "hasta": "2026-09-23"
@@ -80,15 +80,15 @@
       "invMenos7": 380,
       "compras": 225,
       "vtasIzi": 75,
-      "vtasAnc": 0,
+      "vtasAnc": 1,
       "vtasPY": 2,
       "vtasExt": 4,
       "vtasVegg": -1,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 80,
+      "vtasTot": 81,
       "inv": null,
-      "cierre": 525,
+      "cierre": 524,
       "dif": null
     },
     {
@@ -923,7 +923,7 @@
       },
       {
         "weekYear": "202639",
-        "valor": 0
+        "valor": 1
       }
     ],
     "Vtas PY": [
@@ -1053,7 +1053,7 @@
       },
       {
         "weekYear": "202639",
-        "valor": 89
+        "valor": 90
       }
     ],
     "Compras": [
@@ -1085,15 +1085,15 @@
   },
   "meta": {
     "ventasIziDisponibles": true,
-    "filasDimProducto": 441,
+    "filasDimProducto": 442,
     "filasInventariosUnitarios": 113,
     "filasCompras": 1501,
     "filasSalidas": 71,
     "filasVentasIzi": 8520,
     "filasVentasPY": 10581,
     "filasExtras": 15777,
-    "filasMovInv": 377,
-    "filasVentasAncIzi": 5944,
+    "filasMovInv": 383,
+    "filasVentasAncIzi": 6036,
     "warnings": []
   }
 }

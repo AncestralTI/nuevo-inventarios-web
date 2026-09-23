@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T14:36:04.293Z",
+  "generatedAt": "2026-09-23T18:36:47.783Z",
   "rangoFechas": {
     "desde": "2026-07-20",
     "hasta": "2026-09-23"
@@ -291,28 +291,28 @@
       "producto": "COCA COLA",
       "weekYear": "202639",
       "invMenos7": 32,
-      "compras": 0,
+      "compras": 24,
       "vtas": 2,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 2,
       "inv": null,
-      "cierre": 30,
+      "cierre": 54,
       "dif": null
     },
     {
       "producto": "COCA COLA SIN AZUCAR",
       "weekYear": "202639",
       "invMenos7": 38,
-      "compras": 0,
+      "compras": 18,
       "vtas": 2,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 2,
       "inv": null,
-      "cierre": 36,
+      "cierre": 54,
       "dif": null
     },
     {
@@ -4259,6 +4259,32 @@
       "dif": null
     },
     {
+      "producto": "COCA COLA",
+      "fecha": "2026-09-23",
+      "dia": "mié",
+      "compras": 24,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 54,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "COCA COLA SIN AZUCAR",
+      "fecha": "2026-09-23",
+      "dia": "mié",
+      "compras": 18,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 54,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "COCA COLA SIN AZUCAR",
       "fecha": "2026-09-15",
       "dia": "mar",
@@ -4855,7 +4881,7 @@
       },
       {
         "weekYear": "202639",
-        "valor": 48
+        "valor": 90
       }
     ]
   },
@@ -4863,7 +4889,7 @@
     "ventasIziDisponibles": true,
     "filasApertura": 1380,
     "filasInventariosGs": 3744,
-    "filasCompras": 2244,
+    "filasCompras": 2246,
     "filasMatrizChuleton": 1,
     "filasVentasIzi": 6036,
     "filasMovInv": 383,

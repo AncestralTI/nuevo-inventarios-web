@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T14:35:52.071Z",
+  "generatedAt": "2026-09-23T18:36:36.810Z",
   "rangoFechas": {
     "desde": "2026-07-20",
     "hasta": "2026-09-23"
@@ -1606,7 +1606,7 @@
     {
       "producto": "SYRAH - TERRA ANCESTRAL",
       "weekYear": "202639",
-      "invMenos7": null,
+      "invMenos7": 2,
       "compras": 0,
       "vtas": 0,
       "vtasExt": 0,
@@ -1614,7 +1614,7 @@
       "salidas": 0,
       "vtasTot": 0,
       "inv": null,
-      "cierre": 0,
+      "cierre": 2,
       "dif": null
     },
     {
@@ -3188,16 +3188,16 @@
     {
       "producto": "SYRAH - TERRA ANCESTRAL",
       "weekYear": "202638",
-      "invMenos7": null,
+      "invMenos7": 3,
       "compras": 0,
       "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 1,
-      "inv": null,
-      "cierre": 0,
-      "dif": null
+      "inv": 2,
+      "cierre": 2,
+      "dif": 0
     },
     {
       "producto": "TANNAT LADO B - JARDIN OCULTO",
@@ -4770,16 +4770,16 @@
     {
       "producto": "SYRAH - TERRA ANCESTRAL",
       "weekYear": "202637",
-      "invMenos7": null,
+      "invMenos7": 3,
       "compras": 0,
       "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 0,
-      "inv": null,
-      "cierre": 0,
-      "dif": null
+      "inv": 3,
+      "cierre": 3,
+      "dif": 0
     },
     {
       "producto": "TANNAT LADO B - JARDIN OCULTO",
@@ -6359,9 +6359,9 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 0,
-      "inv": null,
+      "inv": 3,
       "cierre": 3,
-      "dif": null
+      "dif": 0
     },
     {
       "producto": "TANNAT LADO B - JARDIN OCULTO",
@@ -16592,7 +16592,7 @@
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "invEsperado": 0,
+      "invEsperado": 2,
       "invIniFin": null,
       "dif": null
     },
@@ -17344,7 +17344,7 @@
     "ventasIziDisponibles": true,
     "filasApertura": 1380,
     "filasInventariosGs": 3744,
-    "filasCompras": 2244,
+    "filasCompras": 2246,
     "filasMatrizChuleton": 1,
     "filasVentasIzi": 6036,
     "filasMovInv": 383,

@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-22T22:12:56.582Z",
+  "generatedAt": "2026-09-23T00:37:34.612Z",
   "rangoFechas": {
     "desde": "2026-07-20",
-    "hasta": "2026-09-22"
+    "hasta": "2026-09-23"
   },
   "categorias": [
     "5. Bebidas alcohólicas",
@@ -3764,14 +3764,14 @@
       "weekYear": "202630",
       "invMenos7": 15,
       "compras": 0,
-      "vtas": 3,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 3,
+      "vtasTot": 1,
       "inv": 12,
-      "cierre": 12,
-      "dif": 0
+      "cierre": 14,
+      "dif": -2
     },
     {
       "producto": "BENDITA IPA",
@@ -3792,14 +3792,14 @@
       "weekYear": "202630",
       "invMenos7": 4,
       "compras": 0,
-      "vtas": 1,
+      "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 1,
+      "vtasTot": 0,
       "inv": 3,
-      "cierre": 3,
-      "dif": 0
+      "cierre": 4,
+      "dif": -1
     },
     {
       "producto": "Cerveza",
@@ -4002,14 +4002,14 @@
       "weekYear": "202630",
       "invMenos7": 81,
       "compras": 0,
-      "vtas": 9,
-      "vtasExt": 1,
+      "vtas": 4,
+      "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 10,
+      "vtasTot": 4,
       "inv": 69,
-      "cierre": 71,
-      "dif": -2
+      "cierre": 77,
+      "dif": -8
     },
     {
       "producto": "MADERA \"LA KALOR\" GOSE",
@@ -4787,8 +4787,8 @@
     "filasInventariosGs": 3744,
     "filasCompras": 2243,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 6060,
-    "filasMovInv": 407,
+    "filasVentasIzi": 5944,
+    "filasMovInv": 377,
     "filasDimProducto": 441,
     "warnings": []
   }

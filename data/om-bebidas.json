@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-22T22:13:32.657Z",
+  "generatedAt": "2026-09-23T00:38:03.956Z",
   "rangoFechas": {
     "desde": "2026-07-20",
-    "hasta": "2026-09-22"
+    "hasta": "2026-09-23"
   },
   "categorias": [
     "5. Bebidas alcohólicas",
@@ -6643,9 +6643,9 @@
       "vtasIzi": 0,
       "vtasExt": 0,
       "vtasPY": 0,
-      "vtasAnc": 3,
+      "vtasAnc": 1,
       "salidas": 0,
-      "vtasTot": 3,
+      "vtasTot": 1,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -6673,9 +6673,9 @@
       "vtasIzi": 0,
       "vtasExt": 0,
       "vtasPY": 0,
-      "vtasAnc": 1,
+      "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 1,
+      "vtasTot": 0,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -6700,15 +6700,15 @@
       "weekYear": "202630",
       "invMenos7": 168,
       "compras": 0,
-      "vtasIzi": 1,
+      "vtasIzi": 0,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 1,
+      "vtasTot": 0,
       "inv": 168,
-      "cierre": 167,
-      "dif": 1
+      "cierre": 168,
+      "dif": 0
     },
     {
       "producto": "Cerveza Amstel 473 ml (grande)",
@@ -6760,15 +6760,15 @@
       "weekYear": "202630",
       "invMenos7": 20,
       "compras": 0,
-      "vtasIzi": 7,
+      "vtasIzi": 6,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 7,
+      "vtasTot": 6,
       "inv": 12,
-      "cierre": 13,
-      "dif": -1
+      "cierre": 14,
+      "dif": -2
     },
     {
       "producto": "Cerveza Uyuni",
@@ -6835,14 +6835,14 @@
       "weekYear": "202630",
       "invMenos7": null,
       "compras": 90,
-      "vtasIzi": 5,
+      "vtasIzi": 3,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 5,
+      "vtasTot": 3,
       "inv": null,
-      "cierre": 85,
+      "cierre": 87,
       "dif": null
     },
     {
@@ -6925,14 +6925,14 @@
       "weekYear": "202630",
       "invMenos7": null,
       "compras": 24,
-      "vtasIzi": 2,
+      "vtasIzi": 0,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 2,
+      "vtasTot": 0,
       "inv": null,
-      "cierre": 22,
+      "cierre": 24,
       "dif": null
     },
     {
@@ -7033,9 +7033,9 @@
       "vtasIzi": 0,
       "vtasExt": 0,
       "vtasPY": 0,
-      "vtasAnc": 9,
+      "vtasAnc": 4,
       "salidas": 0,
-      "vtasTot": 9,
+      "vtasTot": 4,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -7090,15 +7090,15 @@
       "weekYear": "202630",
       "invMenos7": 15,
       "compras": 26,
-      "vtasIzi": 8,
+      "vtasIzi": 7,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 8,
+      "vtasTot": 7,
       "inv": 28,
-      "cierre": 33,
-      "dif": -5
+      "cierre": 34,
+      "dif": -6
     },
     {
       "producto": "Pepsi",
@@ -7210,12 +7210,12 @@
       "weekYear": "202630",
       "invMenos7": null,
       "compras": 0,
-      "vtasIzi": 9,
+      "vtasIzi": 8,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 9,
+      "vtasTot": 8,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -9524,11 +9524,11 @@
     "filasInventariosOmuh": 368,
     "filasCompras": 1501,
     "filasSalidas": 71,
-    "filasVentasIzi": 8622,
+    "filasVentasIzi": 8520,
     "filasVentasPY": 10581,
     "filasExtras": 15777,
-    "filasMovInv": 407,
-    "filasVentasAncIzi": 6060,
+    "filasMovInv": 377,
+    "filasVentasAncIzi": 5944,
     "warnings": []
   }
 }

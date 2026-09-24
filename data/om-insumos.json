@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T13:56:36.953Z",
+  "generatedAt": "2026-09-24T18:06:50.836Z",
   "rangoFechas": {
     "desde": "2026-07-20",
     "hasta": "2026-09-24"
@@ -79,16 +79,16 @@
       "weekYear": "202639",
       "invMenos7": 380,
       "compras": 224,
-      "vtasIzi": 122,
+      "vtasIzi": 132,
       "vtasAnc": 1,
       "vtasPY": 6,
       "vtasExt": 4,
       "vtasVegg": -1,
       "cortesias": 0,
       "salidas": 1,
-      "vtasTot": 133,
+      "vtasTot": 143,
       "inv": null,
-      "cierre": 471,
+      "cierre": 461,
       "dif": null
     },
     {
@@ -113,16 +113,16 @@
       "weekYear": "202639",
       "invMenos7": 0,
       "compras": 63,
-      "vtasIzi": 4,
+      "vtasIzi": 5,
       "vtasAnc": 0,
       "vtasPY": 0,
       "vtasExt": 0,
       "vtasVegg": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 4,
+      "vtasTot": 5,
       "inv": null,
-      "cierre": 59,
+      "cierre": 58,
       "dif": null
     },
     {
@@ -676,6 +676,28 @@
     },
     {
       "insumo": "Carne Molida 130g",
+      "fecha": "2026-09-24",
+      "dia": "jue",
+      "compras": 0,
+      "vtas": 10,
+      "salidas": 0,
+      "invEsperado": 471,
+      "invFin": null,
+      "dif": null
+    },
+    {
+      "insumo": "Pesca Amazonica",
+      "fecha": "2026-09-24",
+      "dia": "jue",
+      "compras": 0,
+      "vtas": 1,
+      "salidas": 0,
+      "invEsperado": 58,
+      "invFin": null,
+      "dif": null
+    },
+    {
+      "insumo": "Carne Molida 130g",
       "fecha": "2026-09-14",
       "dia": "lun",
       "compras": 0,
@@ -930,7 +952,7 @@
       },
       {
         "weekYear": "202639",
-        "valor": 138
+        "valor": 149
       }
     ],
     "Vtas Anc": [
@@ -1086,7 +1108,7 @@
       },
       {
         "weekYear": "202639",
-        "valor": 151
+        "valor": 162
       }
     ],
     "Compras": [
@@ -1122,7 +1144,7 @@
     "filasInventariosUnitarios": 113,
     "filasCompras": 1506,
     "filasSalidas": 73,
-    "filasVentasIzi": 8462,
+    "filasVentasIzi": 8478,
     "filasVentasPY": 10591,
     "filasExtras": 15811,
     "filasMovInv": 369,

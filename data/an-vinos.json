@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T18:06:18.372Z",
+  "generatedAt": "2026-09-24T21:27:49.717Z",
   "rangoFechas": {
     "desde": "2026-07-20",
     "hasta": "2026-09-24"
@@ -1271,14 +1271,14 @@
       "producto": "MALBEC CALADOC - KUHLMANN",
       "weekYear": "202639",
       "invMenos7": 2,
-      "compras": 0,
+      "compras": 6,
       "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 1,
       "inv": null,
-      "cierre": 1,
+      "cierre": 7,
       "dif": null
     },
     {
@@ -16259,6 +16259,19 @@
       "dif": null
     },
     {
+      "producto": "MALBEC CALADOC - KUHLMANN",
+      "fecha": "2026-09-24",
+      "dia": "jue",
+      "compras": 6,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 7,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "AMOR FATI - TELLUS",
       "fecha": "2026-09-15",
       "dia": "mar",
@@ -17414,7 +17427,7 @@
       },
       {
         "weekYear": "202639",
-        "valor": 48
+        "valor": 54
       }
     ]
   },
@@ -17422,7 +17435,7 @@
     "ventasIziDisponibles": true,
     "filasApertura": 1380,
     "filasInventariosGs": 3744,
-    "filasCompras": 2247,
+    "filasCompras": 2249,
     "filasMatrizChuleton": 1,
     "filasVentasIzi": 5973,
     "filasMovInv": 369,

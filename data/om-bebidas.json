@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T18:07:04.713Z",
+  "generatedAt": "2026-09-24T21:28:37.586Z",
   "rangoFechas": {
     "desde": "2026-07-20",
     "hasta": "2026-09-24"
@@ -145,14 +145,14 @@
       "weekYear": "202639",
       "invMenos7": 63,
       "compras": 0,
-      "vtasIzi": 0,
+      "vtasIzi": 1,
       "vtasExt": 5,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 5,
+      "vtasTot": 6,
       "inv": null,
-      "cierre": 58,
+      "cierre": 57,
       "dif": null
     },
     {
@@ -445,14 +445,14 @@
       "weekYear": "202639",
       "invMenos7": null,
       "compras": 18,
-      "vtasIzi": 1,
+      "vtasIzi": 2,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 1,
+      "vtasTot": 2,
       "inv": null,
-      "cierre": 17,
+      "cierre": 16,
       "dif": null
     },
     {
@@ -609,7 +609,7 @@
       "producto": "Mandala Frambuesa",
       "weekYear": "202639",
       "invMenos7": 26,
-      "compras": 0,
+      "compras": 13,
       "vtasIzi": 3,
       "vtasExt": 0,
       "vtasPY": 0,
@@ -617,7 +617,7 @@
       "salidas": 0,
       "vtasTot": 3,
       "inv": null,
-      "cierre": 23,
+      "cierre": 36,
       "dif": null
     },
     {
@@ -730,12 +730,12 @@
       "weekYear": "202639",
       "invMenos7": null,
       "compras": 0,
-      "vtasIzi": 12,
+      "vtasIzi": 13,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 12,
+      "vtasTot": 13,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -7874,7 +7874,7 @@
       "dif": null
     },
     {
-      "producto": "Fanta",
+      "producto": "Agua con gas",
       "fecha": "2026-09-24",
       "dia": "jue",
       "compras": 0,
@@ -7883,7 +7883,35 @@
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "invEsperado": 17,
+      "invEsperado": 57,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "Fanta",
+      "fecha": "2026-09-24",
+      "dia": "jue",
+      "compras": 0,
+      "vtas": 2,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 16,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "Mandala Frambuesa",
+      "fecha": "2026-09-24",
+      "dia": "jue",
+      "compras": 13,
+      "vtas": 0,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 36,
       "invIniFin": null,
       "dif": null
     },
@@ -7892,7 +7920,7 @@
       "fecha": "2026-09-24",
       "dia": "jue",
       "compras": 0,
-      "vtas": 1,
+      "vtas": 2,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
@@ -9788,7 +9816,7 @@
       },
       {
         "weekYear": "202639",
-        "valor": 27.75
+        "valor": 30.75
       }
     ],
     "Vtas Ext.": [
@@ -9866,7 +9894,7 @@
       },
       {
         "weekYear": "202639",
-        "valor": 158.75
+        "valor": 161.75
       }
     ],
     "Compras": [
@@ -9892,7 +9920,7 @@
       },
       {
         "weekYear": "202639",
-        "valor": 234
+        "valor": 247
       }
     ]
   },
@@ -9900,9 +9928,9 @@
     "ventasIziDisponibles": true,
     "filasDimProducto": 442,
     "filasInventariosOmuh": 368,
-    "filasCompras": 1506,
+    "filasCompras": 1508,
     "filasSalidas": 73,
-    "filasVentasIzi": 8478,
+    "filasVentasIzi": 8483,
     "filasVentasPY": 10591,
     "filasExtras": 15811,
     "filasMovInv": 369,

@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-23T23:59:42.547Z",
+  "generatedAt": "2026-09-24T03:53:59.873Z",
   "rangoFechas": {
     "desde": "2026-07-20",
-    "hasta": "2026-09-23"
+    "hasta": "2026-09-24"
   },
   "categorias": [
     "CERVEZA",
@@ -334,13 +334,13 @@
       "weekYear": "202639",
       "invMenos7": 2,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 2,
+      "cierre": 1,
       "dif": null
     },
     {
@@ -376,13 +376,13 @@
       "weekYear": "202639",
       "invMenos7": 4,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 4,
+      "cierre": 3,
       "dif": null
     },
     {
@@ -698,11 +698,11 @@
       "weekYear": "202639",
       "invMenos7": null,
       "compras": 0,
-      "vtas": 1,
+      "vtas": 3,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 1,
+      "vtasTot": 3,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -1006,13 +1006,13 @@
       "weekYear": "202639",
       "invMenos7": 4,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 4,
+      "cierre": 3,
       "dif": null
     },
     {
@@ -1034,13 +1034,13 @@
       "weekYear": "202639",
       "invMenos7": 0,
       "compras": 48,
-      "vtas": 7,
+      "vtas": 8,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 7,
+      "vtasTot": 8,
       "inv": null,
-      "cierre": 41,
+      "cierre": 40,
       "dif": null
     },
     {
@@ -1272,13 +1272,13 @@
       "weekYear": "202639",
       "invMenos7": 2,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 2,
+      "cierre": 1,
       "dif": null
     },
     {
@@ -14432,14 +14432,14 @@
       "weekYear": "202630",
       "invMenos7": 6,
       "compras": 0,
-      "vtas": 2,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 1,
-      "vtasTot": 3,
+      "vtasTot": 2,
       "inv": 3,
-      "cierre": 3,
-      "dif": 0
+      "cierre": 4,
+      "dif": -1
     },
     {
       "producto": "1750 - TANNAT",
@@ -14488,14 +14488,14 @@
       "weekYear": "202630",
       "invMenos7": 4,
       "compras": 0,
-      "vtas": 1,
+      "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 1,
+      "vtasTot": 0,
       "inv": 2,
-      "cierre": 3,
-      "dif": -1
+      "cierre": 4,
+      "dif": -2
     },
     {
       "producto": "ALMA OCULTA - FORTIFICADO BLANCO",
@@ -14572,14 +14572,14 @@
       "weekYear": "202630",
       "invMenos7": 6,
       "compras": 0,
-      "vtas": 1,
+      "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 2,
-      "vtasTot": 3,
+      "vtasTot": 2,
       "inv": 2,
-      "cierre": 3,
-      "dif": -1
+      "cierre": 4,
+      "dif": -2
     },
     {
       "producto": "BARBACANA - SYRAH",
@@ -15678,14 +15678,14 @@
       "weekYear": "202630",
       "invMenos7": 26,
       "compras": 0,
-      "vtas": 3,
+      "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 3,
+      "vtasTot": 0,
       "inv": 23,
-      "cierre": 23,
-      "dif": 0
+      "cierre": 26,
+      "dif": -3
     },
     {
       "producto": "REBELION ALBA WEIZEN",
@@ -16177,6 +16177,84 @@
       "cortesias": 0,
       "salidas": 0,
       "invEsperado": 6,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "ARANJUEZ / TANNAT \"ORIGEN\"",
+      "fecha": "2026-09-23",
+      "dia": "mié",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 1,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "BARBERA - MALA CABEZA",
+      "fecha": "2026-09-23",
+      "dia": "mié",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 3,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "COPA CAB. ZINFANDDEL - ALMA OCULTA",
+      "fecha": "2026-09-23",
+      "dia": "mié",
+      "compras": 0,
+      "vtas": 2,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 0,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "GRAN RESERVA CARMENERE - CASA SOLUM",
+      "fecha": "2026-09-23",
+      "dia": "mié",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 3,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "HUARI",
+      "fecha": "2026-09-23",
+      "dia": "mié",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 40,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "MALBEC CALADOC - KUHLMANN",
+      "fecha": "2026-09-23",
+      "dia": "mié",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 1,
       "invIniFin": null,
       "dif": null
     },
@@ -17206,7 +17284,7 @@
       },
       {
         "weekYear": "202639",
-        "valor": 25
+        "valor": 32
       }
     ],
     "Vtas Ext": [
@@ -17284,7 +17362,7 @@
       },
       {
         "weekYear": "202639",
-        "valor": 28
+        "valor": 35
       }
     ],
     "Salidas": [
@@ -17346,8 +17424,8 @@
     "filasInventariosGs": 3744,
     "filasCompras": 2247,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 6036,
-    "filasMovInv": 383,
+    "filasVentasIzi": 5973,
+    "filasMovInv": 369,
     "filasDimProducto": 442,
     "warnings": []
   }

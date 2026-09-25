@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T14:27:55.743Z",
+  "generatedAt": "2026-09-25T18:48:24.124Z",
   "rangoFechas": {
     "desde": "2026-07-20",
     "hasta": "2026-09-25"
@@ -515,14 +515,14 @@
       "producto": "CABERNET FRANC - CRUCE DEL ZORRO",
       "weekYear": "202639",
       "invMenos7": 2,
-      "compras": 0,
+      "compras": 6,
       "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 1,
       "inv": null,
-      "cierre": 1,
+      "cierre": 7,
       "dif": null
     },
     {
@@ -16064,6 +16064,19 @@
       "dif": null
     },
     {
+      "producto": "CABERNET FRANC - CRUCE DEL ZORRO",
+      "fecha": "2026-09-22",
+      "dia": "mar",
+      "compras": 6,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 8,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "COPA CAB. ZINFANDDEL - ALMA OCULTA",
       "fecha": "2026-09-22",
       "dia": "mar",
@@ -16280,7 +16293,7 @@
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "invEsperado": 1,
+      "invEsperado": 7,
       "invIniFin": null,
       "dif": null
     },
@@ -17557,7 +17570,7 @@
       },
       {
         "weekYear": "202639",
-        "valor": 54
+        "valor": 60
       }
     ]
   },
@@ -17565,7 +17578,7 @@
     "ventasIziDisponibles": true,
     "filasApertura": 1381,
     "filasInventariosGs": 3744,
-    "filasCompras": 2249,
+    "filasCompras": 2261,
     "filasMatrizChuleton": 1,
     "filasVentasIzi": 5945,
     "filasMovInv": 374,

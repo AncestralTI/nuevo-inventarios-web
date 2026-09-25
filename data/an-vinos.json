@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-24T23:57:24.352Z",
+  "generatedAt": "2026-09-25T03:22:07.825Z",
   "rangoFechas": {
     "desde": "2026-07-20",
-    "hasta": "2026-09-24"
+    "hasta": "2026-09-25"
   },
   "categorias": [
     "CERVEZA",
@@ -250,13 +250,13 @@
       "weekYear": "202639",
       "invMenos7": 6,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 6,
+      "cierre": 5,
       "dif": null
     },
     {
@@ -516,13 +516,13 @@
       "weekYear": "202639",
       "invMenos7": 2,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 2,
+      "cierre": 1,
       "dif": null
     },
     {
@@ -544,13 +544,13 @@
       "weekYear": "202639",
       "invMenos7": 4,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 4,
+      "cierre": 3,
       "dif": null
     },
     {
@@ -698,11 +698,11 @@
       "weekYear": "202639",
       "invMenos7": null,
       "compras": 0,
-      "vtas": 3,
+      "vtas": 4,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 3,
+      "vtasTot": 4,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -810,11 +810,11 @@
       "weekYear": "202639",
       "invMenos7": null,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -950,13 +950,13 @@
       "weekYear": "202639",
       "invMenos7": 3,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 3,
+      "cierre": 2,
       "dif": null
     },
     {
@@ -1118,13 +1118,13 @@
       "weekYear": "202639",
       "invMenos7": 9,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 9,
+      "cierre": 8,
       "dif": null
     },
     {
@@ -1244,13 +1244,13 @@
       "weekYear": "202639",
       "invMenos7": 5,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 2,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 2,
       "inv": null,
-      "cierre": 5,
+      "cierre": 3,
       "dif": null
     },
     {
@@ -1608,13 +1608,13 @@
       "weekYear": "202639",
       "invMenos7": 2,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 2,
+      "cierre": 1,
       "dif": null
     },
     {
@@ -1639,10 +1639,10 @@
       "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 0,
+      "salidas": 1,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 5,
+      "cierre": 4,
       "dif": null
     },
     {
@@ -14432,14 +14432,14 @@
       "weekYear": "202630",
       "invMenos7": 6,
       "compras": 0,
-      "vtas": 1,
+      "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 1,
-      "vtasTot": 2,
+      "vtasTot": 1,
       "inv": 3,
-      "cierre": 4,
-      "dif": -1
+      "cierre": 5,
+      "dif": -2
     },
     {
       "producto": "1750 - TANNAT",
@@ -14628,14 +14628,14 @@
       "weekYear": "202630",
       "invMenos7": 15,
       "compras": 0,
-      "vtas": 1,
+      "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 1,
+      "vtasTot": 0,
       "inv": 12,
-      "cierre": 14,
-      "dif": -2
+      "cierre": 15,
+      "dif": -3
     },
     {
       "producto": "BENDITA IPA",
@@ -15272,14 +15272,14 @@
       "weekYear": "202630",
       "invMenos7": 81,
       "compras": 0,
-      "vtas": 4,
+      "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 4,
+      "vtasTot": 0,
       "inv": 69,
-      "cierre": 77,
-      "dif": -8
+      "cierre": 81,
+      "dif": -12
     },
     {
       "producto": "IMPOREÑA - CEPA DE ORO",
@@ -15482,14 +15482,14 @@
       "weekYear": "202630",
       "invMenos7": 4,
       "compras": 0,
-      "vtas": 1,
+      "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 1,
+      "vtasTot": 0,
       "inv": 1,
-      "cierre": 3,
-      "dif": -2
+      "cierre": 4,
+      "dif": -3
     },
     {
       "producto": "MAGNUS SANGIOVESE",
@@ -15692,14 +15692,14 @@
       "weekYear": "202630",
       "invMenos7": 6,
       "compras": 0,
-      "vtas": 1,
+      "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 1,
+      "vtasTot": 0,
       "inv": 5,
-      "cierre": 5,
-      "dif": 0
+      "cierre": 6,
+      "dif": -1
     },
     {
       "producto": "REBELION OBSESSION IPA",
@@ -15734,14 +15734,14 @@
       "weekYear": "202630",
       "invMenos7": 22,
       "compras": 0,
-      "vtas": 1,
+      "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 14,
-      "vtasTot": 15,
+      "vtasTot": 14,
       "inv": 7,
-      "cierre": 7,
-      "dif": 0
+      "cierre": 8,
+      "dif": -1
     },
     {
       "producto": "SAV BLANC - 1750",
@@ -16259,6 +16259,110 @@
       "dif": null
     },
     {
+      "producto": "ALAYA - TELLUS",
+      "fecha": "2026-09-24",
+      "dia": "jue",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 5,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "CABERNET FRANC - CRUCE DEL ZORRO",
+      "fecha": "2026-09-24",
+      "dia": "jue",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 1,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "CAÑON ESCONDIDO - RED BLEND",
+      "fecha": "2026-09-24",
+      "dia": "jue",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 3,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "COPA CAB. ZINFANDDEL - ALMA OCULTA",
+      "fecha": "2026-09-24",
+      "dia": "jue",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 0,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "COPA PEDRO XIMENEZ - LANDSÚA",
+      "fecha": "2026-09-24",
+      "dia": "jue",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 0,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "EL ENEMIGO-CABERNET FRANC",
+      "fecha": "2026-09-24",
+      "dia": "jue",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 2,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "JARDIN OCULTO - VISCHOQUEÑA BLANC DE NOIR",
+      "fecha": "2026-09-24",
+      "dia": "jue",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 8,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "MAGNUS - MERLOT",
+      "fecha": "2026-09-24",
+      "dia": "jue",
+      "compras": 0,
+      "vtas": 2,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 3,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "MALBEC CALADOC - KUHLMANN",
       "fecha": "2026-09-24",
       "dia": "jue",
@@ -16268,6 +16372,32 @@
       "cortesias": 0,
       "salidas": 0,
       "invEsperado": 7,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "SYRAH - TERRA ANCESTRAL",
+      "fecha": "2026-09-24",
+      "dia": "jue",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 1,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "TANNAT RAIZ - KOHLBERG",
+      "fecha": "2026-09-24",
+      "dia": "jue",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 1,
+      "invEsperado": 4,
       "invIniFin": null,
       "dif": null
     },
@@ -17297,7 +17427,7 @@
       },
       {
         "weekYear": "202639",
-        "valor": 32
+        "valor": 42
       }
     ],
     "Vtas Ext": [
@@ -17375,7 +17505,7 @@
       },
       {
         "weekYear": "202639",
-        "valor": 35
+        "valor": 46
       }
     ],
     "Salidas": [
@@ -17401,7 +17531,7 @@
       },
       {
         "weekYear": "202639",
-        "valor": 3
+        "valor": 4
       }
     ],
     "Compras": [
@@ -17433,12 +17563,12 @@
   },
   "meta": {
     "ventasIziDisponibles": true,
-    "filasApertura": 1380,
+    "filasApertura": 1381,
     "filasInventariosGs": 3744,
     "filasCompras": 2249,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 5978,
-    "filasMovInv": 369,
+    "filasVentasIzi": 5945,
+    "filasMovInv": 374,
     "filasDimProducto": 442,
     "warnings": []
   }

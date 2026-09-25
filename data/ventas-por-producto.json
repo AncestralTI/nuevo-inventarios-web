@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T18:49:15.346Z",
+  "generatedAt": "2026-09-25T21:52:41.098Z",
   "fuente": "API iZi Soluciones (facturas + items-inventarios), sucursal Ancestral (79344)",
   "rango": {
     "desde": "2026-08-26",
@@ -15,6 +15,7 @@
     "DULCES",
     "ENTRADAS",
     "EVENTOS",
+    "EXTRAS",
     "FUERTES",
     "GASEOSA",
     "GUARNICIONES",
@@ -11235,6 +11236,134 @@
       "fecha": "2026-09-24",
       "cantidad": 1,
       "monto": 15
+    },
+    {
+      "codProducto": "ANC00087",
+      "producto": "VALE DE CONSUMO",
+      "categoria": "EXTRAS",
+      "fecha": "2026-09-25",
+      "cantidad": 1,
+      "monto": 300
+    },
+    {
+      "codProducto": "ANC00065",
+      "producto": "TATAKI DE LLAMA",
+      "categoria": "ENTRADAS",
+      "fecha": "2026-09-25",
+      "cantidad": 1,
+      "monto": 75
+    },
+    {
+      "codProducto": "ANC00183",
+      "producto": "PANZA FRITA",
+      "categoria": "ENTRADAS",
+      "fecha": "2026-09-25",
+      "cantidad": 1,
+      "monto": 60
+    },
+    {
+      "codProducto": "ANC00098",
+      "producto": "PARRILLA KEPERI",
+      "categoria": "FUERTES",
+      "fecha": "2026-09-25",
+      "cantidad": 2,
+      "monto": 280
+    },
+    {
+      "codProducto": "ANC00095",
+      "producto": "OSSOBUCO A LA BOLIVIANA",
+      "categoria": "FUERTES",
+      "fecha": "2026-09-25",
+      "cantidad": 2,
+      "monto": 320
+    },
+    {
+      "codProducto": "ANC00071",
+      "producto": "COLIFLOR",
+      "categoria": "GUARNICIONES",
+      "fecha": "2026-09-25",
+      "cantidad": 1,
+      "monto": 40
+    },
+    {
+      "codProducto": "ANC00115",
+      "producto": "NARANJA-TUMBO (BOTELLA)",
+      "categoria": "JUGOS",
+      "fecha": "2026-09-25",
+      "cantidad": 1,
+      "monto": 40
+    },
+    {
+      "codProducto": "ANC00099",
+      "producto": "PARRILLA OJO DE BIFE",
+      "categoria": "FUERTES",
+      "fecha": "2026-09-25",
+      "cantidad": 1,
+      "monto": 160
+    },
+    {
+      "codProducto": "ANC00112",
+      "producto": "LIMONADA",
+      "categoria": "JUGOS",
+      "fecha": "2026-09-25",
+      "cantidad": 1,
+      "monto": 15
+    },
+    {
+      "codProducto": "ANC00104",
+      "producto": "COCA COLA",
+      "categoria": "GASEOSA",
+      "fecha": "2026-09-25",
+      "cantidad": 1,
+      "monto": 15
+    },
+    {
+      "codProducto": "ANC00090",
+      "producto": "CHULETON (Kg)",
+      "categoria": "FUERTES",
+      "fecha": "2026-09-25",
+      "cantidad": 0.72,
+      "monto": 288
+    },
+    {
+      "codProducto": "ANC00184",
+      "producto": "ANTICUCHO DE POLLO",
+      "categoria": "ENTRADAS",
+      "fecha": "2026-09-25",
+      "cantidad": 1,
+      "monto": 55
+    },
+    {
+      "codProducto": "ANC00101",
+      "producto": "PECHUGA DE POLLO CROCANTE",
+      "categoria": "FUERTES",
+      "fecha": "2026-09-25",
+      "cantidad": 1,
+      "monto": 130
+    },
+    {
+      "codProducto": "ANC00111",
+      "producto": "JAMAICA MENTA",
+      "categoria": "JUGOS",
+      "fecha": "2026-09-25",
+      "cantidad": 2,
+      "monto": 30
+    },
+    {
+      "codProducto": "ANC00114",
+      "producto": "NARANJA TUMBO",
+      "categoria": "JUGOS",
+      "fecha": "2026-09-25",
+      "cantidad": 2,
+      "monto": 30
+    },
+    {
+      "codProducto": "ANC00046",
+      "producto": "CHOCOLATE",
+      "categoria": "DULCES",
+      "fecha": "2026-09-25",
+      "cantidad": 1,
+      "monto": 50
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T18:48:56.142Z",
+  "generatedAt": "2026-09-25T21:52:23.282Z",
   "rangoFechas": {
     "desde": "2026-07-20",
     "hasta": "2026-09-25"
@@ -78,34 +78,34 @@
       "insumo": "Carne Molida 130g",
       "weekYear": "202639",
       "invMenos7": 380,
-      "compras": 224,
-      "vtasIzi": 187,
+      "compras": 503.5,
+      "vtasIzi": 188,
       "vtasAnc": 1,
       "vtasPY": 11,
       "vtasExt": 5,
       "vtasVegg": -3,
       "cortesias": 0,
       "salidas": 1,
-      "vtasTot": 202,
+      "vtasTot": 203,
       "inv": null,
-      "cierre": 402,
+      "cierre": 680.5,
       "dif": null
     },
     {
       "insumo": "Pechuga de Pollo",
       "weekYear": "202639",
       "invMenos7": 50,
-      "compras": 57,
-      "vtasIzi": 23,
+      "compras": 78,
+      "vtasIzi": 24,
       "vtasAnc": 0,
       "vtasPY": 2,
       "vtasExt": 0,
       "vtasVegg": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 25,
+      "vtasTot": 26,
       "inv": null,
-      "cierre": 82,
+      "cierre": 102,
       "dif": null
     },
     {
@@ -678,10 +678,10 @@
       "insumo": "Carne Molida 130g",
       "fecha": "2026-09-24",
       "dia": "jue",
-      "compras": 0,
+      "compras": 279.5,
       "vtas": 59,
       "salidas": 0,
-      "invEsperado": 422,
+      "invEsperado": 701.5,
       "invFin": null,
       "dif": null
     },
@@ -712,9 +712,20 @@
       "fecha": "2026-09-25",
       "dia": "vie",
       "compras": 0,
-      "vtas": 6,
+      "vtas": 7,
       "salidas": 0,
-      "invEsperado": 416,
+      "invEsperado": 694.5,
+      "invFin": null,
+      "dif": null
+    },
+    {
+      "insumo": "Pechuga de Pollo",
+      "fecha": "2026-09-25",
+      "dia": "vie",
+      "compras": 21,
+      "vtas": 1,
+      "salidas": 0,
+      "invEsperado": 104,
       "invFin": null,
       "dif": null
     },
@@ -974,7 +985,7 @@
       },
       {
         "weekYear": "202639",
-        "valor": 223
+        "valor": 225
       }
     ],
     "Vtas Anc": [
@@ -1130,7 +1141,7 @@
       },
       {
         "weekYear": "202639",
-        "valor": 240
+        "valor": 242
       }
     ],
     "Compras": [
@@ -1156,7 +1167,7 @@
       },
       {
         "weekYear": "202639",
-        "valor": 344
+        "valor": 644.5
       }
     ]
   },
@@ -1166,11 +1177,11 @@
     "filasInventariosUnitarios": 113,
     "filasCompras": 1512,
     "filasSalidas": 73,
-    "filasVentasIzi": 8442,
+    "filasVentasIzi": 8445,
     "filasVentasPY": 10599,
     "filasExtras": 15906,
     "filasMovInv": 374,
-    "filasVentasAncIzi": 5945,
+    "filasVentasAncIzi": 5963,
     "warnings": []
   }
 }

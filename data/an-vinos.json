@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T00:17:27.854Z",
+  "generatedAt": "2026-09-26T05:06:58.418Z",
   "rangoFechas": {
     "desde": "2026-07-20",
     "hasta": "2026-09-26"
@@ -376,13 +376,13 @@
       "weekYear": "202639",
       "invMenos7": 4,
       "compras": 0,
-      "vtas": 1,
+      "vtas": 2,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 1,
+      "vtasTot": 2,
       "inv": null,
-      "cierre": 3,
+      "cierre": 2,
       "dif": null
     },
     {
@@ -404,13 +404,13 @@
       "weekYear": "202639",
       "invMenos7": 16,
       "compras": 0,
-      "vtas": 5,
+      "vtas": 6,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 5,
+      "vtasTot": 6,
       "inv": null,
-      "cierre": 11,
+      "cierre": 10,
       "dif": null
     },
     {
@@ -530,20 +530,6 @@
       "weekYear": "202639",
       "invMenos7": 4,
       "compras": 0,
-      "vtas": 0,
-      "vtasExt": 0,
-      "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 0,
-      "inv": null,
-      "cierre": 4,
-      "dif": null
-    },
-    {
-      "producto": "CAÑON ESCONDIDO - RED BLEND",
-      "weekYear": "202639",
-      "invMenos7": 4,
-      "compras": 0,
       "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
@@ -551,6 +537,20 @@
       "vtasTot": 1,
       "inv": null,
       "cierre": 3,
+      "dif": null
+    },
+    {
+      "producto": "CAÑON ESCONDIDO - RED BLEND",
+      "weekYear": "202639",
+      "invMenos7": 4,
+      "compras": 0,
+      "vtas": 2,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 2,
+      "inv": null,
+      "cierre": 2,
       "dif": null
     },
     {
@@ -768,11 +768,11 @@
       "weekYear": "202639",
       "invMenos7": null,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -1034,13 +1034,13 @@
       "weekYear": "202639",
       "invMenos7": 0,
       "compras": 48,
-      "vtas": 8,
+      "vtas": 12,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 8,
+      "vtasTot": 12,
       "inv": null,
-      "cierre": 40,
+      "cierre": 36,
       "dif": null
     },
     {
@@ -1048,13 +1048,13 @@
       "weekYear": "202639",
       "invMenos7": 6,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 6,
+      "cierre": 5,
       "dif": null
     },
     {
@@ -1289,10 +1289,10 @@
       "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 0,
+      "salidas": 1,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 1,
+      "cierre": 0,
       "dif": null
     },
     {
@@ -1566,13 +1566,13 @@
       "weekYear": "202639",
       "invMenos7": 7,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 0,
+      "salidas": 1,
+      "vtasTot": 2,
       "inv": null,
-      "cierre": 7,
+      "cierre": 5,
       "dif": null
     },
     {
@@ -1583,10 +1583,10 @@
       "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 1,
+      "salidas": 1,
+      "vtasTot": 2,
       "inv": null,
-      "cierre": 6,
+      "cierre": 5,
       "dif": null
     },
     {
@@ -16415,6 +16415,136 @@
       "dif": null
     },
     {
+      "producto": "BARBERA - MALA CABEZA",
+      "fecha": "2026-09-25",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 2,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "BENDITA IPA",
+      "fecha": "2026-09-25",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 10,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "CAMPOS DE SOLANA / \"ESTHER ORTIZ\"",
+      "fecha": "2026-09-25",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 3,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "CAÑON ESCONDIDO - RED BLEND",
+      "fecha": "2026-09-25",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 2,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "COPA MARSELAN - ARSAL",
+      "fecha": "2026-09-25",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 0,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "HUARI",
+      "fecha": "2026-09-25",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 4,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 36,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "IMPOREÑA - CEPA DE ORO",
+      "fecha": "2026-09-25",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 5,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "MARSELAN - ARSAL",
+      "fecha": "2026-09-25",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 1,
+      "invEsperado": 0,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "STELAR - KOHLBERG",
+      "fecha": "2026-09-25",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 1,
+      "invEsperado": 5,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "SYRAH - CEPAS DE FUEGO",
+      "fecha": "2026-09-25",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 1,
+      "invEsperado": 5,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "AMOR FATI - TELLUS",
       "fecha": "2026-09-15",
       "dia": "mar",
@@ -17440,7 +17570,7 @@
       },
       {
         "weekYear": "202639",
-        "valor": 42
+        "valor": 53
       }
     ],
     "Vtas Ext": [
@@ -17518,7 +17648,7 @@
       },
       {
         "weekYear": "202639",
-        "valor": 46
+        "valor": 60
       }
     ],
     "Salidas": [
@@ -17544,7 +17674,7 @@
       },
       {
         "weekYear": "202639",
-        "valor": 4
+        "valor": 7
       }
     ],
     "Compras": [
@@ -17576,12 +17706,12 @@
   },
   "meta": {
     "ventasIziDisponibles": true,
-    "filasApertura": 1381,
+    "filasApertura": 1385,
     "filasInventariosGs": 3744,
     "filasCompras": 2261,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 5963,
-    "filasMovInv": 377,
+    "filasVentasIzi": 6124,
+    "filasMovInv": 391,
     "filasDimProducto": 442,
     "warnings": []
   }

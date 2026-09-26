@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T17:31:27.099Z",
+  "generatedAt": "2026-09-26T20:06:58.380Z",
   "rangoFechas": {
     "desde": "2026-07-20",
     "hasta": "2026-09-26"
@@ -768,11 +768,11 @@
       "weekYear": "202639",
       "invMenos7": null,
       "compras": 0,
-      "vtas": 1,
+      "vtas": 4,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 1,
+      "vtasTot": 4,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -1440,13 +1440,13 @@
       "weekYear": "202639",
       "invMenos7": 32,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 32,
+      "cierre": 31,
       "dif": null
     },
     {
@@ -16545,6 +16545,32 @@
       "dif": null
     },
     {
+      "producto": "COPA MARSELAN - ARSAL",
+      "fecha": "2026-09-26",
+      "dia": "sáb",
+      "compras": 0,
+      "vtas": 3,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 0,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "POTOSINA PILSNER",
+      "fecha": "2026-09-26",
+      "dia": "sáb",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 31,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "AMOR FATI - TELLUS",
       "fecha": "2026-09-15",
       "dia": "mar",
@@ -17570,7 +17596,7 @@
       },
       {
         "weekYear": "202639",
-        "valor": 53
+        "valor": 57
       }
     ],
     "Vtas Ext": [
@@ -17648,7 +17674,7 @@
       },
       {
         "weekYear": "202639",
-        "valor": 60
+        "valor": 64
       }
     ],
     "Salidas": [
@@ -17710,8 +17736,8 @@
     "filasInventariosGs": 3744,
     "filasCompras": 2261,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 6124,
-    "filasMovInv": 392,
+    "filasVentasIzi": 6192,
+    "filasMovInv": 400,
     "filasDimProducto": 442,
     "warnings": []
   }

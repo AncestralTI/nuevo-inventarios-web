@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-25T21:52:05.520Z",
+  "generatedAt": "2026-09-26T00:17:39.479Z",
   "rangoFechas": {
     "desde": "2026-07-20",
-    "hasta": "2026-09-25"
+    "hasta": "2026-09-26"
   },
   "categorias": [
     "5. Bebidas alcohólicas",
@@ -4944,7 +4944,7 @@
     "filasCompras": 2261,
     "filasMatrizChuleton": 1,
     "filasVentasIzi": 5963,
-    "filasMovInv": 374,
+    "filasMovInv": 377,
     "filasDimProducto": 442,
     "warnings": []
   }

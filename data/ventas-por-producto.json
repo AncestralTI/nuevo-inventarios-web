@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T20:07:46.364Z",
+  "generatedAt": "2026-09-26T22:44:29.057Z",
   "fuente": "API iZi Soluciones (facturas + items-inventarios), sucursal Ancestral (79344)",
   "rango": {
     "desde": "2026-08-27",
@@ -11454,6 +11454,94 @@
       "monto": 40
     },
     {
+      "codProducto": "ANC00038",
+      "producto": "APEROL SPRITZ",
+      "categoria": "COCTELES",
+      "fecha": "2026-09-26",
+      "cantidad": 2,
+      "monto": 100
+    },
+    {
+      "codProducto": "ANC00207",
+      "producto": "BERRIES TONIC",
+      "categoria": "COCTELES",
+      "fecha": "2026-09-26",
+      "cantidad": 2,
+      "monto": 100
+    },
+    {
+      "codProducto": "ANC00018",
+      "producto": "CHIRIMOYA ALEGRE",
+      "categoria": "COCTELES",
+      "fecha": "2026-09-26",
+      "cantidad": 1,
+      "monto": 50
+    },
+    {
+      "codProducto": "ANC00001",
+      "producto": "AGUA C/G",
+      "categoria": "AGUAS",
+      "fecha": "2026-09-26",
+      "cantidad": 5,
+      "monto": 75
+    },
+    {
+      "codProducto": "ANC00324",
+      "producto": "TRUCHA CURADA EN PATACÓN",
+      "categoria": "COMIDAS",
+      "fecha": "2026-09-26",
+      "cantidad": 2,
+      "monto": 140
+    },
+    {
+      "codProducto": "ANC00328",
+      "producto": "PAVLOVA DE PIÑA A LA BRASA",
+      "categoria": "COMIDAS",
+      "fecha": "2026-09-26",
+      "cantidad": 4,
+      "monto": 200
+    },
+    {
+      "codProducto": "ANC00063",
+      "producto": "TACO PULLED PORK",
+      "categoria": "ENTRADAS",
+      "fecha": "2026-09-26",
+      "cantidad": 4,
+      "monto": 280
+    },
+    {
+      "codProducto": "ANC00064",
+      "producto": "TARTAR DE RES",
+      "categoria": "ENTRADAS",
+      "fecha": "2026-09-26",
+      "cantidad": 1,
+      "monto": 70
+    },
+    {
+      "codProducto": "ANC00090",
+      "producto": "CHULETON (Kg)",
+      "categoria": "FUERTES",
+      "fecha": "2026-09-26",
+      "cantidad": 2.99,
+      "monto": 1196
+    },
+    {
+      "codProducto": "ANC00218",
+      "producto": "1750- PEDRO GIMENEZ",
+      "categoria": "VINOS",
+      "fecha": "2026-09-26",
+      "cantidad": 1,
+      "monto": 195
+    },
+    {
+      "codProducto": "ANC00049",
+      "producto": "FLAN",
+      "categoria": "DULCES",
+      "fecha": "2026-09-26",
+      "cantidad": 2,
+      "monto": 100
+    },
+    {
       "codProducto": "ANC00040",
       "producto": "UYUNI SOUR",
       "categoria": "COCTELES",
@@ -11468,14 +11556,6 @@
       "fecha": "2026-09-26",
       "cantidad": 2,
       "monto": 24
-    },
-    {
-      "codProducto": "ANC00001",
-      "producto": "AGUA C/G",
-      "categoria": "AGUAS",
-      "fecha": "2026-09-26",
-      "cantidad": 2,
-      "monto": 30
     },
     {
       "codProducto": "ANC00183",
@@ -11524,14 +11604,6 @@
       "fecha": "2026-09-26",
       "cantidad": 1,
       "monto": 15
-    },
-    {
-      "codProducto": "ANC00063",
-      "producto": "TACO PULLED PORK",
-      "categoria": "ENTRADAS",
-      "fecha": "2026-09-26",
-      "cantidad": 3,
-      "monto": 210
     },
     {
       "codProducto": "ANC00167",
@@ -11598,14 +11670,6 @@
       "monto": 50
     },
     {
-      "codProducto": "ANC00328",
-      "producto": "PAVLOVA DE PIÑA A LA BRASA",
-      "categoria": "COMIDAS",
-      "fecha": "2026-09-26",
-      "cantidad": 3,
-      "monto": 150
-    },
-    {
       "codProducto": "ANC00109",
       "producto": "ICED TEA (BOTELLA)",
       "categoria": "JUGOS",
@@ -11628,14 +11692,6 @@
       "fecha": "2026-09-26",
       "cantidad": 3,
       "monto": 480
-    },
-    {
-      "codProducto": "ANC00090",
-      "producto": "CHULETON (Kg)",
-      "categoria": "FUERTES",
-      "fecha": "2026-09-26",
-      "cantidad": 1.69,
-      "monto": 676
     },
     {
       "codProducto": "ANC00069",
@@ -11672,14 +11728,6 @@
     {
       "codProducto": "ANC00057",
       "producto": "TUETANO BRULEE",
-      "categoria": "DULCES",
-      "fecha": "2026-09-26",
-      "cantidad": 1,
-      "monto": 50
-    },
-    {
-      "codProducto": "ANC00049",
-      "producto": "FLAN",
       "categoria": "DULCES",
       "fecha": "2026-09-26",
       "cantidad": 1,
@@ -11726,14 +11774,6 @@
       "monto": 150
     },
     {
-      "codProducto": "ANC00324",
-      "producto": "TRUCHA CURADA EN PATACÓN",
-      "categoria": "COMIDAS",
-      "fecha": "2026-09-26",
-      "cantidad": 1,
-      "monto": 70
-    },
-    {
       "codProducto": "ANC00350",
       "producto": "COPA MARSELAN - ARSAL",
       "categoria": "VINOS",
@@ -11748,14 +11788,6 @@
       "fecha": "2026-09-26",
       "cantidad": 1,
       "monto": 30
-    },
-    {
-      "codProducto": "ANC00038",
-      "producto": "APEROL SPRITZ",
-      "categoria": "COCTELES",
-      "fecha": "2026-09-26",
-      "cantidad": 1,
-      "monto": 50
     },
     {
       "codProducto": "ANC00281",

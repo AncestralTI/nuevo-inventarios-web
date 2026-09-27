@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T19:47:35.284Z",
+  "generatedAt": "2026-09-27T22:36:50.773Z",
   "fuente": "API iZi Soluciones (facturas + items-inventarios), sucursal Ancestral (79344)",
   "rango": {
     "desde": "2026-08-28",
@@ -11542,6 +11542,78 @@
       "monto": 30
     },
     {
+      "codProducto": "ANC00065",
+      "producto": "TATAKI DE LLAMA",
+      "categoria": "ENTRADAS",
+      "fecha": "2026-09-27",
+      "cantidad": 1,
+      "monto": 75
+    },
+    {
+      "codProducto": "ANC00241",
+      "producto": "CEVICHE DE TRUCHA Y HONGOS",
+      "categoria": "ENTRADAS",
+      "fecha": "2026-09-27",
+      "cantidad": 3,
+      "monto": 225
+    },
+    {
+      "codProducto": "ANC00090",
+      "producto": "CHULETON (Kg)",
+      "categoria": "FUERTES",
+      "fecha": "2026-09-27",
+      "cantidad": 2.1,
+      "monto": 840
+    },
+    {
+      "codProducto": "ANC00162",
+      "producto": "COPA ALTOSAMA - BRUT",
+      "categoria": "VINOS POR COPA",
+      "fecha": "2026-09-27",
+      "cantidad": 1,
+      "monto": 40
+    },
+    {
+      "codProducto": "ANC00171",
+      "producto": "COPA STELAR - KOHLBERG",
+      "categoria": "VINOS POR COPA",
+      "fecha": "2026-09-27",
+      "cantidad": 1,
+      "monto": 45
+    },
+    {
+      "codProducto": "ANC00057",
+      "producto": "TUETANO BRULEE",
+      "categoria": "DULCES",
+      "fecha": "2026-09-27",
+      "cantidad": 3,
+      "monto": 150
+    },
+    {
+      "codProducto": "ANC00046",
+      "producto": "CHOCOLATE",
+      "categoria": "DULCES",
+      "fecha": "2026-09-27",
+      "cantidad": 2,
+      "monto": 100
+    },
+    {
+      "codProducto": "ANC00014",
+      "producto": "BAJATIVO",
+      "categoria": "COCTELES",
+      "fecha": "2026-09-27",
+      "cantidad": 2,
+      "monto": 50
+    },
+    {
+      "codProducto": "ANC00134",
+      "producto": "CAÑON ESCONDIDO - RED BLEND",
+      "categoria": "VINOS",
+      "fecha": "2026-09-27",
+      "cantidad": 1,
+      "monto": 300
+    },
+    {
       "codProducto": "ANC00001",
       "producto": "AGUA C/G",
       "categoria": "AGUAS",
@@ -11662,14 +11734,6 @@
       "monto": 750
     },
     {
-      "codProducto": "ANC00241",
-      "producto": "CEVICHE DE TRUCHA Y HONGOS",
-      "categoria": "ENTRADAS",
-      "fecha": "2026-09-27",
-      "cantidad": 2,
-      "monto": 150
-    },
-    {
       "codProducto": "ANC00281",
       "producto": "CUARTO PATO CONFITADO",
       "categoria": "FUERTES",
@@ -11718,28 +11782,12 @@
       "monto": 390
     },
     {
-      "codProducto": "ANC00057",
-      "producto": "TUETANO BRULEE",
-      "categoria": "DULCES",
-      "fecha": "2026-09-27",
-      "cantidad": 2,
-      "monto": 100
-    },
-    {
       "codProducto": "ANC00184",
       "producto": "ANTICUCHO DE POLLO",
       "categoria": "ENTRADAS",
       "fecha": "2026-09-27",
       "cantidad": 1,
       "monto": 55
-    },
-    {
-      "codProducto": "ANC00090",
-      "producto": "CHULETON (Kg)",
-      "categoria": "FUERTES",
-      "fecha": "2026-09-27",
-      "cantidad": 1.37,
-      "monto": 548
     },
     {
       "codProducto": "ANC00095",
@@ -11836,14 +11884,6 @@
       "fecha": "2026-09-27",
       "cantidad": 2,
       "monto": 300
-    },
-    {
-      "codProducto": "ANC00046",
-      "producto": "CHOCOLATE",
-      "categoria": "DULCES",
-      "fecha": "2026-09-27",
-      "cantidad": 1,
-      "monto": 50
     },
     {
       "codProducto": "ANC00092",

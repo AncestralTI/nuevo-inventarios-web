@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T16:10:55.736Z",
+  "generatedAt": "2026-09-27T19:46:46.979Z",
   "rangoFechas": {
     "desde": "2026-07-20",
     "hasta": "2026-09-27"
@@ -376,13 +376,13 @@
       "weekYear": "202639",
       "invMenos7": 4,
       "compras": 0,
-      "vtas": 2,
+      "vtas": 3,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 2,
+      "vtasTot": 3,
       "inv": null,
-      "cierre": 2,
+      "cierre": 1,
       "dif": null
     },
     {
@@ -390,13 +390,13 @@
       "weekYear": "202639",
       "invMenos7": 27,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 27,
+      "cierre": 26,
       "dif": null
     },
     {
@@ -418,13 +418,13 @@
       "weekYear": "202639",
       "invMenos7": 16,
       "compras": 0,
-      "vtas": 4,
+      "vtas": 6,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 4,
+      "vtasTot": 6,
       "inv": null,
-      "cierre": 12,
+      "cierre": 10,
       "dif": null
     },
     {
@@ -502,13 +502,13 @@
       "weekYear": "202639",
       "invMenos7": 2,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 1,
-      "vtasTot": 1,
+      "vtasTot": 2,
       "inv": null,
-      "cierre": 1,
+      "cierre": 0,
       "dif": null
     },
     {
@@ -1034,13 +1034,13 @@
       "weekYear": "202639",
       "invMenos7": 0,
       "compras": 48,
-      "vtas": 13,
+      "vtas": 16,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 13,
+      "vtasTot": 16,
       "inv": null,
-      "cierre": 35,
+      "cierre": 32,
       "dif": null
     },
     {
@@ -1216,13 +1216,13 @@
       "weekYear": "202639",
       "invMenos7": 25,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 25,
+      "cierre": 24,
       "dif": null
     },
     {
@@ -16701,6 +16701,84 @@
       "dif": null
     },
     {
+      "producto": "BARBERA - MALA CABEZA",
+      "fecha": "2026-09-27",
+      "dia": "dom",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 1,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "BENDITA HOPPY",
+      "fecha": "2026-09-27",
+      "dia": "dom",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 26,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "BENDITA PILS",
+      "fecha": "2026-09-27",
+      "dia": "dom",
+      "compras": 0,
+      "vtas": 2,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 10,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "CAB. SAUVIGNON ZINFANDEL - ALMA OCULTA",
+      "fecha": "2026-09-27",
+      "dia": "dom",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 0,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "HUARI",
+      "fecha": "2026-09-27",
+      "dia": "dom",
+      "compras": 0,
+      "vtas": 3,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 32,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "MADERA \"LA KALOR\" GOSE",
+      "fecha": "2026-09-27",
+      "dia": "dom",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 24,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "AMOR FATI - TELLUS",
       "fecha": "2026-09-15",
       "dia": "mar",
@@ -17726,7 +17804,7 @@
       },
       {
         "weekYear": "202639",
-        "valor": 64
+        "valor": 73
       }
     ],
     "Vtas Ext": [
@@ -17804,7 +17882,7 @@
       },
       {
         "weekYear": "202639",
-        "valor": 75
+        "valor": 84
       }
     ],
     "Salidas": [
@@ -17866,8 +17944,8 @@
     "filasInventariosGs": 3744,
     "filasCompras": 2261,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 6187,
-    "filasMovInv": 394,
+    "filasVentasIzi": 6279,
+    "filasMovInv": 406,
     "filasDimProducto": 442,
     "warnings": []
   }

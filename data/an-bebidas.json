@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T00:56:03.139Z",
+  "generatedAt": "2026-09-27T06:03:53.901Z",
   "rangoFechas": {
     "desde": "2026-07-20",
     "hasta": "2026-09-27"
@@ -348,13 +348,13 @@
       "weekYear": "202639",
       "invMenos7": 0,
       "compras": 48,
-      "vtas": 12,
+      "vtas": 13,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 12,
+      "vtasTot": 13,
       "inv": null,
-      "cierre": 36,
+      "cierre": 35,
       "dif": null
     },
     {
@@ -4415,6 +4415,19 @@
       "dif": null
     },
     {
+      "producto": "HUARI",
+      "fecha": "2026-09-26",
+      "dia": "sáb",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 35,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "POTOSINA PILSNER",
       "fecha": "2026-09-26",
       "dia": "sáb",
@@ -4894,7 +4907,7 @@
       },
       {
         "weekYear": "202639",
-        "valor": 52
+        "valor": 53
       }
     ],
     "Vtas Ext": [
@@ -4972,7 +4985,7 @@
       },
       {
         "weekYear": "202639",
-        "valor": 53
+        "valor": 54
       }
     ],
     "Salidas": [
@@ -5030,12 +5043,12 @@
   },
   "meta": {
     "ventasIziDisponibles": true,
-    "filasApertura": 1385,
+    "filasApertura": 1389,
     "filasInventariosGs": 3744,
     "filasCompras": 2261,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 6153,
-    "filasMovInv": 390,
+    "filasVentasIzi": 6187,
+    "filasMovInv": 394,
     "filasDimProducto": 442,
     "warnings": []
   }

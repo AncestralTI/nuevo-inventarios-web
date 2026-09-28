@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T14:35:17.044Z",
+  "generatedAt": "2026-09-28T20:45:46.665Z",
   "rangoFechas": {
     "desde": "2026-07-27",
     "hasta": "2026-09-28"
@@ -518,7 +518,7 @@
     {
       "producto": "Guaraná Antártica",
       "weekYear": "202640",
-      "invMenos7": null,
+      "invMenos7": 0,
       "compras": 0,
       "vtasIzi": 0,
       "vtasExt": 0,
@@ -1238,7 +1238,7 @@
     {
       "producto": "Guaraná Antártica",
       "weekYear": "202639",
-      "invMenos7": null,
+      "invMenos7": 0,
       "compras": 0,
       "vtasIzi": 0,
       "vtasExt": 0,
@@ -1246,7 +1246,7 @@
       "vtasAnc": 0,
       "salidas": 0,
       "vtasTot": 0,
-      "inv": null,
+      "inv": 0,
       "cierre": 0,
       "dif": null
     },
@@ -1958,7 +1958,7 @@
     {
       "producto": "Guaraná Antártica",
       "weekYear": "202638",
-      "invMenos7": null,
+      "invMenos7": 29,
       "compras": 0,
       "vtasIzi": 2,
       "vtasExt": 40,
@@ -1966,7 +1966,7 @@
       "vtasAnc": 0,
       "salidas": 0,
       "vtasTot": 42,
-      "inv": null,
+      "inv": 0,
       "cierre": 0,
       "dif": null
     },
@@ -2686,9 +2686,9 @@
       "vtasAnc": 0,
       "salidas": 1,
       "vtasTot": 6,
-      "inv": null,
+      "inv": 29,
       "cierre": 0,
-      "dif": null
+      "dif": 29
     },
     {
       "producto": "HOPPY BARRIL",
@@ -8989,10 +8989,10 @@
   "meta": {
     "ventasIziDisponibles": true,
     "filasDimProducto": 443,
-    "filasInventariosOmuh": 386,
+    "filasInventariosOmuh": 389,
     "filasCompras": 1512,
     "filasSalidas": 76,
-    "filasVentasIzi": 8737,
+    "filasVentasIzi": 8747,
     "filasVentasPY": 10662,
     "filasExtras": 16152,
     "filasMovInv": 398,

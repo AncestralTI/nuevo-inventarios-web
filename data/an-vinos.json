@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T14:34:32.225Z",
+  "generatedAt": "2026-09-28T20:45:06.026Z",
   "rangoFechas": {
     "desde": "2026-07-27",
     "hasta": "2026-09-28"
@@ -1930,15 +1930,15 @@
       "producto": "ARANJUEZ / TANNAT \"ORIGEN\"",
       "weekYear": "202639",
       "invMenos7": 2,
-      "compras": 0,
+      "compras": 6,
       "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 1,
       "inv": 7,
-      "cierre": 1,
-      "dif": 6
+      "cierre": 7,
+      "dif": 0
     },
     {
       "producto": "BARBACANA - SYRAH",
@@ -2056,15 +2056,15 @@
       "producto": "BONARDA \"PIONERO\" - ARANJUEZ",
       "weekYear": "202639",
       "invMenos7": 7,
-      "compras": 0,
+      "compras": 6,
       "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 0,
       "inv": 13,
-      "cierre": 7,
-      "dif": 6
+      "cierre": 13,
+      "dif": 0
     },
     {
       "producto": "BRUT NATURE - ALTO SAMA",
@@ -3078,15 +3078,15 @@
       "producto": "REBELION OBSESSION IPA",
       "weekYear": "202639",
       "invMenos7": 0,
-      "compras": 0,
+      "compras": 18,
       "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 0,
       "inv": 18,
-      "cierre": 0,
-      "dif": 18
+      "cierre": 18,
+      "dif": 0
     },
     {
       "producto": "SAN MIGUEL MATILDA PALE ALE",
@@ -16686,6 +16686,19 @@
       "dif": null
     },
     {
+      "producto": "REBELION OBSESSION IPA",
+      "fecha": "2026-09-25",
+      "dia": "vie",
+      "compras": 18,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 18,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "SOLUM PET-NAT",
       "fecha": "2026-09-25",
       "dia": "vie",
@@ -16751,6 +16764,19 @@
       "dif": null
     },
     {
+      "producto": "ARANJUEZ / TANNAT \"ORIGEN\"",
+      "fecha": "2026-09-26",
+      "dia": "sáb",
+      "compras": 6,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 7,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "BENDITA IPA",
       "fecha": "2026-09-26",
       "dia": "sáb",
@@ -16760,6 +16786,19 @@
       "cortesias": 0,
       "salidas": 0,
       "invEsperado": 8,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "BONARDA \"PIONERO\" - ARANJUEZ",
+      "fecha": "2026-09-26",
+      "dia": "sáb",
+      "compras": 6,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 13,
       "invIniFin": null,
       "dif": null
     },
@@ -17109,7 +17148,7 @@
       },
       {
         "weekYear": "202639",
-        "valor": 60
+        "valor": 90
       },
       {
         "weekYear": "202640",
@@ -17121,7 +17160,7 @@
     "ventasIziDisponibles": true,
     "filasApertura": 1394,
     "filasInventariosGs": 3825,
-    "filasCompras": 2268,
+    "filasCompras": 2270,
     "filasMatrizChuleton": 1,
     "filasVentasIzi": 6258,
     "filasMovInv": 398,

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T14:34:44.655Z",
+  "generatedAt": "2026-09-28T20:45:15.395Z",
   "rangoFechas": {
     "desde": "2026-07-27",
     "hasta": "2026-09-28"
@@ -851,15 +851,15 @@
       "producto": "REBELION OBSESSION IPA",
       "weekYear": "202639",
       "invMenos7": 0,
-      "compras": 0,
+      "compras": 18,
       "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 0,
       "inv": 18,
-      "cierre": 0,
-      "dif": 18
+      "cierre": 18,
+      "dif": 0
     },
     {
       "producto": "SAN MIGUEL MATILDA PALE ALE",
@@ -4376,6 +4376,19 @@
       "dif": null
     },
     {
+      "producto": "REBELION OBSESSION IPA",
+      "fecha": "2026-09-25",
+      "dia": "vie",
+      "compras": 18,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 18,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "BENDITA IPA",
       "fecha": "2026-09-26",
       "dia": "sáb",
@@ -4669,7 +4682,7 @@
       },
       {
         "weekYear": "202639",
-        "valor": 90
+        "valor": 108
       },
       {
         "weekYear": "202640",
@@ -4681,7 +4694,7 @@
     "ventasIziDisponibles": true,
     "filasApertura": 1394,
     "filasInventariosGs": 3825,
-    "filasCompras": 2268,
+    "filasCompras": 2270,
     "filasMatrizChuleton": 1,
     "filasVentasIzi": 6258,
     "filasMovInv": 398,

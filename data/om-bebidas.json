@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T12:46:04.852Z",
+  "generatedAt": "2026-09-29T18:19:07.476Z",
   "rangoFechas": {
     "desde": "2026-07-27",
     "hasta": "2026-09-29"
@@ -355,12 +355,12 @@
       "weekYear": "202640",
       "invMenos7": null,
       "compras": 0,
-      "vtasIzi": 0,
+      "vtasIzi": 1,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -730,12 +730,12 @@
       "weekYear": "202640",
       "invMenos7": null,
       "compras": 0,
-      "vtasIzi": 3,
+      "vtasIzi": 5,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 3,
+      "vtasTot": 5,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -7454,6 +7454,34 @@
       "dif": 1
     },
     {
+      "producto": "Coca Cola",
+      "fecha": "2026-09-29",
+      "dia": "mar",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 0,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "Refresco Artesanal",
+      "fecha": "2026-09-29",
+      "dia": "mar",
+      "compras": 0,
+      "vtas": 2,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 0,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "Agua",
       "fecha": "2026-09-21",
       "dia": "lun",
@@ -9004,7 +9032,7 @@
       },
       {
         "weekYear": "202640",
-        "valor": 6
+        "valor": 9
       }
     ],
     "Vtas Ext.": [
@@ -9082,7 +9110,7 @@
       },
       {
         "weekYear": "202640",
-        "valor": 20
+        "valor": 23
       }
     ],
     "Compras": [
@@ -9116,9 +9144,9 @@
     "ventasIziDisponibles": true,
     "filasDimProducto": 443,
     "filasInventariosOmuh": 389,
-    "filasCompras": 1512,
+    "filasCompras": 1513,
     "filasSalidas": 76,
-    "filasVentasIzi": 8676,
+    "filasVentasIzi": 8701,
     "filasVentasPY": 10667,
     "filasExtras": 16183,
     "filasMovInv": 385,

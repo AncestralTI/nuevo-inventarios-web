@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T18:18:34.672Z",
+  "generatedAt": "2026-09-29T22:23:12.277Z",
   "rangoFechas": {
     "desde": "2026-07-27",
     "hasta": "2026-09-29"
@@ -472,7 +472,7 @@
     {
       "producto": "SAN MIGUEL SOLSTICIO",
       "weekYear": "202640",
-      "invMenos7": 21,
+      "invMenos7": 20,
       "compras": 0,
       "vtas": 0,
       "vtasExt": 0,
@@ -480,7 +480,7 @@
       "salidas": 0,
       "vtasTot": 0,
       "inv": null,
-      "cierre": 21,
+      "cierre": 20,
       "dif": null
     },
     {
@@ -865,15 +865,15 @@
       "producto": "SAN MIGUEL MATILDA PALE ALE",
       "weekYear": "202639",
       "invMenos7": 3,
-      "compras": 0,
+      "compras": 24,
       "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 1,
       "inv": 26,
-      "cierre": 2,
-      "dif": 24
+      "cierre": 26,
+      "dif": 0
     },
     {
       "producto": "SAN MIGUEL SOLSTICIO",
@@ -885,9 +885,9 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 2,
-      "inv": 21,
+      "inv": 20,
       "cierre": 20,
-      "dif": 1
+      "dif": 0
     },
     {
       "producto": "SPRITE",
@@ -4236,12 +4236,12 @@
       "producto": "SAN MIGUEL MATILDA PALE ALE",
       "fecha": "2026-09-22",
       "dia": "mar",
-      "compras": 0,
+      "compras": 24,
       "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "invEsperado": 2,
+      "invEsperado": 26,
       "invIniFin": null,
       "dif": null
     },
@@ -4682,7 +4682,7 @@
       },
       {
         "weekYear": "202639",
-        "valor": 108
+        "valor": 132
       },
       {
         "weekYear": "202640",
@@ -4694,7 +4694,7 @@
     "ventasIziDisponibles": true,
     "filasApertura": 1394,
     "filasInventariosGs": 3825,
-    "filasCompras": 2274,
+    "filasCompras": 2278,
     "filasMatrizChuleton": 1,
     "filasVentasIzi": 6153,
     "filasMovInv": 385,

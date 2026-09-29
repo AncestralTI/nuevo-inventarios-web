@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-28T20:45:32.431Z",
+  "generatedAt": "2026-09-29T00:36:28.630Z",
   "rangoFechas": {
     "desde": "2026-07-27",
-    "hasta": "2026-09-28"
+    "hasta": "2026-09-29"
   },
   "insumos": [
     "Carne Molida 130g",
@@ -79,16 +79,16 @@
       "weekYear": "202640",
       "invMenos7": 321,
       "compras": 0,
-      "vtasIzi": 6.5,
+      "vtasIzi": 29.5,
       "vtasAnc": 0,
       "vtasPY": 0,
       "vtasExt": 0,
       "vtasVegg": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 6.5,
+      "vtasTot": 29.5,
       "inv": null,
-      "cierre": 314.5,
+      "cierre": 291.5,
       "dif": null
     },
     {
@@ -96,16 +96,16 @@
       "weekYear": "202640",
       "invMenos7": 49,
       "compras": 0,
-      "vtasIzi": 0,
+      "vtasIzi": 2,
       "vtasAnc": 0,
       "vtasPY": 0,
       "vtasExt": 0,
       "vtasVegg": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 2,
       "inv": null,
-      "cierre": 49,
+      "cierre": 47,
       "dif": null
     },
     {
@@ -113,16 +113,16 @@
       "weekYear": "202640",
       "invMenos7": 43,
       "compras": 0,
-      "vtasIzi": 0,
+      "vtasIzi": 3,
       "vtasAnc": 0,
       "vtasPY": 0,
       "vtasExt": 0,
       "vtasVegg": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 3,
       "inv": null,
-      "cierre": 43,
+      "cierre": 40,
       "dif": null
     },
     {
@@ -538,33 +538,33 @@
       "weekYear": "202631",
       "invMenos7": 368.5,
       "compras": 333,
-      "vtasIzi": 413,
+      "vtasIzi": 349.5,
       "vtasAnc": 1,
       "vtasPY": 34,
       "vtasExt": 21,
       "vtasVegg": -3,
       "cortesias": 0,
       "salidas": 6,
-      "vtasTot": 472,
+      "vtasTot": 408.5,
       "inv": 91,
-      "cierre": 229.5,
-      "dif": -138.5
+      "cierre": 293,
+      "dif": -202
     },
     {
       "insumo": "Pechuga de Pollo",
       "weekYear": "202631",
       "invMenos7": 76,
       "compras": 42,
-      "vtasIzi": 94,
+      "vtasIzi": 82,
       "vtasAnc": 0,
       "vtasPY": 10,
       "vtasExt": 0,
       "vtasVegg": -3,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 101,
+      "vtasTot": 89,
       "inv": 0,
-      "cierre": 17,
+      "cierre": 29,
       "dif": null
     },
     {
@@ -572,17 +572,17 @@
       "weekYear": "202631",
       "invMenos7": 64,
       "compras": 0,
-      "vtasIzi": 47,
+      "vtasIzi": 38,
       "vtasAnc": 0,
       "vtasPY": 0,
       "vtasExt": 0,
       "vtasVegg": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 47,
+      "vtasTot": 38,
       "inv": 8,
-      "cierre": 17,
-      "dif": -9
+      "cierre": 26,
+      "dif": -18
     }
   ],
   "detalleDiario": [
@@ -591,9 +591,31 @@
       "fecha": "2026-09-28",
       "dia": "lun",
       "compras": 0,
-      "vtas": 6.5,
+      "vtas": 29.5,
       "salidas": 0,
-      "invEsperado": 314.5,
+      "invEsperado": 291.5,
+      "invFin": null,
+      "dif": null
+    },
+    {
+      "insumo": "Pechuga de Pollo",
+      "fecha": "2026-09-28",
+      "dia": "lun",
+      "compras": 0,
+      "vtas": 2,
+      "salidas": 0,
+      "invEsperado": 47,
+      "invFin": null,
+      "dif": null
+    },
+    {
+      "insumo": "Pesca Amazonica",
+      "fecha": "2026-09-28",
+      "dia": "lun",
+      "compras": 0,
+      "vtas": 3,
+      "salidas": 0,
+      "invEsperado": 40,
       "invFin": null,
       "dif": null
     },
@@ -842,7 +864,7 @@
       },
       {
         "weekYear": "202640",
-        "valor": 6.5
+        "valor": 34.5
       }
     ],
     "Vtas Anc": [
@@ -998,7 +1020,7 @@
       },
       {
         "weekYear": "202640",
-        "valor": 6.5
+        "valor": 34.5
       }
     ],
     "Compras": [
@@ -1034,11 +1056,11 @@
     "filasInventariosUnitarios": 118,
     "filasCompras": 1512,
     "filasSalidas": 76,
-    "filasVentasIzi": 8747,
+    "filasVentasIzi": 8674,
     "filasVentasPY": 10662,
     "filasExtras": 16152,
-    "filasMovInv": 398,
-    "filasVentasAncIzi": 6258,
+    "filasMovInv": 385,
+    "filasVentasAncIzi": 6153,
     "warnings": []
   }
 }

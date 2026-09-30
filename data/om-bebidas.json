@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T13:24:09.298Z",
+  "generatedAt": "2026-09-30T18:31:08.968Z",
   "rangoFechas": {
     "desde": "2026-07-27",
     "hasta": "2026-09-30"
@@ -129,7 +129,7 @@
       "producto": "Agua",
       "weekYear": "202640",
       "invMenos7": 44,
-      "compras": 0,
+      "compras": 24,
       "vtasIzi": 1,
       "vtasExt": 4,
       "vtasPY": 3,
@@ -137,7 +137,7 @@
       "salidas": 0,
       "vtasTot": 8,
       "inv": null,
-      "cierre": 36,
+      "cierre": 60,
       "dif": null
     },
     {
@@ -354,15 +354,15 @@
       "producto": "Coca Cola",
       "weekYear": "202640",
       "invMenos7": null,
-      "compras": 0,
-      "vtasIzi": 1,
+      "compras": 54,
+      "vtasIzi": 2,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 1,
+      "vtasTot": 2,
       "inv": null,
-      "cierre": 0,
+      "cierre": 52,
       "dif": null
     },
     {
@@ -444,7 +444,7 @@
       "producto": "Fanta",
       "weekYear": "202640",
       "invMenos7": null,
-      "compras": 0,
+      "compras": 18,
       "vtasIzi": 0,
       "vtasExt": 0,
       "vtasPY": 0,
@@ -452,7 +452,7 @@
       "salidas": 0,
       "vtasTot": 0,
       "inv": null,
-      "cierre": 0,
+      "cierre": 18,
       "dif": null
     },
     {
@@ -474,7 +474,7 @@
       "producto": "Fanta Guarana",
       "weekYear": "202640",
       "invMenos7": 0,
-      "compras": 0,
+      "compras": 24,
       "vtasIzi": 0,
       "vtasExt": 0,
       "vtasPY": 0,
@@ -482,14 +482,14 @@
       "salidas": 0,
       "vtasTot": 0,
       "inv": null,
-      "cierre": 0,
+      "cierre": 24,
       "dif": null
     },
     {
       "producto": "Fanta Papaya",
       "weekYear": "202640",
       "invMenos7": 6,
-      "compras": 0,
+      "compras": 18,
       "vtasIzi": 1,
       "vtasExt": 0,
       "vtasPY": 0,
@@ -497,7 +497,7 @@
       "salidas": 0,
       "vtasTot": 1,
       "inv": null,
-      "cierre": 5,
+      "cierre": 23,
       "dif": null
     },
     {
@@ -609,7 +609,7 @@
       "producto": "Mandala Frambuesa",
       "weekYear": "202640",
       "invMenos7": 24,
-      "compras": 0,
+      "compras": 13,
       "vtasIzi": 1,
       "vtasExt": 0,
       "vtasPY": 0,
@@ -617,7 +617,7 @@
       "salidas": 0,
       "vtasTot": 1,
       "inv": null,
-      "cierre": 23,
+      "cierre": 36,
       "dif": null
     },
     {
@@ -819,7 +819,7 @@
       "producto": "Sprite Zero",
       "weekYear": "202640",
       "invMenos7": 21,
-      "compras": 0,
+      "compras": 12,
       "vtasIzi": 0,
       "vtasExt": 0,
       "vtasPY": 0,
@@ -827,7 +827,7 @@
       "salidas": 0,
       "vtasTot": 0,
       "inv": null,
-      "cierre": 21,
+      "cierre": 33,
       "dif": null
     },
     {
@@ -7595,6 +7595,104 @@
     },
     {
       "producto": "Agua",
+      "fecha": "2026-09-30",
+      "dia": "mié",
+      "compras": 24,
+      "vtas": 0,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 60,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "Coca Cola",
+      "fecha": "2026-09-30",
+      "dia": "mié",
+      "compras": 54,
+      "vtas": 1,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 52,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "Fanta",
+      "fecha": "2026-09-30",
+      "dia": "mié",
+      "compras": 18,
+      "vtas": 0,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 18,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "Fanta Guarana",
+      "fecha": "2026-09-30",
+      "dia": "mié",
+      "compras": 24,
+      "vtas": 0,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 24,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "Fanta Papaya",
+      "fecha": "2026-09-30",
+      "dia": "mié",
+      "compras": 18,
+      "vtas": 0,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 23,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "Mandala Frambuesa",
+      "fecha": "2026-09-30",
+      "dia": "mié",
+      "compras": 13,
+      "vtas": 0,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 36,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "Sprite Zero",
+      "fecha": "2026-09-30",
+      "dia": "mié",
+      "compras": 12,
+      "vtas": 0,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 33,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "Agua",
       "fecha": "2026-09-21",
       "dia": "lun",
       "compras": 0,
@@ -9144,7 +9242,7 @@
       },
       {
         "weekYear": "202640",
-        "valor": 16
+        "valor": 17
       }
     ],
     "Vtas Ext.": [
@@ -9222,7 +9320,7 @@
       },
       {
         "weekYear": "202640",
-        "valor": 47
+        "valor": 48
       }
     ],
     "Compras": [
@@ -9248,7 +9346,7 @@
       },
       {
         "weekYear": "202640",
-        "valor": 0
+        "valor": 163
       }
     ]
   },
@@ -9256,9 +9354,9 @@
     "ventasIziDisponibles": true,
     "filasDimProducto": 443,
     "filasInventariosOmuh": 389,
-    "filasCompras": 1513,
+    "filasCompras": 1522,
     "filasSalidas": 76,
-    "filasVentasIzi": 8568,
+    "filasVentasIzi": 8580,
     "filasVentasPY": 10676,
     "filasExtras": 16209,
     "filasMovInv": 365,

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T13:23:24.637Z",
+  "generatedAt": "2026-09-30T18:30:22.311Z",
   "rangoFechas": {
     "desde": "2026-07-27",
     "hasta": "2026-09-30"
@@ -404,14 +404,14 @@
       "producto": "BENDITA IPA",
       "weekYear": "202640",
       "invMenos7": 8,
-      "compras": 0,
+      "compras": 12,
       "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 0,
       "inv": null,
-      "cierre": 8,
+      "cierre": 20,
       "dif": null
     },
     {
@@ -964,14 +964,14 @@
       "producto": "EL ENEMIGO-CABERNET FRANC",
       "weekYear": "202640",
       "invMenos7": 2,
-      "compras": 0,
+      "compras": 6,
       "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 0,
       "inv": null,
-      "cierre": 2,
+      "cierre": 8,
       "dif": null
     },
     {
@@ -16335,6 +16335,32 @@
       "dif": null
     },
     {
+      "producto": "BENDITA IPA",
+      "fecha": "2026-09-30",
+      "dia": "mié",
+      "compras": 12,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 20,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "EL ENEMIGO-CABERNET FRANC",
+      "fecha": "2026-09-30",
+      "dia": "mié",
+      "compras": 6,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 8,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "ALTOSAMA - BRUT",
       "fecha": "2026-09-22",
       "dia": "mar",
@@ -17334,7 +17360,7 @@
       },
       {
         "weekYear": "202640",
-        "valor": 9
+        "valor": 27
       }
     ]
   },
@@ -17342,7 +17368,7 @@
     "ventasIziDisponibles": true,
     "filasApertura": 1394,
     "filasInventariosGs": 3825,
-    "filasCompras": 2278,
+    "filasCompras": 2289,
     "filasMatrizChuleton": 1,
     "filasVentasIzi": 6085,
     "filasMovInv": 365,

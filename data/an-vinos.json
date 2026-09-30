@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-29T22:22:57.097Z",
+  "generatedAt": "2026-09-30T01:23:11.194Z",
   "rangoFechas": {
     "desde": "2026-07-27",
-    "hasta": "2026-09-29"
+    "hasta": "2026-09-30"
   },
   "categorias": [
     "CERVEZA",
@@ -517,13 +517,13 @@
       "weekYear": "202640",
       "invMenos7": 7,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 7,
+      "cierre": 6,
       "dif": null
     },
     {
@@ -783,11 +783,11 @@
       "weekYear": "202640",
       "invMenos7": null,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -1301,13 +1301,13 @@
       "weekYear": "202640",
       "invMenos7": 5,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 5,
+      "cierre": 4,
       "dif": null
     },
     {
@@ -14587,14 +14587,14 @@
       "weekYear": "202631",
       "invMenos7": 7,
       "compras": 0,
-      "vtas": 1,
+      "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 1,
+      "vtasTot": 0,
       "inv": 6,
-      "cierre": 6,
-      "dif": 0
+      "cierre": 7,
+      "dif": -1
     },
     {
       "producto": "1750-SUBLIME",
@@ -14615,14 +14615,14 @@
       "weekYear": "202631",
       "invMenos7": 2,
       "compras": 4,
-      "vtas": 1,
+      "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 1,
+      "vtasTot": 0,
       "inv": 4,
-      "cierre": 5,
-      "dif": -1
+      "cierre": 6,
+      "dif": -2
     },
     {
       "producto": "ALMA OCULTA - FORTIFICADO BLANCO",
@@ -14657,14 +14657,14 @@
       "weekYear": "202631",
       "invMenos7": 11,
       "compras": 0,
-      "vtas": 1,
+      "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 3,
-      "vtasTot": 4,
+      "vtasTot": 3,
       "inv": 7,
-      "cierre": 7,
-      "dif": 0
+      "cierre": 8,
+      "dif": -1
     },
     {
       "producto": "AMOR FATI - TELLUS",
@@ -14909,28 +14909,28 @@
       "weekYear": "202631",
       "invMenos7": 6,
       "compras": 0,
-      "vtas": 2,
+      "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 2,
+      "vtasTot": 0,
       "inv": 5,
-      "cierre": 4,
-      "dif": 1
+      "cierre": 6,
+      "dif": -1
     },
     {
       "producto": "CAÑON ESCONDIDO - TANNAT",
       "weekYear": "202631",
       "invMenos7": 8,
       "compras": 0,
-      "vtas": 2,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 1,
-      "vtasTot": 3,
+      "vtasTot": 2,
       "inv": 4,
-      "cierre": 5,
-      "dif": -1
+      "cierre": 6,
+      "dif": -2
     },
     {
       "producto": "CEPA DE ORO - MISIONERA",
@@ -15413,14 +15413,14 @@
       "weekYear": "202631",
       "invMenos7": 69,
       "compras": 0,
-      "vtas": 3,
+      "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 3,
+      "vtasTot": 0,
       "inv": 56,
-      "cierre": 66,
-      "dif": -10
+      "cierre": 69,
+      "dif": -13
     },
     {
       "producto": "IMPOREÑA - CEPA DE ORO",
@@ -15511,14 +15511,14 @@
       "weekYear": "202631",
       "invMenos7": 2,
       "compras": 6,
-      "vtas": 3,
+      "vtas": 2,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 1,
-      "vtasTot": 4,
+      "vtasTot": 3,
       "inv": 3,
-      "cierre": 4,
-      "dif": -1
+      "cierre": 5,
+      "dif": -2
     },
     {
       "producto": "KOHLBERG - ICONO",
@@ -15819,14 +15819,14 @@
       "weekYear": "202631",
       "invMenos7": 23,
       "compras": 0,
-      "vtas": 3,
+      "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 3,
+      "vtasTot": 0,
       "inv": 20,
-      "cierre": 20,
-      "dif": 0
+      "cierre": 23,
+      "dif": -3
     },
     {
       "producto": "REBELION ALBA WEIZEN",
@@ -15875,11 +15875,11 @@
       "weekYear": "202631",
       "invMenos7": 7,
       "compras": 0,
-      "vtas": 1,
+      "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 15,
-      "vtasTot": 16,
+      "vtasTot": 15,
       "inv": 20,
       "cierre": 0,
       "dif": 20
@@ -15945,14 +15945,14 @@
       "weekYear": "202631",
       "invMenos7": 2,
       "compras": 6,
-      "vtas": 2,
+      "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 2,
+      "vtasTot": 0,
       "inv": 4,
-      "cierre": 6,
-      "dif": -2
+      "cierre": 8,
+      "dif": -4
     },
     {
       "producto": "SYRAH - CEPAS DE FUEGO",
@@ -15973,14 +15973,14 @@
       "weekYear": "202631",
       "invMenos7": 8,
       "compras": 0,
-      "vtas": 1,
+      "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 1,
+      "vtasTot": 0,
       "inv": 7,
-      "cierre": 7,
-      "dif": 0
+      "cierre": 8,
+      "dif": -1
     },
     {
       "producto": "SYRAH - TERRA ANCESTRAL",
@@ -16085,14 +16085,14 @@
       "weekYear": "202631",
       "invMenos7": 5,
       "compras": 0,
-      "vtas": 1,
+      "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 1,
+      "vtasTot": 0,
       "inv": 4,
-      "cierre": 4,
-      "dif": 0
+      "cierre": 5,
+      "dif": -1
     },
     {
       "producto": "UYUNI",
@@ -16153,6 +16153,19 @@
   ],
   "detalleDiario": [
     {
+      "producto": "CABERNET FRANC - CRUCE DEL ZORRO",
+      "fecha": "2026-09-29",
+      "dia": "mar",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 6,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "CAÑON ESCONDIDO - RED BLEND",
       "fecha": "2026-09-29",
       "dia": "mar",
@@ -16188,6 +16201,32 @@
       "cortesias": 0,
       "salidas": 0,
       "invEsperado": 8,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "COPA MARSELAN - ARSAL",
+      "fecha": "2026-09-29",
+      "dia": "mar",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 0,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "MARSELAN - ARSAL",
+      "fecha": "2026-09-29",
+      "dia": "mar",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 4,
       "invIniFin": null,
       "dif": null
     },
@@ -17061,7 +17100,7 @@
       },
       {
         "weekYear": "202640",
-        "valor": 0
+        "valor": 3
       }
     ],
     "Vtas Ext": [
@@ -17139,7 +17178,7 @@
       },
       {
         "weekYear": "202640",
-        "valor": 0
+        "valor": 3
       }
     ],
     "Salidas": [
@@ -17201,8 +17240,8 @@
     "filasInventariosGs": 3825,
     "filasCompras": 2278,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 6153,
-    "filasMovInv": 385,
+    "filasVentasIzi": 6000,
+    "filasMovInv": 363,
     "filasDimProducto": 443,
     "warnings": []
   }

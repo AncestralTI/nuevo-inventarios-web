@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T18:30:06.470Z",
+  "generatedAt": "2026-09-30T22:30:21.482Z",
   "rangoFechas": {
     "desde": "2026-07-27",
     "hasta": "2026-09-30"
@@ -127,10 +127,10 @@
       "invMenos7": 34,
       "compras": 0,
       "vtas": 5,
-      "salidas": 0,
-      "vtasTot": 5,
+      "salidas": 1,
+      "vtasTot": 6,
       "inv": null,
-      "cierre": 29,
+      "cierre": 28,
       "dif": null
     },
     {
@@ -139,10 +139,10 @@
       "invMenos7": 24,
       "compras": 0,
       "vtas": 2,
-      "salidas": 0,
-      "vtasTot": 2,
+      "salidas": 0.7,
+      "vtasTot": 2.7,
       "inv": null,
-      "cierre": 22,
+      "cierre": 21.3,
       "dif": null
     },
     {
@@ -163,10 +163,10 @@
       "invMenos7": 37,
       "compras": 38,
       "vtas": 6,
-      "salidas": 0,
-      "vtasTot": 6,
+      "salidas": 1.97,
+      "vtasTot": 7.97,
       "inv": null,
-      "cierre": 69,
+      "cierre": 67.03,
       "dif": null
     },
     {
@@ -175,10 +175,10 @@
       "invMenos7": 8,
       "compras": 18,
       "vtas": 0,
-      "salidas": 0,
-      "vtasTot": 0,
+      "salidas": 1,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 26,
+      "cierre": 25,
       "dif": null
     },
     {
@@ -199,10 +199,10 @@
       "invMenos7": 13,
       "compras": 0,
       "vtas": 2,
-      "salidas": 0,
-      "vtasTot": 2,
+      "salidas": 1,
+      "vtasTot": 3,
       "inv": null,
-      "cierre": 11,
+      "cierre": 10,
       "dif": null
     },
     {
@@ -247,10 +247,10 @@
       "invMenos7": 45,
       "compras": 18,
       "vtas": 4,
-      "salidas": 0,
-      "vtasTot": 4,
+      "salidas": 1,
+      "vtasTot": 5,
       "inv": null,
-      "cierre": 59,
+      "cierre": 58,
       "dif": null
     },
     {
@@ -1809,7 +1809,7 @@
       "dia": "mar",
       "compras": 0,
       "vtas": 5,
-      "salidas": 0,
+      "salidas": 1,
       "invEsperado": 0,
       "invIni": null,
       "invFin": null,
@@ -1821,7 +1821,7 @@
       "dia": "mar",
       "compras": 0,
       "vtas": 2,
-      "salidas": 0,
+      "salidas": 0.7002698245652808,
       "invEsperado": 0,
       "invIni": null,
       "invFin": null,
@@ -1833,7 +1833,19 @@
       "dia": "mar",
       "compras": 0,
       "vtas": 6,
-      "salidas": 0,
+      "salidas": 1.9658196632339173,
+      "invEsperado": 0,
+      "invIni": null,
+      "invFin": null,
+      "dif": null
+    },
+    {
+      "insumo": "Oreja de cerdo",
+      "fecha": "2026-09-29",
+      "dia": "mar",
+      "compras": 0,
+      "vtas": 0,
+      "salidas": 1,
       "invEsperado": 0,
       "invIni": null,
       "invFin": null,
@@ -1857,7 +1869,7 @@
       "dia": "mar",
       "compras": 0,
       "vtas": 2,
-      "salidas": 0,
+      "salidas": 1,
       "invEsperado": 0,
       "invIni": null,
       "invFin": null,
@@ -1893,7 +1905,7 @@
       "dia": "mar",
       "compras": 0,
       "vtas": 4,
-      "salidas": 0,
+      "salidas": 1,
       "invEsperado": 0,
       "invIni": null,
       "invFin": null,
@@ -1906,7 +1918,7 @@
       "compras": 38,
       "vtas": 0,
       "salidas": 0,
-      "invEsperado": 32,
+      "invEsperado": 30.03,
       "invIni": null,
       "invFin": null,
       "dif": null
@@ -1918,7 +1930,7 @@
       "compras": 18,
       "vtas": 0,
       "salidas": 0,
-      "invEsperado": 18,
+      "invEsperado": 17,
       "invIni": null,
       "invFin": null,
       "dif": null
@@ -1930,7 +1942,7 @@
       "compras": 18,
       "vtas": 0,
       "salidas": 0,
-      "invEsperado": 14,
+      "invEsperado": 13,
       "invIni": null,
       "invFin": null,
       "dif": null
@@ -2862,7 +2874,7 @@
       },
       {
         "weekYear": "202640",
-        "valor": 0
+        "valor": 6.67
       }
     ],
     "Vtas Tot": [
@@ -2888,7 +2900,7 @@
       },
       {
         "weekYear": "202640",
-        "valor": 37
+        "valor": 43.67
       }
     ],
     "Compras (Un)": [
@@ -2921,7 +2933,7 @@
   "meta": {
     "ventasIziDisponibles": true,
     "filasCompras": 2289,
-    "filasSalidas": 847,
+    "filasSalidas": 854,
     "filasMatriz": 22,
     "filasInventarios": 410,
     "filasVentasIzi": 6085

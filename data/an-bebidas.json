@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T01:23:20.401Z",
+  "generatedAt": "2026-09-30T06:59:09.962Z",
   "rangoFechas": {
     "desde": "2026-07-27",
     "hasta": "2026-09-30"
@@ -292,13 +292,13 @@
       "weekYear": "202640",
       "invMenos7": 36,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 36,
+      "cierre": 35,
       "dif": null
     },
     {
@@ -306,13 +306,13 @@
       "weekYear": "202640",
       "invMenos7": 41,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 41,
+      "cierre": 40,
       "dif": null
     },
     {
@@ -4168,6 +4168,32 @@
   ],
   "detalleDiario": [
     {
+      "producto": "COCA COLA",
+      "fecha": "2026-09-29",
+      "dia": "mar",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 35,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "COCA COLA SIN AZUCAR",
+      "fecha": "2026-09-29",
+      "dia": "mar",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 40,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "BENDITA IPA",
       "fecha": "2026-09-22",
       "dia": "mar",
@@ -4556,7 +4582,7 @@
       },
       {
         "weekYear": "202640",
-        "valor": 0
+        "valor": 2
       }
     ],
     "Vtas Ext": [
@@ -4634,7 +4660,7 @@
       },
       {
         "weekYear": "202640",
-        "valor": 0
+        "valor": 2
       }
     ],
     "Salidas": [
@@ -4696,8 +4722,8 @@
     "filasInventariosGs": 3825,
     "filasCompras": 2278,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 6000,
-    "filasMovInv": 363,
+    "filasVentasIzi": 6085,
+    "filasMovInv": 365,
     "filasDimProducto": 443,
     "warnings": []
   }

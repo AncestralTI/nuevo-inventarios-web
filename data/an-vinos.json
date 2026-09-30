@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T01:23:11.194Z",
+  "generatedAt": "2026-09-30T06:59:00.861Z",
   "rangoFechas": {
     "desde": "2026-07-27",
     "hasta": "2026-09-30"
@@ -489,13 +489,13 @@
       "weekYear": "202640",
       "invMenos7": 2,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 2,
+      "cierre": 1,
       "dif": null
     },
     {
@@ -881,13 +881,13 @@
       "weekYear": "202640",
       "invMenos7": 3,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 2,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 2,
       "inv": null,
-      "cierre": 3,
+      "cierre": 1,
       "dif": null
     },
     {
@@ -951,11 +951,11 @@
       "weekYear": "202640",
       "invMenos7": null,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -1007,13 +1007,13 @@
       "weekYear": "202640",
       "invMenos7": 2,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 2,
+      "cierre": 1,
       "dif": null
     },
     {
@@ -1021,13 +1021,13 @@
       "weekYear": "202640",
       "invMenos7": 3,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 3,
+      "cierre": 2,
       "dif": null
     },
     {
@@ -1217,13 +1217,13 @@
       "weekYear": "202640",
       "invMenos7": 6,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 6,
+      "cierre": 5,
       "dif": null
     },
     {
@@ -1259,13 +1259,13 @@
       "weekYear": "202640",
       "invMenos7": 3,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 3,
+      "cierre": 2,
       "dif": null
     },
     {
@@ -1301,13 +1301,13 @@
       "weekYear": "202640",
       "invMenos7": 5,
       "compras": 0,
-      "vtas": 1,
+      "vtas": 2,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 1,
+      "vtasTot": 2,
       "inv": null,
-      "cierre": 4,
+      "cierre": 3,
       "dif": null
     },
     {
@@ -1329,13 +1329,13 @@
       "weekYear": "202640",
       "invMenos7": 3,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 3,
+      "cierre": 2,
       "dif": null
     },
     {
@@ -16153,6 +16153,19 @@
   ],
   "detalleDiario": [
     {
+      "producto": "CAB- FRANC ROSE - CASA SOLUM",
+      "fecha": "2026-09-29",
+      "dia": "mar",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 1,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "CABERNET FRANC - CRUCE DEL ZORRO",
       "fecha": "2026-09-29",
       "dia": "mar",
@@ -16218,7 +16231,20 @@
       "dif": null
     },
     {
-      "producto": "MARSELAN - ARSAL",
+      "producto": "CORTE GRAN RESERVA - CASA SOLUM",
+      "fecha": "2026-09-29",
+      "dia": "mar",
+      "compras": 0,
+      "vtas": 2,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 1,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "DESCORCHE",
       "fecha": "2026-09-29",
       "dia": "mar",
       "compras": 0,
@@ -16226,7 +16252,85 @@
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "invEsperado": 4,
+      "invEsperado": 0,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "GRAN PATRONO MARSELAN - KUHLMANN",
+      "fecha": "2026-09-29",
+      "dia": "mar",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 1,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "GRAN RESERVA CARMENERE - CASA SOLUM",
+      "fecha": "2026-09-29",
+      "dia": "mar",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 2,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "LOCURA 5.1.1. - MAGNUS",
+      "fecha": "2026-09-29",
+      "dia": "mar",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 5,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "MAGNUS - MERLOT",
+      "fecha": "2026-09-29",
+      "dia": "mar",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 2,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "MARSELAN - ARSAL",
+      "fecha": "2026-09-29",
+      "dia": "mar",
+      "compras": 0,
+      "vtas": 2,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 3,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "MEMENTO MORI - TELLUS",
+      "fecha": "2026-09-29",
+      "dia": "mar",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 2,
       "invIniFin": null,
       "dif": null
     },
@@ -17100,7 +17204,7 @@
       },
       {
         "weekYear": "202640",
-        "valor": 3
+        "valor": 13
       }
     ],
     "Vtas Ext": [
@@ -17178,7 +17282,7 @@
       },
       {
         "weekYear": "202640",
-        "valor": 3
+        "valor": 13
       }
     ],
     "Salidas": [
@@ -17240,8 +17344,8 @@
     "filasInventariosGs": 3825,
     "filasCompras": 2278,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 6000,
-    "filasMovInv": 363,
+    "filasVentasIzi": 6085,
+    "filasMovInv": 365,
     "filasDimProducto": 443,
     "warnings": []
   }

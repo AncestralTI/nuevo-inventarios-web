@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T07:44:54.780Z",
+  "generatedAt": "2026-10-01T19:54:08.459Z",
   "rangoFechas": {
     "desde": "2026-07-27",
     "hasta": "2026-10-01"
@@ -415,14 +415,14 @@
       "weekYear": "202640",
       "invMenos7": 85,
       "compras": 0,
-      "vtasIzi": 3,
+      "vtasIzi": 5,
       "vtasExt": 7,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 10,
+      "vtasTot": 12,
       "inv": null,
-      "cierre": 75,
+      "cierre": 73,
       "dif": null
     },
     {
@@ -7790,6 +7790,20 @@
       "dif": null
     },
     {
+      "producto": "Coca Zero",
+      "fecha": "2026-10-01",
+      "dia": "jue",
+      "compras": 0,
+      "vtas": 2,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 73,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "Agua",
       "fecha": "2026-09-21",
       "dia": "lun",
@@ -9340,7 +9354,7 @@
       },
       {
         "weekYear": "202640",
-        "valor": 28
+        "valor": 30
       }
     ],
     "Vtas Ext.": [
@@ -9418,7 +9432,7 @@
       },
       {
         "weekYear": "202640",
-        "valor": 93
+        "valor": 95
       }
     ],
     "Compras": [
@@ -9454,10 +9468,10 @@
     "filasInventariosOmuh": 389,
     "filasCompras": 1522,
     "filasSalidas": 76,
-    "filasVentasIzi": 8464,
+    "filasVentasIzi": 8473,
     "filasVentasPY": 10687,
     "filasExtras": 16281,
-    "filasMovInv": 361,
+    "filasMovInv": 362,
     "filasVentasAncIzi": 5981,
     "warnings": []
   }

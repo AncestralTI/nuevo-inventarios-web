@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T07:44:20.914Z",
+  "generatedAt": "2026-10-01T19:53:25.935Z",
   "rangoFechas": {
     "desde": "2026-07-27",
     "hasta": "2026-10-01"
@@ -1021,14 +1021,14 @@
       "producto": "GRAN PATRONO MARSELAN - KUHLMANN",
       "weekYear": "202640",
       "invMenos7": 2,
-      "compras": 0,
+      "compras": 1,
       "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 1,
       "inv": null,
-      "cierre": 1,
+      "cierre": 2,
       "dif": null
     },
     {
@@ -16515,6 +16515,19 @@
       "dif": null
     },
     {
+      "producto": "GRAN PATRONO MARSELAN - KUHLMANN",
+      "fecha": "2026-10-01",
+      "dia": "jue",
+      "compras": 1,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 2,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "ALTOSAMA - BRUT",
       "fecha": "2026-09-22",
       "dia": "mar",
@@ -17527,7 +17540,7 @@
       },
       {
         "weekYear": "202640",
-        "valor": 27
+        "valor": 28
       }
     ]
   },
@@ -17535,10 +17548,10 @@
     "ventasIziDisponibles": true,
     "filasApertura": 1395,
     "filasInventariosGs": 3825,
-    "filasCompras": 2289,
+    "filasCompras": 2291,
     "filasMatrizChuleton": 1,
     "filasVentasIzi": 5981,
-    "filasMovInv": 356,
+    "filasMovInv": 357,
     "filasDimProducto": 444,
     "warnings": []
   }

@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-30T22:30:38.863Z",
+  "generatedAt": "2026-10-01T01:30:56.087Z",
   "rangoFechas": {
     "desde": "2026-07-27",
-    "hasta": "2026-09-30"
+    "hasta": "2026-10-01"
   },
   "categorias": [
     "CERVEZA",
@@ -51,6 +51,7 @@
     "COPA DE CEPA DE ORO - VISCHOQUEÑA",
     "COPA IMPOREÑA - CEPA DE ORO",
     "COPA IMPOREÑA - YOCKICH",
+    "COPA IMPREDECIBLE - TERRA ANCESTRAL",
     "COPA LOCURA 5.1.1. - MAGNUS",
     "COPA MARSELAN - ARSAL",
     "COPA MOSCATEL - JARDIN OCULTO",
@@ -752,6 +753,20 @@
     },
     {
       "producto": "COPA IMPOREÑA - YOCKICH",
+      "weekYear": "202640",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
+      "producto": "COPA IMPREDECIBLE - TERRA ANCESTRAL",
       "weekYear": "202640",
       "invMenos7": null,
       "compras": 0,
@@ -2361,6 +2376,20 @@
       "dif": null
     },
     {
+      "producto": "COPA IMPREDECIBLE - TERRA ANCESTRAL",
+      "weekYear": "202639",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
       "producto": "COPA LOCURA 5.1.1. - MAGNUS",
       "weekYear": "202639",
       "invMenos7": null,
@@ -3944,6 +3973,20 @@
     },
     {
       "producto": "COPA IMPOREÑA - YOCKICH",
+      "weekYear": "202638",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
+      "producto": "COPA IMPREDECIBLE - TERRA ANCESTRAL",
       "weekYear": "202638",
       "invMenos7": null,
       "compras": 0,
@@ -5553,6 +5596,20 @@
       "dif": null
     },
     {
+      "producto": "COPA IMPREDECIBLE - TERRA ANCESTRAL",
+      "weekYear": "202637",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
       "producto": "COPA LOCURA 5.1.1. - MAGNUS",
       "weekYear": "202637",
       "invMenos7": null,
@@ -7136,6 +7193,20 @@
     },
     {
       "producto": "COPA IMPOREÑA - YOCKICH",
+      "weekYear": "202636",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
+      "producto": "COPA IMPREDECIBLE - TERRA ANCESTRAL",
       "weekYear": "202636",
       "invMenos7": null,
       "compras": 0,
@@ -8745,6 +8816,20 @@
       "dif": null
     },
     {
+      "producto": "COPA IMPREDECIBLE - TERRA ANCESTRAL",
+      "weekYear": "202635",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
       "producto": "COPA LOCURA 5.1.1. - MAGNUS",
       "weekYear": "202635",
       "invMenos7": null,
@@ -10341,6 +10426,20 @@
       "dif": null
     },
     {
+      "producto": "COPA IMPREDECIBLE - TERRA ANCESTRAL",
+      "weekYear": "202634",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
       "producto": "COPA LOCURA 5.1.1. - MAGNUS",
       "weekYear": "202634",
       "invMenos7": null,
@@ -11924,6 +12023,20 @@
     },
     {
       "producto": "COPA IMPOREÑA - YOCKICH",
+      "weekYear": "202633",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
+      "producto": "COPA IMPREDECIBLE - TERRA ANCESTRAL",
       "weekYear": "202633",
       "invMenos7": null,
       "compras": 0,
@@ -13533,6 +13646,20 @@
       "dif": null
     },
     {
+      "producto": "COPA IMPREDECIBLE - TERRA ANCESTRAL",
+      "weekYear": "202632",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
       "producto": "COPA LOCURA 5.1.1. - MAGNUS",
       "weekYear": "202632",
       "invMenos7": null,
@@ -15129,6 +15256,20 @@
       "dif": null
     },
     {
+      "producto": "COPA IMPREDECIBLE - TERRA ANCESTRAL",
+      "weekYear": "202631",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
       "producto": "COPA LOCURA 5.1.1. - MAGNUS",
       "weekYear": "202631",
       "invMenos7": null,
@@ -15511,14 +15652,14 @@
       "weekYear": "202631",
       "invMenos7": 2,
       "compras": 6,
-      "vtas": 2,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 1,
-      "vtasTot": 3,
+      "vtasTot": 2,
       "inv": 3,
-      "cierre": 5,
-      "dif": -2
+      "cierre": 6,
+      "dif": -3
     },
     {
       "producto": "KOHLBERG - ICONO",
@@ -15651,14 +15792,14 @@
       "weekYear": "202631",
       "invMenos7": 5,
       "compras": 0,
-      "vtas": 1,
+      "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 1,
+      "vtasTot": 0,
       "inv": 4,
-      "cierre": 4,
-      "dif": 0
+      "cierre": 5,
+      "dif": -1
     },
     {
       "producto": "MARSELAN - ARSAL",
@@ -15833,14 +15974,14 @@
       "weekYear": "202631",
       "invMenos7": 5,
       "compras": 18,
-      "vtas": 1,
+      "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 1,
+      "vtasTot": 0,
       "inv": 22,
-      "cierre": 22,
-      "dif": 0
+      "cierre": 23,
+      "dif": -1
     },
     {
       "producto": "REBELION OBSESSION IPA",
@@ -17383,9 +17524,9 @@
     "filasInventariosGs": 3825,
     "filasCompras": 2289,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 6085,
-    "filasMovInv": 365,
-    "filasDimProducto": 443,
+    "filasVentasIzi": 5951,
+    "filasMovInv": 348,
+    "filasDimProducto": 444,
     "warnings": []
   }
 }

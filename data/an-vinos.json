@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T01:30:56.087Z",
+  "generatedAt": "2026-10-01T07:44:20.914Z",
   "rangoFechas": {
     "desde": "2026-07-27",
     "hasta": "2026-10-01"
@@ -630,13 +630,13 @@
       "weekYear": "202640",
       "invMenos7": 2,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 2,
+      "cierre": 1,
       "dif": null
     },
     {
@@ -16489,6 +16489,19 @@
       "dif": null
     },
     {
+      "producto": "CHARDONNAY, SAV. BLANC - LANDSÚA",
+      "fecha": "2026-09-30",
+      "dia": "mié",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 1,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "EL ENEMIGO-CABERNET FRANC",
       "fecha": "2026-09-30",
       "dia": "mié",
@@ -17384,7 +17397,7 @@
       },
       {
         "weekYear": "202640",
-        "valor": 13
+        "valor": 14
       }
     ],
     "Vtas Ext": [
@@ -17462,7 +17475,7 @@
       },
       {
         "weekYear": "202640",
-        "valor": 13
+        "valor": 14
       }
     ],
     "Salidas": [
@@ -17524,8 +17537,8 @@
     "filasInventariosGs": 3825,
     "filasCompras": 2289,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 5951,
-    "filasMovInv": 348,
+    "filasVentasIzi": 5981,
+    "filasMovInv": 356,
     "filasDimProducto": 444,
     "warnings": []
   }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T19:54:08.459Z",
+  "generatedAt": "2026-10-01T23:37:02.144Z",
   "rangoFechas": {
     "desde": "2026-07-27",
     "hasta": "2026-10-01"
@@ -355,14 +355,14 @@
       "weekYear": "202640",
       "invMenos7": null,
       "compras": 54,
-      "vtasIzi": 4,
+      "vtasIzi": 5,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 4,
+      "vtasTot": 5,
       "inv": null,
-      "cierre": 50,
+      "cierre": 49,
       "dif": null
     },
     {
@@ -445,14 +445,14 @@
       "weekYear": "202640",
       "invMenos7": null,
       "compras": 18,
-      "vtasIzi": 0,
+      "vtasIzi": 1,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 18,
+      "cierre": 17,
       "dif": null
     },
     {
@@ -7790,6 +7790,20 @@
       "dif": null
     },
     {
+      "producto": "Coca Cola",
+      "fecha": "2026-10-01",
+      "dia": "jue",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 49,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "Coca Zero",
       "fecha": "2026-10-01",
       "dia": "jue",
@@ -7800,6 +7814,20 @@
       "vtasAnc": 0,
       "salidas": 0,
       "invEsperado": 73,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "Fanta",
+      "fecha": "2026-10-01",
+      "dia": "jue",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 17,
       "invIniFin": null,
       "dif": null
     },
@@ -9354,7 +9382,7 @@
       },
       {
         "weekYear": "202640",
-        "valor": 30
+        "valor": 32
       }
     ],
     "Vtas Ext.": [
@@ -9432,7 +9460,7 @@
       },
       {
         "weekYear": "202640",
-        "valor": 95
+        "valor": 97
       }
     ],
     "Compras": [
@@ -9468,10 +9496,10 @@
     "filasInventariosOmuh": 389,
     "filasCompras": 1522,
     "filasSalidas": 76,
-    "filasVentasIzi": 8473,
+    "filasVentasIzi": 8499,
     "filasVentasPY": 10687,
     "filasExtras": 16281,
-    "filasMovInv": 362,
+    "filasMovInv": 363,
     "filasVentasAncIzi": 5981,
     "warnings": []
   }

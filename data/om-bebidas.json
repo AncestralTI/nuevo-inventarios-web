@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T20:02:33.376Z",
+  "generatedAt": "2026-10-02T23:44:43.369Z",
   "rangoFechas": {
     "desde": "2026-07-27",
     "hasta": "2026-10-02"
@@ -143,7 +143,7 @@
     {
       "producto": "Agua con gas",
       "weekYear": "202640",
-      "invMenos7": 30,
+      "invMenos7": 31,
       "compras": 0,
       "vtasIzi": 1,
       "vtasExt": 4,
@@ -152,7 +152,7 @@
       "salidas": 0,
       "vtasTot": 5,
       "inv": null,
-      "cierre": 25,
+      "cierre": 26,
       "dif": null
     },
     {
@@ -323,7 +323,7 @@
     {
       "producto": "Chop Cerveza",
       "weekYear": "202640",
-      "invMenos7": 29,
+      "invMenos7": 28,
       "compras": 0,
       "vtasIzi": 0,
       "vtasExt": 0,
@@ -332,13 +332,13 @@
       "salidas": 0,
       "vtasTot": 0,
       "inv": null,
-      "cierre": 29,
+      "cierre": 28,
       "dif": null
     },
     {
       "producto": "Chop Cerveza 2X1",
       "weekYear": "202640",
-      "invMenos7": 29,
+      "invMenos7": 28,
       "compras": 0,
       "vtasIzi": 0,
       "vtasExt": 0,
@@ -347,7 +347,7 @@
       "salidas": 0,
       "vtasTot": 0,
       "inv": null,
-      "cierre": 29,
+      "cierre": 28,
       "dif": null
     },
     {
@@ -355,20 +355,20 @@
       "weekYear": "202640",
       "invMenos7": null,
       "compras": 54,
-      "vtasIzi": 5,
+      "vtasIzi": 8,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 5,
+      "vtasTot": 8,
       "inv": null,
-      "cierre": 49,
+      "cierre": 46,
       "dif": null
     },
     {
       "producto": "COCA COLA",
       "weekYear": "202640",
-      "invMenos7": 161,
+      "invMenos7": 155,
       "compras": 0,
       "vtasIzi": 0,
       "vtasExt": 26,
@@ -377,7 +377,7 @@
       "salidas": 0,
       "vtasTot": 28,
       "inv": null,
-      "cierre": 133,
+      "cierre": 127,
       "dif": null
     },
     {
@@ -730,12 +730,12 @@
       "weekYear": "202640",
       "invMenos7": null,
       "compras": 0,
-      "vtasIzi": 15,
+      "vtasIzi": 16,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 15,
+      "vtasTot": 16,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -871,9 +871,9 @@
       "vtasAnc": 0,
       "salidas": 0,
       "vtasTot": 31,
-      "inv": 30,
+      "inv": 31,
       "cierre": 32,
-      "dif": -2
+      "dif": -1
     },
     {
       "producto": "BENDITA HOPPY",
@@ -1051,9 +1051,9 @@
       "vtasAnc": 0,
       "salidas": 0,
       "vtasTot": 0.75,
-      "inv": 29,
+      "inv": 28,
       "cierre": 28.25,
-      "dif": 0.75
+      "dif": -0.25
     },
     {
       "producto": "Chop Cerveza 2X1",
@@ -1066,9 +1066,9 @@
       "vtasAnc": 0,
       "salidas": 0,
       "vtasTot": 0,
-      "inv": 29,
+      "inv": 28,
       "cierre": 29,
-      "dif": 0
+      "dif": -1
     },
     {
       "producto": "Coca Cola",
@@ -1096,9 +1096,9 @@
       "vtasAnc": 17,
       "salidas": 0,
       "vtasTot": 83,
-      "inv": 161,
+      "inv": 155,
       "cierre": 74,
-      "dif": 87
+      "dif": 81
     },
     {
       "producto": "Coca Cola MINI",
@@ -7351,8 +7351,8 @@
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "invEsperado": 159,
-      "invIniFin": 161,
+      "invEsperado": 153,
+      "invIniFin": 155,
       "dif": 2
     },
     {
@@ -7477,7 +7477,7 @@
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "invEsperado": 29,
+      "invEsperado": 30,
       "invIniFin": null,
       "dif": null
     },
@@ -7505,7 +7505,7 @@
       "vtasPY": 0,
       "vtasAnc": 1,
       "salidas": 0,
-      "invEsperado": 154,
+      "invEsperado": 148,
       "invIniFin": null,
       "dif": null
     },
@@ -7617,7 +7617,7 @@
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "invEsperado": 28,
+      "invEsperado": 29,
       "invIniFin": null,
       "dif": null
     },
@@ -7645,7 +7645,7 @@
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "invEsperado": 141,
+      "invEsperado": 135,
       "invIniFin": null,
       "dif": null
     },
@@ -7813,7 +7813,7 @@
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "invEsperado": 26,
+      "invEsperado": 27,
       "invIniFin": null,
       "dif": null
     },
@@ -7855,7 +7855,7 @@
       "vtasPY": 0,
       "vtasAnc": 1,
       "salidas": 0,
-      "invEsperado": 133,
+      "invEsperado": 127,
       "invIniFin": null,
       "dif": null
     },
@@ -7995,7 +7995,21 @@
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "invEsperado": 25,
+      "invEsperado": 26,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "Coca Cola",
+      "fecha": "2026-10-02",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 3,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 46,
       "invIniFin": null,
       "dif": null
     },
@@ -8010,6 +8024,20 @@
       "vtasAnc": 0,
       "salidas": 0,
       "invEsperado": 16,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "Refresco Artesanal",
+      "fecha": "2026-10-02",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 0,
       "invIniFin": null,
       "dif": null
     },
@@ -9312,8 +9340,8 @@
       "vtasAnc": 0,
       "salidas": 0,
       "invEsperado": 32,
-      "invIniFin": 30,
-      "dif": -2
+      "invIniFin": 31,
+      "dif": -1
     },
     {
       "producto": "BENDITA HOPPY",
@@ -9354,8 +9382,8 @@
       "vtasAnc": 2,
       "salidas": 0,
       "invEsperado": 74,
-      "invIniFin": 161,
-      "dif": 87
+      "invIniFin": 155,
+      "dif": 81
     },
     {
       "producto": "COCA COLA SIN AZUCAR",
@@ -9564,7 +9592,7 @@
       },
       {
         "weekYear": "202640",
-        "valor": 39
+        "valor": 43
       }
     ],
     "Vtas Ext.": [
@@ -9642,7 +9670,7 @@
       },
       {
         "weekYear": "202640",
-        "valor": 134
+        "valor": 138
       }
     ],
     "Compras": [
@@ -9674,15 +9702,15 @@
   },
   "meta": {
     "ventasIziDisponibles": true,
-    "filasDimProducto": 445,
+    "filasDimProducto": 446,
     "filasInventariosOmuh": 389,
-    "filasCompras": 1522,
+    "filasCompras": 1523,
     "filasSalidas": 77,
-    "filasVentasIzi": 8326,
+    "filasVentasIzi": 8384,
     "filasVentasPY": 10714,
     "filasExtras": 16335,
-    "filasMovInv": 364,
-    "filasVentasAncIzi": 5975,
+    "filasMovInv": 368,
+    "filasVentasAncIzi": 5982,
     "warnings": []
   }
 }

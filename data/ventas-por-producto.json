@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T20:02:35.532Z",
+  "generatedAt": "2026-10-02T23:44:45.166Z",
   "fuente": "API iZi Soluciones (facturas + items-inventarios), sucursal Ancestral (79344)",
   "rango": {
     "desde": "2026-09-02",
@@ -10831,6 +10831,62 @@
       "monto": 15
     },
     {
+      "codProducto": "ANC00112",
+      "producto": "LIMONADA",
+      "categoria": "JUGOS",
+      "fecha": "2026-10-02",
+      "cantidad": 1,
+      "monto": 15
+    },
+    {
+      "codProducto": "ANC00001",
+      "producto": "AGUA C/G",
+      "categoria": "AGUAS",
+      "fecha": "2026-10-02",
+      "cantidad": 1,
+      "monto": 15
+    },
+    {
+      "codProducto": "ANC00324",
+      "producto": "TRUCHA CURADA EN PATACÓN",
+      "categoria": "COMIDAS",
+      "fecha": "2026-10-02",
+      "cantidad": 5,
+      "monto": 350
+    },
+    {
+      "codProducto": "ANC00058",
+      "producto": "ALCACHOFAS",
+      "categoria": "ENTRADAS",
+      "fecha": "2026-10-02",
+      "cantidad": 1,
+      "monto": 75
+    },
+    {
+      "codProducto": "ANC00103",
+      "producto": "PARRILLA TRUCHA",
+      "categoria": "FUERTES",
+      "fecha": "2026-10-02",
+      "cantidad": 2,
+      "monto": 300
+    },
+    {
+      "codProducto": "ANC00242",
+      "producto": "PARRILLA PESCADO AMAZÓNICO",
+      "categoria": "FUERTES",
+      "fecha": "2026-10-02",
+      "cantidad": 1,
+      "monto": 150
+    },
+    {
+      "codProducto": "ANC00002",
+      "producto": "AGUA S/G",
+      "categoria": "AGUAS",
+      "fecha": "2026-10-02",
+      "cantidad": 1,
+      "monto": 12
+    },
+    {
       "codProducto": "ANC00115",
       "producto": "NARANJA-TUMBO (BOTELLA)",
       "categoria": "JUGOS",
@@ -10845,14 +10901,6 @@
       "fecha": "2026-10-02",
       "cantidad": 3,
       "monto": 180
-    },
-    {
-      "codProducto": "ANC00324",
-      "producto": "TRUCHA CURADA EN PATACÓN",
-      "categoria": "COMIDAS",
-      "fecha": "2026-10-02",
-      "cantidad": 4,
-      "monto": 280
     },
     {
       "codProducto": "ANC00331",
@@ -10909,14 +10957,6 @@
       "fecha": "2026-10-02",
       "cantidad": 2,
       "monto": 80
-    },
-    {
-      "codProducto": "ANC00103",
-      "producto": "PARRILLA TRUCHA",
-      "categoria": "FUERTES",
-      "fecha": "2026-10-02",
-      "cantidad": 1,
-      "monto": 150
     },
     {
       "codProducto": "ANC00170",

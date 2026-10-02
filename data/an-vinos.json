@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T20:01:45.330Z",
+  "generatedAt": "2026-10-02T23:43:51.001Z",
   "rangoFechas": {
     "desde": "2026-07-27",
     "hasta": "2026-10-02"
@@ -59,6 +59,7 @@
     "COPA PEDRO XIMENEZ - LANDSÚA",
     "COPA SYRAH - KOHLBERG",
     "COPA SYRAH - TERRA ANCESTRAL",
+    "COPA TANNAT - CAÑON ESCONDIDO",
     "COPA VISCHOQUEÑA - YOKICH",
     "CORTE GRAN RESERVA - CASA SOLUM",
     "COTES DU RHONE- CAIRANE",
@@ -865,6 +866,20 @@
     },
     {
       "producto": "COPA SYRAH - TERRA ANCESTRAL",
+      "weekYear": "202640",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
+      "producto": "COPA TANNAT - CAÑON ESCONDIDO",
       "weekYear": "202640",
       "invMenos7": null,
       "compras": 0,
@@ -2488,6 +2503,20 @@
       "dif": null
     },
     {
+      "producto": "COPA TANNAT - CAÑON ESCONDIDO",
+      "weekYear": "202639",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
       "producto": "COPA VISCHOQUEÑA - YOKICH",
       "weekYear": "202639",
       "invMenos7": null,
@@ -4098,6 +4127,20 @@
       "dif": null
     },
     {
+      "producto": "COPA TANNAT - CAÑON ESCONDIDO",
+      "weekYear": "202638",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
       "producto": "COPA VISCHOQUEÑA - YOKICH",
       "weekYear": "202638",
       "invMenos7": null,
@@ -5695,6 +5738,20 @@
     },
     {
       "producto": "COPA SYRAH - TERRA ANCESTRAL",
+      "weekYear": "202637",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
+      "producto": "COPA TANNAT - CAÑON ESCONDIDO",
       "weekYear": "202637",
       "invMenos7": null,
       "compras": 0,
@@ -7318,6 +7375,20 @@
       "dif": null
     },
     {
+      "producto": "COPA TANNAT - CAÑON ESCONDIDO",
+      "weekYear": "202636",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
       "producto": "COPA VISCHOQUEÑA - YOKICH",
       "weekYear": "202636",
       "invMenos7": null,
@@ -8915,6 +8986,20 @@
     },
     {
       "producto": "COPA SYRAH - TERRA ANCESTRAL",
+      "weekYear": "202635",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
+      "producto": "COPA TANNAT - CAÑON ESCONDIDO",
       "weekYear": "202635",
       "invMenos7": null,
       "compras": 0,
@@ -10538,6 +10623,20 @@
       "dif": null
     },
     {
+      "producto": "COPA TANNAT - CAÑON ESCONDIDO",
+      "weekYear": "202634",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
       "producto": "COPA VISCHOQUEÑA - YOKICH",
       "weekYear": "202634",
       "invMenos7": null,
@@ -12135,6 +12234,20 @@
     },
     {
       "producto": "COPA SYRAH - TERRA ANCESTRAL",
+      "weekYear": "202633",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
+      "producto": "COPA TANNAT - CAÑON ESCONDIDO",
       "weekYear": "202633",
       "invMenos7": null,
       "compras": 0,
@@ -13758,6 +13871,20 @@
       "dif": null
     },
     {
+      "producto": "COPA TANNAT - CAÑON ESCONDIDO",
+      "weekYear": "202632",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
       "producto": "COPA VISCHOQUEÑA - YOKICH",
       "weekYear": "202632",
       "invMenos7": null,
@@ -15355,6 +15482,20 @@
     },
     {
       "producto": "COPA SYRAH - TERRA ANCESTRAL",
+      "weekYear": "202631",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
+      "producto": "COPA TANNAT - CAÑON ESCONDIDO",
       "weekYear": "202631",
       "invMenos7": null,
       "compras": 0,
@@ -17613,11 +17754,11 @@
     "ventasIziDisponibles": true,
     "filasApertura": 1395,
     "filasInventariosGs": 3825,
-    "filasCompras": 2294,
+    "filasCompras": 2299,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 5975,
-    "filasMovInv": 363,
-    "filasDimProducto": 445,
+    "filasVentasIzi": 5982,
+    "filasMovInv": 367,
+    "filasDimProducto": 446,
     "warnings": []
   }
 }

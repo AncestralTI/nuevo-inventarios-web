@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T02:33:55.499Z",
+  "generatedAt": "2026-10-02T08:58:28.670Z",
   "fuente": "API iZi Soluciones (facturas + items-inventarios), sucursal Ancestral (79344)",
   "rango": {
     "desde": "2026-09-02",
@@ -10479,28 +10479,260 @@
       "monto": 150
     },
     {
-      "codProducto": "ANC00073",
-      "producto": "EXPERIENCIA ANCESTRAL",
-      "categoria": "MENU DEGUSTACION",
+      "codProducto": "ANC00020",
+      "producto": "CHUFLAY",
+      "categoria": "COCTELES",
       "fecha": "2026-10-01",
-      "cantidad": 9,
-      "monto": 4410
+      "cantidad": 5,
+      "monto": 200
     },
     {
-      "codProducto": "ANC00110",
-      "producto": "JAMAICA (BOTELLA)",
-      "categoria": "JUGOS",
+      "codProducto": "ANC00325",
+      "producto": "TABLA ANCESTRAL",
+      "categoria": "ENTRADAS",
       "fecha": "2026-10-01",
-      "cantidad": 2,
-      "monto": 80
+      "cantidad": 1,
+      "monto": 120
+    },
+    {
+      "codProducto": "ANC00099",
+      "producto": "PARRILLA OJO DE BIFE",
+      "categoria": "FUERTES",
+      "fecha": "2026-10-01",
+      "cantidad": 7,
+      "monto": 1120
+    },
+    {
+      "codProducto": "ANC00142",
+      "producto": "JARDIN OCULTO - NEGRA CRIOLLA",
+      "categoria": "VINOS",
+      "fecha": "2026-10-01",
+      "cantidad": 1,
+      "monto": 325
+    },
+    {
+      "codProducto": "ANC00049",
+      "producto": "FLAN",
+      "categoria": "DULCES",
+      "fecha": "2026-10-01",
+      "cantidad": 3,
+      "monto": 150
+    },
+    {
+      "codProducto": "ANC00328",
+      "producto": "PAVLOVA DE PIÑA A LA BRASA",
+      "categoria": "COMIDAS",
+      "fecha": "2026-10-01",
+      "cantidad": 1,
+      "monto": 50
+    },
+    {
+      "codProducto": "ANC00001",
+      "producto": "AGUA C/G",
+      "categoria": "AGUAS",
+      "fecha": "2026-10-01",
+      "cantidad": 11,
+      "monto": 165
     },
     {
       "codProducto": "ANC00002",
       "producto": "AGUA S/G",
       "categoria": "AGUAS",
       "fecha": "2026-10-01",
+      "cantidad": 3,
+      "monto": 36
+    },
+    {
+      "codProducto": "ANC00063",
+      "producto": "TACO PULLED PORK",
+      "categoria": "ENTRADAS",
+      "fecha": "2026-10-01",
       "cantidad": 1,
-      "monto": 12
+      "monto": 70
+    },
+    {
+      "codProducto": "ANC00242",
+      "producto": "PARRILLA PESCADO AMAZÓNICO",
+      "categoria": "FUERTES",
+      "fecha": "2026-10-01",
+      "cantidad": 2,
+      "monto": 300
+    },
+    {
+      "codProducto": "ANC00131",
+      "producto": "ARANJUEZ / TANNAT \"ORIGEN\"",
+      "categoria": "VINOS",
+      "fecha": "2026-10-01",
+      "cantidad": 1,
+      "monto": 250
+    },
+    {
+      "codProducto": "ANC00135",
+      "producto": "CAÑON ESCONDIDO - TANNAT",
+      "categoria": "VINOS",
+      "fecha": "2026-10-01",
+      "cantidad": 1,
+      "monto": 300
+    },
+    {
+      "codProducto": "ANC00048",
+      "producto": "ESPRESSO DOBLE",
+      "categoria": "BEBIDAS CALIENTES",
+      "fecha": "2026-10-01",
+      "cantidad": 2,
+      "monto": 40
+    },
+    {
+      "codProducto": "ANC00073",
+      "producto": "EXPERIENCIA ANCESTRAL",
+      "categoria": "MENU DEGUSTACION",
+      "fecha": "2026-10-01",
+      "cantidad": 11,
+      "monto": 5390
+    },
+    {
+      "codProducto": "ANC00075",
+      "producto": "MARIDAJE ANCESTRAL",
+      "categoria": "MENU DEGUSTACION",
+      "fecha": "2026-10-01",
+      "cantidad": 1,
+      "monto": 350
+    },
+    {
+      "codProducto": "ANC00105",
+      "producto": "COCA COLA SIN AZUCAR",
+      "categoria": "GASEOSA",
+      "fecha": "2026-10-01",
+      "cantidad": 1,
+      "monto": 15
+    },
+    {
+      "codProducto": "ANC00104",
+      "producto": "COCA COLA",
+      "categoria": "GASEOSA",
+      "fecha": "2026-10-01",
+      "cantidad": 1,
+      "monto": 15
+    },
+    {
+      "codProducto": "ANC00052",
+      "producto": "INFUSION MENTA - CHOCO",
+      "categoria": "BEBIDAS CALIENTES",
+      "fecha": "2026-10-01",
+      "cantidad": 2,
+      "monto": 30
+    },
+    {
+      "codProducto": "ANC00047",
+      "producto": "ESPRESSO",
+      "categoria": "BEBIDAS CALIENTES",
+      "fecha": "2026-10-01",
+      "cantidad": 1,
+      "monto": 15
+    },
+    {
+      "codProducto": "ANC00090",
+      "producto": "CHULETON (Kg)",
+      "categoria": "FUERTES",
+      "fecha": "2026-10-01",
+      "cantidad": 0.8,
+      "monto": 320
+    },
+    {
+      "codProducto": "ANC00093",
+      "producto": "KEPERI AHUMADO",
+      "categoria": "FUERTES",
+      "fecha": "2026-10-01",
+      "cantidad": 1,
+      "monto": 140
+    },
+    {
+      "codProducto": "ANC00110",
+      "producto": "JAMAICA (BOTELLA)",
+      "categoria": "JUGOS",
+      "fecha": "2026-10-01",
+      "cantidad": 3,
+      "monto": 120
+    },
+    {
+      "codProducto": "ANC00057",
+      "producto": "TUETANO BRULEE",
+      "categoria": "DULCES",
+      "fecha": "2026-10-01",
+      "cantidad": 1,
+      "monto": 50
+    },
+    {
+      "codProducto": "ANC00023",
+      "producto": "COCTELITO DE TUMBO",
+      "categoria": "COCTELES",
+      "fecha": "2026-10-01",
+      "cantidad": 2,
+      "monto": 80
+    },
+    {
+      "codProducto": "ANC00183",
+      "producto": "PANZA FRITA",
+      "categoria": "ENTRADAS",
+      "fecha": "2026-10-01",
+      "cantidad": 1,
+      "monto": 60
+    },
+    {
+      "codProducto": "ANC00064",
+      "producto": "TARTAR DE RES",
+      "categoria": "ENTRADAS",
+      "fecha": "2026-10-01",
+      "cantidad": 2,
+      "monto": 140
+    },
+    {
+      "codProducto": "ANC00324",
+      "producto": "TRUCHA CURADA EN PATACÓN",
+      "categoria": "COMIDAS",
+      "fecha": "2026-10-01",
+      "cantidad": 1,
+      "monto": 70
+    },
+    {
+      "codProducto": "ANC00095",
+      "producto": "OSSOBUCO A LA BOLIVIANA",
+      "categoria": "FUERTES",
+      "fecha": "2026-10-01",
+      "cantidad": 1,
+      "monto": 160
+    },
+    {
+      "codProducto": "ANC00249",
+      "producto": "ARROZ DE CANGREJOS",
+      "categoria": "FUERTES",
+      "fecha": "2026-10-01",
+      "cantidad": 1,
+      "monto": 150
+    },
+    {
+      "codProducto": "ANC00071",
+      "producto": "COLIFLOR",
+      "categoria": "GUARNICIONES",
+      "fecha": "2026-10-01",
+      "cantidad": 1,
+      "monto": 40
+    },
+    {
+      "codProducto": "ANC00070",
+      "producto": "ARVEJAS CHINAS",
+      "categoria": "GUARNICIONES",
+      "fecha": "2026-10-01",
+      "cantidad": 1,
+      "monto": 40
+    },
+    {
+      "codProducto": "ANC00139",
+      "producto": "DESCORCHE",
+      "categoria": "VINOS",
+      "fecha": "2026-10-01",
+      "cantidad": 1,
+      "monto": 100
     },
     {
       "codProducto": "ANC00005",
@@ -10511,36 +10743,12 @@
       "monto": 66
     },
     {
-      "codProducto": "ANC00001",
-      "producto": "AGUA C/G",
-      "categoria": "AGUAS",
-      "fecha": "2026-10-01",
-      "cantidad": 6,
-      "monto": 90
-    },
-    {
-      "codProducto": "ANC00064",
-      "producto": "TARTAR DE RES",
-      "categoria": "ENTRADAS",
-      "fecha": "2026-10-01",
-      "cantidad": 1,
-      "monto": 70
-    },
-    {
       "codProducto": "ANC00330",
       "producto": "PESCADO AMAZONICO Y TUMBO",
       "categoria": "COMIDAS",
       "fecha": "2026-10-01",
       "cantidad": 1,
       "monto": 140
-    },
-    {
-      "codProducto": "ANC00099",
-      "producto": "PARRILLA OJO DE BIFE",
-      "categoria": "FUERTES",
-      "fecha": "2026-10-01",
-      "cantidad": 2,
-      "monto": 320
     },
     {
       "codProducto": "ANC00206",
@@ -10618,22 +10826,6 @@
       "codProducto": "ANC00112",
       "producto": "LIMONADA",
       "categoria": "JUGOS",
-      "fecha": "2026-10-01",
-      "cantidad": 1,
-      "monto": 15
-    },
-    {
-      "codProducto": "ANC00242",
-      "producto": "PARRILLA PESCADO AMAZÓNICO",
-      "categoria": "FUERTES",
-      "fecha": "2026-10-01",
-      "cantidad": 1,
-      "monto": 150
-    },
-    {
-      "codProducto": "ANC00052",
-      "producto": "INFUSION MENTA - CHOCO",
-      "categoria": "BEBIDAS CALIENTES",
       "fecha": "2026-10-01",
       "cantidad": 1,
       "monto": 15

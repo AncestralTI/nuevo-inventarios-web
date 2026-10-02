@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T02:33:53.594Z",
+  "generatedAt": "2026-10-02T08:58:26.641Z",
   "rangoFechas": {
     "desde": "2026-07-27",
     "hasta": "2026-10-02"
@@ -373,11 +373,11 @@
       "vtasIzi": 0,
       "vtasExt": 26,
       "vtasPY": 0,
-      "vtasAnc": 1,
+      "vtasAnc": 2,
       "salidas": 0,
-      "vtasTot": 27,
+      "vtasTot": 28,
       "inv": null,
-      "cierre": 134,
+      "cierre": 133,
       "dif": null
     },
     {
@@ -403,9 +403,9 @@
       "vtasIzi": 0,
       "vtasExt": 0,
       "vtasPY": 0,
-      "vtasAnc": 1,
+      "vtasAnc": 2,
       "salidas": 0,
-      "vtasTot": 1,
+      "vtasTot": 2,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -7853,9 +7853,23 @@
       "vtas": 0,
       "vtasExt": 7,
       "vtasPY": 0,
-      "vtasAnc": 0,
+      "vtasAnc": 1,
       "salidas": 0,
-      "invEsperado": 134,
+      "invEsperado": 133,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "COCA COLA SIN AZUCAR",
+      "fecha": "2026-10-01",
+      "dia": "jue",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 1,
+      "salidas": 0,
+      "invEsperado": 0,
       "invIniFin": null,
       "dif": null
     },
@@ -9600,7 +9614,7 @@
       },
       {
         "weekYear": "202640",
-        "valor": 130
+        "valor": 132
       }
     ],
     "Compras": [
@@ -9640,7 +9654,7 @@
     "filasVentasPY": 10714,
     "filasExtras": 16335,
     "filasMovInv": 363,
-    "filasVentasAncIzi": 5922,
+    "filasVentasAncIzi": 5960,
     "warnings": []
   }
 }

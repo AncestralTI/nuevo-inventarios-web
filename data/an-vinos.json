@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T02:33:12.517Z",
+  "generatedAt": "2026-10-02T08:57:50.068Z",
   "rangoFechas": {
     "desde": "2026-07-27",
     "hasta": "2026-10-02"
@@ -336,13 +336,13 @@
       "weekYear": "202640",
       "invMenos7": 7,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 7,
+      "cierre": 6,
       "dif": null
     },
     {
@@ -560,13 +560,13 @@
       "weekYear": "202640",
       "invMenos7": 8,
       "compras": 1,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 9,
+      "cierre": 8,
       "dif": null
     },
     {
@@ -966,11 +966,11 @@
       "weekYear": "202640",
       "invMenos7": null,
       "compras": 0,
-      "vtas": 1,
+      "vtas": 2,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 1,
+      "vtasTot": 2,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -1134,13 +1134,13 @@
       "weekYear": "202640",
       "invMenos7": 4,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 4,
+      "cierre": 3,
       "dif": null
     },
     {
@@ -16515,6 +16515,19 @@
       "dif": null
     },
     {
+      "producto": "ARANJUEZ / TANNAT \"ORIGEN\"",
+      "fecha": "2026-10-01",
+      "dia": "jue",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 6,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "BENDITA IPA",
       "fecha": "2026-10-01",
       "dia": "jue",
@@ -16528,6 +16541,32 @@
       "dif": null
     },
     {
+      "producto": "CAÑON ESCONDIDO - TANNAT",
+      "fecha": "2026-10-01",
+      "dia": "jue",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 8,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "DESCORCHE",
+      "fecha": "2026-10-01",
+      "dia": "jue",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 0,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "GRAN PATRONO MARSELAN - KUHLMANN",
       "fecha": "2026-10-01",
       "dia": "jue",
@@ -16537,6 +16576,19 @@
       "cortesias": 0,
       "salidas": 0,
       "invEsperado": 2,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "JARDIN OCULTO - NEGRA CRIOLLA",
+      "fecha": "2026-10-01",
+      "dia": "jue",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 3,
       "invIniFin": null,
       "dif": null
     },
@@ -17423,7 +17475,7 @@
       },
       {
         "weekYear": "202640",
-        "valor": 16
+        "valor": 20
       }
     ],
     "Vtas Ext": [
@@ -17501,7 +17553,7 @@
       },
       {
         "weekYear": "202640",
-        "valor": 16
+        "valor": 20
       }
     ],
     "Salidas": [
@@ -17563,7 +17615,7 @@
     "filasInventariosGs": 3825,
     "filasCompras": 2291,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 5919,
+    "filasVentasIzi": 5960,
     "filasMovInv": 362,
     "filasDimProducto": 445,
     "warnings": []

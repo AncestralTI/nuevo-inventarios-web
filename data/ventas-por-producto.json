@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T13:35:49.285Z",
+  "generatedAt": "2026-10-03T17:35:36.714Z",
   "fuente": "API iZi Soluciones (facturas + items-inventarios), sucursal Ancestral (79344)",
   "rango": {
     "desde": "2026-09-03",
@@ -10925,6 +10925,46 @@
       "fecha": "2026-10-02",
       "cantidad": 2,
       "monto": 80
+    },
+    {
+      "codProducto": "ANC00104",
+      "producto": "COCA COLA",
+      "categoria": "GASEOSA",
+      "fecha": "2026-10-03",
+      "cantidad": 2,
+      "monto": 30
+    },
+    {
+      "codProducto": "ANC00066",
+      "producto": "BURGER DE NIÑOS",
+      "categoria": "MENÚ DE NIÑOS",
+      "fecha": "2026-10-03",
+      "cantidad": 1,
+      "monto": 50
+    },
+    {
+      "codProducto": "ANC00183",
+      "producto": "PANZA FRITA",
+      "categoria": "ENTRADAS",
+      "fecha": "2026-10-03",
+      "cantidad": 1,
+      "monto": 60
+    },
+    {
+      "codProducto": "ANC00281",
+      "producto": "CUARTO PATO CONFITADO",
+      "categoria": "FUERTES",
+      "fecha": "2026-10-03",
+      "cantidad": 1,
+      "monto": 140
+    },
+    {
+      "codProducto": "ANC00095",
+      "producto": "OSSOBUCO A LA BOLIVIANA",
+      "categoria": "FUERTES",
+      "fecha": "2026-10-03",
+      "cantidad": 1,
+      "monto": 160
     }
   ]
 }

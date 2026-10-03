@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-02T23:44:43.369Z",
+  "generatedAt": "2026-10-03T02:21:56.416Z",
   "rangoFechas": {
     "desde": "2026-07-27",
-    "hasta": "2026-10-02"
+    "hasta": "2026-10-03"
   },
   "categorias": [
     "5. Bebidas alcohólicas",
@@ -250,14 +250,14 @@
       "weekYear": "202640",
       "invMenos7": 14,
       "compras": 0,
-      "vtasIzi": 0,
+      "vtasIzi": 1,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 14,
+      "cierre": 13,
       "dif": null
     },
     {
@@ -403,9 +403,9 @@
       "vtasIzi": 0,
       "vtasExt": 0,
       "vtasPY": 0,
-      "vtasAnc": 2,
+      "vtasAnc": 4,
       "salidas": 0,
-      "vtasTot": 2,
+      "vtasTot": 4,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -415,14 +415,14 @@
       "weekYear": "202640",
       "invMenos7": 85,
       "compras": 0,
-      "vtasIzi": 6,
+      "vtasIzi": 7,
       "vtasExt": 10,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 16,
+      "vtasTot": 17,
       "inv": null,
-      "cierre": 69,
+      "cierre": 68,
       "dif": null
     },
     {
@@ -432,10 +432,10 @@
       "compras": 0,
       "vtasIzi": 0,
       "vtasExt": 0,
-      "vtasPY": 0,
+      "vtasPY": 1,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -730,12 +730,12 @@
       "weekYear": "202640",
       "invMenos7": null,
       "compras": 0,
-      "vtasIzi": 16,
+      "vtasIzi": 17,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 16,
+      "vtasTot": 17,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -6115,14 +6115,14 @@
       "weekYear": "202632",
       "invMenos7": null,
       "compras": 114,
-      "vtasIzi": 26,
+      "vtasIzi": 23,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 26,
+      "vtasTot": 23,
       "inv": null,
-      "cierre": 88,
+      "cierre": 91,
       "dif": null
     },
     {
@@ -6205,14 +6205,14 @@
       "weekYear": "202632",
       "invMenos7": null,
       "compras": 24,
-      "vtasIzi": 9,
+      "vtasIzi": 8,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 9,
+      "vtasTot": 8,
       "inv": null,
-      "cierre": 15,
+      "cierre": 16,
       "dif": null
     },
     {
@@ -6370,15 +6370,15 @@
       "weekYear": "202632",
       "invMenos7": 20,
       "compras": 12,
-      "vtasIzi": 11,
+      "vtasIzi": 10,
       "vtasExt": 0,
       "vtasPY": 1,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 12,
+      "vtasTot": 11,
       "inv": 20,
-      "cierre": 20,
-      "dif": 0
+      "cierre": 21,
+      "dif": -1
     },
     {
       "producto": "Pepsi",
@@ -6490,12 +6490,12 @@
       "weekYear": "202632",
       "invMenos7": null,
       "compras": 0,
-      "vtasIzi": 30,
+      "vtasIzi": 24,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 30,
+      "vtasTot": 24,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -6580,12 +6580,12 @@
       "weekYear": "202632",
       "invMenos7": 10,
       "compras": 0,
-      "vtasIzi": 2,
+      "vtasIzi": 0,
       "vtasExt": 10,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 12,
+      "vtasTot": 10,
       "inv": 0,
       "cierre": 0,
       "dif": null
@@ -8000,6 +8000,20 @@
       "dif": null
     },
     {
+      "producto": "Cerveza Bendita Hoppy Lager",
+      "fecha": "2026-10-02",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 13,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "Coca Cola",
       "fecha": "2026-10-02",
       "dia": "vie",
@@ -8010,6 +8024,48 @@
       "vtasAnc": 0,
       "salidas": 0,
       "invEsperado": 46,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "COCA COLA SIN AZUCAR",
+      "fecha": "2026-10-02",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 2,
+      "salidas": 0,
+      "invEsperado": 0,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "Coca Zero",
+      "fecha": "2026-10-02",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 68,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "Curandero",
+      "fecha": "2026-10-02",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "vtasPY": 1,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 0,
       "invIniFin": null,
       "dif": null
     },
@@ -8032,7 +8088,7 @@
       "fecha": "2026-10-02",
       "dia": "vie",
       "compras": 0,
-      "vtas": 1,
+      "vtas": 2,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
@@ -9592,7 +9648,7 @@
       },
       {
         "weekYear": "202640",
-        "valor": 43
+        "valor": 46
       }
     ],
     "Vtas Ext.": [
@@ -9644,7 +9700,7 @@
       },
       {
         "weekYear": "202640",
-        "valor": 3
+        "valor": 4
       }
     ],
     "Vtas Tot.": [
@@ -9670,7 +9726,7 @@
       },
       {
         "weekYear": "202640",
-        "valor": 138
+        "valor": 144
       }
     ],
     "Compras": [
@@ -9705,12 +9761,12 @@
     "filasDimProducto": 446,
     "filasInventariosOmuh": 389,
     "filasCompras": 1523,
-    "filasSalidas": 77,
-    "filasVentasIzi": 8384,
-    "filasVentasPY": 10714,
+    "filasSalidas": 78,
+    "filasVentasIzi": 8360,
+    "filasVentasPY": 10735,
     "filasExtras": 16335,
-    "filasMovInv": 368,
-    "filasVentasAncIzi": 5982,
+    "filasMovInv": 374,
+    "filasVentasAncIzi": 6046,
     "warnings": []
   }
 }

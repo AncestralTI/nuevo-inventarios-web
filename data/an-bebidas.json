@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-02T23:44:03.236Z",
+  "generatedAt": "2026-10-03T02:21:17.786Z",
   "rangoFechas": {
     "desde": "2026-07-27",
-    "hasta": "2026-10-02"
+    "hasta": "2026-10-03"
   },
   "categorias": [
     "5. Bebidas alcohólicas",
@@ -306,13 +306,13 @@
       "weekYear": "202640",
       "invMenos7": 41,
       "compras": 0,
-      "vtas": 2,
+      "vtas": 4,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 2,
+      "vtasTot": 4,
       "inv": null,
-      "cierre": 39,
+      "cierre": 37,
       "dif": null
     },
     {
@@ -4246,6 +4246,19 @@
       "dif": null
     },
     {
+      "producto": "COCA COLA SIN AZUCAR",
+      "fecha": "2026-10-02",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 2,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 37,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "BENDITA IPA",
       "fecha": "2026-09-22",
       "dia": "mar",
@@ -4634,7 +4647,7 @@
       },
       {
         "weekYear": "202640",
-        "valor": 6
+        "valor": 8
       }
     ],
     "Vtas Ext": [
@@ -4712,7 +4725,7 @@
       },
       {
         "weekYear": "202640",
-        "valor": 6
+        "valor": 8
       }
     ],
     "Salidas": [
@@ -4774,8 +4787,8 @@
     "filasInventariosGs": 3825,
     "filasCompras": 2299,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 5982,
-    "filasMovInv": 367,
+    "filasVentasIzi": 6046,
+    "filasMovInv": 362,
     "filasDimProducto": 446,
     "warnings": []
   }

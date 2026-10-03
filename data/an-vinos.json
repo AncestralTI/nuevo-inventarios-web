@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T02:21:05.045Z",
+  "generatedAt": "2026-10-03T08:23:02.128Z",
   "rangoFechas": {
     "desde": "2026-07-27",
     "hasta": "2026-10-03"
@@ -298,10 +298,10 @@
       "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 0,
+      "salidas": 1,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 7,
+      "cierre": 6,
       "dif": null
     },
     {
@@ -337,13 +337,13 @@
       "weekYear": "202640",
       "invMenos7": 7,
       "compras": 0,
-      "vtas": 1,
+      "vtas": 3,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 1,
+      "vtasTot": 3,
       "inv": null,
-      "cierre": 6,
+      "cierre": 4,
       "dif": null
     },
     {
@@ -491,13 +491,13 @@
       "weekYear": "202640",
       "invMenos7": 2,
       "compras": 0,
-      "vtas": 1,
+      "vtas": 2,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 1,
+      "vtasTot": 2,
       "inv": null,
-      "cierre": 1,
+      "cierre": 0,
       "dif": null
     },
     {
@@ -564,10 +564,10 @@
       "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 1,
+      "salidas": 3,
+      "vtasTot": 4,
       "inv": null,
-      "cierre": 8,
+      "cierre": 5,
       "dif": null
     },
     {
@@ -799,11 +799,11 @@
       "weekYear": "202640",
       "invMenos7": null,
       "compras": 0,
-      "vtas": 2,
+      "vtas": 4,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 2,
+      "vtasTot": 4,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -883,11 +883,11 @@
       "weekYear": "202640",
       "invMenos7": null,
       "compras": 0,
-      "vtas": 8,
+      "vtas": 11,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 8,
+      "vtasTot": 11,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -1124,10 +1124,10 @@
       "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 0,
+      "salidas": 1,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 5,
+      "cierre": 4,
       "dif": null
     },
     {
@@ -1180,10 +1180,10 @@
       "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 0,
+      "salidas": 2,
+      "vtasTot": 2,
       "inv": null,
-      "cierre": 5,
+      "cierre": 3,
       "dif": null
     },
     {
@@ -1250,10 +1250,10 @@
       "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 1,
+      "salidas": 1,
+      "vtasTot": 2,
       "inv": null,
-      "cierre": 5,
+      "cierre": 4,
       "dif": null
     },
     {
@@ -1334,10 +1334,10 @@
       "vtas": 4,
       "vtasExt": 0,
       "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 4,
+      "salidas": 1,
+      "vtasTot": 5,
       "inv": null,
-      "cierre": 1,
+      "cierre": 0,
       "dif": null
     },
     {
@@ -1390,10 +1390,10 @@
       "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 0,
+      "salidas": 1,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 4,
+      "cierre": 3,
       "dif": null
     },
     {
@@ -1404,10 +1404,10 @@
       "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 0,
+      "salidas": 1,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 6,
+      "cierre": 5,
       "dif": null
     },
     {
@@ -16656,6 +16656,58 @@
       "dif": null
     },
     {
+      "producto": "IMPREDECIBLE - TERRA ANCESTRAL",
+      "fecha": "2026-09-30",
+      "dia": "mié",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 1,
+      "invEsperado": 4,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "LOCURA 5.1.1. - MAGNUS",
+      "fecha": "2026-09-30",
+      "dia": "mié",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 1,
+      "invEsperado": 4,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "MOSCATEL PINOT BLANC - CASA SOLUM",
+      "fecha": "2026-09-30",
+      "dia": "mié",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 1,
+      "invEsperado": 3,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "MOSCATEL RESERVA - MARQUEZ DE LA VIÑA",
+      "fecha": "2026-09-30",
+      "dia": "mié",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 1,
+      "invEsperado": 5,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "ARANJUEZ / TANNAT \"ORIGEN\"",
       "fecha": "2026-10-01",
       "dia": "jue",
@@ -16689,8 +16741,8 @@
       "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
-      "salidas": 0,
-      "invEsperado": 8,
+      "salidas": 1,
+      "invEsperado": 7,
       "invIniFin": null,
       "dif": null
     },
@@ -16734,6 +16786,58 @@
       "dif": null
     },
     {
+      "producto": "KOHLBERG - FLAMANT ROSE",
+      "fecha": "2026-10-01",
+      "dia": "jue",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 1,
+      "invEsperado": 4,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "ALTOSAMA - BRUT",
+      "fecha": "2026-10-02",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 1,
+      "invEsperado": 6,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "ARANJUEZ / TANNAT \"ORIGEN\"",
+      "fecha": "2026-10-02",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 2,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 4,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "CAB- FRANC ROSE - CASA SOLUM",
+      "fecha": "2026-10-02",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 0,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "CAÑON ESCONDIDO - RED BLEND",
       "fecha": "2026-10-02",
       "dia": "vie",
@@ -16747,11 +16851,24 @@
       "dif": null
     },
     {
+      "producto": "CAÑON ESCONDIDO - TANNAT",
+      "fecha": "2026-10-02",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 2,
+      "invEsperado": 5,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "COPA MARSELAN - ARSAL",
       "fecha": "2026-10-02",
       "dia": "vie",
       "compras": 0,
-      "vtas": 1,
+      "vtas": 3,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
@@ -16764,11 +16881,24 @@
       "fecha": "2026-10-02",
       "dia": "vie",
       "compras": 0,
-      "vtas": 8,
+      "vtas": 11,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
       "invEsperado": 0,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "KOHLBERG - FLAMANT ROSE",
+      "fecha": "2026-10-02",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 1,
+      "invEsperado": 3,
       "invIniFin": null,
       "dif": null
     },
@@ -16780,8 +16910,8 @@
       "vtas": 2,
       "vtasExt": 0,
       "cortesias": 0,
-      "salidas": 0,
-      "invEsperado": 1,
+      "salidas": 1,
+      "invEsperado": 0,
       "invIniFin": null,
       "dif": null
     },
@@ -17668,7 +17798,7 @@
       },
       {
         "weekYear": "202640",
-        "valor": 32
+        "valor": 40
       }
     ],
     "Vtas Ext": [
@@ -17746,7 +17876,7 @@
       },
       {
         "weekYear": "202640",
-        "valor": 32
+        "valor": 51
       }
     ],
     "Salidas": [
@@ -17772,7 +17902,7 @@
       },
       {
         "weekYear": "202640",
-        "valor": 0
+        "valor": 11
       }
     ],
     "Compras": [
@@ -17804,11 +17934,11 @@
   },
   "meta": {
     "ventasIziDisponibles": true,
-    "filasApertura": 1395,
+    "filasApertura": 1405,
     "filasInventariosGs": 3825,
     "filasCompras": 2299,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 6038,
+    "filasVentasIzi": 6106,
     "filasMovInv": 362,
     "filasDimProducto": 446,
     "warnings": []

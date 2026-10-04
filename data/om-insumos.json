@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T02:17:35.484Z",
+  "generatedAt": "2026-10-04T08:31:15.976Z",
   "rangoFechas": {
     "desde": "2026-07-27",
     "hasta": "2026-10-04"
@@ -1217,15 +1217,15 @@
   },
   "meta": {
     "ventasIziDisponibles": true,
-    "filasDimProducto": 446,
+    "filasDimProducto": 447,
     "filasInventariosUnitarios": 118,
     "filasCompras": 1523,
     "filasSalidas": 79,
     "filasVentasIzi": 8390,
     "filasVentasPY": 10750,
-    "filasExtras": 16427,
-    "filasMovInv": 377,
-    "filasVentasAncIzi": 6165,
+    "filasExtras": 16483,
+    "filasMovInv": 382,
+    "filasVentasAncIzi": 6218,
     "warnings": []
   }
 }

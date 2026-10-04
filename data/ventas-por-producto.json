@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T18:16:08.649Z",
+  "generatedAt": "2026-10-04T21:31:36.732Z",
   "fuente": "API iZi Soluciones (facturas + items-inventarios), sucursal Ancestral (79344)",
   "rango": {
     "desde": "2026-09-04",
@@ -11029,6 +11029,438 @@
       "fecha": "2026-10-03",
       "cantidad": 1,
       "monto": 27
+    },
+    {
+      "codProducto": "ANC00183",
+      "producto": "PANZA FRITA",
+      "categoria": "ENTRADAS",
+      "fecha": "2026-10-04",
+      "cantidad": 1,
+      "monto": 60
+    },
+    {
+      "codProducto": "ANC00063",
+      "producto": "TACO PULLED PORK",
+      "categoria": "ENTRADAS",
+      "fecha": "2026-10-04",
+      "cantidad": 3,
+      "monto": 210
+    },
+    {
+      "codProducto": "ANC00058",
+      "producto": "ALCACHOFAS",
+      "categoria": "ENTRADAS",
+      "fecha": "2026-10-04",
+      "cantidad": 6,
+      "monto": 450
+    },
+    {
+      "codProducto": "ANC00004",
+      "producto": "BENDITA HOPPY",
+      "categoria": "CERVEZA",
+      "fecha": "2026-10-04",
+      "cantidad": 2,
+      "monto": 54
+    },
+    {
+      "codProducto": "ANC00005",
+      "producto": "BENDITA IPA",
+      "categoria": "CERVEZA",
+      "fecha": "2026-10-04",
+      "cantidad": 1,
+      "monto": 33
+    },
+    {
+      "codProducto": "ANC00114",
+      "producto": "NARANJA TUMBO",
+      "categoria": "JUGOS",
+      "fecha": "2026-10-04",
+      "cantidad": 2,
+      "monto": 30
+    },
+    {
+      "codProducto": "ANC00088",
+      "producto": "ARROZ DE TRUCHA",
+      "categoria": "FUERTES",
+      "fecha": "2026-10-04",
+      "cantidad": 4,
+      "monto": 600
+    },
+    {
+      "codProducto": "ANC00249",
+      "producto": "ARROZ DE CANGREJOS",
+      "categoria": "FUERTES",
+      "fecha": "2026-10-04",
+      "cantidad": 2,
+      "monto": 300
+    },
+    {
+      "codProducto": "ANC00099",
+      "producto": "PARRILLA OJO DE BIFE",
+      "categoria": "FUERTES",
+      "fecha": "2026-10-04",
+      "cantidad": 2,
+      "monto": 320
+    },
+    {
+      "codProducto": "ANC00281",
+      "producto": "CUARTO PATO CONFITADO",
+      "categoria": "FUERTES",
+      "fecha": "2026-10-04",
+      "cantidad": 6,
+      "monto": 840
+    },
+    {
+      "codProducto": "ANC00328",
+      "producto": "PAVLOVA DE PIÑA A LA BRASA",
+      "categoria": "COMIDAS",
+      "fecha": "2026-10-04",
+      "cantidad": 1,
+      "monto": 50
+    },
+    {
+      "codProducto": "ANC00199",
+      "producto": "GIN & TONIC LA REPUBLICA",
+      "categoria": "COCTELES",
+      "fecha": "2026-10-04",
+      "cantidad": 1,
+      "monto": 50
+    },
+    {
+      "codProducto": "ANC00363",
+      "producto": "SHOT - VODKA 1825",
+      "categoria": "BEBIDAS ALCOHOLICAS",
+      "fecha": "2026-10-04",
+      "cantidad": 2,
+      "monto": 90
+    },
+    {
+      "codProducto": "ANC00283",
+      "producto": "ALAYA - TELLUS",
+      "categoria": "VINOS",
+      "fecha": "2026-10-04",
+      "cantidad": 1,
+      "monto": 235
+    },
+    {
+      "codProducto": "ANC00065",
+      "producto": "TATAKI DE LLAMA",
+      "categoria": "ENTRADAS",
+      "fecha": "2026-10-04",
+      "cantidad": 1,
+      "monto": 75
+    },
+    {
+      "codProducto": "ANC00064",
+      "producto": "TARTAR DE RES",
+      "categoria": "ENTRADAS",
+      "fecha": "2026-10-04",
+      "cantidad": 1,
+      "monto": 70
+    },
+    {
+      "codProducto": "ANC00101",
+      "producto": "PECHUGA DE POLLO CROCANTE",
+      "categoria": "FUERTES",
+      "fecha": "2026-10-04",
+      "cantidad": 3,
+      "monto": 390
+    },
+    {
+      "codProducto": "ANC00110",
+      "producto": "JAMAICA (BOTELLA)",
+      "categoria": "JUGOS",
+      "fecha": "2026-10-04",
+      "cantidad": 1,
+      "monto": 40
+    },
+    {
+      "codProducto": "ANC00048",
+      "producto": "ESPRESSO DOBLE",
+      "categoria": "BEBIDAS CALIENTES",
+      "fecha": "2026-10-04",
+      "cantidad": 2,
+      "monto": 40
+    },
+    {
+      "codProducto": "ANC00104",
+      "producto": "COCA COLA",
+      "categoria": "GASEOSA",
+      "fecha": "2026-10-04",
+      "cantidad": 1,
+      "monto": 15
+    },
+    {
+      "codProducto": "ANC00093",
+      "producto": "KEPERI AHUMADO",
+      "categoria": "FUERTES",
+      "fecha": "2026-10-04",
+      "cantidad": 3,
+      "monto": 420
+    },
+    {
+      "codProducto": "ANC00109",
+      "producto": "ICED TEA (BOTELLA)",
+      "categoria": "JUGOS",
+      "fecha": "2026-10-04",
+      "cantidad": 2,
+      "monto": 80
+    },
+    {
+      "codProducto": "ANC00051",
+      "producto": "INFUSION MANZANILLA - CEDRON",
+      "categoria": "BEBIDAS CALIENTES",
+      "fecha": "2026-10-04",
+      "cantidad": 2,
+      "monto": 30
+    },
+    {
+      "codProducto": "ANC00112",
+      "producto": "LIMONADA",
+      "categoria": "JUGOS",
+      "fecha": "2026-10-04",
+      "cantidad": 9,
+      "monto": 135
+    },
+    {
+      "codProducto": "ANC00108",
+      "producto": "ICED TEA",
+      "categoria": "JUGOS",
+      "fecha": "2026-10-04",
+      "cantidad": 2,
+      "monto": 30
+    },
+    {
+      "codProducto": "ANC00111",
+      "producto": "JAMAICA MENTA",
+      "categoria": "JUGOS",
+      "fecha": "2026-10-04",
+      "cantidad": 2,
+      "monto": 30
+    },
+    {
+      "codProducto": "ANC00007",
+      "producto": "HUARI",
+      "categoria": "CERVEZA",
+      "fecha": "2026-10-04",
+      "cantidad": 6,
+      "monto": 198
+    },
+    {
+      "codProducto": "ANC00241",
+      "producto": "CEVICHE DE TRUCHA Y HONGOS",
+      "categoria": "ENTRADAS",
+      "fecha": "2026-10-04",
+      "cantidad": 3,
+      "monto": 225
+    },
+    {
+      "codProducto": "ANC00331",
+      "producto": "CORDERO A LA CRUZ",
+      "categoria": "COMIDAS",
+      "fecha": "2026-10-04",
+      "cantidad": 3,
+      "monto": 450
+    },
+    {
+      "codProducto": "ANC00329",
+      "producto": "PAN CON QUESO",
+      "categoria": "COMIDAS",
+      "fecha": "2026-10-04",
+      "cantidad": 2,
+      "monto": 100
+    },
+    {
+      "codProducto": "ANC00066",
+      "producto": "BURGER DE NIÑOS",
+      "categoria": "MENÚ DE NIÑOS",
+      "fecha": "2026-10-04",
+      "cantidad": 4,
+      "monto": 200
+    },
+    {
+      "codProducto": "ANC00069",
+      "producto": "PECHUGA DE NIÑOS",
+      "categoria": "MENÚ DE NIÑOS",
+      "fecha": "2026-10-04",
+      "cantidad": 3,
+      "monto": 150
+    },
+    {
+      "codProducto": "ANC00049",
+      "producto": "FLAN",
+      "categoria": "DULCES",
+      "fecha": "2026-10-04",
+      "cantidad": 3,
+      "monto": 150
+    },
+    {
+      "codProducto": "ANC00327",
+      "producto": "ALFAJOR",
+      "categoria": "DULCES",
+      "fecha": "2026-10-04",
+      "cantidad": 2,
+      "monto": 100
+    },
+    {
+      "codProducto": "ANC00046",
+      "producto": "CHOCOLATE",
+      "categoria": "DULCES",
+      "fecha": "2026-10-04",
+      "cantidad": 3,
+      "monto": 150
+    },
+    {
+      "codProducto": "ANC00090",
+      "producto": "CHULETON (Kg)",
+      "categoria": "FUERTES",
+      "fecha": "2026-10-04",
+      "cantidad": 3.26,
+      "monto": 1304
+    },
+    {
+      "codProducto": "ANC00001",
+      "producto": "AGUA C/G",
+      "categoria": "AGUAS",
+      "fecha": "2026-10-04",
+      "cantidad": 3,
+      "monto": 45
+    },
+    {
+      "codProducto": "ANC00310",
+      "producto": "SAN MIGUEL MATILDA PALE ALE",
+      "categoria": "CERVEZA",
+      "fecha": "2026-10-04",
+      "cantidad": 1,
+      "monto": 38
+    },
+    {
+      "codProducto": "ANC00115",
+      "producto": "NARANJA-TUMBO (BOTELLA)",
+      "categoria": "JUGOS",
+      "fecha": "2026-10-04",
+      "cantidad": 3,
+      "monto": 120
+    },
+    {
+      "codProducto": "ANC00098",
+      "producto": "PARRILLA KEPERI",
+      "categoria": "FUERTES",
+      "fecha": "2026-10-04",
+      "cantidad": 3,
+      "monto": 420
+    },
+    {
+      "codProducto": "ANC00330",
+      "producto": "PESCADO AMAZONICO Y TUMBO",
+      "categoria": "COMIDAS",
+      "fecha": "2026-10-04",
+      "cantidad": 4,
+      "monto": 560
+    },
+    {
+      "codProducto": "ANC00018",
+      "producto": "CHIRIMOYA ALEGRE",
+      "categoria": "COCTELES",
+      "fecha": "2026-10-04",
+      "cantidad": 1,
+      "monto": 50
+    },
+    {
+      "codProducto": "ANC00057",
+      "producto": "TUETANO BRULEE",
+      "categoria": "DULCES",
+      "fecha": "2026-10-04",
+      "cantidad": 1,
+      "monto": 50
+    },
+    {
+      "codProducto": "ANC00008",
+      "producto": "MADERA \"LA KALOR\" GOSE",
+      "categoria": "CERVEZA",
+      "fecha": "2026-10-04",
+      "cantidad": 2,
+      "monto": 62
+    },
+    {
+      "codProducto": "ANC00105",
+      "producto": "COCA COLA SIN AZUCAR",
+      "categoria": "GASEOSA",
+      "fecha": "2026-10-04",
+      "cantidad": 4,
+      "monto": 60
+    },
+    {
+      "codProducto": "ANC00184",
+      "producto": "ANTICUCHO DE POLLO",
+      "categoria": "ENTRADAS",
+      "fecha": "2026-10-04",
+      "cantidad": 1,
+      "monto": 55
+    },
+    {
+      "codProducto": "ANC00103",
+      "producto": "PARRILLA TRUCHA",
+      "categoria": "FUERTES",
+      "fecha": "2026-10-04",
+      "cantidad": 2,
+      "monto": 300
+    },
+    {
+      "codProducto": "ANC00206",
+      "producto": "SPICY MARGARITA",
+      "categoria": "COCTELES",
+      "fecha": "2026-10-04",
+      "cantidad": 1,
+      "monto": 50
+    },
+    {
+      "codProducto": "ANC00002",
+      "producto": "AGUA S/G",
+      "categoria": "AGUAS",
+      "fecha": "2026-10-04",
+      "cantidad": 4,
+      "monto": 48
+    },
+    {
+      "codProducto": "ANC00324",
+      "producto": "TRUCHA CURADA EN PATACÓN",
+      "categoria": "COMIDAS",
+      "fecha": "2026-10-04",
+      "cantidad": 1,
+      "monto": 70
+    },
+    {
+      "codProducto": "ANC00047",
+      "producto": "ESPRESSO",
+      "categoria": "BEBIDAS CALIENTES",
+      "fecha": "2026-10-04",
+      "cantidad": 4,
+      "monto": 60
+    },
+    {
+      "codProducto": "ANC00070",
+      "producto": "ARVEJAS CHINAS",
+      "categoria": "GUARNICIONES",
+      "fecha": "2026-10-04",
+      "cantidad": 1,
+      "monto": 40
+    },
+    {
+      "codProducto": "ANC00040",
+      "producto": "UYUNI SOUR",
+      "categoria": "COCTELES",
+      "fecha": "2026-10-04",
+      "cantidad": 2,
+      "monto": 100
+    },
+    {
+      "codProducto": "ANC00325",
+      "producto": "TABLA ANCESTRAL",
+      "categoria": "ENTRADAS",
+      "fecha": "2026-10-04",
+      "cantidad": 1,
+      "monto": 120
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T12:31:54.131Z",
+  "generatedAt": "2026-10-05T20:53:13.495Z",
   "rangoFechas": {
     "desde": "2026-08-03",
     "hasta": "2026-10-05"
@@ -543,15 +543,15 @@
       "producto": "BENDITA PILS",
       "weekYear": "202640",
       "invMenos7": 9,
-      "compras": 0,
+      "compras": 12,
       "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 0,
       "inv": 21,
-      "cierre": 9,
-      "dif": 12
+      "cierre": 21,
+      "dif": 0
     },
     {
       "producto": "Cerveza",
@@ -4285,6 +4285,19 @@
       "dif": null
     },
     {
+      "producto": "BENDITA PILS",
+      "fecha": "2026-10-03",
+      "dia": "sáb",
+      "compras": 12,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 21,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "COCA COLA",
       "fecha": "2026-10-03",
       "dia": "sáb",
@@ -4578,7 +4591,7 @@
       },
       {
         "weekYear": "202640",
-        "valor": 12
+        "valor": 24
       },
       {
         "weekYear": "202641",
@@ -4590,7 +4603,7 @@
     "ventasIziDisponibles": true,
     "filasApertura": 1414,
     "filasInventariosGs": 3905,
-    "filasCompras": 2299,
+    "filasCompras": 2304,
     "filasMatrizChuleton": 1,
     "filasVentasIzi": 6198,
     "filasMovInv": 369,

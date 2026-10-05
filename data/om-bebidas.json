@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T12:32:22.715Z",
+  "generatedAt": "2026-10-05T20:53:44.546Z",
   "rangoFechas": {
     "desde": "2026-08-03",
     "hasta": "2026-10-05"
@@ -130,14 +130,14 @@
       "weekYear": "202641",
       "invMenos7": 42,
       "compras": 0,
-      "vtasIzi": 0,
+      "vtasIzi": 1,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 42,
+      "cierre": 41,
       "dif": null
     },
     {
@@ -250,14 +250,14 @@
       "weekYear": "202641",
       "invMenos7": 12,
       "compras": 0,
-      "vtasIzi": 0,
+      "vtasIzi": 1,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 12,
+      "cierre": 11,
       "dif": null
     },
     {
@@ -355,12 +355,12 @@
       "weekYear": "202641",
       "invMenos7": null,
       "compras": 0,
-      "vtasIzi": 0,
+      "vtasIzi": 1,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -428,7 +428,7 @@
     {
       "producto": "Curandero",
       "weekYear": "202641",
-      "invMenos7": null,
+      "invMenos7": 32,
       "compras": 0,
       "vtasIzi": 0,
       "vtasExt": 0,
@@ -437,7 +437,7 @@
       "salidas": 0,
       "vtasTot": 0,
       "inv": null,
-      "cierre": 0,
+      "cierre": 32,
       "dif": null
     },
     {
@@ -445,12 +445,12 @@
       "weekYear": "202641",
       "invMenos7": null,
       "compras": 0,
-      "vtasIzi": 0,
+      "vtasIzi": 1,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -803,7 +803,7 @@
     {
       "producto": "SPRITE",
       "weekYear": "202641",
-      "invMenos7": null,
+      "invMenos7": 19,
       "compras": 0,
       "vtasIzi": 0,
       "vtasExt": 0,
@@ -812,13 +812,13 @@
       "salidas": 0,
       "vtasTot": 0,
       "inv": null,
-      "cierre": 0,
+      "cierre": 19,
       "dif": null
     },
     {
       "producto": "Sprite Zero",
       "weekYear": "202641",
-      "invMenos7": null,
+      "invMenos7": 23,
       "compras": 0,
       "vtasIzi": 0,
       "vtasExt": 0,
@@ -827,7 +827,7 @@
       "salidas": 0,
       "vtasTot": 0,
       "inv": null,
-      "cierre": 0,
+      "cierre": 23,
       "dif": null
     },
     {
@@ -1134,7 +1134,7 @@
       "producto": "Coca Zero",
       "weekYear": "202640",
       "invMenos7": 85,
-      "compras": 0,
+      "compras": 132,
       "vtasIzi": 7,
       "vtasExt": 32,
       "vtasPY": 1,
@@ -1142,8 +1142,8 @@
       "salidas": 0,
       "vtasTot": 40,
       "inv": 176,
-      "cierre": 45,
-      "dif": 131
+      "cierre": 177,
+      "dif": -1
     },
     {
       "producto": "Curandero",
@@ -1156,9 +1156,9 @@
       "vtasAnc": 0,
       "salidas": 0,
       "vtasTot": 4,
-      "inv": null,
+      "inv": 32,
       "cierre": 0,
-      "dif": null
+      "dif": 32
     },
     {
       "producto": "Fanta",
@@ -1531,9 +1531,9 @@
       "vtasAnc": 0,
       "salidas": 0,
       "vtasTot": 12,
-      "inv": null,
+      "inv": 19,
       "cierre": 20,
-      "dif": null
+      "dif": -1
     },
     {
       "producto": "Sprite Zero",
@@ -1546,9 +1546,9 @@
       "vtasAnc": 0,
       "salidas": 0,
       "vtasTot": 10,
-      "inv": null,
+      "inv": 23,
       "cierre": 23,
-      "dif": null
+      "dif": 0
     },
     {
       "producto": "UYUNI",
@@ -7329,6 +7329,62 @@
   "detalleDiario": [
     {
       "producto": "Agua",
+      "fecha": "2026-10-05",
+      "dia": "lun",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 41,
+      "invIniFin": 42,
+      "dif": 1
+    },
+    {
+      "producto": "Cerveza Bendita Hoppy Lager",
+      "fecha": "2026-10-05",
+      "dia": "lun",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 11,
+      "invIniFin": 12,
+      "dif": 1
+    },
+    {
+      "producto": "Coca Cola",
+      "fecha": "2026-10-05",
+      "dia": "lun",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 0,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "Fanta",
+      "fecha": "2026-10-05",
+      "dia": "lun",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 0,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "Agua",
       "fecha": "2026-09-28",
       "dia": "lun",
       "compras": 0,
@@ -8297,13 +8353,13 @@
       "producto": "Coca Zero",
       "fecha": "2026-10-03",
       "dia": "sáb",
-      "compras": 0,
+      "compras": 132,
       "vtas": 0,
       "vtasExt": 5,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "invEsperado": 55,
+      "invEsperado": 187,
       "invIniFin": null,
       "dif": null
     },
@@ -8555,9 +8611,9 @@
       "vtasPY": 1,
       "vtasAnc": 0,
       "salidas": 0,
-      "invEsperado": 45,
+      "invEsperado": 177,
       "invIniFin": 176,
-      "dif": 131
+      "dif": -1
     },
     {
       "producto": "Curandero",
@@ -8570,8 +8626,8 @@
       "vtasAnc": 0,
       "salidas": 0,
       "invEsperado": 0,
-      "invIniFin": null,
-      "dif": null
+      "invIniFin": 32,
+      "dif": 32
     },
     {
       "producto": "Fanta",
@@ -8710,8 +8766,8 @@
       "vtasAnc": 0,
       "salidas": 0,
       "invEsperado": 20,
-      "invIniFin": null,
-      "dif": null
+      "invIniFin": 19,
+      "dif": -1
     },
     {
       "producto": "Sprite Zero",
@@ -8724,8 +8780,8 @@
       "vtasAnc": 0,
       "salidas": 0,
       "invEsperado": 23,
-      "invIniFin": null,
-      "dif": null
+      "invIniFin": 23,
+      "dif": 0
     }
   ],
   "serieSemanal": {
@@ -8752,7 +8808,7 @@
       },
       {
         "weekYear": "202641",
-        "valor": 0
+        "valor": 4
       }
     ],
     "Vtas Ext.": [
@@ -8830,7 +8886,7 @@
       },
       {
         "weekYear": "202641",
-        "valor": 0
+        "valor": 4
       }
     ],
     "Compras": [
@@ -8852,7 +8908,7 @@
       },
       {
         "weekYear": "202640",
-        "valor": 163
+        "valor": 295
       },
       {
         "weekYear": "202641",
@@ -8863,10 +8919,10 @@
   "meta": {
     "ventasIziDisponibles": true,
     "filasDimProducto": 447,
-    "filasInventariosOmuh": 404,
+    "filasInventariosOmuh": 407,
     "filasCompras": 1523,
     "filasSalidas": 80,
-    "filasVentasIzi": 8324,
+    "filasVentasIzi": 8355,
     "filasVentasPY": 10777,
     "filasExtras": 16544,
     "filasMovInv": 385,

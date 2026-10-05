@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T12:32:08.806Z",
+  "generatedAt": "2026-10-05T20:53:30.304Z",
   "rangoFechas": {
     "desde": "2026-08-03",
     "hasta": "2026-10-05"
@@ -79,14 +79,14 @@
       "weekYear": "202641",
       "invMenos7": null,
       "compras": 0,
-      "vtasIzi": 0,
+      "vtasIzi": 9,
       "vtasAnc": 0,
       "vtasPY": 0,
       "vtasExt": 0,
       "vtasVegg": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 9,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -96,14 +96,14 @@
       "weekYear": "202641",
       "invMenos7": null,
       "compras": 0,
-      "vtasIzi": 0,
+      "vtasIzi": 4,
       "vtasAnc": 0,
       "vtasPY": 0,
       "vtasExt": 0,
       "vtasVegg": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 4,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -113,14 +113,14 @@
       "weekYear": "202641",
       "invMenos7": null,
       "compras": 0,
-      "vtasIzi": 0,
+      "vtasIzi": 4,
       "vtasAnc": 0,
       "vtasPY": 0,
       "vtasExt": 0,
       "vtasVegg": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 4,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -588,6 +588,39 @@
   "detalleDiario": [
     {
       "insumo": "Carne Molida 130g",
+      "fecha": "2026-10-05",
+      "dia": "lun",
+      "compras": 0,
+      "vtas": 9,
+      "salidas": 0,
+      "invEsperado": 0,
+      "invFin": null,
+      "dif": null
+    },
+    {
+      "insumo": "Pechuga de Pollo",
+      "fecha": "2026-10-05",
+      "dia": "lun",
+      "compras": 0,
+      "vtas": 4,
+      "salidas": 0,
+      "invEsperado": 0,
+      "invFin": null,
+      "dif": null
+    },
+    {
+      "insumo": "Pesca Amazonica",
+      "fecha": "2026-10-05",
+      "dia": "lun",
+      "compras": 0,
+      "vtas": 4,
+      "salidas": 0,
+      "invEsperado": 0,
+      "invFin": null,
+      "dif": null
+    },
+    {
+      "insumo": "Carne Molida 130g",
       "fecha": "2026-09-28",
       "dia": "lun",
       "compras": 0,
@@ -842,7 +875,7 @@
       },
       {
         "weekYear": "202641",
-        "valor": 0
+        "valor": 17
       }
     ],
     "Vtas Anc": [
@@ -998,7 +1031,7 @@
       },
       {
         "weekYear": "202641",
-        "valor": 0
+        "valor": 17
       }
     ],
     "Compras": [
@@ -1034,7 +1067,7 @@
     "filasInventariosUnitarios": 0,
     "filasCompras": 1523,
     "filasSalidas": 80,
-    "filasVentasIzi": 8324,
+    "filasVentasIzi": 8355,
     "filasVentasPY": 10777,
     "filasExtras": 16544,
     "filasMovInv": 385,

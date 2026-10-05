@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T12:31:37.815Z",
+  "generatedAt": "2026-10-05T20:53:03.209Z",
   "rangoFechas": {
     "desde": "2026-08-03",
     "hasta": "2026-10-05"
@@ -2044,15 +2044,15 @@
       "producto": "BENDITA PILS",
       "weekYear": "202640",
       "invMenos7": 9,
-      "compras": 0,
+      "compras": 12,
       "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 0,
       "inv": 21,
-      "cierre": 9,
-      "dif": 12
+      "cierre": 21,
+      "dif": 0
     },
     {
       "producto": "BLANC DE NOIR - CEPA DE ORO",
@@ -2954,7 +2954,7 @@
       "producto": "MARSELAN - ARSAL",
       "weekYear": "202640",
       "invMenos7": 5,
-      "compras": 0,
+      "compras": 1,
       "vtas": 4,
       "vtasExt": 0,
       "cortesias": 0,
@@ -3276,15 +3276,15 @@
       "producto": "SYRAH - TERRA ANCESTRAL",
       "weekYear": "202640",
       "invMenos7": 1,
-      "compras": 0,
+      "compras": 6,
       "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 0,
       "inv": 7,
-      "cierre": 1,
-      "dif": 6
+      "cierre": 7,
+      "dif": 0
     },
     {
       "producto": "TANNAT LADO B - JARDIN OCULTO",
@@ -3304,15 +3304,15 @@
       "producto": "TANNAT RAIZ - KOHLBERG",
       "weekYear": "202640",
       "invMenos7": 1,
-      "compras": 0,
+      "compras": 6,
       "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 0,
       "inv": 7,
-      "cierre": 1,
-      "dif": 6
+      "cierre": 7,
+      "dif": 0
     },
     {
       "producto": "TIERRA ROJA - MOSCATEL",
@@ -16734,6 +16734,19 @@
       "dif": null
     },
     {
+      "producto": "SYRAH - TERRA ANCESTRAL",
+      "fecha": "2026-09-30",
+      "dia": "mié",
+      "compras": 6,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 7,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "ALMA OCULTA - FORTIFICADO BLANCO",
       "fecha": "2026-10-01",
       "dia": "jue",
@@ -16851,6 +16864,19 @@
       "dif": null
     },
     {
+      "producto": "TANNAT RAIZ - KOHLBERG",
+      "fecha": "2026-10-01",
+      "dia": "jue",
+      "compras": 6,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 7,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "ALTOSAMA - BRUT",
       "fecha": "2026-10-02",
       "dia": "vie",
@@ -16958,12 +16984,12 @@
       "producto": "MARSELAN - ARSAL",
       "fecha": "2026-10-02",
       "dia": "vie",
-      "compras": 0,
+      "compras": 1,
       "vtas": 2,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 1,
-      "invEsperado": 0,
+      "invEsperado": 1,
       "invIniFin": null,
       "dif": null
     },
@@ -17016,6 +17042,19 @@
       "cortesias": 0,
       "salidas": 0,
       "invEsperado": 25,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "BENDITA PILS",
+      "fecha": "2026-10-03",
+      "dia": "sáb",
+      "compras": 12,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 21,
       "invIniFin": null,
       "dif": null
     },
@@ -17352,7 +17391,7 @@
       },
       {
         "weekYear": "202640",
-        "valor": 28
+        "valor": 53
       },
       {
         "weekYear": "202641",
@@ -17364,7 +17403,7 @@
     "ventasIziDisponibles": true,
     "filasApertura": 1414,
     "filasInventariosGs": 3905,
-    "filasCompras": 2299,
+    "filasCompras": 2304,
     "filasMatrizChuleton": 1,
     "filasVentasIzi": 6198,
     "filasMovInv": 369,

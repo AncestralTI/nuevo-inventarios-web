@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-04T21:30:55.904Z",
+  "generatedAt": "2026-10-05T00:08:30.979Z",
   "rangoFechas": {
-    "desde": "2026-07-27",
-    "hasta": "2026-10-04"
+    "desde": "2026-08-03",
+    "hasta": "2026-10-05"
   },
   "categorias": [
     "5. Bebidas alcohólicas",
@@ -41,6 +41,7 @@
     "UYUNI"
   ],
   "semanas": [
+    "202641",
     "202640",
     "202639",
     "202638",
@@ -49,10 +50,14 @@
     "202635",
     "202634",
     "202633",
-    "202632",
-    "202631"
+    "202632"
   ],
   "semanasInfo": [
+    {
+      "weekYear": "202641",
+      "desde": "2026-10-05",
+      "hasta": "2026-10-11"
+    },
     {
       "weekYear": "202640",
       "desde": "2026-09-28",
@@ -97,14 +102,415 @@
       "weekYear": "202632",
       "desde": "2026-08-03",
       "hasta": "2026-08-09"
-    },
-    {
-      "weekYear": "202631",
-      "desde": "2026-07-27",
-      "hasta": "2026-08-02"
     }
   ],
   "resumenSemanal": [
+    {
+      "producto": "BENDITA HOPPY",
+      "weekYear": "202641",
+      "invMenos7": 23,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 23,
+      "dif": null
+    },
+    {
+      "producto": "BENDITA IPA",
+      "weekYear": "202641",
+      "invMenos7": 17,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 17,
+      "dif": null
+    },
+    {
+      "producto": "BENDITA PILS",
+      "weekYear": "202641",
+      "invMenos7": 21,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 21,
+      "dif": null
+    },
+    {
+      "producto": "Cerveza",
+      "weekYear": "202641",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
+      "producto": "Cerveza Amstel 269 ml (pequeña)",
+      "weekYear": "202641",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
+      "producto": "Cerveza Amstel 473 ml (grande)",
+      "weekYear": "202641",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
+      "producto": "Cerveza Bendita Hoppy Lager",
+      "weekYear": "202641",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
+      "producto": "Cerveza Bendita IPA",
+      "weekYear": "202641",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
+      "producto": "Cerveza Huari",
+      "weekYear": "202641",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
+      "producto": "Cerveza Uyuni",
+      "weekYear": "202641",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
+      "producto": "Chop Bendita",
+      "weekYear": "202641",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
+      "producto": "Chop Cerveza",
+      "weekYear": "202641",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
+      "producto": "Chop Cerveza 2X1",
+      "weekYear": "202641",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
+      "producto": "COCA COLA",
+      "weekYear": "202641",
+      "invMenos7": 25,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 25,
+      "dif": null
+    },
+    {
+      "producto": "COCA COLA SIN AZUCAR",
+      "weekYear": "202641",
+      "invMenos7": 29,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 29,
+      "dif": null
+    },
+    {
+      "producto": "FANTA",
+      "weekYear": "202641",
+      "invMenos7": 17,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 17,
+      "dif": null
+    },
+    {
+      "producto": "HOPPY BARRIL",
+      "weekYear": "202641",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
+      "producto": "HUARI",
+      "weekYear": "202641",
+      "invMenos7": 26,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 26,
+      "dif": null
+    },
+    {
+      "producto": "MADERA \"LA KALOR\" GOSE",
+      "weekYear": "202641",
+      "invMenos7": 22,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 22,
+      "dif": null
+    },
+    {
+      "producto": "MADERA DOMINGA",
+      "weekYear": "202641",
+      "invMenos7": 23,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 23,
+      "dif": null
+    },
+    {
+      "producto": "POTOSINA 4000",
+      "weekYear": "202641",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
+      "producto": "POTOSINA DUNKELBERG",
+      "weekYear": "202641",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
+      "producto": "POTOSINA PILSNER",
+      "weekYear": "202641",
+      "invMenos7": 30,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 30,
+      "dif": null
+    },
+    {
+      "producto": "REBELION ALBA WEIZEN",
+      "weekYear": "202641",
+      "invMenos7": 8,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 8,
+      "dif": null
+    },
+    {
+      "producto": "REBELION OBSESSION IPA",
+      "weekYear": "202641",
+      "invMenos7": 18,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 18,
+      "dif": null
+    },
+    {
+      "producto": "SAN MIGUEL MATILDA PALE ALE",
+      "weekYear": "202641",
+      "invMenos7": 25,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 25,
+      "dif": null
+    },
+    {
+      "producto": "SAN MIGUEL SOLSTICIO",
+      "weekYear": "202641",
+      "invMenos7": 20,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 20,
+      "dif": null
+    },
+    {
+      "producto": "SPRITE",
+      "weekYear": "202641",
+      "invMenos7": 22,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 22,
+      "dif": null
+    },
+    {
+      "producto": "UYUNI",
+      "weekYear": "202641",
+      "invMenos7": 0,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
     {
       "producto": "BENDITA HOPPY",
       "weekYear": "202640",
@@ -297,9 +703,9 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 11,
-      "inv": 27,
+      "inv": 25,
       "cierre": 25,
-      "dif": 2
+      "dif": 0
     },
     {
       "producto": "COCA COLA SIN AZUCAR",
@@ -311,9 +717,9 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 12,
-      "inv": 28,
+      "inv": 29,
       "cierre": 29,
-      "dif": -1
+      "dif": 0
     },
     {
       "producto": "FANTA",
@@ -325,9 +731,9 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 0,
-      "inv": 16,
+      "inv": 17,
       "cierre": 17,
-      "dif": -1
+      "dif": 0
     },
     {
       "producto": "HOPPY BARRIL",
@@ -353,9 +759,9 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 5,
-      "inv": 25,
+      "inv": 26,
       "cierre": 27,
-      "dif": -2
+      "dif": -1
     },
     {
       "producto": "MADERA \"LA KALOR\" GOSE",
@@ -451,9 +857,9 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 0,
-      "inv": 19,
+      "inv": 18,
       "cierre": 18,
-      "dif": 1
+      "dif": 0
     },
     {
       "producto": "SAN MIGUEL MATILDA PALE ALE",
@@ -491,11 +897,11 @@
       "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 0,
+      "salidas": 2,
+      "vtasTot": 2,
       "inv": 22,
-      "cierre": 23,
-      "dif": -1
+      "cierre": 21,
+      "dif": 1
     },
     {
       "producto": "UYUNI",
@@ -3540,28 +3946,28 @@
       "weekYear": "202632",
       "invMenos7": 40,
       "compras": 12,
-      "vtas": 13,
+      "vtas": 11,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 13,
+      "vtasTot": 11,
       "inv": 39,
-      "cierre": 39,
-      "dif": 0
+      "cierre": 41,
+      "dif": -2
     },
     {
       "producto": "COCA COLA SIN AZUCAR",
       "weekYear": "202632",
       "invMenos7": 22,
       "compras": 42,
-      "vtas": 38,
+      "vtas": 33,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 1,
-      "vtasTot": 39,
+      "vtasTot": 34,
       "inv": 25,
-      "cierre": 25,
-      "dif": 0
+      "cierre": 30,
+      "dif": -5
     },
     {
       "producto": "FANTA",
@@ -3758,412 +4164,6 @@
       "inv": null,
       "cierre": 0,
       "dif": null
-    },
-    {
-      "producto": "BENDITA HOPPY",
-      "weekYear": "202631",
-      "invMenos7": 12,
-      "compras": 0,
-      "vtas": 0,
-      "vtasExt": 0,
-      "cortesias": 0,
-      "salidas": 1,
-      "vtasTot": 1,
-      "inv": 11,
-      "cierre": 11,
-      "dif": 0
-    },
-    {
-      "producto": "BENDITA IPA",
-      "weekYear": "202631",
-      "invMenos7": 32,
-      "compras": 0,
-      "vtas": 0,
-      "vtasExt": 0,
-      "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 0,
-      "inv": 30,
-      "cierre": 32,
-      "dif": -2
-    },
-    {
-      "producto": "BENDITA PILS",
-      "weekYear": "202631",
-      "invMenos7": 3,
-      "compras": 0,
-      "vtas": 0,
-      "vtasExt": 0,
-      "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 0,
-      "inv": 1,
-      "cierre": 3,
-      "dif": -2
-    },
-    {
-      "producto": "Cerveza",
-      "weekYear": "202631",
-      "invMenos7": null,
-      "compras": 0,
-      "vtas": 0,
-      "vtasExt": 0,
-      "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 0,
-      "inv": null,
-      "cierre": 0,
-      "dif": null
-    },
-    {
-      "producto": "Cerveza Amstel 269 ml (pequeña)",
-      "weekYear": "202631",
-      "invMenos7": null,
-      "compras": 0,
-      "vtas": 0,
-      "vtasExt": 0,
-      "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 0,
-      "inv": null,
-      "cierre": 0,
-      "dif": null
-    },
-    {
-      "producto": "Cerveza Amstel 473 ml (grande)",
-      "weekYear": "202631",
-      "invMenos7": null,
-      "compras": 0,
-      "vtas": 0,
-      "vtasExt": 0,
-      "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 0,
-      "inv": null,
-      "cierre": 0,
-      "dif": null
-    },
-    {
-      "producto": "Cerveza Bendita Hoppy Lager",
-      "weekYear": "202631",
-      "invMenos7": null,
-      "compras": 0,
-      "vtas": 0,
-      "vtasExt": 0,
-      "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 0,
-      "inv": null,
-      "cierre": 0,
-      "dif": null
-    },
-    {
-      "producto": "Cerveza Bendita IPA",
-      "weekYear": "202631",
-      "invMenos7": null,
-      "compras": 0,
-      "vtas": 0,
-      "vtasExt": 0,
-      "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 0,
-      "inv": null,
-      "cierre": 0,
-      "dif": null
-    },
-    {
-      "producto": "Cerveza Huari",
-      "weekYear": "202631",
-      "invMenos7": null,
-      "compras": 0,
-      "vtas": 0,
-      "vtasExt": 0,
-      "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 0,
-      "inv": null,
-      "cierre": 0,
-      "dif": null
-    },
-    {
-      "producto": "Cerveza Uyuni",
-      "weekYear": "202631",
-      "invMenos7": null,
-      "compras": 0,
-      "vtas": 0,
-      "vtasExt": 0,
-      "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 0,
-      "inv": null,
-      "cierre": 0,
-      "dif": null
-    },
-    {
-      "producto": "Chop Bendita",
-      "weekYear": "202631",
-      "invMenos7": null,
-      "compras": 0,
-      "vtas": 0,
-      "vtasExt": 0,
-      "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 0,
-      "inv": null,
-      "cierre": 0,
-      "dif": null
-    },
-    {
-      "producto": "Chop Cerveza",
-      "weekYear": "202631",
-      "invMenos7": null,
-      "compras": 0,
-      "vtas": 0,
-      "vtasExt": 0,
-      "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 0,
-      "inv": null,
-      "cierre": 0,
-      "dif": null
-    },
-    {
-      "producto": "Chop Cerveza 2X1",
-      "weekYear": "202631",
-      "invMenos7": null,
-      "compras": 0,
-      "vtas": 0,
-      "vtasExt": 0,
-      "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 0,
-      "inv": null,
-      "cierre": 0,
-      "dif": null
-    },
-    {
-      "producto": "COCA COLA",
-      "weekYear": "202631",
-      "invMenos7": 27,
-      "compras": 24,
-      "vtas": 0,
-      "vtasExt": 0,
-      "cortesias": 0,
-      "salidas": 1,
-      "vtasTot": 1,
-      "inv": 40,
-      "cierre": 50,
-      "dif": -10
-    },
-    {
-      "producto": "COCA COLA SIN AZUCAR",
-      "weekYear": "202631",
-      "invMenos7": 37,
-      "compras": 0,
-      "vtas": 0,
-      "vtasExt": 0,
-      "cortesias": 0,
-      "salidas": 1,
-      "vtasTot": 1,
-      "inv": 22,
-      "cierre": 36,
-      "dif": -14
-    },
-    {
-      "producto": "FANTA",
-      "weekYear": "202631",
-      "invMenos7": 22,
-      "compras": 0,
-      "vtas": 0,
-      "vtasExt": 0,
-      "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 0,
-      "inv": 22,
-      "cierre": 22,
-      "dif": 0
-    },
-    {
-      "producto": "HOPPY BARRIL",
-      "weekYear": "202631",
-      "invMenos7": null,
-      "compras": 0,
-      "vtas": 0,
-      "vtasExt": 0,
-      "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 0,
-      "inv": null,
-      "cierre": 0,
-      "dif": null
-    },
-    {
-      "producto": "HUARI",
-      "weekYear": "202631",
-      "invMenos7": 69,
-      "compras": 0,
-      "vtas": 0,
-      "vtasExt": 0,
-      "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 0,
-      "inv": 56,
-      "cierre": 69,
-      "dif": -13
-    },
-    {
-      "producto": "MADERA \"LA KALOR\" GOSE",
-      "weekYear": "202631",
-      "invMenos7": 15,
-      "compras": 0,
-      "vtas": 0,
-      "vtasExt": 0,
-      "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 0,
-      "inv": 15,
-      "cierre": 15,
-      "dif": 0
-    },
-    {
-      "producto": "MADERA DOMINGA",
-      "weekYear": "202631",
-      "invMenos7": 14,
-      "compras": 0,
-      "vtas": 0,
-      "vtasExt": 0,
-      "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 0,
-      "inv": 12,
-      "cierre": 14,
-      "dif": -2
-    },
-    {
-      "producto": "POTOSINA 4000",
-      "weekYear": "202631",
-      "invMenos7": null,
-      "compras": 0,
-      "vtas": 0,
-      "vtasExt": 0,
-      "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 0,
-      "inv": null,
-      "cierre": 0,
-      "dif": null
-    },
-    {
-      "producto": "POTOSINA DUNKELBERG",
-      "weekYear": "202631",
-      "invMenos7": null,
-      "compras": 0,
-      "vtas": 0,
-      "vtasExt": 0,
-      "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 0,
-      "inv": null,
-      "cierre": 0,
-      "dif": null
-    },
-    {
-      "producto": "POTOSINA PILSNER",
-      "weekYear": "202631",
-      "invMenos7": 23,
-      "compras": 0,
-      "vtas": 0,
-      "vtasExt": 0,
-      "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 0,
-      "inv": 20,
-      "cierre": 23,
-      "dif": -3
-    },
-    {
-      "producto": "REBELION ALBA WEIZEN",
-      "weekYear": "202631",
-      "invMenos7": 5,
-      "compras": 18,
-      "vtas": 0,
-      "vtasExt": 0,
-      "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 0,
-      "inv": 22,
-      "cierre": 23,
-      "dif": -1
-    },
-    {
-      "producto": "REBELION OBSESSION IPA",
-      "weekYear": "202631",
-      "invMenos7": 3,
-      "compras": 0,
-      "vtas": 0,
-      "vtasExt": 0,
-      "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 0,
-      "inv": 3,
-      "cierre": 3,
-      "dif": 0
-    },
-    {
-      "producto": "SAN MIGUEL MATILDA PALE ALE",
-      "weekYear": "202631",
-      "invMenos7": 11,
-      "compras": 0,
-      "vtas": 0,
-      "vtasExt": 0,
-      "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 0,
-      "inv": 11,
-      "cierre": 11,
-      "dif": 0
-    },
-    {
-      "producto": "SAN MIGUEL SOLSTICIO",
-      "weekYear": "202631",
-      "invMenos7": 7,
-      "compras": 0,
-      "vtas": 0,
-      "vtasExt": 0,
-      "cortesias": 0,
-      "salidas": 15,
-      "vtasTot": 15,
-      "inv": 20,
-      "cierre": 0,
-      "dif": 20
-    },
-    {
-      "producto": "SPRITE",
-      "weekYear": "202631",
-      "invMenos7": 19,
-      "compras": 0,
-      "vtas": 0,
-      "vtasExt": 0,
-      "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 0,
-      "inv": 17,
-      "cierre": 19,
-      "dif": -2
-    },
-    {
-      "producto": "UYUNI",
-      "weekYear": "202631",
-      "invMenos7": null,
-      "compras": 0,
-      "vtas": 0,
-      "vtasExt": 0,
-      "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 0,
-      "inv": null,
-      "cierre": 0,
-      "dif": null
     }
   ],
   "detalleDiario": [
@@ -4242,6 +4242,19 @@
       "cortesias": 0,
       "salidas": 0,
       "invEsperado": 39,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "SPRITE",
+      "fecha": "2026-10-01",
+      "dia": "jue",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 2,
+      "invEsperado": 21,
       "invIniFin": null,
       "dif": null
     },
@@ -4359,8 +4372,8 @@
       "cortesias": 0,
       "salidas": 0,
       "invEsperado": 25,
-      "invIniFin": 27,
-      "dif": 2
+      "invIniFin": 25,
+      "dif": 0
     },
     {
       "producto": "COCA COLA SIN AZUCAR",
@@ -4372,8 +4385,8 @@
       "cortesias": 0,
       "salidas": 0,
       "invEsperado": 29,
-      "invIniFin": 28,
-      "dif": -1
+      "invIniFin": 29,
+      "dif": 0
     },
     {
       "producto": "HUARI",
@@ -4385,8 +4398,8 @@
       "cortesias": 0,
       "salidas": 0,
       "invEsperado": 27,
-      "invIniFin": 25,
-      "dif": -2
+      "invIniFin": 26,
+      "dif": -1
     },
     {
       "producto": "MADERA \"LA KALOR\" GOSE",
@@ -4413,378 +4426,10 @@
       "invEsperado": 25,
       "invIniFin": 25,
       "dif": 0
-    },
-    {
-      "producto": "BENDITA IPA",
-      "fecha": "2026-09-22",
-      "dia": "mar",
-      "compras": 0,
-      "vtas": 5,
-      "vtasExt": 0,
-      "cortesias": 0,
-      "salidas": 0,
-      "invEsperado": 11,
-      "invIniFin": null,
-      "dif": null
-    },
-    {
-      "producto": "BENDITA PILS",
-      "fecha": "2026-09-22",
-      "dia": "mar",
-      "compras": 0,
-      "vtas": 4,
-      "vtasExt": 0,
-      "cortesias": 0,
-      "salidas": 0,
-      "invEsperado": 12,
-      "invIniFin": null,
-      "dif": null
-    },
-    {
-      "producto": "COCA COLA",
-      "fecha": "2026-09-22",
-      "dia": "mar",
-      "compras": 0,
-      "vtas": 2,
-      "vtasExt": 0,
-      "cortesias": 0,
-      "salidas": 1,
-      "invEsperado": 29,
-      "invIniFin": null,
-      "dif": null
-    },
-    {
-      "producto": "COCA COLA SIN AZUCAR",
-      "fecha": "2026-09-22",
-      "dia": "mar",
-      "compras": 0,
-      "vtas": 2,
-      "vtasExt": 0,
-      "cortesias": 0,
-      "salidas": 0,
-      "invEsperado": 36,
-      "invIniFin": null,
-      "dif": null
-    },
-    {
-      "producto": "HUARI",
-      "fecha": "2026-09-22",
-      "dia": "mar",
-      "compras": 48,
-      "vtas": 7,
-      "vtasExt": 0,
-      "cortesias": 0,
-      "salidas": 0,
-      "invEsperado": 41,
-      "invIniFin": null,
-      "dif": null
-    },
-    {
-      "producto": "SAN MIGUEL MATILDA PALE ALE",
-      "fecha": "2026-09-22",
-      "dia": "mar",
-      "compras": 24,
-      "vtas": 1,
-      "vtasExt": 0,
-      "cortesias": 0,
-      "salidas": 0,
-      "invEsperado": 26,
-      "invIniFin": null,
-      "dif": null
-    },
-    {
-      "producto": "SAN MIGUEL SOLSTICIO",
-      "fecha": "2026-09-22",
-      "dia": "mar",
-      "compras": 0,
-      "vtas": 2,
-      "vtasExt": 0,
-      "cortesias": 0,
-      "salidas": 0,
-      "invEsperado": 20,
-      "invIniFin": null,
-      "dif": null
-    },
-    {
-      "producto": "COCA COLA",
-      "fecha": "2026-09-23",
-      "dia": "mié",
-      "compras": 24,
-      "vtas": 0,
-      "vtasExt": 0,
-      "cortesias": 0,
-      "salidas": 0,
-      "invEsperado": 53,
-      "invIniFin": null,
-      "dif": null
-    },
-    {
-      "producto": "COCA COLA SIN AZUCAR",
-      "fecha": "2026-09-23",
-      "dia": "mié",
-      "compras": 18,
-      "vtas": 4,
-      "vtasExt": 0,
-      "cortesias": 0,
-      "salidas": 0,
-      "invEsperado": 50,
-      "invIniFin": null,
-      "dif": null
-    },
-    {
-      "producto": "HUARI",
-      "fecha": "2026-09-23",
-      "dia": "mié",
-      "compras": 0,
-      "vtas": 1,
-      "vtasExt": 0,
-      "cortesias": 0,
-      "salidas": 0,
-      "invEsperado": 40,
-      "invIniFin": null,
-      "dif": null
-    },
-    {
-      "producto": "COCA COLA",
-      "fecha": "2026-09-24",
-      "dia": "jue",
-      "compras": 0,
-      "vtas": 4,
-      "vtasExt": 0,
-      "cortesias": 0,
-      "salidas": 0,
-      "invEsperado": 49,
-      "invIniFin": null,
-      "dif": null
-    },
-    {
-      "producto": "COCA COLA SIN AZUCAR",
-      "fecha": "2026-09-24",
-      "dia": "jue",
-      "compras": 0,
-      "vtas": 1,
-      "vtasExt": 0,
-      "cortesias": 0,
-      "salidas": 0,
-      "invEsperado": 49,
-      "invIniFin": null,
-      "dif": null
-    },
-    {
-      "producto": "BENDITA IPA",
-      "fecha": "2026-09-25",
-      "dia": "vie",
-      "compras": 0,
-      "vtas": 1,
-      "vtasExt": 0,
-      "cortesias": 0,
-      "salidas": 0,
-      "invEsperado": 10,
-      "invIniFin": null,
-      "dif": null
-    },
-    {
-      "producto": "COCA COLA",
-      "fecha": "2026-09-25",
-      "dia": "vie",
-      "compras": 0,
-      "vtas": 3,
-      "vtasExt": 0,
-      "cortesias": 0,
-      "salidas": 1,
-      "invEsperado": 45,
-      "invIniFin": null,
-      "dif": null
-    },
-    {
-      "producto": "COCA COLA SIN AZUCAR",
-      "fecha": "2026-09-25",
-      "dia": "vie",
-      "compras": 0,
-      "vtas": 1,
-      "vtasExt": 0,
-      "cortesias": 0,
-      "salidas": 0,
-      "invEsperado": 48,
-      "invIniFin": null,
-      "dif": null
-    },
-    {
-      "producto": "HUARI",
-      "fecha": "2026-09-25",
-      "dia": "vie",
-      "compras": 0,
-      "vtas": 4,
-      "vtasExt": 0,
-      "cortesias": 0,
-      "salidas": 0,
-      "invEsperado": 36,
-      "invIniFin": null,
-      "dif": null
-    },
-    {
-      "producto": "REBELION OBSESSION IPA",
-      "fecha": "2026-09-25",
-      "dia": "vie",
-      "compras": 18,
-      "vtas": 0,
-      "vtasExt": 0,
-      "cortesias": 0,
-      "salidas": 0,
-      "invEsperado": 18,
-      "invIniFin": null,
-      "dif": null
-    },
-    {
-      "producto": "BENDITA IPA",
-      "fecha": "2026-09-26",
-      "dia": "sáb",
-      "compras": 0,
-      "vtas": 2,
-      "vtasExt": 0,
-      "cortesias": 0,
-      "salidas": 0,
-      "invEsperado": 8,
-      "invIniFin": null,
-      "dif": null
-    },
-    {
-      "producto": "COCA COLA",
-      "fecha": "2026-09-26",
-      "dia": "sáb",
-      "compras": 0,
-      "vtas": 6,
-      "vtasExt": 0,
-      "cortesias": 0,
-      "salidas": 1,
-      "invEsperado": 38,
-      "invIniFin": null,
-      "dif": null
-    },
-    {
-      "producto": "COCA COLA SIN AZUCAR",
-      "fecha": "2026-09-26",
-      "dia": "sáb",
-      "compras": 0,
-      "vtas": 1,
-      "vtasExt": 0,
-      "cortesias": 0,
-      "salidas": 0,
-      "invEsperado": 47,
-      "invIniFin": null,
-      "dif": null
-    },
-    {
-      "producto": "HUARI",
-      "fecha": "2026-09-26",
-      "dia": "sáb",
-      "compras": 0,
-      "vtas": 1,
-      "vtasExt": 0,
-      "cortesias": 0,
-      "salidas": 0,
-      "invEsperado": 35,
-      "invIniFin": null,
-      "dif": null
-    },
-    {
-      "producto": "POTOSINA PILSNER",
-      "fecha": "2026-09-26",
-      "dia": "sáb",
-      "compras": 0,
-      "vtas": 1,
-      "vtasExt": 0,
-      "cortesias": 0,
-      "salidas": 0,
-      "invEsperado": 31,
-      "invIniFin": null,
-      "dif": null
-    },
-    {
-      "producto": "BENDITA HOPPY",
-      "fecha": "2026-09-27",
-      "dia": "dom",
-      "compras": 0,
-      "vtas": 1,
-      "vtasExt": 0,
-      "cortesias": 0,
-      "salidas": 0,
-      "invEsperado": 26,
-      "invIniFin": 26,
-      "dif": 0
-    },
-    {
-      "producto": "BENDITA PILS",
-      "fecha": "2026-09-27",
-      "dia": "dom",
-      "compras": 0,
-      "vtas": 2,
-      "vtasExt": 0,
-      "cortesias": 0,
-      "salidas": 1,
-      "invEsperado": 9,
-      "invIniFin": 9,
-      "dif": 0
-    },
-    {
-      "producto": "COCA COLA",
-      "fecha": "2026-09-27",
-      "dia": "dom",
-      "compras": 0,
-      "vtas": 2,
-      "vtasExt": 0,
-      "cortesias": 0,
-      "salidas": 0,
-      "invEsperado": 36,
-      "invIniFin": 36,
-      "dif": 0
-    },
-    {
-      "producto": "COCA COLA SIN AZUCAR",
-      "fecha": "2026-09-27",
-      "dia": "dom",
-      "compras": 0,
-      "vtas": 6,
-      "vtasExt": 0,
-      "cortesias": 0,
-      "salidas": 0,
-      "invEsperado": 41,
-      "invIniFin": 41,
-      "dif": 0
-    },
-    {
-      "producto": "HUARI",
-      "fecha": "2026-09-27",
-      "dia": "dom",
-      "compras": 0,
-      "vtas": 3,
-      "vtasExt": 0,
-      "cortesias": 0,
-      "salidas": 0,
-      "invEsperado": 32,
-      "invIniFin": 32,
-      "dif": 0
-    },
-    {
-      "producto": "MADERA \"LA KALOR\" GOSE",
-      "fecha": "2026-09-27",
-      "dia": "dom",
-      "compras": 0,
-      "vtas": 1,
-      "vtasExt": 0,
-      "cortesias": 0,
-      "salidas": 0,
-      "invEsperado": 24,
-      "invIniFin": 24,
-      "dif": 0
     }
   ],
   "serieSemanal": {
     "Vtas": [
-      {
-        "weekYear": "202635",
-        "valor": 82
-      },
       {
         "weekYear": "202636",
         "valor": 64
@@ -4804,13 +4449,13 @@
       {
         "weekYear": "202640",
         "valor": 38
+      },
+      {
+        "weekYear": "202641",
+        "valor": 0
       }
     ],
     "Vtas Ext": [
-      {
-        "weekYear": "202635",
-        "valor": 2
-      },
       {
         "weekYear": "202636",
         "valor": 0
@@ -4829,15 +4474,15 @@
       },
       {
         "weekYear": "202640",
+        "valor": 0
+      },
+      {
+        "weekYear": "202641",
         "valor": 0
       }
     ],
     "Cortesias": [
       {
-        "weekYear": "202635",
-        "valor": 0
-      },
-      {
         "weekYear": "202636",
         "valor": 0
       },
@@ -4856,13 +4501,13 @@
       {
         "weekYear": "202640",
         "valor": 0
+      },
+      {
+        "weekYear": "202641",
+        "valor": 0
       }
     ],
     "Vtas Tot": [
-      {
-        "weekYear": "202635",
-        "valor": 85
-      },
       {
         "weekYear": "202636",
         "valor": 65
@@ -4881,14 +4526,14 @@
       },
       {
         "weekYear": "202640",
-        "valor": 38
+        "valor": 40
+      },
+      {
+        "weekYear": "202641",
+        "valor": 0
       }
     ],
     "Salidas": [
-      {
-        "weekYear": "202635",
-        "valor": 1
-      },
       {
         "weekYear": "202636",
         "valor": 1
@@ -4907,14 +4552,14 @@
       },
       {
         "weekYear": "202640",
+        "valor": 2
+      },
+      {
+        "weekYear": "202641",
         "valor": 0
       }
     ],
     "Compras": [
-      {
-        "weekYear": "202635",
-        "valor": 156
-      },
       {
         "weekYear": "202636",
         "valor": 94
@@ -4934,17 +4579,21 @@
       {
         "weekYear": "202640",
         "valor": 12
+      },
+      {
+        "weekYear": "202641",
+        "valor": 0
       }
     ]
   },
   "meta": {
     "ventasIziDisponibles": true,
-    "filasApertura": 1407,
+    "filasApertura": 1414,
     "filasInventariosGs": 3905,
     "filasCompras": 2299,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 6316,
-    "filasMovInv": 385,
+    "filasVentasIzi": 6198,
+    "filasMovInv": 369,
     "filasDimProducto": 447,
     "warnings": []
   }

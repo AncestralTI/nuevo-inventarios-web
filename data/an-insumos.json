@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T15:02:53.441Z",
+  "generatedAt": "2026-10-06T20:11:26.599Z",
   "rangoFechas": {
     "desde": "2026-08-03",
     "hasta": "2026-10-06"
@@ -210,23 +210,23 @@
       "weekYear": "202641",
       "invMenos7": 11,
       "compras": 40,
-      "vtas": 0,
+      "vtas": 2,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 2,
       "inv": null,
-      "cierre": 51,
+      "cierre": 49,
       "dif": null
     },
     {
       "insumo": "Pechuga de pollo",
       "weekYear": "202641",
       "invMenos7": 20,
-      "compras": 0,
+      "compras": 8,
       "vtas": 0,
       "salidas": 0,
       "vtasTot": 0,
       "inv": null,
-      "cierre": 20,
+      "cierre": 28,
       "dif": null
     },
     {
@@ -1780,6 +1780,30 @@
       "dif": null
     },
     {
+      "insumo": "Pato",
+      "fecha": "2026-10-06",
+      "dia": "mar",
+      "compras": 0,
+      "vtas": 2,
+      "salidas": 0,
+      "invEsperado": 38,
+      "invIni": null,
+      "invFin": null,
+      "dif": null
+    },
+    {
+      "insumo": "Pechuga de pollo",
+      "fecha": "2026-10-06",
+      "dia": "mar",
+      "compras": 8,
+      "vtas": 0,
+      "salidas": 0,
+      "invEsperado": 8,
+      "invIni": null,
+      "invFin": null,
+      "dif": null
+    },
+    {
       "insumo": "Chuleton",
       "fecha": "2026-09-29",
       "dia": "mar",
@@ -2620,7 +2644,7 @@
       },
       {
         "weekYear": "202641",
-        "valor": 0
+        "valor": 2
       }
     ],
     "Salidas": [
@@ -2672,7 +2696,7 @@
       },
       {
         "weekYear": "202641",
-        "valor": 0
+        "valor": 2
       }
     ],
     "Compras (Un)": [
@@ -2698,16 +2722,16 @@
       },
       {
         "weekYear": "202641",
-        "valor": 40
+        "valor": 48
       }
     ]
   },
   "meta": {
     "ventasIziDisponibles": true,
-    "filasCompras": 2304,
+    "filasCompras": 2306,
     "filasSalidas": 873,
     "filasMatriz": 22,
     "filasInventarios": 423,
-    "filasVentasIzi": 6159
+    "filasVentasIzi": 6167
   }
 }

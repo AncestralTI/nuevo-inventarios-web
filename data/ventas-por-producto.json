@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T15:04:06.576Z",
+  "generatedAt": "2026-10-06T20:12:38.837Z",
   "fuente": "API iZi Soluciones (facturas + items-inventarios), sucursal Ancestral (79344)",
   "rango": {
     "desde": "2026-09-06",
@@ -10421,6 +10421,70 @@
       "fecha": "2026-10-04",
       "cantidad": 1,
       "monto": 120
+    },
+    {
+      "codProducto": "ANC00281",
+      "producto": "CUARTO PATO CONFITADO",
+      "categoria": "FUERTES",
+      "fecha": "2026-10-06",
+      "cantidad": 2,
+      "monto": 280
+    },
+    {
+      "codProducto": "ANC00080",
+      "producto": "PORCIÓN ARROZ C/ QUESO",
+      "categoria": "GUARNICIONES",
+      "fecha": "2026-10-06",
+      "cantidad": 1,
+      "monto": 45
+    },
+    {
+      "codProducto": "ANC00002",
+      "producto": "AGUA S/G",
+      "categoria": "AGUAS",
+      "fecha": "2026-10-06",
+      "cantidad": 1,
+      "monto": 12
+    },
+    {
+      "codProducto": "ANC00001",
+      "producto": "AGUA C/G",
+      "categoria": "AGUAS",
+      "fecha": "2026-10-06",
+      "cantidad": 1,
+      "monto": 15
+    },
+    {
+      "codProducto": "ANC00328",
+      "producto": "PAVLOVA DE PIÑA A LA BRASA",
+      "categoria": "COMIDAS",
+      "fecha": "2026-10-06",
+      "cantidad": 1,
+      "monto": 50
+    },
+    {
+      "codProducto": "ANC00051",
+      "producto": "INFUSION MANZANILLA - CEDRON",
+      "categoria": "BEBIDAS CALIENTES",
+      "fecha": "2026-10-06",
+      "cantidad": 1,
+      "monto": 15
+    },
+    {
+      "codProducto": "ANC00047",
+      "producto": "ESPRESSO",
+      "categoria": "BEBIDAS CALIENTES",
+      "fecha": "2026-10-06",
+      "cantidad": 1,
+      "monto": 15
+    },
+    {
+      "codProducto": "ANC00280",
+      "producto": "COPA TANNAT RAIZ - KOHLBERG",
+      "categoria": "VINOS POR COPA",
+      "fecha": "2026-10-06",
+      "cantidad": 2,
+      "monto": 90
     }
   ]
 }

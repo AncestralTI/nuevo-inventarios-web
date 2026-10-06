@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-05T20:53:13.495Z",
+  "generatedAt": "2026-10-06T01:31:09.946Z",
   "rangoFechas": {
     "desde": "2026-08-03",
-    "hasta": "2026-10-05"
+    "hasta": "2026-10-06"
   },
   "categorias": [
     "5. Bebidas alcohólicas",
@@ -3946,28 +3946,28 @@
       "weekYear": "202632",
       "invMenos7": 40,
       "compras": 12,
-      "vtas": 11,
+      "vtas": 7,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 11,
+      "vtasTot": 7,
       "inv": 39,
-      "cierre": 41,
-      "dif": -2
+      "cierre": 45,
+      "dif": -6
     },
     {
       "producto": "COCA COLA SIN AZUCAR",
       "weekYear": "202632",
       "invMenos7": 22,
       "compras": 42,
-      "vtas": 33,
+      "vtas": 28,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 1,
-      "vtasTot": 34,
+      "vtasTot": 29,
       "inv": 25,
-      "cierre": 30,
-      "dif": -5
+      "cierre": 35,
+      "dif": -10
     },
     {
       "producto": "FANTA",
@@ -4605,8 +4605,8 @@
     "filasInventariosGs": 3905,
     "filasCompras": 2304,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 6198,
-    "filasMovInv": 369,
+    "filasVentasIzi": 6159,
+    "filasMovInv": 346,
     "filasDimProducto": 447,
     "warnings": []
   }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T17:32:39.467Z",
+  "generatedAt": "2026-10-07T22:15:27.903Z",
   "rangoFechas": {
     "desde": "2026-08-03",
     "hasta": "2026-10-07"
@@ -415,14 +415,14 @@
       "weekYear": "202641",
       "invMenos7": 176,
       "compras": 0,
-      "vtasIzi": 0,
+      "vtasIzi": 1,
       "vtasExt": 13,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 13,
+      "vtasTot": 14,
       "inv": null,
-      "cierre": 163,
+      "cierre": 162,
       "dif": null
     },
     {
@@ -7762,6 +7762,20 @@
       "dif": null
     },
     {
+      "producto": "Coca Zero",
+      "fecha": "2026-10-07",
+      "dia": "mié",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 162,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "Fanta",
       "fecha": "2026-10-07",
       "dia": "mié",
@@ -9228,7 +9242,7 @@
       },
       {
         "weekYear": "202641",
-        "valor": 21.75
+        "valor": 22.75
       }
     ],
     "Vtas Ext.": [
@@ -9306,7 +9320,7 @@
       },
       {
         "weekYear": "202641",
-        "valor": 88.75
+        "valor": 89.75
       }
     ],
     "Compras": [
@@ -9340,9 +9354,9 @@
     "ventasIziDisponibles": true,
     "filasDimProducto": 447,
     "filasInventariosOmuh": 407,
-    "filasCompras": 1533,
+    "filasCompras": 1534,
     "filasSalidas": 80,
-    "filasVentasIzi": 8164,
+    "filasVentasIzi": 8171,
     "filasVentasPY": 10796,
     "filasExtras": 16654,
     "filasMovInv": 349,

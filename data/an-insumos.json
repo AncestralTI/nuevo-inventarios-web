@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T17:31:34.275Z",
+  "generatedAt": "2026-10-07T22:14:19.015Z",
   "rangoFechas": {
     "desde": "2026-08-03",
     "hasta": "2026-10-07"
@@ -161,12 +161,12 @@
       "insumo": "Ojo de bife",
       "weekYear": "202641",
       "invMenos7": 36,
-      "compras": 0,
+      "compras": 33,
       "vtas": 10,
       "salidas": 0,
       "vtasTot": 10,
       "inv": null,
-      "cierre": 26,
+      "cierre": 59,
       "dif": null
     },
     {
@@ -1924,6 +1924,18 @@
       "dif": null
     },
     {
+      "insumo": "Ojo de bife",
+      "fecha": "2026-10-07",
+      "dia": "mié",
+      "compras": 33,
+      "vtas": 0,
+      "salidas": 0,
+      "invEsperado": 23,
+      "invIni": null,
+      "invFin": null,
+      "dif": null
+    },
+    {
       "insumo": "Trucha",
       "fecha": "2026-10-07",
       "dia": "mié",
@@ -2854,13 +2866,13 @@
       },
       {
         "weekYear": "202641",
-        "valor": 104
+        "valor": 137
       }
     ]
   },
   "meta": {
     "ventasIziDisponibles": true,
-    "filasCompras": 2317,
+    "filasCompras": 2318,
     "filasSalidas": 874,
     "filasMatriz": 22,
     "filasInventarios": 423,

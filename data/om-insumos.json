@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T17:32:27.165Z",
+  "generatedAt": "2026-10-07T22:15:12.405Z",
   "rangoFechas": {
     "desde": "2026-08-03",
     "hasta": "2026-10-07"
@@ -78,17 +78,17 @@
       "insumo": "Carne Molida 130g",
       "weekYear": "202641",
       "invMenos7": null,
-      "compras": 0,
-      "vtasIzi": 90,
+      "compras": 523,
+      "vtasIzi": 92.5,
       "vtasAnc": 0,
       "vtasPY": 7,
       "vtasExt": 0,
       "vtasVegg": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 97,
+      "vtasTot": 99.5,
       "inv": null,
-      "cierre": 0,
+      "cierre": 423.5,
       "dif": null
     },
     {
@@ -656,10 +656,10 @@
       "insumo": "Carne Molida 130g",
       "fecha": "2026-10-07",
       "dia": "mié",
-      "compras": 0,
-      "vtas": 0.5,
+      "compras": 523,
+      "vtas": 3,
       "salidas": 0,
-      "invEsperado": 0,
+      "invEsperado": 430.5,
       "invFin": null,
       "dif": null
     },
@@ -941,7 +941,7 @@
       },
       {
         "weekYear": "202641",
-        "valor": 109
+        "valor": 111.5
       }
     ],
     "Vtas Anc": [
@@ -1097,7 +1097,7 @@
       },
       {
         "weekYear": "202641",
-        "valor": 118
+        "valor": 120.5
       }
     ],
     "Compras": [
@@ -1123,7 +1123,7 @@
       },
       {
         "weekYear": "202641",
-        "valor": 95
+        "valor": 618
       }
     ]
   },
@@ -1131,9 +1131,9 @@
     "ventasIziDisponibles": true,
     "filasDimProducto": 447,
     "filasInventariosUnitarios": 0,
-    "filasCompras": 1533,
+    "filasCompras": 1534,
     "filasSalidas": 80,
-    "filasVentasIzi": 8164,
+    "filasVentasIzi": 8171,
     "filasVentasPY": 10796,
     "filasExtras": 16654,
     "filasMovInv": 349,

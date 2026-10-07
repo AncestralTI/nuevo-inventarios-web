@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-06T23:51:01.207Z",
+  "generatedAt": "2026-10-07T03:32:09.159Z",
   "rangoFechas": {
     "desde": "2026-08-03",
-    "hasta": "2026-10-06"
+    "hasta": "2026-10-07"
   },
   "categorias": [
     "CERVEZA",
@@ -393,13 +393,13 @@
       "weekYear": "202641",
       "invMenos7": 23,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 23,
+      "cierre": 22,
       "dif": null
     },
     {
@@ -799,11 +799,11 @@
       "weekYear": "202641",
       "invMenos7": null,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 2,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 2,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -1079,13 +1079,13 @@
       "weekYear": "202641",
       "invMenos7": 26,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 26,
+      "cierre": 25,
       "dif": null
     },
     {
@@ -1289,13 +1289,13 @@
       "weekYear": "202641",
       "invMenos7": 2,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 2,
+      "cierre": 1,
       "dif": null
     },
     {
@@ -1359,13 +1359,13 @@
       "weekYear": "202641",
       "invMenos7": 1,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 1,
+      "cierre": 0,
       "dif": null
     },
     {
@@ -1527,13 +1527,13 @@
       "weekYear": "202641",
       "invMenos7": 25,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 25,
+      "cierre": 24,
       "dif": null
     },
     {
@@ -1653,13 +1653,13 @@
       "weekYear": "202641",
       "invMenos7": 7,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 2,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 2,
       "inv": null,
-      "cierre": 7,
+      "cierre": 5,
       "dif": null
     },
     {
@@ -1681,13 +1681,13 @@
       "weekYear": "202641",
       "invMenos7": 7,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 2,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 2,
       "inv": null,
-      "cierre": 7,
+      "cierre": 5,
       "dif": null
     },
     {
@@ -15177,14 +15177,14 @@
       "weekYear": "202632",
       "invMenos7": 4,
       "compras": 2,
-      "vtas": 1,
+      "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 2,
-      "vtasTot": 3,
+      "vtasTot": 2,
       "inv": 3,
-      "cierre": 3,
-      "dif": 0
+      "cierre": 4,
+      "dif": -1
     },
     {
       "producto": "CEPA DE ORO - MISIONERA",
@@ -15597,11 +15597,11 @@
       "weekYear": "202632",
       "invMenos7": null,
       "compras": 0,
-      "vtas": 1,
+      "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 1,
+      "vtasTot": 0,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -15905,14 +15905,14 @@
       "weekYear": "202632",
       "invMenos7": 4,
       "compras": 0,
-      "vtas": 2,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 1,
-      "vtasTot": 3,
+      "vtasTot": 2,
       "inv": 1,
-      "cierre": 1,
-      "dif": 0
+      "cierre": 2,
+      "dif": -1
     },
     {
       "producto": "MAGNUS SANGIOVESE",
@@ -15933,14 +15933,14 @@
       "weekYear": "202632",
       "invMenos7": 4,
       "compras": 0,
-      "vtas": 1,
+      "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 1,
-      "vtasTot": 2,
+      "vtasTot": 1,
       "inv": 8,
-      "cierre": 2,
-      "dif": 6
+      "cierre": 3,
+      "dif": 5
     },
     {
       "producto": "MARSELAN - ARSAL",
@@ -16101,14 +16101,14 @@
       "weekYear": "202632",
       "invMenos7": 20,
       "compras": 0,
-      "vtas": 9,
+      "vtas": 8,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 9,
+      "vtasTot": 8,
       "inv": 11,
-      "cierre": 11,
-      "dif": 0
+      "cierre": 12,
+      "dif": -1
     },
     {
       "producto": "REBELION ALBA WEIZEN",
@@ -16367,14 +16367,14 @@
       "weekYear": "202632",
       "invMenos7": 4,
       "compras": 0,
-      "vtas": 1,
+      "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 1,
+      "vtasTot": 0,
       "inv": 3,
-      "cierre": 3,
-      "dif": 0
+      "cierre": 4,
+      "dif": -1
     },
     {
       "producto": "UYUNI",
@@ -16409,14 +16409,14 @@
       "weekYear": "202632",
       "invMenos7": 6,
       "compras": 0,
-      "vtas": 1,
+      "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 1,
+      "vtasTot": 0,
       "inv": 5,
-      "cierre": 5,
-      "dif": 0
+      "cierre": 6,
+      "dif": -1
     },
     {
       "producto": "VISCHOQUEÑA - YOKICH",
@@ -16434,6 +16434,110 @@
     }
   ],
   "detalleDiario": [
+    {
+      "producto": "BENDITA HOPPY",
+      "fecha": "2026-10-06",
+      "dia": "mar",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 22,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "COPA MARSELAN - ARSAL",
+      "fecha": "2026-10-06",
+      "dia": "mar",
+      "compras": 0,
+      "vtas": 2,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 0,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "HUARI",
+      "fecha": "2026-10-06",
+      "dia": "mar",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 25,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "MAGNUS - MERLOT",
+      "fecha": "2026-10-06",
+      "dia": "mar",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 1,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "MEMENTO MORI - TELLUS",
+      "fecha": "2026-10-06",
+      "dia": "mar",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 0,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "SAN MIGUEL MATILDA PALE ALE",
+      "fecha": "2026-10-06",
+      "dia": "mar",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 24,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "SYRAH - TERRA ANCESTRAL",
+      "fecha": "2026-10-06",
+      "dia": "mar",
+      "compras": 0,
+      "vtas": 2,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 5,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "TANNAT RAIZ - KOHLBERG",
+      "fecha": "2026-10-06",
+      "dia": "mar",
+      "compras": 0,
+      "vtas": 2,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 5,
+      "invIniFin": null,
+      "dif": null
+    },
     {
       "producto": "ALTOSAMA - BRUT",
       "fecha": "2026-09-29",
@@ -17265,7 +17369,7 @@
       },
       {
         "weekYear": "202641",
-        "valor": 0
+        "valor": 11
       }
     ],
     "Vtas Ext": [
@@ -17343,7 +17447,7 @@
       },
       {
         "weekYear": "202641",
-        "valor": 0
+        "valor": 11
       }
     ],
     "Salidas": [
@@ -17401,12 +17505,12 @@
   },
   "meta": {
     "ventasIziDisponibles": true,
-    "filasApertura": 1414,
+    "filasApertura": 1413,
     "filasInventariosGs": 3905,
     "filasCompras": 2312,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 6167,
-    "filasMovInv": 347,
+    "filasVentasIzi": 6069,
+    "filasMovInv": 328,
     "filasDimProducto": 447,
     "warnings": []
   }

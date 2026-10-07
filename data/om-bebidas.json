@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T10:33:40.240Z",
+  "generatedAt": "2026-10-07T17:32:39.467Z",
   "rangoFechas": {
     "desde": "2026-08-03",
     "hasta": "2026-10-07"
@@ -129,7 +129,7 @@
       "producto": "Agua",
       "weekYear": "202641",
       "invMenos7": 42,
-      "compras": 0,
+      "compras": 24,
       "vtasIzi": 8,
       "vtasExt": 4,
       "vtasPY": 0,
@@ -137,7 +137,7 @@
       "salidas": 0,
       "vtasTot": 12,
       "inv": null,
-      "cierre": 30,
+      "cierre": 54,
       "dif": null
     },
     {
@@ -354,7 +354,7 @@
       "producto": "Coca Cola",
       "weekYear": "202641",
       "invMenos7": null,
-      "compras": 0,
+      "compras": 102,
       "vtasIzi": 3,
       "vtasExt": 0,
       "vtasPY": 0,
@@ -362,7 +362,7 @@
       "salidas": 0,
       "vtasTot": 3,
       "inv": null,
-      "cierre": 0,
+      "cierre": 99,
       "dif": null
     },
     {
@@ -444,15 +444,15 @@
       "producto": "Fanta",
       "weekYear": "202641",
       "invMenos7": null,
-      "compras": 0,
-      "vtasIzi": 2,
+      "compras": 24,
+      "vtasIzi": 3,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 2,
+      "vtasTot": 3,
       "inv": null,
-      "cierre": 0,
+      "cierre": 21,
       "dif": null
     },
     {
@@ -489,7 +489,7 @@
       "producto": "Fanta Papaya",
       "weekYear": "202641",
       "invMenos7": 17,
-      "compras": 0,
+      "compras": 24,
       "vtasIzi": 0,
       "vtasExt": 1,
       "vtasPY": 0,
@@ -497,7 +497,7 @@
       "salidas": 0,
       "vtasTot": 1,
       "inv": null,
-      "cierre": 16,
+      "cierre": 40,
       "dif": null
     },
     {
@@ -789,7 +789,7 @@
       "producto": "Sprite",
       "weekYear": "202641",
       "invMenos7": null,
-      "compras": 0,
+      "compras": 36,
       "vtasIzi": 1,
       "vtasExt": 0,
       "vtasPY": 0,
@@ -797,7 +797,7 @@
       "salidas": 0,
       "vtasTot": 1,
       "inv": null,
-      "cierre": 0,
+      "cierre": 35,
       "dif": null
     },
     {
@@ -7735,6 +7735,76 @@
     },
     {
       "producto": "Agua",
+      "fecha": "2026-10-07",
+      "dia": "mié",
+      "compras": 24,
+      "vtas": 0,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 54,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "Coca Cola",
+      "fecha": "2026-10-07",
+      "dia": "mié",
+      "compras": 102,
+      "vtas": 0,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 99,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "Fanta",
+      "fecha": "2026-10-07",
+      "dia": "mié",
+      "compras": 24,
+      "vtas": 1,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 21,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "Fanta Papaya",
+      "fecha": "2026-10-07",
+      "dia": "mié",
+      "compras": 24,
+      "vtas": 0,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 40,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "Sprite",
+      "fecha": "2026-10-07",
+      "dia": "mié",
+      "compras": 36,
+      "vtas": 0,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 35,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "Agua",
       "fecha": "2026-09-28",
       "dia": "lun",
       "compras": 0,
@@ -9158,7 +9228,7 @@
       },
       {
         "weekYear": "202641",
-        "valor": 20.75
+        "valor": 21.75
       }
     ],
     "Vtas Ext.": [
@@ -9236,7 +9306,7 @@
       },
       {
         "weekYear": "202641",
-        "valor": 87.75
+        "valor": 88.75
       }
     ],
     "Compras": [
@@ -9262,7 +9332,7 @@
       },
       {
         "weekYear": "202641",
-        "valor": 0
+        "valor": 210
       }
     ]
   },
@@ -9270,9 +9340,9 @@
     "ventasIziDisponibles": true,
     "filasDimProducto": 447,
     "filasInventariosOmuh": 407,
-    "filasCompras": 1527,
+    "filasCompras": 1533,
     "filasSalidas": 80,
-    "filasVentasIzi": 8155,
+    "filasVentasIzi": 8164,
     "filasVentasPY": 10796,
     "filasExtras": 16654,
     "filasMovInv": 349,

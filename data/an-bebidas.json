@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T10:33:07.950Z",
+  "generatedAt": "2026-10-07T17:31:56.346Z",
   "rangoFechas": {
     "desde": "2026-08-03",
     "hasta": "2026-10-07"
@@ -291,14 +291,14 @@
       "producto": "COCA COLA",
       "weekYear": "202641",
       "invMenos7": 25,
-      "compras": 0,
+      "compras": 24,
       "vtas": 3,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 3,
       "inv": null,
-      "cierre": 22,
+      "cierre": 46,
       "dif": null
     },
     {
@@ -4234,6 +4234,19 @@
     },
     {
       "producto": "COCA COLA",
+      "fecha": "2026-10-07",
+      "dia": "mié",
+      "compras": 24,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 46,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "COCA COLA",
       "fecha": "2026-09-29",
       "dia": "mar",
       "compras": 0,
@@ -4660,7 +4673,7 @@
       },
       {
         "weekYear": "202641",
-        "valor": 0
+        "valor": 24
       }
     ]
   },
@@ -4668,7 +4681,7 @@
     "ventasIziDisponibles": true,
     "filasApertura": 1413,
     "filasInventariosGs": 3905,
-    "filasCompras": 2312,
+    "filasCompras": 2317,
     "filasMatrizChuleton": 1,
     "filasVentasIzi": 6069,
     "filasMovInv": 328,

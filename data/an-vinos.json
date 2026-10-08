@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-07T22:14:33.062Z",
+  "generatedAt": "2026-10-08T01:58:36.136Z",
   "rangoFechas": {
     "desde": "2026-08-03",
-    "hasta": "2026-10-07"
+    "hasta": "2026-10-08"
   },
   "categorias": [
     "CERVEZA",
@@ -659,11 +659,11 @@
       "weekYear": "202641",
       "invMenos7": null,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -785,11 +785,11 @@
       "weekYear": "202641",
       "invMenos7": null,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -995,13 +995,13 @@
       "weekYear": "202641",
       "invMenos7": 8,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 2,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 2,
       "inv": null,
-      "cierre": 8,
+      "cierre": 6,
       "dif": null
     },
     {
@@ -14869,14 +14869,14 @@
       "weekYear": "202632",
       "invMenos7": 4,
       "compras": 0,
-      "vtas": 1,
+      "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 1,
+      "vtasTot": 0,
       "inv": 1,
-      "cierre": 3,
-      "dif": -2
+      "cierre": 4,
+      "dif": -3
     },
     {
       "producto": "ALMA OCULTA - FORTIFICADO BLANCO",
@@ -14925,14 +14925,14 @@
       "weekYear": "202632",
       "invMenos7": 3,
       "compras": 0,
-      "vtas": 1,
+      "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 1,
+      "vtasTot": 0,
       "inv": 2,
-      "cierre": 2,
-      "dif": 0
+      "cierre": 3,
+      "dif": -1
     },
     {
       "producto": "ARANJUEZ - JUAN CRUZ",
@@ -15009,14 +15009,14 @@
       "weekYear": "202632",
       "invMenos7": 11,
       "compras": 12,
-      "vtas": 4,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 4,
+      "vtasTot": 1,
       "inv": 19,
-      "cierre": 19,
-      "dif": 0
+      "cierre": 22,
+      "dif": -3
     },
     {
       "producto": "BENDITA IPA",
@@ -15471,11 +15471,11 @@
       "weekYear": "202632",
       "invMenos7": null,
       "compras": 0,
-      "vtas": 7,
+      "vtas": 5,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 7,
+      "vtasTot": 5,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -15695,14 +15695,14 @@
       "weekYear": "202632",
       "invMenos7": 56,
       "compras": 0,
-      "vtas": 5,
+      "vtas": 2,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 24,
-      "vtasTot": 29,
+      "vtasTot": 26,
       "inv": 27,
-      "cierre": 27,
-      "dif": 0
+      "cierre": 30,
+      "dif": -3
     },
     {
       "producto": "IMPOREÑA - CEPA DE ORO",
@@ -15877,14 +15877,14 @@
       "weekYear": "202632",
       "invMenos7": 15,
       "compras": 0,
-      "vtas": 4,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 4,
+      "vtasTot": 1,
       "inv": 11,
-      "cierre": 11,
-      "dif": 0
+      "cierre": 14,
+      "dif": -3
     },
     {
       "producto": "MADERA DOMINGA",
@@ -15905,14 +15905,14 @@
       "weekYear": "202632",
       "invMenos7": 4,
       "compras": 0,
-      "vtas": 1,
+      "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 1,
-      "vtasTot": 2,
+      "vtasTot": 1,
       "inv": 1,
-      "cierre": 2,
-      "dif": -1
+      "cierre": 3,
+      "dif": -2
     },
     {
       "producto": "MAGNUS SANGIOVESE",
@@ -16101,14 +16101,14 @@
       "weekYear": "202632",
       "invMenos7": 20,
       "compras": 0,
-      "vtas": 8,
+      "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 8,
+      "vtasTot": 0,
       "inv": 11,
-      "cierre": 12,
-      "dif": -1
+      "cierre": 20,
+      "dif": -9
     },
     {
       "producto": "REBELION ALBA WEIZEN",
@@ -16129,13 +16129,13 @@
       "weekYear": "202632",
       "invMenos7": 3,
       "compras": 0,
-      "vtas": 2,
+      "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 2,
+      "vtasTot": 0,
       "inv": 0,
-      "cierre": 1,
+      "cierre": 3,
       "dif": null
     },
     {
@@ -16157,14 +16157,14 @@
       "weekYear": "202632",
       "invMenos7": 20,
       "compras": 0,
-      "vtas": 1,
+      "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 1,
+      "vtasTot": 0,
       "inv": 18,
-      "cierre": 19,
-      "dif": -1
+      "cierre": 20,
+      "dif": -2
     },
     {
       "producto": "SAV BLANC - 1750",
@@ -16241,28 +16241,28 @@
       "weekYear": "202632",
       "invMenos7": null,
       "compras": 6,
-      "vtas": 1,
+      "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 1,
+      "vtasTot": 0,
       "inv": 5,
-      "cierre": 5,
-      "dif": 0
+      "cierre": 6,
+      "dif": -1
     },
     {
       "producto": "SYRAH - KHOLBERG",
       "weekYear": "202632",
       "invMenos7": 7,
       "compras": 0,
-      "vtas": 1,
+      "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 2,
-      "vtasTot": 3,
+      "vtasTot": 2,
       "inv": 4,
-      "cierre": 4,
-      "dif": 0
+      "cierre": 5,
+      "dif": -1
     },
     {
       "producto": "SYRAH - TERRA ANCESTRAL",
@@ -16535,6 +16535,45 @@
       "cortesias": 0,
       "salidas": 0,
       "invEsperado": 5,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "COPA ALAYA - TELLUS",
+      "fecha": "2026-10-07",
+      "dia": "mié",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 0,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "COPA LOCURA 5.1.1. - MAGNUS",
+      "fecha": "2026-10-07",
+      "dia": "mié",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 0,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "EL ENEMIGO-CABERNET FRANC",
+      "fecha": "2026-10-07",
+      "dia": "mié",
+      "compras": 0,
+      "vtas": 2,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 6,
       "invIniFin": null,
       "dif": null
     },
@@ -17369,7 +17408,7 @@
       },
       {
         "weekYear": "202641",
-        "valor": 11
+        "valor": 15
       }
     ],
     "Vtas Ext": [
@@ -17447,7 +17486,7 @@
       },
       {
         "weekYear": "202641",
-        "valor": 11
+        "valor": 15
       }
     ],
     "Salidas": [
@@ -17509,7 +17548,7 @@
     "filasInventariosGs": 3905,
     "filasCompras": 2318,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 6069,
+    "filasVentasIzi": 5920,
     "filasMovInv": 328,
     "filasDimProducto": 447,
     "warnings": []

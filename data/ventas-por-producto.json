@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-07T22:15:29.619Z",
+  "generatedAt": "2026-10-08T01:59:28.523Z",
   "fuente": "API iZi Soluciones (facturas + items-inventarios), sucursal Ancestral (79344)",
   "rango": {
-    "desde": "2026-09-07",
-    "hasta": "2026-10-07"
+    "desde": "2026-09-08",
+    "hasta": "2026-10-08"
   },
   "categorias": [
     "AGUAS",
@@ -10909,6 +10909,302 @@
       "fecha": "2026-10-06",
       "cantidad": 1,
       "monto": 45
+    },
+    {
+      "codProducto": "ANC00073",
+      "producto": "EXPERIENCIA ANCESTRAL",
+      "categoria": "MENU DEGUSTACION",
+      "fecha": "2026-10-07",
+      "cantidad": 4,
+      "monto": 1960
+    },
+    {
+      "codProducto": "ANC00075",
+      "producto": "MARIDAJE ANCESTRAL",
+      "categoria": "MENU DEGUSTACION",
+      "fecha": "2026-10-07",
+      "cantidad": 1,
+      "monto": 350
+    },
+    {
+      "codProducto": "ANC00112",
+      "producto": "LIMONADA",
+      "categoria": "JUGOS",
+      "fecha": "2026-10-07",
+      "cantidad": 1,
+      "monto": 15
+    },
+    {
+      "codProducto": "ANC00051",
+      "producto": "INFUSION MANZANILLA - CEDRON",
+      "categoria": "BEBIDAS CALIENTES",
+      "fecha": "2026-10-07",
+      "cantidad": 1,
+      "monto": 15
+    },
+    {
+      "codProducto": "ANC00330",
+      "producto": "PESCADO AMAZONICO Y TUMBO",
+      "categoria": "COMIDAS",
+      "fecha": "2026-10-07",
+      "cantidad": 3,
+      "monto": 420
+    },
+    {
+      "codProducto": "ANC00090",
+      "producto": "CHULETON (Kg)",
+      "categoria": "FUERTES",
+      "fecha": "2026-10-07",
+      "cantidad": 0.56,
+      "monto": 224
+    },
+    {
+      "codProducto": "ANC00001",
+      "producto": "AGUA C/G",
+      "categoria": "AGUAS",
+      "fecha": "2026-10-07",
+      "cantidad": 11,
+      "monto": 165
+    },
+    {
+      "codProducto": "ANC00024",
+      "producto": "CRISTALINO DE TUMBO",
+      "categoria": "COCTELES",
+      "fecha": "2026-10-07",
+      "cantidad": 1,
+      "monto": 50
+    },
+    {
+      "codProducto": "ANC00099",
+      "producto": "PARRILLA OJO DE BIFE",
+      "categoria": "FUERTES",
+      "fecha": "2026-10-07",
+      "cantidad": 10,
+      "monto": 1600
+    },
+    {
+      "codProducto": "ANC00111",
+      "producto": "JAMAICA MENTA",
+      "categoria": "JUGOS",
+      "fecha": "2026-10-07",
+      "cantidad": 1,
+      "monto": 15
+    },
+    {
+      "codProducto": "ANC00057",
+      "producto": "TUETANO BRULEE",
+      "categoria": "DULCES",
+      "fecha": "2026-10-07",
+      "cantidad": 3,
+      "monto": 150
+    },
+    {
+      "codProducto": "ANC00047",
+      "producto": "ESPRESSO",
+      "categoria": "BEBIDAS CALIENTES",
+      "fecha": "2026-10-07",
+      "cantidad": 1,
+      "monto": 15
+    },
+    {
+      "codProducto": "ANC00305",
+      "producto": "COPA ALAYA - TELLUS",
+      "categoria": "VINOS",
+      "fecha": "2026-10-07",
+      "cantidad": 1,
+      "monto": 45
+    },
+    {
+      "codProducto": "ANC00354",
+      "producto": "COPA LOCURA 5.1.1. - MAGNUS",
+      "categoria": "VINOS",
+      "fecha": "2026-10-07",
+      "cantidad": 1,
+      "monto": 55
+    },
+    {
+      "codProducto": "ANC00058",
+      "producto": "ALCACHOFAS",
+      "categoria": "ENTRADAS",
+      "fecha": "2026-10-07",
+      "cantidad": 1,
+      "monto": 75
+    },
+    {
+      "codProducto": "ANC00325",
+      "producto": "TABLA ANCESTRAL",
+      "categoria": "ENTRADAS",
+      "fecha": "2026-10-07",
+      "cantidad": 1,
+      "monto": 120
+    },
+    {
+      "codProducto": "ANC00183",
+      "producto": "PANZA FRITA",
+      "categoria": "ENTRADAS",
+      "fecha": "2026-10-07",
+      "cantidad": 1,
+      "monto": 60
+    },
+    {
+      "codProducto": "ANC00069",
+      "producto": "PECHUGA DE NIÑOS",
+      "categoria": "MENÚ DE NIÑOS",
+      "fecha": "2026-10-07",
+      "cantidad": 1,
+      "monto": 50
+    },
+    {
+      "codProducto": "ANC00093",
+      "producto": "KEPERI AHUMADO",
+      "categoria": "FUERTES",
+      "fecha": "2026-10-07",
+      "cantidad": 3,
+      "monto": 420
+    },
+    {
+      "codProducto": "ANC00095",
+      "producto": "OSSOBUCO A LA BOLIVIANA",
+      "categoria": "FUERTES",
+      "fecha": "2026-10-07",
+      "cantidad": 1,
+      "monto": 160
+    },
+    {
+      "codProducto": "ANC00101",
+      "producto": "PECHUGA DE POLLO CROCANTE",
+      "categoria": "FUERTES",
+      "fecha": "2026-10-07",
+      "cantidad": 1,
+      "monto": 130
+    },
+    {
+      "codProducto": "ANC00081",
+      "producto": "PORCION PAPAS",
+      "categoria": "GUARNICIONES",
+      "fecha": "2026-10-07",
+      "cantidad": 1,
+      "monto": 40
+    },
+    {
+      "codProducto": "ANC00115",
+      "producto": "NARANJA-TUMBO (BOTELLA)",
+      "categoria": "JUGOS",
+      "fecha": "2026-10-07",
+      "cantidad": 2,
+      "monto": 80
+    },
+    {
+      "codProducto": "ANC00105",
+      "producto": "COCA COLA SIN AZUCAR",
+      "categoria": "GASEOSA",
+      "fecha": "2026-10-07",
+      "cantidad": 3,
+      "monto": 45
+    },
+    {
+      "codProducto": "ANC00046",
+      "producto": "CHOCOLATE",
+      "categoria": "DULCES",
+      "fecha": "2026-10-07",
+      "cantidad": 3,
+      "monto": 150
+    },
+    {
+      "codProducto": "ANC00328",
+      "producto": "PAVLOVA DE PIÑA A LA BRASA",
+      "categoria": "COMIDAS",
+      "fecha": "2026-10-07",
+      "cantidad": 2,
+      "monto": 100
+    },
+    {
+      "codProducto": "ANC00329",
+      "producto": "PAN CON QUESO",
+      "categoria": "COMIDAS",
+      "fecha": "2026-10-07",
+      "cantidad": 1,
+      "monto": 50
+    },
+    {
+      "codProducto": "ANC00110",
+      "producto": "JAMAICA (BOTELLA)",
+      "categoria": "JUGOS",
+      "fecha": "2026-10-07",
+      "cantidad": 1,
+      "monto": 40
+    },
+    {
+      "codProducto": "ANC00184",
+      "producto": "ANTICUCHO DE POLLO",
+      "categoria": "ENTRADAS",
+      "fecha": "2026-10-07",
+      "cantidad": 1,
+      "monto": 55
+    },
+    {
+      "codProducto": "ANC00002",
+      "producto": "AGUA S/G",
+      "categoria": "AGUAS",
+      "fecha": "2026-10-07",
+      "cantidad": 11,
+      "monto": 132
+    },
+    {
+      "codProducto": "ANC00098",
+      "producto": "PARRILLA KEPERI",
+      "categoria": "FUERTES",
+      "fecha": "2026-10-07",
+      "cantidad": 2,
+      "monto": 280
+    },
+    {
+      "codProducto": "ANC00092",
+      "producto": "GNOCCHIS CON HONGOS A LA BRASA",
+      "categoria": "FUERTES",
+      "fecha": "2026-10-07",
+      "cantidad": 1,
+      "monto": 140
+    },
+    {
+      "codProducto": "ANC00063",
+      "producto": "TACO PULLED PORK",
+      "categoria": "ENTRADAS",
+      "fecha": "2026-10-07",
+      "cantidad": 1,
+      "monto": 70
+    },
+    {
+      "codProducto": "ANC00080",
+      "producto": "PORCIÓN ARROZ C/ QUESO",
+      "categoria": "GUARNICIONES",
+      "fecha": "2026-10-07",
+      "cantidad": 1,
+      "monto": 45
+    },
+    {
+      "codProducto": "ANC00161",
+      "producto": "COPA 1750 - SAV BLANC",
+      "categoria": "VINOS POR COPA",
+      "fecha": "2026-10-07",
+      "cantidad": 1,
+      "monto": 45
+    },
+    {
+      "codProducto": "ANC00254",
+      "producto": "EL ENEMIGO-CABERNET FRANC",
+      "categoria": "VINOS IMPORTADOS",
+      "fecha": "2026-10-07",
+      "cantidad": 2,
+      "monto": 800
+    },
+    {
+      "codProducto": "ANC00049",
+      "producto": "FLAN",
+      "categoria": "DULCES",
+      "fecha": "2026-10-07",
+      "cantidad": 1,
+      "monto": 50
     }
   ]
 }

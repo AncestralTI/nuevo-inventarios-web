@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T01:58:36.136Z",
+  "generatedAt": "2026-10-08T08:30:19.514Z",
   "rangoFechas": {
     "desde": "2026-08-03",
     "hasta": "2026-10-08"
@@ -256,10 +256,10 @@
       "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 0,
+      "salidas": 1,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 3,
+      "cierre": 2,
       "dif": null
     },
     {
@@ -659,11 +659,11 @@
       "weekYear": "202641",
       "invMenos7": null,
       "compras": 0,
-      "vtas": 1,
+      "vtas": 2,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 1,
+      "vtasTot": 2,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -1096,10 +1096,10 @@
       "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 0,
+      "salidas": 1,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 5,
+      "cierre": 4,
       "dif": null
     },
     {
@@ -1163,13 +1163,13 @@
       "weekYear": "202641",
       "invMenos7": 8,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 8,
+      "cierre": 7,
       "dif": null
     },
     {
@@ -1180,10 +1180,10 @@
       "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 0,
+      "salidas": 1,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 3,
+      "cierre": 2,
       "dif": null
     },
     {
@@ -1558,10 +1558,10 @@
       "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 0,
+      "salidas": 1,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 4,
+      "cierre": 3,
       "dif": null
     },
     {
@@ -1684,10 +1684,10 @@
       "vtas": 2,
       "vtasExt": 0,
       "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 2,
+      "salidas": 1,
+      "vtasTot": 3,
       "inv": null,
-      "cierre": 5,
+      "cierre": 4,
       "dif": null
     },
     {
@@ -16533,8 +16533,21 @@
       "vtas": 2,
       "vtasExt": 0,
       "cortesias": 0,
-      "salidas": 0,
-      "invEsperado": 5,
+      "salidas": 1,
+      "invEsperado": 4,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "ALAYA - TELLUS",
+      "fecha": "2026-10-07",
+      "dia": "mié",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 1,
+      "invEsperado": 2,
       "invIniFin": null,
       "dif": null
     },
@@ -16543,7 +16556,7 @@
       "fecha": "2026-10-07",
       "dia": "mié",
       "compras": 0,
-      "vtas": 1,
+      "vtas": 2,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
@@ -16574,6 +16587,58 @@
       "cortesias": 0,
       "salidas": 0,
       "invEsperado": 6,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "IMPOREÑA - CEPA DE ORO",
+      "fecha": "2026-10-07",
+      "dia": "mié",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 1,
+      "invEsperado": 4,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "JARDIN OCULTO - VISCHOQUEÑA BLANC DE NOIR",
+      "fecha": "2026-10-07",
+      "dia": "mié",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 7,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "KOHLBERG - FLAMANT ROSE",
+      "fecha": "2026-10-07",
+      "dia": "mié",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 1,
+      "invEsperado": 2,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "SAV BLANC - 1750",
+      "fecha": "2026-10-07",
+      "dia": "mié",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 1,
+      "invEsperado": 3,
       "invIniFin": null,
       "dif": null
     },
@@ -17408,7 +17473,7 @@
       },
       {
         "weekYear": "202641",
-        "valor": 15
+        "valor": 17
       }
     ],
     "Vtas Ext": [
@@ -17486,7 +17551,7 @@
       },
       {
         "weekYear": "202641",
-        "valor": 15
+        "valor": 22
       }
     ],
     "Salidas": [
@@ -17512,7 +17577,7 @@
       },
       {
         "weekYear": "202641",
-        "valor": 0
+        "valor": 5
       }
     ],
     "Compras": [
@@ -17544,12 +17609,12 @@
   },
   "meta": {
     "ventasIziDisponibles": true,
-    "filasApertura": 1413,
+    "filasApertura": 1418,
     "filasInventariosGs": 3905,
     "filasCompras": 2318,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 5920,
-    "filasMovInv": 328,
+    "filasVentasIzi": 5943,
+    "filasMovInv": 331,
     "filasDimProducto": 447,
     "warnings": []
   }

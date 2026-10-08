@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T01:59:28.523Z",
+  "generatedAt": "2026-10-08T08:30:55.813Z",
   "fuente": "API iZi Soluciones (facturas + items-inventarios), sucursal Ancestral (79344)",
   "rango": {
     "desde": "2026-09-08",
@@ -10915,16 +10915,176 @@
       "producto": "EXPERIENCIA ANCESTRAL",
       "categoria": "MENU DEGUSTACION",
       "fecha": "2026-10-07",
-      "cantidad": 4,
-      "monto": 1960
+      "cantidad": 8,
+      "monto": 3920
+    },
+    {
+      "codProducto": "ANC00210",
+      "producto": "SINGANI MULE",
+      "categoria": "COCTELES",
+      "fecha": "2026-10-07",
+      "cantidad": 1,
+      "monto": 40
+    },
+    {
+      "codProducto": "ANC00200",
+      "producto": "GOLDEN RUSH",
+      "categoria": "COCTELES",
+      "fecha": "2026-10-07",
+      "cantidad": 1,
+      "monto": 50
+    },
+    {
+      "codProducto": "ANC00258",
+      "producto": "COPA MOSCATEL - MARQUEZ DE LA VIÑA",
+      "categoria": "VINOS POR COPA",
+      "fecha": "2026-10-07",
+      "cantidad": 1,
+      "monto": 45
+    },
+    {
+      "codProducto": "ANC00114",
+      "producto": "NARANJA TUMBO",
+      "categoria": "JUGOS",
+      "fecha": "2026-10-07",
+      "cantidad": 1,
+      "monto": 15
+    },
+    {
+      "codProducto": "ANC00184",
+      "producto": "ANTICUCHO DE POLLO",
+      "categoria": "ENTRADAS",
+      "fecha": "2026-10-07",
+      "cantidad": 2,
+      "monto": 110
     },
     {
       "codProducto": "ANC00075",
       "producto": "MARIDAJE ANCESTRAL",
       "categoria": "MENU DEGUSTACION",
       "fecha": "2026-10-07",
+      "cantidad": 3,
+      "monto": 1050
+    },
+    {
+      "codProducto": "ANC00030",
+      "producto": "MOSCOW MULE",
+      "categoria": "COCTELES",
+      "fecha": "2026-10-07",
+      "cantidad": 1,
+      "monto": 50
+    },
+    {
+      "codProducto": "ANC00207",
+      "producto": "BERRIES TONIC",
+      "categoria": "COCTELES",
+      "fecha": "2026-10-07",
+      "cantidad": 1,
+      "monto": 50
+    },
+    {
+      "codProducto": "ANC00249",
+      "producto": "ARROZ DE CANGREJOS",
+      "categoria": "FUERTES",
+      "fecha": "2026-10-07",
+      "cantidad": 2,
+      "monto": 300
+    },
+    {
+      "codProducto": "ANC00099",
+      "producto": "PARRILLA OJO DE BIFE",
+      "categoria": "FUERTES",
+      "fecha": "2026-10-07",
+      "cantidad": 11,
+      "monto": 1760
+    },
+    {
+      "codProducto": "ANC00088",
+      "producto": "ARROZ DE TRUCHA",
+      "categoria": "FUERTES",
+      "fecha": "2026-10-07",
+      "cantidad": 1,
+      "monto": 150
+    },
+    {
+      "codProducto": "ANC00058",
+      "producto": "ALCACHOFAS",
+      "categoria": "ENTRADAS",
+      "fecha": "2026-10-07",
+      "cantidad": 2,
+      "monto": 150
+    },
+    {
+      "codProducto": "ANC00141",
+      "producto": "JARDIN OCULTO - VISCHOQUEÑA BLANC DE NOIR",
+      "categoria": "VINOS",
+      "fecha": "2026-10-07",
       "cantidad": 1,
       "monto": 350
+    },
+    {
+      "codProducto": "ANC00305",
+      "producto": "COPA ALAYA - TELLUS",
+      "categoria": "VINOS",
+      "fecha": "2026-10-07",
+      "cantidad": 2,
+      "monto": 90
+    },
+    {
+      "codProducto": "ANC00280",
+      "producto": "COPA TANNAT RAIZ - KOHLBERG",
+      "categoria": "VINOS POR COPA",
+      "fecha": "2026-10-07",
+      "cantidad": 1,
+      "monto": 55
+    },
+    {
+      "codProducto": "ANC00001",
+      "producto": "AGUA C/G",
+      "categoria": "AGUAS",
+      "fecha": "2026-10-07",
+      "cantidad": 12,
+      "monto": 180
+    },
+    {
+      "codProducto": "ANC00002",
+      "producto": "AGUA S/G",
+      "categoria": "AGUAS",
+      "fecha": "2026-10-07",
+      "cantidad": 12,
+      "monto": 144
+    },
+    {
+      "codProducto": "ANC00046",
+      "producto": "CHOCOLATE",
+      "categoria": "DULCES",
+      "fecha": "2026-10-07",
+      "cantidad": 4,
+      "monto": 200
+    },
+    {
+      "codProducto": "ANC00115",
+      "producto": "NARANJA-TUMBO (BOTELLA)",
+      "categoria": "JUGOS",
+      "fecha": "2026-10-07",
+      "cantidad": 3,
+      "monto": 120
+    },
+    {
+      "codProducto": "ANC00331",
+      "producto": "CORDERO A LA CRUZ",
+      "categoria": "COMIDAS",
+      "fecha": "2026-10-07",
+      "cantidad": 1,
+      "monto": 150
+    },
+    {
+      "codProducto": "ANC00093",
+      "producto": "KEPERI AHUMADO",
+      "categoria": "FUERTES",
+      "fecha": "2026-10-07",
+      "cantidad": 4,
+      "monto": 560
     },
     {
       "codProducto": "ANC00112",
@@ -10959,28 +11119,12 @@
       "monto": 224
     },
     {
-      "codProducto": "ANC00001",
-      "producto": "AGUA C/G",
-      "categoria": "AGUAS",
-      "fecha": "2026-10-07",
-      "cantidad": 11,
-      "monto": 165
-    },
-    {
       "codProducto": "ANC00024",
       "producto": "CRISTALINO DE TUMBO",
       "categoria": "COCTELES",
       "fecha": "2026-10-07",
       "cantidad": 1,
       "monto": 50
-    },
-    {
-      "codProducto": "ANC00099",
-      "producto": "PARRILLA OJO DE BIFE",
-      "categoria": "FUERTES",
-      "fecha": "2026-10-07",
-      "cantidad": 10,
-      "monto": 1600
     },
     {
       "codProducto": "ANC00111",
@@ -11007,28 +11151,12 @@
       "monto": 15
     },
     {
-      "codProducto": "ANC00305",
-      "producto": "COPA ALAYA - TELLUS",
-      "categoria": "VINOS",
-      "fecha": "2026-10-07",
-      "cantidad": 1,
-      "monto": 45
-    },
-    {
       "codProducto": "ANC00354",
       "producto": "COPA LOCURA 5.1.1. - MAGNUS",
       "categoria": "VINOS",
       "fecha": "2026-10-07",
       "cantidad": 1,
       "monto": 55
-    },
-    {
-      "codProducto": "ANC00058",
-      "producto": "ALCACHOFAS",
-      "categoria": "ENTRADAS",
-      "fecha": "2026-10-07",
-      "cantidad": 1,
-      "monto": 75
     },
     {
       "codProducto": "ANC00325",
@@ -11055,14 +11183,6 @@
       "monto": 50
     },
     {
-      "codProducto": "ANC00093",
-      "producto": "KEPERI AHUMADO",
-      "categoria": "FUERTES",
-      "fecha": "2026-10-07",
-      "cantidad": 3,
-      "monto": 420
-    },
-    {
       "codProducto": "ANC00095",
       "producto": "OSSOBUCO A LA BOLIVIANA",
       "categoria": "FUERTES",
@@ -11087,28 +11207,12 @@
       "monto": 40
     },
     {
-      "codProducto": "ANC00115",
-      "producto": "NARANJA-TUMBO (BOTELLA)",
-      "categoria": "JUGOS",
-      "fecha": "2026-10-07",
-      "cantidad": 2,
-      "monto": 80
-    },
-    {
       "codProducto": "ANC00105",
       "producto": "COCA COLA SIN AZUCAR",
       "categoria": "GASEOSA",
       "fecha": "2026-10-07",
       "cantidad": 3,
       "monto": 45
-    },
-    {
-      "codProducto": "ANC00046",
-      "producto": "CHOCOLATE",
-      "categoria": "DULCES",
-      "fecha": "2026-10-07",
-      "cantidad": 3,
-      "monto": 150
     },
     {
       "codProducto": "ANC00328",
@@ -11133,22 +11237,6 @@
       "fecha": "2026-10-07",
       "cantidad": 1,
       "monto": 40
-    },
-    {
-      "codProducto": "ANC00184",
-      "producto": "ANTICUCHO DE POLLO",
-      "categoria": "ENTRADAS",
-      "fecha": "2026-10-07",
-      "cantidad": 1,
-      "monto": 55
-    },
-    {
-      "codProducto": "ANC00002",
-      "producto": "AGUA S/G",
-      "categoria": "AGUAS",
-      "fecha": "2026-10-07",
-      "cantidad": 11,
-      "monto": 132
     },
     {
       "codProducto": "ANC00098",

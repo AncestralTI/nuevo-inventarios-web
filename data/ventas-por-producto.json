@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T14:20:02.190Z",
+  "generatedAt": "2026-10-09T19:35:40.651Z",
   "fuente": "API iZi Soluciones (facturas + items-inventarios), sucursal Ancestral (79344)",
   "rango": {
     "desde": "2026-09-09",
@@ -11261,6 +11261,190 @@
       "fecha": "2026-10-08",
       "cantidad": 1,
       "monto": 15
+    },
+    {
+      "codProducto": "ANC00109",
+      "producto": "ICED TEA (BOTELLA)",
+      "categoria": "JUGOS",
+      "fecha": "2026-10-09",
+      "cantidad": 2,
+      "monto": 80
+    },
+    {
+      "codProducto": "ANC00001",
+      "producto": "AGUA C/G",
+      "categoria": "AGUAS",
+      "fecha": "2026-10-09",
+      "cantidad": 2,
+      "monto": 30
+    },
+    {
+      "codProducto": "ANC00105",
+      "producto": "COCA COLA SIN AZUCAR",
+      "categoria": "GASEOSA",
+      "fecha": "2026-10-09",
+      "cantidad": 2,
+      "monto": 30
+    },
+    {
+      "codProducto": "ANC00058",
+      "producto": "ALCACHOFAS",
+      "categoria": "ENTRADAS",
+      "fecha": "2026-10-09",
+      "cantidad": 2,
+      "monto": 150
+    },
+    {
+      "codProducto": "ANC00066",
+      "producto": "BURGER DE NIÑOS",
+      "categoria": "MENÚ DE NIÑOS",
+      "fecha": "2026-10-09",
+      "cantidad": 3,
+      "monto": 150
+    },
+    {
+      "codProducto": "ANC00099",
+      "producto": "PARRILLA OJO DE BIFE",
+      "categoria": "FUERTES",
+      "fecha": "2026-10-09",
+      "cantidad": 4,
+      "monto": 640
+    },
+    {
+      "codProducto": "ANC00092",
+      "producto": "GNOCCHIS CON HONGOS A LA BRASA",
+      "categoria": "FUERTES",
+      "fecha": "2026-10-09",
+      "cantidad": 1,
+      "monto": 140
+    },
+    {
+      "codProducto": "ANC00241",
+      "producto": "CEVICHE DE TRUCHA Y HONGOS",
+      "categoria": "ENTRADAS",
+      "fecha": "2026-10-09",
+      "cantidad": 1,
+      "monto": 75
+    },
+    {
+      "codProducto": "ANC00331",
+      "producto": "CORDERO A LA CRUZ",
+      "categoria": "COMIDAS",
+      "fecha": "2026-10-09",
+      "cantidad": 3,
+      "monto": 450
+    },
+    {
+      "codProducto": "ANC00111",
+      "producto": "JAMAICA MENTA",
+      "categoria": "JUGOS",
+      "fecha": "2026-10-09",
+      "cantidad": 1,
+      "monto": 15
+    },
+    {
+      "codProducto": "ANC00249",
+      "producto": "ARROZ DE CANGREJOS",
+      "categoria": "FUERTES",
+      "fecha": "2026-10-09",
+      "cantidad": 1,
+      "monto": 150
+    },
+    {
+      "codProducto": "ANC00281",
+      "producto": "CUARTO PATO CONFITADO",
+      "categoria": "FUERTES",
+      "fecha": "2026-10-09",
+      "cantidad": 1,
+      "monto": 140
+    },
+    {
+      "codProducto": "ANC00093",
+      "producto": "KEPERI AHUMADO",
+      "categoria": "FUERTES",
+      "fecha": "2026-10-09",
+      "cantidad": 2,
+      "monto": 280
+    },
+    {
+      "codProducto": "ANC00103",
+      "producto": "PARRILLA TRUCHA",
+      "categoria": "FUERTES",
+      "fecha": "2026-10-09",
+      "cantidad": 2,
+      "monto": 300
+    },
+    {
+      "codProducto": "ANC00130",
+      "producto": "BONARDA \"PIONERO\" - ARANJUEZ",
+      "categoria": "VINOS",
+      "fecha": "2026-10-09",
+      "cantidad": 1,
+      "monto": 235
+    },
+    {
+      "codProducto": "ANC00106",
+      "producto": "FANTA",
+      "categoria": "GASEOSA",
+      "fecha": "2026-10-09",
+      "cantidad": 1,
+      "monto": 15
+    },
+    {
+      "codProducto": "ANC00063",
+      "producto": "TACO PULLED PORK",
+      "categoria": "ENTRADAS",
+      "fecha": "2026-10-09",
+      "cantidad": 1,
+      "monto": 70
+    },
+    {
+      "codProducto": "ANC00029",
+      "producto": "MOJITO",
+      "categoria": "COCTELES",
+      "fecha": "2026-10-09",
+      "cantidad": 1,
+      "monto": 50
+    },
+    {
+      "codProducto": "ANC00033",
+      "producto": "PALOMA",
+      "categoria": "COCTELES",
+      "fecha": "2026-10-09",
+      "cantidad": 1,
+      "monto": 50
+    },
+    {
+      "codProducto": "ANC00095",
+      "producto": "OSSOBUCO A LA BOLIVIANA",
+      "categoria": "FUERTES",
+      "fecha": "2026-10-09",
+      "cantidad": 1,
+      "monto": 160
+    },
+    {
+      "codProducto": "ANC00242",
+      "producto": "PARRILLA PESCADO AMAZÓNICO",
+      "categoria": "FUERTES",
+      "fecha": "2026-10-09",
+      "cantidad": 1,
+      "monto": 150
+    },
+    {
+      "codProducto": "ANC00069",
+      "producto": "PECHUGA DE NIÑOS",
+      "categoria": "MENÚ DE NIÑOS",
+      "fecha": "2026-10-09",
+      "cantidad": 1,
+      "monto": 50
+    },
+    {
+      "codProducto": "ANC00002",
+      "producto": "AGUA S/G",
+      "categoria": "AGUAS",
+      "fecha": "2026-10-09",
+      "cantidad": 1,
+      "monto": 12
     }
   ]
 }

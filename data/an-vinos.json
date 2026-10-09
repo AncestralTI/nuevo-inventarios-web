@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T14:19:17.645Z",
+  "generatedAt": "2026-10-09T19:34:54.563Z",
   "rangoFechas": {
     "desde": "2026-08-03",
     "hasta": "2026-10-09"
@@ -463,13 +463,13 @@
       "weekYear": "202641",
       "invMenos7": 13,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 13,
+      "cierre": 12,
       "dif": null
     },
     {
@@ -16708,6 +16708,19 @@
       "dif": null
     },
     {
+      "producto": "BONARDA \"PIONERO\" - ARANJUEZ",
+      "fecha": "2026-10-09",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 12,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "ALTOSAMA - BRUT",
       "fecha": "2026-09-29",
       "dia": "mar",
@@ -17538,7 +17551,7 @@
       },
       {
         "weekYear": "202641",
-        "valor": 22
+        "valor": 23
       }
     ],
     "Vtas Ext": [
@@ -17616,7 +17629,7 @@
       },
       {
         "weekYear": "202641",
-        "valor": 27
+        "valor": 28
       }
     ],
     "Salidas": [
@@ -17678,8 +17691,8 @@
     "filasInventariosGs": 3905,
     "filasCompras": 2319,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 5901,
-    "filasMovInv": 336,
+    "filasVentasIzi": 5934,
+    "filasMovInv": 338,
     "filasDimProducto": 447,
     "warnings": []
   }

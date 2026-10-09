@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T00:53:18.087Z",
+  "generatedAt": "2026-10-09T07:01:58.176Z",
   "rangoFechas": {
     "desde": "2026-08-03",
     "hasta": "2026-10-09"
@@ -292,13 +292,13 @@
       "weekYear": "202641",
       "invMenos7": 25,
       "compras": 24,
-      "vtas": 3,
+      "vtas": 4,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 3,
+      "vtasTot": 4,
       "inv": null,
-      "cierre": 46,
+      "cierre": 45,
       "dif": null
     },
     {
@@ -306,13 +306,13 @@
       "weekYear": "202641",
       "invMenos7": 29,
       "compras": 0,
-      "vtas": 6,
+      "vtas": 7,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 6,
+      "vtasTot": 7,
       "inv": null,
-      "cierre": 23,
+      "cierre": 22,
       "dif": null
     },
     {
@@ -460,13 +460,13 @@
       "weekYear": "202641",
       "invMenos7": 25,
       "compras": 0,
-      "vtas": 1,
+      "vtas": 2,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 1,
+      "vtasTot": 2,
       "inv": null,
-      "cierre": 24,
+      "cierre": 23,
       "dif": null
     },
     {
@@ -474,13 +474,13 @@
       "weekYear": "202641",
       "invMenos7": 20,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 20,
+      "cierre": 19,
       "dif": null
     },
     {
@@ -488,13 +488,13 @@
       "weekYear": "202641",
       "invMenos7": 22,
       "compras": 0,
-      "vtas": 1,
+      "vtas": 2,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 1,
+      "vtasTot": 2,
       "inv": null,
-      "cierre": 21,
+      "cierre": 20,
       "dif": null
     },
     {
@@ -4259,7 +4259,7 @@
       "dif": null
     },
     {
-      "producto": "SPRITE",
+      "producto": "COCA COLA",
       "fecha": "2026-10-08",
       "dia": "jue",
       "compras": 0,
@@ -4267,7 +4267,59 @@
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "invEsperado": 21,
+      "invEsperado": 45,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "COCA COLA SIN AZUCAR",
+      "fecha": "2026-10-08",
+      "dia": "jue",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 22,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "SAN MIGUEL MATILDA PALE ALE",
+      "fecha": "2026-10-08",
+      "dia": "jue",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 23,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "SAN MIGUEL SOLSTICIO",
+      "fecha": "2026-10-08",
+      "dia": "jue",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 19,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "SPRITE",
+      "fecha": "2026-10-08",
+      "dia": "jue",
+      "compras": 0,
+      "vtas": 2,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 20,
       "invIniFin": null,
       "dif": null
     },
@@ -4569,7 +4621,7 @@
       },
       {
         "weekYear": "202641",
-        "valor": 13
+        "valor": 18
       }
     ],
     "Vtas Ext": [
@@ -4647,7 +4699,7 @@
       },
       {
         "weekYear": "202641",
-        "valor": 13
+        "valor": 18
       }
     ],
     "Salidas": [
@@ -4709,8 +4761,8 @@
     "filasInventariosGs": 3905,
     "filasCompras": 2319,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 5841,
-    "filasMovInv": 334,
+    "filasVentasIzi": 5901,
+    "filasMovInv": 336,
     "filasDimProducto": 447,
     "warnings": []
   }

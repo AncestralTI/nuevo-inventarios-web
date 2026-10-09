@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T00:53:37.016Z",
+  "generatedAt": "2026-10-09T07:02:11.870Z",
   "rangoFechas": {
     "desde": "2026-08-03",
     "hasta": "2026-10-09"
@@ -79,16 +79,16 @@
       "weekYear": "202641",
       "invMenos7": null,
       "compras": 515,
-      "vtasIzi": 176.5,
+      "vtasIzi": 185.5,
       "vtasAnc": 0,
-      "vtasPY": 10,
+      "vtasPY": 19,
       "vtasExt": 1,
       "vtasVegg": -1,
       "cortesias": 0,
       "salidas": 4.5,
-      "vtasTot": 191,
+      "vtasTot": 209,
       "inv": null,
-      "cierre": 324,
+      "cierre": 306,
       "dif": null
     },
     {
@@ -98,14 +98,14 @@
       "compras": 65,
       "vtasIzi": 18,
       "vtasAnc": 0,
-      "vtasPY": 2,
+      "vtasPY": 8,
       "vtasExt": 0,
       "vtasVegg": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 20,
+      "vtasTot": 26,
       "inv": null,
-      "cierre": 45,
+      "cierre": 39,
       "dif": null
     },
     {
@@ -690,9 +690,9 @@
       "fecha": "2026-10-08",
       "dia": "jue",
       "compras": 0,
-      "vtas": 43,
+      "vtas": 52,
       "salidas": 3.5,
-      "invEsperado": 334,
+      "invEsperado": 325,
       "invFin": null,
       "dif": null
     },
@@ -974,7 +974,7 @@
       },
       {
         "weekYear": "202641",
-        "valor": 208.5
+        "valor": 217.5
       }
     ],
     "Vtas Anc": [
@@ -1026,7 +1026,7 @@
       },
       {
         "weekYear": "202641",
-        "valor": 12
+        "valor": 27
       }
     ],
     "Vtas Ext.": [
@@ -1130,7 +1130,7 @@
       },
       {
         "weekYear": "202641",
-        "valor": 225
+        "valor": 249
       }
     ],
     "Compras": [
@@ -1166,11 +1166,11 @@
     "filasInventariosUnitarios": 0,
     "filasCompras": 1534,
     "filasSalidas": 82,
-    "filasVentasIzi": 7918,
-    "filasVentasPY": 10800,
-    "filasExtras": 16701,
-    "filasMovInv": 336,
-    "filasVentasAncIzi": 5841,
+    "filasVentasIzi": 7932,
+    "filasVentasPY": 10823,
+    "filasExtras": 16751,
+    "filasMovInv": 338,
+    "filasVentasAncIzi": 5901,
     "warnings": []
   }
 }

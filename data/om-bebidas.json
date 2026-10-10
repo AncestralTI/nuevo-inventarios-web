@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T14:57:21.826Z",
+  "generatedAt": "2026-10-10T19:06:47.229Z",
   "rangoFechas": {
     "desde": "2026-08-03",
     "hasta": "2026-10-10"
@@ -145,14 +145,14 @@
       "weekYear": "202641",
       "invMenos7": 18,
       "compras": 0,
-      "vtasIzi": 2,
+      "vtasIzi": 4,
       "vtasExt": 6,
       "vtasPY": 1,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 9,
+      "vtasTot": 11,
       "inv": null,
-      "cierre": 9,
+      "cierre": 7,
       "dif": null
     },
     {
@@ -373,11 +373,11 @@
       "vtasIzi": 0,
       "vtasExt": 43,
       "vtasPY": 0,
-      "vtasAnc": 5,
+      "vtasAnc": 7,
       "salidas": 0,
-      "vtasTot": 48,
+      "vtasTot": 50,
       "inv": null,
-      "cierre": 90,
+      "cierre": 88,
       "dif": null
     },
     {
@@ -445,14 +445,14 @@
       "weekYear": "202641",
       "invMenos7": null,
       "compras": 24,
-      "vtasIzi": 3,
+      "vtasIzi": 5,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 3,
+      "vtasTot": 5,
       "inv": null,
-      "cierre": 21,
+      "cierre": 19,
       "dif": null
     },
     {
@@ -688,9 +688,9 @@
       "vtasIzi": 0,
       "vtasExt": 0,
       "vtasPY": 0,
-      "vtasAnc": 0,
+      "vtasAnc": 2,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 2,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -730,12 +730,12 @@
       "weekYear": "202641",
       "invMenos7": null,
       "compras": 0,
-      "vtasIzi": 12,
+      "vtasIzi": 14,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 12,
+      "vtasTot": 14,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -8378,6 +8378,76 @@
       "dif": null
     },
     {
+      "producto": "Agua con gas",
+      "fecha": "2026-10-10",
+      "dia": "sáb",
+      "compras": 0,
+      "vtas": 2,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 7,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "COCA COLA",
+      "fecha": "2026-10-10",
+      "dia": "sáb",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 2,
+      "salidas": 0,
+      "invEsperado": 88,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "Fanta",
+      "fecha": "2026-10-10",
+      "dia": "sáb",
+      "compras": 0,
+      "vtas": 2,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 19,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "POTOSINA PILSNER",
+      "fecha": "2026-10-10",
+      "dia": "sáb",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 2,
+      "salidas": 0,
+      "invEsperado": 0,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "Refresco Artesanal",
+      "fecha": "2026-10-10",
+      "dia": "sáb",
+      "compras": 0,
+      "vtas": 2,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 0,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "Agua",
       "fecha": "2026-09-28",
       "dia": "lun",
@@ -9802,7 +9872,7 @@
       },
       {
         "weekYear": "202641",
-        "valor": 71.5
+        "valor": 77.5
       }
     ],
     "Vtas Ext.": [
@@ -9880,7 +9950,7 @@
       },
       {
         "weekYear": "202641",
-        "valor": 231.5
+        "valor": 241.5
       }
     ],
     "Compras": [
@@ -9916,11 +9986,11 @@
     "filasInventariosOmuh": 407,
     "filasCompras": 1535,
     "filasSalidas": 84,
-    "filasVentasIzi": 8009,
+    "filasVentasIzi": 8064,
     "filasVentasPY": 10841,
     "filasExtras": 16808,
-    "filasMovInv": 356,
-    "filasVentasAncIzi": 6033,
+    "filasMovInv": 359,
+    "filasVentasAncIzi": 6054,
     "warnings": []
   }
 }

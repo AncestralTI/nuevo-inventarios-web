@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T14:56:45.893Z",
+  "generatedAt": "2026-10-10T19:06:11.371Z",
   "rangoFechas": {
     "desde": "2026-08-03",
     "hasta": "2026-10-10"
@@ -292,13 +292,13 @@
       "weekYear": "202641",
       "invMenos7": 25,
       "compras": 24,
-      "vtas": 5,
+      "vtas": 7,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 5,
+      "vtasTot": 7,
       "inv": null,
-      "cierre": 44,
+      "cierre": 42,
       "dif": null
     },
     {
@@ -418,13 +418,13 @@
       "weekYear": "202641",
       "invMenos7": 30,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 2,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 2,
       "inv": null,
-      "cierre": 30,
+      "cierre": 28,
       "dif": null
     },
     {
@@ -4390,6 +4390,32 @@
     },
     {
       "producto": "COCA COLA",
+      "fecha": "2026-10-10",
+      "dia": "sáb",
+      "compras": 0,
+      "vtas": 2,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 42,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "POTOSINA PILSNER",
+      "fecha": "2026-10-10",
+      "dia": "sáb",
+      "compras": 0,
+      "vtas": 2,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 28,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "COCA COLA",
       "fecha": "2026-09-29",
       "dia": "mar",
       "compras": 0,
@@ -4686,7 +4712,7 @@
       },
       {
         "weekYear": "202641",
-        "valor": 25
+        "valor": 29
       }
     ],
     "Vtas Ext": [
@@ -4764,7 +4790,7 @@
       },
       {
         "weekYear": "202641",
-        "valor": 25
+        "valor": 29
       }
     ],
     "Salidas": [
@@ -4826,8 +4852,8 @@
     "filasInventariosGs": 3905,
     "filasCompras": 2319,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 6033,
-    "filasMovInv": 341,
+    "filasVentasIzi": 6054,
+    "filasMovInv": 344,
     "filasDimProducto": 447,
     "warnings": []
   }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T02:33:02.811Z",
+  "generatedAt": "2026-10-10T08:55:28.700Z",
   "rangoFechas": {
     "desde": "2026-08-03",
     "hasta": "2026-10-10"
@@ -253,13 +253,13 @@
       "weekYear": "202641",
       "invMenos7": 3,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 1,
-      "vtasTot": 1,
+      "vtasTot": 2,
       "inv": null,
-      "cierre": 2,
+      "cierre": 1,
       "dif": null
     },
     {
@@ -393,13 +393,13 @@
       "weekYear": "202641",
       "invMenos7": 23,
       "compras": 0,
-      "vtas": 1,
+      "vtas": 2,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 1,
+      "vtasTot": 2,
       "inv": null,
-      "cierre": 22,
+      "cierre": 21,
       "dif": null
     },
     {
@@ -995,13 +995,13 @@
       "weekYear": "202641",
       "invMenos7": 8,
       "compras": 0,
-      "vtas": 2,
+      "vtas": 3,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 2,
+      "vtasTot": 3,
       "inv": null,
-      "cierre": 6,
+      "cierre": 5,
       "dif": null
     },
     {
@@ -1135,13 +1135,13 @@
       "weekYear": "202641",
       "invMenos7": 2,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 2,
+      "cierre": 1,
       "dif": null
     },
     {
@@ -1625,13 +1625,13 @@
       "weekYear": "202641",
       "invMenos7": 5,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 4,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 4,
       "inv": null,
-      "cierre": 5,
+      "cierre": 1,
       "dif": null
     },
     {
@@ -16708,6 +16708,19 @@
       "dif": null
     },
     {
+      "producto": "ALAYA - TELLUS",
+      "fecha": "2026-10-09",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 1,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "ALTOSAMA - BRUT",
       "fecha": "2026-10-09",
       "dia": "vie",
@@ -16717,6 +16730,19 @@
       "cortesias": 0,
       "salidas": 0,
       "invEsperado": 2,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "BENDITA HOPPY",
+      "fecha": "2026-10-09",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 21,
       "invIniFin": null,
       "dif": null
     },
@@ -16756,6 +16782,45 @@
       "cortesias": 0,
       "salidas": 0,
       "invEsperado": 4,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "EL ENEMIGO-CABERNET FRANC",
+      "fecha": "2026-10-09",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 5,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "JARDIN OCULTO - MOSCATEL",
+      "fecha": "2026-10-09",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 1,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "SYRAH - CEPAS DE FUEGO",
+      "fecha": "2026-10-09",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 4,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 1,
       "invIniFin": null,
       "dif": null
     },
@@ -17590,7 +17655,7 @@
       },
       {
         "weekYear": "202641",
-        "valor": 27
+        "valor": 35
       }
     ],
     "Vtas Ext": [
@@ -17668,7 +17733,7 @@
       },
       {
         "weekYear": "202641",
-        "valor": 32
+        "valor": 40
       }
     ],
     "Salidas": [
@@ -17730,8 +17795,8 @@
     "filasInventariosGs": 3905,
     "filasCompras": 2319,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 5984,
-    "filasMovInv": 335,
+    "filasVentasIzi": 6033,
+    "filasMovInv": 341,
     "filasDimProducto": 447,
     "warnings": []
   }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T02:33:14.850Z",
+  "generatedAt": "2026-10-10T08:55:39.503Z",
   "rangoFechas": {
     "desde": "2026-08-03",
     "hasta": "2026-10-10"
@@ -110,13 +110,13 @@
       "weekYear": "202641",
       "invMenos7": 23,
       "compras": 0,
-      "vtas": 1,
+      "vtas": 2,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 1,
+      "vtasTot": 2,
       "inv": null,
-      "cierre": 22,
+      "cierre": 21,
       "dif": null
     },
     {
@@ -4324,6 +4324,19 @@
       "dif": null
     },
     {
+      "producto": "BENDITA HOPPY",
+      "fecha": "2026-10-09",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 21,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "BENDITA IPA",
       "fecha": "2026-10-09",
       "dia": "vie",
@@ -4673,7 +4686,7 @@
       },
       {
         "weekYear": "202641",
-        "valor": 24
+        "valor": 25
       }
     ],
     "Vtas Ext": [
@@ -4751,7 +4764,7 @@
       },
       {
         "weekYear": "202641",
-        "valor": 24
+        "valor": 25
       }
     ],
     "Salidas": [
@@ -4813,8 +4826,8 @@
     "filasInventariosGs": 3905,
     "filasCompras": 2319,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 5984,
-    "filasMovInv": 335,
+    "filasVentasIzi": 6033,
+    "filasMovInv": 341,
     "filasDimProducto": 447,
     "warnings": []
   }

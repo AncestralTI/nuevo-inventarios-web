@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-09T23:27:20.007Z",
+  "generatedAt": "2026-10-10T02:33:02.811Z",
   "rangoFechas": {
     "desde": "2026-08-03",
-    "hasta": "2026-10-09"
+    "hasta": "2026-10-10"
   },
   "categorias": [
     "CERVEZA",
@@ -295,13 +295,13 @@
       "weekYear": "202641",
       "invMenos7": 3,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 3,
+      "cierre": 2,
       "dif": null
     },
     {
@@ -407,13 +407,13 @@
       "weekYear": "202641",
       "invMenos7": 17,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 2,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 2,
       "inv": null,
-      "cierre": 17,
+      "cierre": 15,
       "dif": null
     },
     {
@@ -561,13 +561,13 @@
       "weekYear": "202641",
       "invMenos7": 5,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 5,
+      "cierre": 4,
       "dif": null
     },
     {
@@ -16708,6 +16708,32 @@
       "dif": null
     },
     {
+      "producto": "ALTOSAMA - BRUT",
+      "fecha": "2026-10-09",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 2,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "BENDITA IPA",
+      "fecha": "2026-10-09",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 2,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 15,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "BONARDA \"PIONERO\" - ARANJUEZ",
       "fecha": "2026-10-09",
       "dia": "vie",
@@ -16717,6 +16743,19 @@
       "cortesias": 0,
       "salidas": 0,
       "invEsperado": 12,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "CAÑON ESCONDIDO - TANNAT",
+      "fecha": "2026-10-09",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 4,
       "invIniFin": null,
       "dif": null
     },
@@ -17551,7 +17590,7 @@
       },
       {
         "weekYear": "202641",
-        "valor": 23
+        "valor": 27
       }
     ],
     "Vtas Ext": [
@@ -17629,7 +17668,7 @@
       },
       {
         "weekYear": "202641",
-        "valor": 28
+        "valor": 32
       }
     ],
     "Salidas": [
@@ -17691,8 +17730,8 @@
     "filasInventariosGs": 3905,
     "filasCompras": 2319,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 5943,
-    "filasMovInv": 341,
+    "filasVentasIzi": 5984,
+    "filasMovInv": 335,
     "filasDimProducto": 447,
     "warnings": []
   }

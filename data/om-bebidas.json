@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-09T23:27:58.654Z",
+  "generatedAt": "2026-10-10T02:33:43.231Z",
   "rangoFechas": {
     "desde": "2026-08-03",
-    "hasta": "2026-10-09"
+    "hasta": "2026-10-10"
   },
   "categorias": [
     "5. Bebidas alcohólicas",
@@ -130,14 +130,14 @@
       "weekYear": "202641",
       "invMenos7": 42,
       "compras": 24,
-      "vtasIzi": 18,
+      "vtasIzi": 19,
       "vtasExt": 9,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 27,
+      "vtasTot": 28,
       "inv": null,
-      "cierre": 39,
+      "cierre": 38,
       "dif": null
     },
     {
@@ -178,9 +178,9 @@
       "vtasIzi": 0,
       "vtasExt": 0,
       "vtasPY": 0,
-      "vtasAnc": 0,
+      "vtasAnc": 2,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 2,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -373,11 +373,11 @@
       "vtasIzi": 0,
       "vtasExt": 31,
       "vtasPY": 0,
-      "vtasAnc": 4,
+      "vtasAnc": 5,
       "salidas": 0,
-      "vtasTot": 35,
+      "vtasTot": 36,
       "inv": null,
-      "cierre": 103,
+      "cierre": 102,
       "dif": null
     },
     {
@@ -730,12 +730,12 @@
       "weekYear": "202641",
       "invMenos7": null,
       "compras": 0,
-      "vtasIzi": 11,
+      "vtasIzi": 12,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 11,
+      "vtasTot": 12,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -6115,14 +6115,14 @@
       "weekYear": "202633",
       "invMenos7": null,
       "compras": 156,
-      "vtasIzi": 9,
+      "vtasIzi": 8,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 9,
+      "vtasTot": 8,
       "inv": null,
-      "cierre": 147,
+      "cierre": 148,
       "dif": null
     },
     {
@@ -6370,15 +6370,15 @@
       "weekYear": "202633",
       "invMenos7": 20,
       "compras": 0,
-      "vtasIzi": 5,
+      "vtasIzi": 4,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 5,
+      "vtasTot": 4,
       "inv": 14,
-      "cierre": 15,
-      "dif": -1
+      "cierre": 16,
+      "dif": -2
     },
     {
       "producto": "Pepsi",
@@ -8186,12 +8186,26 @@
       "fecha": "2026-10-09",
       "dia": "vie",
       "compras": 0,
-      "vtas": 4,
+      "vtas": 5,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "invEsperado": 39,
+      "invEsperado": 38,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "BENDITA IPA",
+      "fecha": "2026-10-09",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 2,
+      "salidas": 0,
+      "invEsperado": 0,
       "invIniFin": null,
       "dif": null
     },
@@ -8234,6 +8248,20 @@
       "vtasAnc": 0,
       "salidas": 0,
       "invEsperado": 92,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "COCA COLA",
+      "fecha": "2026-10-09",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 1,
+      "salidas": 0,
+      "invEsperado": 102,
       "invIniFin": null,
       "dif": null
     },
@@ -8284,7 +8312,7 @@
       "fecha": "2026-10-09",
       "dia": "vie",
       "compras": 0,
-      "vtas": 4,
+      "vtas": 5,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
@@ -9718,7 +9746,7 @@
       },
       {
         "weekYear": "202641",
-        "valor": 69.5
+        "valor": 71.5
       }
     ],
     "Vtas Ext.": [
@@ -9796,7 +9824,7 @@
       },
       {
         "weekYear": "202641",
-        "valor": 197.5
+        "valor": 202.5
       }
     ],
     "Compras": [
@@ -9832,11 +9860,11 @@
     "filasInventariosOmuh": 407,
     "filasCompras": 1535,
     "filasSalidas": 83,
-    "filasVentasIzi": 8004,
+    "filasVentasIzi": 8009,
     "filasVentasPY": 10830,
     "filasExtras": 16751,
-    "filasMovInv": 343,
-    "filasVentasAncIzi": 5943,
+    "filasMovInv": 350,
+    "filasVentasAncIzi": 5984,
     "warnings": []
   }
 }

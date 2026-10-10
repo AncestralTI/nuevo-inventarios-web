@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T19:06:11.371Z",
+  "generatedAt": "2026-10-10T22:27:02.179Z",
   "rangoFechas": {
     "desde": "2026-08-03",
     "hasta": "2026-10-10"
@@ -306,13 +306,13 @@
       "weekYear": "202641",
       "invMenos7": 29,
       "compras": 0,
-      "vtas": 9,
+      "vtas": 12,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 9,
+      "vtasTot": 12,
       "inv": null,
-      "cierre": 20,
+      "cierre": 17,
       "dif": null
     },
     {
@@ -421,10 +421,10 @@
       "vtas": 2,
       "vtasExt": 0,
       "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 2,
+      "salidas": 5,
+      "vtasTot": 7,
       "inv": null,
-      "cierre": 28,
+      "cierre": 23,
       "dif": null
     },
     {
@@ -4389,6 +4389,19 @@
       "dif": null
     },
     {
+      "producto": "POTOSINA PILSNER",
+      "fecha": "2026-10-09",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 5,
+      "invEsperado": 25,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "COCA COLA",
       "fecha": "2026-10-10",
       "dia": "sáb",
@@ -4402,6 +4415,19 @@
       "dif": null
     },
     {
+      "producto": "COCA COLA SIN AZUCAR",
+      "fecha": "2026-10-10",
+      "dia": "sáb",
+      "compras": 0,
+      "vtas": 3,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 17,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "POTOSINA PILSNER",
       "fecha": "2026-10-10",
       "dia": "sáb",
@@ -4410,7 +4436,7 @@
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "invEsperado": 28,
+      "invEsperado": 23,
       "invIniFin": null,
       "dif": null
     },
@@ -4712,7 +4738,7 @@
       },
       {
         "weekYear": "202641",
-        "valor": 29
+        "valor": 32
       }
     ],
     "Vtas Ext": [
@@ -4790,7 +4816,7 @@
       },
       {
         "weekYear": "202641",
-        "valor": 29
+        "valor": 37
       }
     ],
     "Salidas": [
@@ -4816,7 +4842,7 @@
       },
       {
         "weekYear": "202641",
-        "valor": 0
+        "valor": 5
       }
     ],
     "Compras": [
@@ -4848,12 +4874,12 @@
   },
   "meta": {
     "ventasIziDisponibles": true,
-    "filasApertura": 1418,
+    "filasApertura": 1422,
     "filasInventariosGs": 3905,
     "filasCompras": 2319,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 6054,
-    "filasMovInv": 344,
+    "filasVentasIzi": 6099,
+    "filasMovInv": 352,
     "filasDimProducto": 447,
     "warnings": []
   }

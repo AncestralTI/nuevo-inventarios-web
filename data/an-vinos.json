@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T19:06:00.627Z",
+  "generatedAt": "2026-10-10T22:26:51.604Z",
   "rangoFechas": {
     "desde": "2026-08-03",
     "hasta": "2026-10-10"
@@ -298,10 +298,10 @@
       "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 1,
+      "salidas": 1,
+      "vtasTot": 2,
       "inv": null,
-      "cierre": 2,
+      "cierre": 1,
       "dif": null
     },
     {
@@ -1177,13 +1177,13 @@
       "weekYear": "202641",
       "invMenos7": 3,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 1,
-      "vtasTot": 1,
+      "vtasTot": 2,
       "inv": null,
-      "cierre": 2,
+      "cierre": 1,
       "dif": null
     },
     {
@@ -1250,10 +1250,10 @@
       "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 0,
+      "salidas": 1,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 3,
+      "cierre": 2,
       "dif": null
     },
     {
@@ -1488,10 +1488,10 @@
       "vtas": 2,
       "vtasExt": 0,
       "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 2,
+      "salidas": 5,
+      "vtasTot": 7,
       "inv": null,
-      "cierre": 28,
+      "cierre": 23,
       "dif": null
     },
     {
@@ -1684,10 +1684,10 @@
       "vtas": 2,
       "vtasExt": 0,
       "cortesias": 0,
-      "salidas": 1,
-      "vtasTot": 3,
+      "salidas": 2,
+      "vtasTot": 4,
       "inv": null,
-      "cierre": 4,
+      "cierre": 3,
       "dif": null
     },
     {
@@ -16728,8 +16728,8 @@
       "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
-      "salidas": 0,
-      "invEsperado": 2,
+      "salidas": 1,
+      "invEsperado": 1,
       "invIniFin": null,
       "dif": null
     },
@@ -16812,11 +16812,50 @@
       "dif": null
     },
     {
+      "producto": "LOCURA 5.1.1. - MAGNUS",
+      "fecha": "2026-10-09",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 1,
+      "invEsperado": 2,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "POTOSINA PILSNER",
+      "fecha": "2026-10-09",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 5,
+      "invEsperado": 25,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "SYRAH - CEPAS DE FUEGO",
       "fecha": "2026-10-09",
       "dia": "vie",
       "compras": 0,
       "vtas": 4,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 1,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "KOHLBERG - FLAMANT ROSE",
+      "fecha": "2026-10-10",
+      "dia": "sáb",
+      "compras": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
@@ -16833,7 +16872,20 @@
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "invEsperado": 28,
+      "invEsperado": 23,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "TANNAT RAIZ - KOHLBERG",
+      "fecha": "2026-10-10",
+      "dia": "sáb",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 1,
+      "invEsperado": 3,
       "invIniFin": null,
       "dif": null
     },
@@ -17668,7 +17720,7 @@
       },
       {
         "weekYear": "202641",
-        "valor": 37
+        "valor": 38
       }
     ],
     "Vtas Ext": [
@@ -17746,7 +17798,7 @@
       },
       {
         "weekYear": "202641",
-        "valor": 42
+        "valor": 51
       }
     ],
     "Salidas": [
@@ -17772,7 +17824,7 @@
       },
       {
         "weekYear": "202641",
-        "valor": 5
+        "valor": 13
       }
     ],
     "Compras": [
@@ -17804,12 +17856,12 @@
   },
   "meta": {
     "ventasIziDisponibles": true,
-    "filasApertura": 1418,
+    "filasApertura": 1422,
     "filasInventariosGs": 3905,
     "filasCompras": 2319,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 6054,
-    "filasMovInv": 344,
+    "filasVentasIzi": 6099,
+    "filasMovInv": 352,
     "filasDimProducto": 447,
     "warnings": []
   }

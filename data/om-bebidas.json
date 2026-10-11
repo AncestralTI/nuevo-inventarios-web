@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T13:58:33.543Z",
+  "generatedAt": "2026-10-11T18:37:56.975Z",
   "rangoFechas": {
     "desde": "2026-08-03",
     "hasta": "2026-10-11"
@@ -325,14 +325,14 @@
       "weekYear": "202641",
       "invMenos7": 28,
       "compras": 0,
-      "vtasIzi": 1.5,
+      "vtasIzi": 3,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 1.5,
+      "vtasTot": 3,
       "inv": null,
-      "cierre": 26.5,
+      "cierre": 25,
       "dif": null
     },
     {
@@ -355,14 +355,14 @@
       "weekYear": "202641",
       "invMenos7": null,
       "compras": 102,
-      "vtasIzi": 11,
+      "vtasIzi": 12,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 11,
+      "vtasTot": 12,
       "inv": null,
-      "cierre": 91,
+      "cierre": 90,
       "dif": null
     },
     {
@@ -730,12 +730,12 @@
       "weekYear": "202641",
       "invMenos7": null,
       "compras": 0,
-      "vtasIzi": 15,
+      "vtasIzi": 17,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 15,
+      "vtasTot": 17,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -790,14 +790,14 @@
       "weekYear": "202641",
       "invMenos7": null,
       "compras": 36,
-      "vtasIzi": 1,
+      "vtasIzi": 4,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 1,
+      "vtasTot": 4,
       "inv": null,
-      "cierre": 35,
+      "cierre": 32,
       "dif": null
     },
     {
@@ -8644,6 +8644,62 @@
       "dif": null
     },
     {
+      "producto": "Chop Cerveza",
+      "fecha": "2026-10-11",
+      "dia": "dom",
+      "compras": 0,
+      "vtas": 1.5,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 25,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "Coca Cola",
+      "fecha": "2026-10-11",
+      "dia": "dom",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 90,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "Refresco Artesanal",
+      "fecha": "2026-10-11",
+      "dia": "dom",
+      "compras": 0,
+      "vtas": 2,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 0,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "Sprite",
+      "fecha": "2026-10-11",
+      "dia": "dom",
+      "compras": 0,
+      "vtas": 3,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 32,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "Agua",
       "fecha": "2026-09-28",
       "dia": "lun",
@@ -10068,7 +10124,7 @@
       },
       {
         "weekYear": "202641",
-        "valor": 84.5
+        "valor": 92
       }
     ],
     "Vtas Ext.": [
@@ -10146,7 +10202,7 @@
       },
       {
         "weekYear": "202641",
-        "valor": 299.5
+        "valor": 307
       }
     ],
     "Compras": [
@@ -10182,11 +10238,11 @@
     "filasInventariosOmuh": 407,
     "filasCompras": 1535,
     "filasSalidas": 86,
-    "filasVentasIzi": 8074,
+    "filasVentasIzi": 8139,
     "filasVentasPY": 10885,
     "filasExtras": 16897,
-    "filasMovInv": 360,
-    "filasVentasAncIzi": 6074,
+    "filasMovInv": 363,
+    "filasVentasAncIzi": 6095,
     "warnings": []
   }
 }

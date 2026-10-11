@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-10T22:27:02.179Z",
+  "generatedAt": "2026-10-11T01:07:17.168Z",
   "rangoFechas": {
     "desde": "2026-08-03",
-    "hasta": "2026-10-10"
+    "hasta": "2026-10-11"
   },
   "categorias": [
     "5. Bebidas alcohólicas",
@@ -292,13 +292,13 @@
       "weekYear": "202641",
       "invMenos7": 25,
       "compras": 24,
-      "vtas": 7,
+      "vtas": 8,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 7,
+      "vtasTot": 8,
       "inv": null,
-      "cierre": 42,
+      "cierre": 41,
       "dif": null
     },
     {
@@ -3372,14 +3372,14 @@
       "weekYear": "202633",
       "invMenos7": 30,
       "compras": 0,
-      "vtas": 5,
+      "vtas": 4,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 5,
+      "vtasTot": 4,
       "inv": 24,
-      "cierre": 25,
-      "dif": -1
+      "cierre": 26,
+      "dif": -2
     },
     {
       "producto": "BENDITA PILS",
@@ -3540,28 +3540,28 @@
       "weekYear": "202633",
       "invMenos7": 39,
       "compras": 12,
-      "vtas": 27,
+      "vtas": 24,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 27,
+      "vtasTot": 24,
       "inv": 24,
-      "cierre": 24,
-      "dif": 0
+      "cierre": 27,
+      "dif": -3
     },
     {
       "producto": "COCA COLA SIN AZUCAR",
       "weekYear": "202633",
       "invMenos7": 25,
       "compras": 24,
-      "vtas": 27,
+      "vtas": 25,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 27,
+      "vtasTot": 25,
       "inv": 22,
-      "cierre": 22,
-      "dif": 0
+      "cierre": 24,
+      "dif": -2
     },
     {
       "producto": "FANTA",
@@ -3596,14 +3596,14 @@
       "weekYear": "202633",
       "invMenos7": 27,
       "compras": 0,
-      "vtas": 17,
+      "vtas": 16,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 17,
+      "vtasTot": 16,
       "inv": 9,
-      "cierre": 10,
-      "dif": -1
+      "cierre": 11,
+      "dif": -2
     },
     {
       "producto": "MADERA \"LA KALOR\" GOSE",
@@ -4406,11 +4406,11 @@
       "fecha": "2026-10-10",
       "dia": "sáb",
       "compras": 0,
-      "vtas": 2,
+      "vtas": 3,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "invEsperado": 42,
+      "invEsperado": 41,
       "invIniFin": null,
       "dif": null
     },
@@ -4738,7 +4738,7 @@
       },
       {
         "weekYear": "202641",
-        "valor": 32
+        "valor": 33
       }
     ],
     "Vtas Ext": [
@@ -4816,7 +4816,7 @@
       },
       {
         "weekYear": "202641",
-        "valor": 37
+        "valor": 38
       }
     ],
     "Salidas": [
@@ -4878,8 +4878,8 @@
     "filasInventariosGs": 3905,
     "filasCompras": 2319,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 6099,
-    "filasMovInv": 352,
+    "filasVentasIzi": 6004,
+    "filasMovInv": 344,
     "filasDimProducto": 447,
     "warnings": []
   }

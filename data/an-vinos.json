@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-10T22:26:51.604Z",
+  "generatedAt": "2026-10-11T01:07:05.138Z",
   "rangoFechas": {
     "desde": "2026-08-03",
-    "hasta": "2026-10-10"
+    "hasta": "2026-10-11"
   },
   "categorias": [
     "CERVEZA",
@@ -659,11 +659,11 @@
       "weekYear": "202641",
       "invMenos7": null,
       "compras": 0,
-      "vtas": 3,
+      "vtas": 4,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 3,
+      "vtasTot": 4,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -13245,14 +13245,14 @@
       "weekYear": "202633",
       "invMenos7": 1,
       "compras": 4,
-      "vtas": 4,
+      "vtas": 3,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 4,
+      "vtasTot": 3,
       "inv": 1,
-      "cierre": 1,
-      "dif": 0
+      "cierre": 2,
+      "dif": -1
     },
     {
       "producto": "ALMA OCULTA - FORTIFICADO BLANCO",
@@ -13329,14 +13329,14 @@
       "weekYear": "202633",
       "invMenos7": 8,
       "compras": 0,
-      "vtas": 1,
+      "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 1,
-      "vtasTot": 2,
+      "vtasTot": 1,
       "inv": 6,
-      "cierre": 6,
-      "dif": 0
+      "cierre": 7,
+      "dif": -1
     },
     {
       "producto": "BARBACANA - SYRAH",
@@ -13399,14 +13399,14 @@
       "weekYear": "202633",
       "invMenos7": 30,
       "compras": 0,
-      "vtas": 5,
+      "vtas": 4,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 5,
+      "vtasTot": 4,
       "inv": 24,
-      "cierre": 25,
-      "dif": -1
+      "cierre": 26,
+      "dif": -2
     },
     {
       "producto": "BENDITA PILS",
@@ -13455,14 +13455,14 @@
       "weekYear": "202633",
       "invMenos7": 9,
       "compras": 0,
-      "vtas": 4,
+      "vtas": 2,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 4,
+      "vtasTot": 2,
       "inv": 5,
-      "cierre": 5,
-      "dif": 0
+      "cierre": 7,
+      "dif": -2
     },
     {
       "producto": "BRUT NATURE - ALTO SAMA",
@@ -13539,28 +13539,28 @@
       "weekYear": "202633",
       "invMenos7": 5,
       "compras": 0,
-      "vtas": 4,
+      "vtas": 3,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 4,
+      "vtasTot": 3,
       "inv": 1,
-      "cierre": 1,
-      "dif": 0
+      "cierre": 2,
+      "dif": -1
     },
     {
       "producto": "CAÑON ESCONDIDO - TANNAT",
       "weekYear": "202633",
       "invMenos7": 3,
       "compras": 6,
-      "vtas": 2,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 2,
+      "vtasTot": 1,
       "inv": 7,
-      "cierre": 7,
-      "dif": 0
+      "cierre": 8,
+      "dif": -1
     },
     {
       "producto": "CEPA DE ORO - MISIONERA",
@@ -13973,11 +13973,11 @@
       "weekYear": "202633",
       "invMenos7": null,
       "compras": 0,
-      "vtas": 1,
+      "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 1,
+      "vtasTot": 0,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -14071,14 +14071,14 @@
       "weekYear": "202633",
       "invMenos7": 27,
       "compras": 0,
-      "vtas": 17,
+      "vtas": 16,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 17,
+      "vtasTot": 16,
       "inv": 9,
-      "cierre": 10,
-      "dif": -1
+      "cierre": 11,
+      "dif": -2
     },
     {
       "producto": "IMPOREÑA - CEPA DE ORO",
@@ -14309,14 +14309,14 @@
       "weekYear": "202633",
       "invMenos7": 8,
       "compras": 0,
-      "vtas": 4,
+      "vtas": 3,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 4,
+      "vtasTot": 3,
       "inv": 4,
-      "cierre": 4,
-      "dif": 0
+      "cierre": 5,
+      "dif": -1
     },
     {
       "producto": "MARSELAN - ARSAL",
@@ -16851,6 +16851,19 @@
       "dif": null
     },
     {
+      "producto": "COPA ALAYA - TELLUS",
+      "fecha": "2026-10-10",
+      "dia": "sáb",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 0,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "KOHLBERG - FLAMANT ROSE",
       "fecha": "2026-10-10",
       "dia": "sáb",
@@ -17720,7 +17733,7 @@
       },
       {
         "weekYear": "202641",
-        "valor": 38
+        "valor": 39
       }
     ],
     "Vtas Ext": [
@@ -17798,7 +17811,7 @@
       },
       {
         "weekYear": "202641",
-        "valor": 51
+        "valor": 52
       }
     ],
     "Salidas": [
@@ -17860,8 +17873,8 @@
     "filasInventariosGs": 3905,
     "filasCompras": 2319,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 6099,
-    "filasMovInv": 352,
+    "filasVentasIzi": 6004,
+    "filasMovInv": 344,
     "filasDimProducto": 447,
     "warnings": []
   }

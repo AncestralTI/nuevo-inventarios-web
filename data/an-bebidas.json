@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T18:37:24.439Z",
+  "generatedAt": "2026-10-11T22:26:28.562Z",
   "rangoFechas": {
     "desde": "2026-08-03",
     "hasta": "2026-10-11"
@@ -124,13 +124,13 @@
       "weekYear": "202641",
       "invMenos7": 17,
       "compras": 0,
-      "vtas": 2,
+      "vtas": 7,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 2,
+      "vtasTot": 7,
       "inv": null,
-      "cierre": 15,
+      "cierre": 10,
       "dif": null
     },
     {
@@ -138,13 +138,13 @@
       "weekYear": "202641",
       "invMenos7": 21,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 21,
+      "cierre": 20,
       "dif": null
     },
     {
@@ -306,13 +306,13 @@
       "weekYear": "202641",
       "invMenos7": 29,
       "compras": 0,
-      "vtas": 12,
+      "vtas": 17,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 12,
+      "vtasTot": 17,
       "inv": null,
-      "cierre": 17,
+      "cierre": 12,
       "dif": null
     },
     {
@@ -348,13 +348,13 @@
       "weekYear": "202641",
       "invMenos7": 26,
       "compras": 0,
-      "vtas": 4,
+      "vtas": 8,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 4,
+      "vtasTot": 8,
       "inv": null,
-      "cierre": 22,
+      "cierre": 18,
       "dif": null
     },
     {
@@ -418,13 +418,13 @@
       "weekYear": "202641",
       "invMenos7": 30,
       "compras": 0,
-      "vtas": 2,
+      "vtas": 3,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 5,
-      "vtasTot": 7,
+      "vtasTot": 8,
       "inv": null,
-      "cierre": 23,
+      "cierre": 22,
       "dif": null
     },
     {
@@ -460,13 +460,13 @@
       "weekYear": "202641",
       "invMenos7": 25,
       "compras": 0,
-      "vtas": 2,
+      "vtas": 3,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 2,
+      "vtasTot": 3,
       "inv": null,
-      "cierre": 23,
+      "cierre": 22,
       "dif": null
     },
     {
@@ -4454,6 +4454,84 @@
       "dif": null
     },
     {
+      "producto": "BENDITA IPA",
+      "fecha": "2026-10-11",
+      "dia": "dom",
+      "compras": 0,
+      "vtas": 5,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 10,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "BENDITA PILS",
+      "fecha": "2026-10-11",
+      "dia": "dom",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 20,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "COCA COLA SIN AZUCAR",
+      "fecha": "2026-10-11",
+      "dia": "dom",
+      "compras": 0,
+      "vtas": 5,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 12,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "HUARI",
+      "fecha": "2026-10-11",
+      "dia": "dom",
+      "compras": 0,
+      "vtas": 4,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 18,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "POTOSINA PILSNER",
+      "fecha": "2026-10-11",
+      "dia": "dom",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 22,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "SAN MIGUEL MATILDA PALE ALE",
+      "fecha": "2026-10-11",
+      "dia": "dom",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 22,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "COCA COLA",
       "fecha": "2026-09-29",
       "dia": "mar",
@@ -4751,7 +4829,7 @@
       },
       {
         "weekYear": "202641",
-        "valor": 38
+        "valor": 55
       }
     ],
     "Vtas Ext": [
@@ -4829,7 +4907,7 @@
       },
       {
         "weekYear": "202641",
-        "valor": 43
+        "valor": 60
       }
     ],
     "Salidas": [
@@ -4888,11 +4966,11 @@
   "meta": {
     "ventasIziDisponibles": true,
     "filasApertura": 1426,
-    "filasInventariosGs": 3905,
+    "filasInventariosGs": 3956,
     "filasCompras": 2319,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 6095,
-    "filasMovInv": 353,
+    "filasVentasIzi": 6160,
+    "filasMovInv": 359,
     "filasDimProducto": 448,
     "warnings": []
   }

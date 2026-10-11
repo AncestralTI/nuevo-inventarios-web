@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T01:07:17.168Z",
+  "generatedAt": "2026-10-11T07:06:39.218Z",
   "rangoFechas": {
     "desde": "2026-08-03",
     "hasta": "2026-10-11"
@@ -292,13 +292,13 @@
       "weekYear": "202641",
       "invMenos7": 25,
       "compras": 24,
-      "vtas": 8,
+      "vtas": 10,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 8,
+      "vtasTot": 10,
       "inv": null,
-      "cierre": 41,
+      "cierre": 39,
       "dif": null
     },
     {
@@ -348,13 +348,13 @@
       "weekYear": "202641",
       "invMenos7": 26,
       "compras": 0,
-      "vtas": 1,
+      "vtas": 4,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 1,
+      "vtasTot": 4,
       "inv": null,
-      "cierre": 25,
+      "cierre": 22,
       "dif": null
     },
     {
@@ -4406,11 +4406,11 @@
       "fecha": "2026-10-10",
       "dia": "sáb",
       "compras": 0,
-      "vtas": 3,
+      "vtas": 5,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "invEsperado": 41,
+      "invEsperado": 39,
       "invIniFin": null,
       "dif": null
     },
@@ -4424,6 +4424,19 @@
       "cortesias": 0,
       "salidas": 0,
       "invEsperado": 17,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "HUARI",
+      "fecha": "2026-10-10",
+      "dia": "sáb",
+      "compras": 0,
+      "vtas": 3,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 22,
       "invIniFin": null,
       "dif": null
     },
@@ -4738,7 +4751,7 @@
       },
       {
         "weekYear": "202641",
-        "valor": 33
+        "valor": 38
       }
     ],
     "Vtas Ext": [
@@ -4816,7 +4829,7 @@
       },
       {
         "weekYear": "202641",
-        "valor": 38
+        "valor": 43
       }
     ],
     "Salidas": [
@@ -4874,13 +4887,13 @@
   },
   "meta": {
     "ventasIziDisponibles": true,
-    "filasApertura": 1422,
+    "filasApertura": 1426,
     "filasInventariosGs": 3905,
     "filasCompras": 2319,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 6004,
-    "filasMovInv": 344,
-    "filasDimProducto": 447,
+    "filasVentasIzi": 6074,
+    "filasMovInv": 350,
+    "filasDimProducto": 448,
     "warnings": []
   }
 }

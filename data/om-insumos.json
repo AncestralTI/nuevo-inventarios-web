@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T01:30:01.617Z",
+  "generatedAt": "2026-10-12T07:50:18.296Z",
   "rangoFechas": {
     "desde": "2026-08-10",
     "hasta": "2026-10-12"
@@ -130,14 +130,14 @@
       "weekYear": "202641",
       "invMenos7": null,
       "compras": 515,
-      "vtasIzi": 477,
+      "vtasIzi": 470,
       "vtasAnc": 4,
-      "vtasPY": 47,
-      "vtasExt": 15,
-      "vtasVegg": -4,
+      "vtasPY": 60,
+      "vtasExt": 19,
+      "vtasVegg": -6,
       "cortesias": 1,
-      "salidas": 8,
-      "vtasTot": 548,
+      "salidas": 10,
+      "vtasTot": 558,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -147,16 +147,16 @@
       "weekYear": "202641",
       "invMenos7": null,
       "compras": 87,
-      "vtasIzi": 50,
+      "vtasIzi": 47,
       "vtasAnc": 0,
-      "vtasPY": 15,
+      "vtasPY": 20,
       "vtasExt": 0,
       "vtasVegg": 0,
       "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 65,
+      "salidas": 4,
+      "vtasTot": 71,
       "inv": null,
-      "cierre": 22,
+      "cierre": 16,
       "dif": null
     },
     {
@@ -789,9 +789,9 @@
       "fecha": "2026-10-11",
       "dia": "dom",
       "compras": 0,
-      "vtas": 120.5,
-      "salidas": 0,
-      "invEsperado": 29,
+      "vtas": 115.5,
+      "salidas": 2,
+      "invEsperado": 34,
       "invFin": null,
       "dif": null
     },
@@ -800,9 +800,9 @@
       "fecha": "2026-10-11",
       "dia": "dom",
       "compras": 0,
-      "vtas": 12,
-      "salidas": 0,
-      "invEsperado": 37,
+      "vtas": 13,
+      "salidas": 4,
+      "invEsperado": 36,
       "invFin": null,
       "dif": null
     },
@@ -838,7 +838,7 @@
       },
       {
         "weekYear": "202641",
-        "valor": 552
+        "valor": 542
       },
       {
         "weekYear": "202642",
@@ -890,7 +890,7 @@
       },
       {
         "weekYear": "202641",
-        "valor": 62
+        "valor": 80
       },
       {
         "weekYear": "202642",
@@ -916,7 +916,7 @@
       },
       {
         "weekYear": "202641",
-        "valor": 15
+        "valor": 19
       },
       {
         "weekYear": "202642",
@@ -968,7 +968,7 @@
       },
       {
         "weekYear": "202641",
-        "valor": 8
+        "valor": 14
       },
       {
         "weekYear": "202642",
@@ -994,7 +994,7 @@
       },
       {
         "weekYear": "202641",
-        "valor": 638
+        "valor": 654
       },
       {
         "weekYear": "202642",
@@ -1033,10 +1033,10 @@
     "filasDimProducto": 448,
     "filasInventariosUnitarios": 0,
     "filasCompras": 1535,
-    "filasSalidas": 86,
-    "filasVentasIzi": 8093,
-    "filasVentasPY": 10885,
-    "filasExtras": 16968,
+    "filasSalidas": 89,
+    "filasVentasIzi": 8094,
+    "filasVentasPY": 10909,
+    "filasExtras": 17051,
     "filasMovInv": 362,
     "filasVentasAncIzi": 6033,
     "warnings": []

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T11:11:30.471Z",
+  "generatedAt": "2026-10-13T18:20:19.201Z",
   "rangoFechas": {
     "desde": "2026-08-10",
     "hasta": "2026-10-13"
@@ -221,12 +221,12 @@
       "insumo": "Pechuga de pollo",
       "weekYear": "202642",
       "invMenos7": 18,
-      "compras": 0,
+      "compras": 13,
       "vtas": 0,
       "salidas": 0,
       "vtasTot": 0,
       "inv": null,
-      "cierre": 18,
+      "cierre": 31,
       "dif": null
     },
     {
@@ -1768,6 +1768,18 @@
   ],
   "detalleDiario": [
     {
+      "insumo": "Pechuga de pollo",
+      "fecha": "2026-10-13",
+      "dia": "mar",
+      "compras": 13,
+      "vtas": 0,
+      "salidas": 0,
+      "invEsperado": 13,
+      "invIni": null,
+      "invFin": null,
+      "dif": null
+    },
+    {
       "insumo": "Pato",
       "fecha": "2026-10-05",
       "dia": "lun",
@@ -2770,13 +2782,13 @@
       },
       {
         "weekYear": "202642",
-        "valor": 0
+        "valor": 13
       }
     ]
   },
   "meta": {
     "ventasIziDisponibles": true,
-    "filasCompras": 2339,
+    "filasCompras": 2342,
     "filasSalidas": 903,
     "filasMatriz": 23,
     "filasInventarios": 436,

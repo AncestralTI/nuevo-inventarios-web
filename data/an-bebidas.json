@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T11:12:21.026Z",
+  "generatedAt": "2026-10-13T18:20:44.184Z",
   "rangoFechas": {
     "desde": "2026-08-10",
     "hasta": "2026-10-13"
@@ -309,10 +309,10 @@
       "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 0,
+      "salidas": 1,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 8,
+      "cierre": 7,
       "dif": null
     },
     {
@@ -4168,6 +4168,19 @@
   ],
   "detalleDiario": [
     {
+      "producto": "COCA COLA SIN AZUCAR",
+      "fecha": "2026-10-13",
+      "dia": "mar",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 1,
+      "invEsperado": 7,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "BENDITA HOPPY",
       "fecha": "2026-10-06",
       "dia": "mar",
@@ -4634,7 +4647,7 @@
       },
       {
         "weekYear": "202642",
-        "valor": 0
+        "valor": 1
       }
     ],
     "Salidas": [
@@ -4660,7 +4673,7 @@
       },
       {
         "weekYear": "202642",
-        "valor": 0
+        "valor": 1
       }
     ],
     "Compras": [
@@ -4692,9 +4705,9 @@
   },
   "meta": {
     "ventasIziDisponibles": true,
-    "filasApertura": 1428,
+    "filasApertura": 1429,
     "filasInventariosGs": 3984,
-    "filasCompras": 2339,
+    "filasCompras": 2342,
     "filasMatrizChuleton": 1,
     "filasVentasIzi": 5964,
     "filasMovInv": 333,

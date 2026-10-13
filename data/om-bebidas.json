@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T11:13:07.610Z",
+  "generatedAt": "2026-10-13T18:21:18.179Z",
   "rangoFechas": {
     "desde": "2026-08-10",
     "hasta": "2026-10-13"
@@ -430,14 +430,14 @@
       "weekYear": "202642",
       "invMenos7": 27,
       "compras": 0,
-      "vtasIzi": 0,
+      "vtasIzi": 1,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 27,
+      "cierre": 26,
       "dif": null
     },
     {
@@ -7468,6 +7468,20 @@
       "dif": 3
     },
     {
+      "producto": "Curandero",
+      "fecha": "2026-10-13",
+      "dia": "mar",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 26,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "Agua",
       "fecha": "2026-10-05",
       "dia": "lun",
@@ -9102,7 +9116,7 @@
       },
       {
         "weekYear": "202642",
-        "valor": 15
+        "valor": 16
       }
     ],
     "Vtas Ext.": [
@@ -9180,7 +9194,7 @@
       },
       {
         "weekYear": "202642",
-        "valor": 37
+        "valor": 38
       }
     ],
     "Compras": [
@@ -9214,9 +9228,9 @@
     "ventasIziDisponibles": true,
     "filasDimProducto": 448,
     "filasInventariosOmuh": 425,
-    "filasCompras": 1536,
-    "filasSalidas": 93,
-    "filasVentasIzi": 8060,
+    "filasCompras": 1537,
+    "filasSalidas": 95,
+    "filasVentasIzi": 8072,
     "filasVentasPY": 10935,
     "filasExtras": 17093,
     "filasMovInv": 346,

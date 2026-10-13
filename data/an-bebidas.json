@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T18:20:44.184Z",
+  "generatedAt": "2026-10-13T22:58:48.360Z",
   "rangoFechas": {
     "desde": "2026-08-10",
     "hasta": "2026-10-13"
@@ -4707,7 +4707,7 @@
     "ventasIziDisponibles": true,
     "filasApertura": 1429,
     "filasInventariosGs": 3984,
-    "filasCompras": 2342,
+    "filasCompras": 2350,
     "filasMatrizChuleton": 1,
     "filasVentasIzi": 5964,
     "filasMovInv": 333,

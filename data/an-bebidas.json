@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T01:39:06.736Z",
+  "generatedAt": "2026-10-14T12:25:57.312Z",
   "rangoFechas": {
     "desde": "2026-08-10",
     "hasta": "2026-10-14"
@@ -124,13 +124,13 @@
       "weekYear": "202642",
       "invMenos7": 10,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 10,
+      "cierre": 9,
       "dif": null
     },
     {
@@ -306,13 +306,13 @@
       "weekYear": "202642",
       "invMenos7": 8,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 1,
-      "vtasTot": 1,
+      "vtasTot": 2,
       "inv": null,
-      "cierre": 7,
+      "cierre": 6,
       "dif": null
     },
     {
@@ -348,13 +348,13 @@
       "weekYear": "202642",
       "invMenos7": 18,
       "compras": 0,
-      "vtas": 1,
+      "vtas": 2,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 1,
+      "vtasTot": 2,
       "inv": null,
-      "cierre": 17,
+      "cierre": 16,
       "dif": null
     },
     {
@@ -418,13 +418,13 @@
       "weekYear": "202642",
       "invMenos7": 22,
       "compras": 0,
-      "vtas": 2,
+      "vtas": 8,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 2,
+      "vtasTot": 8,
       "inv": null,
-      "cierre": 20,
+      "cierre": 14,
       "dif": null
     },
     {
@@ -460,13 +460,13 @@
       "weekYear": "202642",
       "invMenos7": 22,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 22,
+      "cierre": 21,
       "dif": null
     },
     {
@@ -4168,15 +4168,28 @@
   ],
   "detalleDiario": [
     {
+      "producto": "BENDITA IPA",
+      "fecha": "2026-10-13",
+      "dia": "mar",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 9,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "COCA COLA SIN AZUCAR",
       "fecha": "2026-10-13",
       "dia": "mar",
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 1,
-      "invEsperado": 7,
+      "invEsperado": 6,
       "invIniFin": null,
       "dif": null
     },
@@ -4185,11 +4198,11 @@
       "fecha": "2026-10-13",
       "dia": "mar",
       "compras": 0,
-      "vtas": 1,
+      "vtas": 2,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "invEsperado": 17,
+      "invEsperado": 16,
       "invIniFin": null,
       "dif": null
     },
@@ -4198,11 +4211,24 @@
       "fecha": "2026-10-13",
       "dia": "mar",
       "compras": 0,
-      "vtas": 2,
+      "vtas": 8,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "invEsperado": 20,
+      "invEsperado": 14,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "SAN MIGUEL MATILDA PALE ALE",
+      "fecha": "2026-10-13",
+      "dia": "mar",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 21,
       "invIniFin": null,
       "dif": null
     },
@@ -4595,7 +4621,7 @@
       },
       {
         "weekYear": "202642",
-        "valor": 3
+        "valor": 13
       }
     ],
     "Vtas Ext": [
@@ -4673,7 +4699,7 @@
       },
       {
         "weekYear": "202642",
-        "valor": 4
+        "valor": 14
       }
     ],
     "Salidas": [
@@ -4731,12 +4757,12 @@
   },
   "meta": {
     "ventasIziDisponibles": true,
-    "filasApertura": 1429,
+    "filasApertura": 1430,
     "filasInventariosGs": 3984,
     "filasCompras": 2350,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 5970,
-    "filasMovInv": 314,
+    "filasVentasIzi": 6040,
+    "filasMovInv": 316,
     "filasDimProducto": 449,
     "warnings": []
   }

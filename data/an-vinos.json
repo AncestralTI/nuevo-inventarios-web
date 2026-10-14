@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T01:38:56.151Z",
+  "generatedAt": "2026-10-14T12:25:48.337Z",
   "rangoFechas": {
     "desde": "2026-08-10",
     "hasta": "2026-10-14"
@@ -253,13 +253,13 @@
       "weekYear": "202642",
       "invMenos7": 4,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 4,
+      "cierre": 3,
       "dif": null
     },
     {
@@ -407,13 +407,13 @@
       "weekYear": "202642",
       "invMenos7": 10,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 10,
+      "cierre": 9,
       "dif": null
     },
     {
@@ -477,13 +477,13 @@
       "weekYear": "202642",
       "invMenos7": 2,
       "compras": 0,
-      "vtas": 1,
+      "vtas": 2,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 1,
+      "vtasTot": 2,
       "inv": null,
-      "cierre": 1,
+      "cierre": 0,
       "dif": null
     },
     {
@@ -561,13 +561,13 @@
       "weekYear": "202642",
       "invMenos7": 4,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 4,
+      "cierre": 3,
       "dif": null
     },
     {
@@ -1079,13 +1079,13 @@
       "weekYear": "202642",
       "invMenos7": 18,
       "compras": 0,
-      "vtas": 1,
+      "vtas": 2,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 1,
+      "vtasTot": 2,
       "inv": null,
-      "cierre": 17,
+      "cierre": 16,
       "dif": null
     },
     {
@@ -1485,13 +1485,13 @@
       "weekYear": "202642",
       "invMenos7": 22,
       "compras": 0,
-      "vtas": 2,
+      "vtas": 8,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 2,
+      "vtasTot": 8,
       "inv": null,
-      "cierre": 20,
+      "cierre": 14,
       "dif": null
     },
     {
@@ -1527,13 +1527,13 @@
       "weekYear": "202642",
       "invMenos7": 22,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 22,
+      "cierre": 21,
       "dif": null
     },
     {
@@ -1611,13 +1611,13 @@
       "weekYear": "202642",
       "invMenos7": 5,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 5,
+      "cierre": 4,
       "dif": null
     },
     {
@@ -1667,13 +1667,13 @@
       "weekYear": "202642",
       "invMenos7": 4,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 4,
+      "cierre": 3,
       "dif": null
     },
     {
@@ -1684,10 +1684,10 @@
       "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 0,
+      "salidas": 1,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 2,
+      "cierre": 1,
       "dif": null
     },
     {
@@ -16435,6 +16435,19 @@
   ],
   "detalleDiario": [
     {
+      "producto": "ALAYA - TELLUS",
+      "fecha": "2026-10-13",
+      "dia": "mar",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 3,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "ARANJUEZ - JUAN CRUZ",
       "fecha": "2026-10-13",
       "dia": "mar",
@@ -16461,7 +16474,7 @@
       "dif": null
     },
     {
-      "producto": "BRUT NATURE - ALTO SAMA",
+      "producto": "BENDITA IPA",
       "fecha": "2026-10-13",
       "dia": "mar",
       "compras": 0,
@@ -16469,7 +16482,33 @@
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "invEsperado": 1,
+      "invEsperado": 9,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "BRUT NATURE - ALTO SAMA",
+      "fecha": "2026-10-13",
+      "dia": "mar",
+      "compras": 0,
+      "vtas": 2,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 0,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "CAÑON ESCONDIDO - TANNAT",
+      "fecha": "2026-10-13",
+      "dia": "mar",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 3,
       "invIniFin": null,
       "dif": null
     },
@@ -16491,11 +16530,11 @@
       "fecha": "2026-10-13",
       "dia": "mar",
       "compras": 0,
-      "vtas": 1,
+      "vtas": 2,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "invEsperado": 17,
+      "invEsperado": 16,
       "invIniFin": null,
       "dif": null
     },
@@ -16504,11 +16543,63 @@
       "fecha": "2026-10-13",
       "dia": "mar",
       "compras": 0,
-      "vtas": 2,
+      "vtas": 8,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "invEsperado": 20,
+      "invEsperado": 14,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "SAN MIGUEL MATILDA PALE ALE",
+      "fecha": "2026-10-13",
+      "dia": "mar",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 21,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "STELAR - KOHLBERG",
+      "fecha": "2026-10-13",
+      "dia": "mar",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 4,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "TANNAT LADO B - JARDIN OCULTO",
+      "fecha": "2026-10-13",
+      "dia": "mar",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 3,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "TANNAT RAIZ - KOHLBERG",
+      "fecha": "2026-10-13",
+      "dia": "mar",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 1,
+      "invEsperado": 1,
       "invIniFin": null,
       "dif": null
     },
@@ -17291,7 +17382,7 @@
       },
       {
         "weekYear": "202642",
-        "valor": 5
+        "valor": 19
       }
     ],
     "Vtas Ext": [
@@ -17369,7 +17460,7 @@
       },
       {
         "weekYear": "202642",
-        "valor": 5
+        "valor": 20
       }
     ],
     "Salidas": [
@@ -17395,7 +17486,7 @@
       },
       {
         "weekYear": "202642",
-        "valor": 0
+        "valor": 1
       }
     ],
     "Compras": [
@@ -17427,12 +17518,12 @@
   },
   "meta": {
     "ventasIziDisponibles": true,
-    "filasApertura": 1429,
+    "filasApertura": 1430,
     "filasInventariosGs": 3984,
     "filasCompras": 2350,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 5970,
-    "filasMovInv": 314,
+    "filasVentasIzi": 6040,
+    "filasMovInv": 316,
     "filasDimProducto": 449,
     "warnings": []
   }

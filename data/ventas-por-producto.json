@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T17:26:19.548Z",
+  "generatedAt": "2026-10-14T20:51:42.928Z",
   "fuente": "API iZi Soluciones (facturas + items-inventarios), sucursal Ancestral (79344)",
   "rango": {
     "desde": "2026-09-14",
@@ -11028,6 +11028,14 @@
       "fecha": "2026-10-13",
       "cantidad": 1,
       "monto": 50
+    },
+    {
+      "codProducto": "ANC00087",
+      "producto": "VALE DE CONSUMO",
+      "categoria": "EXTRAS",
+      "fecha": "2026-10-14",
+      "cantidad": 1,
+      "monto": 1100
     }
   ]
 }

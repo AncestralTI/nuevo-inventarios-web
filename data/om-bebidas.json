@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T17:26:17.520Z",
+  "generatedAt": "2026-10-14T20:51:41.040Z",
   "rangoFechas": {
     "desde": "2026-08-10",
     "hasta": "2026-10-14"
@@ -280,14 +280,14 @@
       "weekYear": "202642",
       "invMenos7": 180,
       "compras": 0,
-      "vtasIzi": 3,
+      "vtasIzi": 4,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 24,
-      "vtasTot": 27,
+      "vtasTot": 28,
       "inv": null,
-      "cierre": 153,
+      "cierre": 152,
       "dif": null
     },
     {
@@ -355,14 +355,14 @@
       "weekYear": "202642",
       "invMenos7": null,
       "compras": 78,
-      "vtasIzi": 0,
+      "vtasIzi": 2,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 2,
       "inv": null,
-      "cierre": 78,
+      "cierre": 76,
       "dif": null
     },
     {
@@ -430,14 +430,14 @@
       "weekYear": "202642",
       "invMenos7": 27,
       "compras": 0,
-      "vtasIzi": 1,
+      "vtasIzi": 2,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 1,
+      "vtasTot": 2,
       "inv": null,
-      "cierre": 26,
+      "cierre": 25,
       "dif": null
     },
     {
@@ -730,12 +730,12 @@
       "weekYear": "202642",
       "invMenos7": null,
       "compras": 0,
-      "vtasIzi": 14,
+      "vtasIzi": 16,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 14,
+      "vtasTot": 16,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -7720,11 +7720,53 @@
       "dif": null
     },
     {
-      "producto": "Refresco Artesanal",
+      "producto": "Cerveza Huari",
       "fecha": "2026-10-14",
       "dia": "mié",
       "compras": 0,
       "vtas": 1,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 152,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "Coca Cola",
+      "fecha": "2026-10-14",
+      "dia": "mié",
+      "compras": 0,
+      "vtas": 2,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 76,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "Curandero",
+      "fecha": "2026-10-14",
+      "dia": "mié",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 25,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "Refresco Artesanal",
+      "fecha": "2026-10-14",
+      "dia": "mié",
+      "compras": 0,
+      "vtas": 3,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
@@ -9368,7 +9410,7 @@
       },
       {
         "weekYear": "202642",
-        "valor": 23
+        "valor": 29
       }
     ],
     "Vtas Ext.": [
@@ -9446,7 +9488,7 @@
       },
       {
         "weekYear": "202642",
-        "valor": 106
+        "valor": 112
       }
     ],
     "Compras": [
@@ -9482,11 +9524,11 @@
     "filasInventariosOmuh": 425,
     "filasCompras": 1548,
     "filasSalidas": 96,
-    "filasVentasIzi": 7950,
+    "filasVentasIzi": 7968,
     "filasVentasPY": 10954,
     "filasExtras": 17135,
-    "filasMovInv": 342,
-    "filasVentasAncIzi": 6040,
+    "filasMovInv": 343,
+    "filasVentasAncIzi": 6041,
     "warnings": []
   }
 }

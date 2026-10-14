@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-13T22:58:48.360Z",
+  "generatedAt": "2026-10-14T01:39:06.736Z",
   "rangoFechas": {
     "desde": "2026-08-10",
-    "hasta": "2026-10-13"
+    "hasta": "2026-10-14"
   },
   "categorias": [
     "5. Bebidas alcohólicas",
@@ -348,13 +348,13 @@
       "weekYear": "202642",
       "invMenos7": 18,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 18,
+      "cierre": 17,
       "dif": null
     },
     {
@@ -418,13 +418,13 @@
       "weekYear": "202642",
       "invMenos7": 22,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 2,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 2,
       "inv": null,
-      "cierre": 22,
+      "cierre": 20,
       "dif": null
     },
     {
@@ -4181,6 +4181,32 @@
       "dif": null
     },
     {
+      "producto": "HUARI",
+      "fecha": "2026-10-13",
+      "dia": "mar",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 17,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "POTOSINA PILSNER",
+      "fecha": "2026-10-13",
+      "dia": "mar",
+      "compras": 0,
+      "vtas": 2,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 20,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "BENDITA HOPPY",
       "fecha": "2026-10-06",
       "dia": "mar",
@@ -4569,7 +4595,7 @@
       },
       {
         "weekYear": "202642",
-        "valor": 0
+        "valor": 3
       }
     ],
     "Vtas Ext": [
@@ -4647,7 +4673,7 @@
       },
       {
         "weekYear": "202642",
-        "valor": 1
+        "valor": 4
       }
     ],
     "Salidas": [
@@ -4709,9 +4735,9 @@
     "filasInventariosGs": 3984,
     "filasCompras": 2350,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 5964,
-    "filasMovInv": 333,
-    "filasDimProducto": 448,
+    "filasVentasIzi": 5970,
+    "filasMovInv": 314,
+    "filasDimProducto": 449,
     "warnings": []
   }
 }

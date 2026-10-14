@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-13T22:58:39.222Z",
+  "generatedAt": "2026-10-14T01:38:56.151Z",
   "rangoFechas": {
     "desde": "2026-08-10",
-    "hasta": "2026-10-13"
+    "hasta": "2026-10-14"
   },
   "categorias": [
     "CERVEZA",
@@ -477,13 +477,13 @@
       "weekYear": "202642",
       "invMenos7": 2,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 2,
+      "cierre": 1,
       "dif": null
     },
     {
@@ -1051,13 +1051,13 @@
       "weekYear": "202642",
       "invMenos7": 8,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 8,
+      "cierre": 7,
       "dif": null
     },
     {
@@ -1079,13 +1079,13 @@
       "weekYear": "202642",
       "invMenos7": 18,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 18,
+      "cierre": 17,
       "dif": null
     },
     {
@@ -1485,13 +1485,13 @@
       "weekYear": "202642",
       "invMenos7": 22,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 2,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 2,
       "inv": null,
-      "cierre": 22,
+      "cierre": 20,
       "dif": null
     },
     {
@@ -16339,14 +16339,14 @@
       "weekYear": "202633",
       "invMenos7": 6,
       "compras": 0,
-      "vtas": 1,
+      "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 1,
+      "vtasTot": 0,
       "inv": 5,
-      "cierre": 5,
-      "dif": 0
+      "cierre": 6,
+      "dif": -1
     },
     {
       "producto": "TRIVARIETAL TINTO - MAGNUS",
@@ -16457,6 +16457,58 @@
       "cortesias": 0,
       "salidas": 0,
       "invEsperado": 9,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "BRUT NATURE - ALTO SAMA",
+      "fecha": "2026-10-13",
+      "dia": "mar",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 1,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "GRAN RESERVA CARMENERE - CASA SOLUM",
+      "fecha": "2026-10-13",
+      "dia": "mar",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 7,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "HUARI",
+      "fecha": "2026-10-13",
+      "dia": "mar",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 17,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "POTOSINA PILSNER",
+      "fecha": "2026-10-13",
+      "dia": "mar",
+      "compras": 0,
+      "vtas": 2,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 20,
       "invIniFin": null,
       "dif": null
     },
@@ -17239,7 +17291,7 @@
       },
       {
         "weekYear": "202642",
-        "valor": 0
+        "valor": 5
       }
     ],
     "Vtas Ext": [
@@ -17317,7 +17369,7 @@
       },
       {
         "weekYear": "202642",
-        "valor": 0
+        "valor": 5
       }
     ],
     "Salidas": [
@@ -17379,9 +17431,9 @@
     "filasInventariosGs": 3984,
     "filasCompras": 2350,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 5964,
-    "filasMovInv": 333,
-    "filasDimProducto": 448,
+    "filasVentasIzi": 5970,
+    "filasMovInv": 314,
+    "filasDimProducto": 449,
     "warnings": []
   }
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T01:46:48.424Z",
+  "generatedAt": "2026-10-15T06:31:27.902Z",
   "rangoFechas": {
     "desde": "2026-08-10",
     "hasta": "2026-10-15"
@@ -306,13 +306,13 @@
       "weekYear": "202642",
       "invMenos7": 8,
       "compras": 0,
-      "vtas": 1,
+      "vtas": 4,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 1,
-      "vtasTot": 2,
+      "vtasTot": 5,
       "inv": null,
-      "cierre": 6,
+      "cierre": 3,
       "dif": null
     },
     {
@@ -348,13 +348,13 @@
       "weekYear": "202642",
       "invMenos7": 18,
       "compras": 0,
-      "vtas": 2,
+      "vtas": 4,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 2,
+      "vtasTot": 4,
       "inv": null,
-      "cierre": 16,
+      "cierre": 14,
       "dif": null
     },
     {
@@ -446,13 +446,13 @@
       "weekYear": "202642",
       "invMenos7": 18,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 18,
+      "cierre": 17,
       "dif": null
     },
     {
@@ -4233,6 +4233,45 @@
       "dif": null
     },
     {
+      "producto": "COCA COLA SIN AZUCAR",
+      "fecha": "2026-10-14",
+      "dia": "mié",
+      "compras": 0,
+      "vtas": 3,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 3,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "HUARI",
+      "fecha": "2026-10-14",
+      "dia": "mié",
+      "compras": 0,
+      "vtas": 2,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 14,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "REBELION OBSESSION IPA",
+      "fecha": "2026-10-14",
+      "dia": "mié",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 17,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "BENDITA HOPPY",
       "fecha": "2026-10-06",
       "dia": "mar",
@@ -4621,7 +4660,7 @@
       },
       {
         "weekYear": "202642",
-        "valor": 13
+        "valor": 19
       }
     ],
     "Vtas Ext": [
@@ -4699,7 +4738,7 @@
       },
       {
         "weekYear": "202642",
-        "valor": 14
+        "valor": 20
       }
     ],
     "Salidas": [
@@ -4761,8 +4800,8 @@
     "filasInventariosGs": 3984,
     "filasCompras": 2357,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 5737,
-    "filasMovInv": 315,
+    "filasVentasIzi": 5779,
+    "filasMovInv": 319,
     "filasDimProducto": 449,
     "warnings": []
   }

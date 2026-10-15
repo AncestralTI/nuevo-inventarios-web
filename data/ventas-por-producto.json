@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T01:47:27.162Z",
+  "generatedAt": "2026-10-15T06:32:02.333Z",
   "fuente": "API iZi Soluciones (facturas + items-inventarios), sucursal Ancestral (79344)",
   "rango": {
     "desde": "2026-09-15",
@@ -11030,20 +11030,252 @@
       "monto": 50
     },
     {
-      "codProducto": "ANC00281",
-      "producto": "CUARTO PATO CONFITADO",
-      "categoria": "FUERTES",
+      "codProducto": "ANC00063",
+      "producto": "TACO PULLED PORK",
+      "categoria": "ENTRADAS",
       "fecha": "2026-10-14",
       "cantidad": 1,
-      "monto": 140
+      "monto": 70
+    },
+    {
+      "codProducto": "ANC00065",
+      "producto": "TATAKI DE LLAMA",
+      "categoria": "ENTRADAS",
+      "fecha": "2026-10-14",
+      "cantidad": 1,
+      "monto": 75
+    },
+    {
+      "codProducto": "ANC00090",
+      "producto": "CHULETON (Kg)",
+      "categoria": "FUERTES",
+      "fecha": "2026-10-14",
+      "cantidad": 0.6,
+      "monto": 240
+    },
+    {
+      "codProducto": "ANC00339",
+      "producto": "SYRAH - TERRA ANCESTRAL",
+      "categoria": "VINOS",
+      "fecha": "2026-10-14",
+      "cantidad": 1,
+      "monto": 240
+    },
+    {
+      "codProducto": "ANC00001",
+      "producto": "AGUA C/G",
+      "categoria": "AGUAS",
+      "fecha": "2026-10-14",
+      "cantidad": 9,
+      "monto": 135
+    },
+    {
+      "codProducto": "ANC00105",
+      "producto": "COCA COLA SIN AZUCAR",
+      "categoria": "GASEOSA",
+      "fecha": "2026-10-14",
+      "cantidad": 3,
+      "monto": 45
+    },
+    {
+      "codProducto": "ANC00057",
+      "producto": "TUETANO BRULEE",
+      "categoria": "DULCES",
+      "fecha": "2026-10-14",
+      "cantidad": 2,
+      "monto": 100
+    },
+    {
+      "codProducto": "ANC00058",
+      "producto": "ALCACHOFAS",
+      "categoria": "ENTRADAS",
+      "fecha": "2026-10-14",
+      "cantidad": 2,
+      "monto": 150
+    },
+    {
+      "codProducto": "ANC00064",
+      "producto": "TARTAR DE RES",
+      "categoria": "ENTRADAS",
+      "fecha": "2026-10-14",
+      "cantidad": 1,
+      "monto": 70
+    },
+    {
+      "codProducto": "ANC00324",
+      "producto": "TRUCHA CURADA EN PATACÓN",
+      "categoria": "COMIDAS",
+      "fecha": "2026-10-14",
+      "cantidad": 1,
+      "monto": 70
+    },
+    {
+      "codProducto": "ANC00205",
+      "producto": "REBELION OBSESSION IPA",
+      "categoria": "CERVEZA",
+      "fecha": "2026-10-14",
+      "cantidad": 1,
+      "monto": 39
+    },
+    {
+      "codProducto": "ANC00007",
+      "producto": "HUARI",
+      "categoria": "CERVEZA",
+      "fecha": "2026-10-14",
+      "cantidad": 2,
+      "monto": 66
+    },
+    {
+      "codProducto": "ANC00109",
+      "producto": "ICED TEA (BOTELLA)",
+      "categoria": "JUGOS",
+      "fecha": "2026-10-14",
+      "cantidad": 2,
+      "monto": 80
+    },
+    {
+      "codProducto": "ANC00002",
+      "producto": "AGUA S/G",
+      "categoria": "AGUAS",
+      "fecha": "2026-10-14",
+      "cantidad": 2,
+      "monto": 24
+    },
+    {
+      "codProducto": "ANC00093",
+      "producto": "KEPERI AHUMADO",
+      "categoria": "FUERTES",
+      "fecha": "2026-10-14",
+      "cantidad": 5,
+      "monto": 700
     },
     {
       "codProducto": "ANC00099",
       "producto": "PARRILLA OJO DE BIFE",
       "categoria": "FUERTES",
       "fecha": "2026-10-14",
+      "cantidad": 7,
+      "monto": 1120
+    },
+    {
+      "codProducto": "ANC00108",
+      "producto": "ICED TEA",
+      "categoria": "JUGOS",
+      "fecha": "2026-10-14",
+      "cantidad": 3,
+      "monto": 45
+    },
+    {
+      "codProducto": "ANC00111",
+      "producto": "JAMAICA MENTA",
+      "categoria": "JUGOS",
+      "fecha": "2026-10-14",
+      "cantidad": 3,
+      "monto": 45
+    },
+    {
+      "codProducto": "ANC00183",
+      "producto": "PANZA FRITA",
+      "categoria": "ENTRADAS",
+      "fecha": "2026-10-14",
+      "cantidad": 1,
+      "monto": 60
+    },
+    {
+      "codProducto": "ANC00088",
+      "producto": "ARROZ DE TRUCHA",
+      "categoria": "FUERTES",
+      "fecha": "2026-10-14",
+      "cantidad": 1,
+      "monto": 150
+    },
+    {
+      "codProducto": "ANC00081",
+      "producto": "PORCION PAPAS",
+      "categoria": "GUARNICIONES",
+      "fecha": "2026-10-14",
+      "cantidad": 1,
+      "monto": 40
+    },
+    {
+      "codProducto": "ANC00049",
+      "producto": "FLAN",
+      "categoria": "DULCES",
+      "fecha": "2026-10-14",
       "cantidad": 2,
-      "monto": 320
+      "monto": 100
+    },
+    {
+      "codProducto": "ANC00046",
+      "producto": "CHOCOLATE",
+      "categoria": "DULCES",
+      "fecha": "2026-10-14",
+      "cantidad": 1,
+      "monto": 50
+    },
+    {
+      "codProducto": "ANC00014",
+      "producto": "BAJATIVO",
+      "categoria": "COCTELES",
+      "fecha": "2026-10-14",
+      "cantidad": 1,
+      "monto": 15
+    },
+    {
+      "codProducto": "ANC00325",
+      "producto": "TABLA ANCESTRAL",
+      "categoria": "ENTRADAS",
+      "fecha": "2026-10-14",
+      "cantidad": 1,
+      "monto": 120
+    },
+    {
+      "codProducto": "ANC00357",
+      "producto": "COPA SYRAH - TERRA ANCESTRAL",
+      "categoria": "VINOS",
+      "fecha": "2026-10-14",
+      "cantidad": 2,
+      "monto": 100
+    },
+    {
+      "codProducto": "ANC00241",
+      "producto": "CEVICHE DE TRUCHA Y HONGOS",
+      "categoria": "ENTRADAS",
+      "fecha": "2026-10-14",
+      "cantidad": 1,
+      "monto": 75
+    },
+    {
+      "codProducto": "ANC00249",
+      "producto": "ARROZ DE CANGREJOS",
+      "categoria": "FUERTES",
+      "fecha": "2026-10-14",
+      "cantidad": 2,
+      "monto": 300
+    },
+    {
+      "codProducto": "ANC00101",
+      "producto": "PECHUGA DE POLLO CROCANTE",
+      "categoria": "FUERTES",
+      "fecha": "2026-10-14",
+      "cantidad": 1,
+      "monto": 130
+    },
+    {
+      "codProducto": "ANC00038",
+      "producto": "APEROL SPRITZ",
+      "categoria": "COCTELES",
+      "fecha": "2026-10-14",
+      "cantidad": 1,
+      "monto": 50
+    },
+    {
+      "codProducto": "ANC00281",
+      "producto": "CUARTO PATO CONFITADO",
+      "categoria": "FUERTES",
+      "fecha": "2026-10-14",
+      "cantidad": 1,
+      "monto": 140
     },
     {
       "codProducto": "ANC00071",
@@ -11062,14 +11294,6 @@
       "monto": 220
     },
     {
-      "codProducto": "ANC00001",
-      "producto": "AGUA C/G",
-      "categoria": "AGUAS",
-      "fecha": "2026-10-14",
-      "cantidad": 4,
-      "monto": 60
-    },
-    {
       "codProducto": "ANC00047",
       "producto": "ESPRESSO",
       "categoria": "BEBIDAS CALIENTES",
@@ -11078,52 +11302,12 @@
       "monto": 45
     },
     {
-      "codProducto": "ANC00093",
-      "producto": "KEPERI AHUMADO",
-      "categoria": "FUERTES",
-      "fecha": "2026-10-14",
-      "cantidad": 2,
-      "monto": 280
-    },
-    {
       "codProducto": "ANC00340",
       "producto": "CAB. SAUVIGNON ZINFANDEL - ALMA OCULTA",
       "categoria": "VINOS",
       "fecha": "2026-10-14",
       "cantidad": 1,
       "monto": 250
-    },
-    {
-      "codProducto": "ANC00057",
-      "producto": "TUETANO BRULEE",
-      "categoria": "DULCES",
-      "fecha": "2026-10-14",
-      "cantidad": 1,
-      "monto": 50
-    },
-    {
-      "codProducto": "ANC00049",
-      "producto": "FLAN",
-      "categoria": "DULCES",
-      "fecha": "2026-10-14",
-      "cantidad": 1,
-      "monto": 50
-    },
-    {
-      "codProducto": "ANC00109",
-      "producto": "ICED TEA (BOTELLA)",
-      "categoria": "JUGOS",
-      "fecha": "2026-10-14",
-      "cantidad": 1,
-      "monto": 40
-    },
-    {
-      "codProducto": "ANC00249",
-      "producto": "ARROZ DE CANGREJOS",
-      "categoria": "FUERTES",
-      "fecha": "2026-10-14",
-      "cantidad": 1,
-      "monto": 150
     },
     {
       "codProducto": "ANC00098",

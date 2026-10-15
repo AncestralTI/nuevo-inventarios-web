@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-14T23:34:44.040Z",
+  "generatedAt": "2026-10-15T01:46:48.424Z",
   "rangoFechas": {
     "desde": "2026-08-10",
-    "hasta": "2026-10-14"
+    "hasta": "2026-10-15"
   },
   "categorias": [
     "5. Bebidas alcohólicas",
@@ -3764,14 +3764,14 @@
       "weekYear": "202633",
       "invMenos7": 19,
       "compras": 0,
-      "vtas": 3,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 3,
+      "vtasTot": 1,
       "inv": 13,
-      "cierre": 16,
-      "dif": -3
+      "cierre": 18,
+      "dif": -5
     },
     {
       "producto": "BENDITA IPA",
@@ -3946,42 +3946,42 @@
       "weekYear": "202633",
       "invMenos7": 39,
       "compras": 12,
-      "vtas": 20,
+      "vtas": 6,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 20,
+      "vtasTot": 6,
       "inv": 24,
-      "cierre": 31,
-      "dif": -7
+      "cierre": 45,
+      "dif": -21
     },
     {
       "producto": "COCA COLA SIN AZUCAR",
       "weekYear": "202633",
       "invMenos7": 25,
       "compras": 24,
-      "vtas": 18,
+      "vtas": 9,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 18,
+      "vtasTot": 9,
       "inv": 22,
-      "cierre": 31,
-      "dif": -9
+      "cierre": 40,
+      "dif": -18
     },
     {
       "producto": "FANTA",
       "weekYear": "202633",
       "invMenos7": 19,
       "compras": 0,
-      "vtas": 2,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 2,
+      "vtasTot": 1,
       "inv": 17,
-      "cierre": 17,
-      "dif": 0
+      "cierre": 18,
+      "dif": -1
     },
     {
       "producto": "HOPPY BARRIL",
@@ -4002,14 +4002,14 @@
       "weekYear": "202633",
       "invMenos7": 27,
       "compras": 0,
-      "vtas": 11,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 11,
+      "vtasTot": 1,
       "inv": 9,
-      "cierre": 16,
-      "dif": -7
+      "cierre": 26,
+      "dif": -17
     },
     {
       "producto": "MADERA \"LA KALOR\" GOSE",
@@ -4072,14 +4072,14 @@
       "weekYear": "202633",
       "invMenos7": 11,
       "compras": 24,
-      "vtas": 5,
+      "vtas": 4,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 5,
+      "vtasTot": 4,
       "inv": 28,
-      "cierre": 30,
-      "dif": -2
+      "cierre": 31,
+      "dif": -3
     },
     {
       "producto": "REBELION ALBA WEIZEN",
@@ -4128,28 +4128,28 @@
       "weekYear": "202633",
       "invMenos7": 18,
       "compras": 0,
-      "vtas": 1,
+      "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 5,
-      "vtasTot": 6,
+      "vtasTot": 5,
       "inv": 12,
-      "cierre": 12,
-      "dif": 0
+      "cierre": 13,
+      "dif": -1
     },
     {
       "producto": "SPRITE",
       "weekYear": "202633",
       "invMenos7": 12,
       "compras": 12,
-      "vtas": 2,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 2,
+      "vtasTot": 1,
       "inv": 22,
-      "cierre": 22,
-      "dif": 0
+      "cierre": 23,
+      "dif": -1
     },
     {
       "producto": "UYUNI",
@@ -4761,8 +4761,8 @@
     "filasInventariosGs": 3984,
     "filasCompras": 2357,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 6041,
-    "filasMovInv": 317,
+    "filasVentasIzi": 5737,
+    "filasMovInv": 315,
     "filasDimProducto": 449,
     "warnings": []
   }

@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-14T23:35:20.053Z",
+  "generatedAt": "2026-10-15T01:47:27.162Z",
   "fuente": "API iZi Soluciones (facturas + items-inventarios), sucursal Ancestral (79344)",
   "rango": {
-    "desde": "2026-09-14",
-    "hasta": "2026-10-14"
+    "desde": "2026-09-15",
+    "hasta": "2026-10-15"
   },
   "categorias": [
     "AGUAS",
@@ -11028,6 +11028,110 @@
       "fecha": "2026-10-13",
       "cantidad": 1,
       "monto": 50
+    },
+    {
+      "codProducto": "ANC00281",
+      "producto": "CUARTO PATO CONFITADO",
+      "categoria": "FUERTES",
+      "fecha": "2026-10-14",
+      "cantidad": 1,
+      "monto": 140
+    },
+    {
+      "codProducto": "ANC00099",
+      "producto": "PARRILLA OJO DE BIFE",
+      "categoria": "FUERTES",
+      "fecha": "2026-10-14",
+      "cantidad": 2,
+      "monto": 320
+    },
+    {
+      "codProducto": "ANC00071",
+      "producto": "COLIFLOR",
+      "categoria": "GUARNICIONES",
+      "fecha": "2026-10-14",
+      "cantidad": 1,
+      "monto": 40
+    },
+    {
+      "codProducto": "ANC00280",
+      "producto": "COPA TANNAT RAIZ - KOHLBERG",
+      "categoria": "VINOS POR COPA",
+      "fecha": "2026-10-14",
+      "cantidad": 4,
+      "monto": 220
+    },
+    {
+      "codProducto": "ANC00001",
+      "producto": "AGUA C/G",
+      "categoria": "AGUAS",
+      "fecha": "2026-10-14",
+      "cantidad": 4,
+      "monto": 60
+    },
+    {
+      "codProducto": "ANC00047",
+      "producto": "ESPRESSO",
+      "categoria": "BEBIDAS CALIENTES",
+      "fecha": "2026-10-14",
+      "cantidad": 3,
+      "monto": 45
+    },
+    {
+      "codProducto": "ANC00093",
+      "producto": "KEPERI AHUMADO",
+      "categoria": "FUERTES",
+      "fecha": "2026-10-14",
+      "cantidad": 2,
+      "monto": 280
+    },
+    {
+      "codProducto": "ANC00340",
+      "producto": "CAB. SAUVIGNON ZINFANDEL - ALMA OCULTA",
+      "categoria": "VINOS",
+      "fecha": "2026-10-14",
+      "cantidad": 1,
+      "monto": 250
+    },
+    {
+      "codProducto": "ANC00057",
+      "producto": "TUETANO BRULEE",
+      "categoria": "DULCES",
+      "fecha": "2026-10-14",
+      "cantidad": 1,
+      "monto": 50
+    },
+    {
+      "codProducto": "ANC00049",
+      "producto": "FLAN",
+      "categoria": "DULCES",
+      "fecha": "2026-10-14",
+      "cantidad": 1,
+      "monto": 50
+    },
+    {
+      "codProducto": "ANC00109",
+      "producto": "ICED TEA (BOTELLA)",
+      "categoria": "JUGOS",
+      "fecha": "2026-10-14",
+      "cantidad": 1,
+      "monto": 40
+    },
+    {
+      "codProducto": "ANC00249",
+      "producto": "ARROZ DE CANGREJOS",
+      "categoria": "FUERTES",
+      "fecha": "2026-10-14",
+      "cantidad": 1,
+      "monto": 150
+    },
+    {
+      "codProducto": "ANC00098",
+      "producto": "PARRILLA KEPERI",
+      "categoria": "FUERTES",
+      "fecha": "2026-10-14",
+      "cantidad": 3,
+      "monto": 420
     },
     {
       "codProducto": "ANC00087",

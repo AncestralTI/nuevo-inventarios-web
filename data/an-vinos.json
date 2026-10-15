@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-14T23:34:30.701Z",
+  "generatedAt": "2026-10-15T01:46:36.261Z",
   "rangoFechas": {
     "desde": "2026-08-10",
-    "hasta": "2026-10-14"
+    "hasta": "2026-10-15"
   },
   "categorias": [
     "CERVEZA",
@@ -505,13 +505,13 @@
       "weekYear": "202642",
       "invMenos7": 3,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 3,
+      "cierre": 2,
       "dif": null
     },
     {
@@ -14869,14 +14869,14 @@
       "weekYear": "202633",
       "invMenos7": 1,
       "compras": 4,
-      "vtas": 3,
+      "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 3,
+      "vtasTot": 0,
       "inv": 1,
-      "cierre": 2,
-      "dif": -1
+      "cierre": 5,
+      "dif": -4
     },
     {
       "producto": "ALMA OCULTA - FORTIFICADO BLANCO",
@@ -15009,14 +15009,14 @@
       "weekYear": "202633",
       "invMenos7": 19,
       "compras": 0,
-      "vtas": 3,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 3,
+      "vtasTot": 1,
       "inv": 13,
-      "cierre": 16,
-      "dif": -3
+      "cierre": 18,
+      "dif": -5
     },
     {
       "producto": "BENDITA IPA",
@@ -15079,14 +15079,14 @@
       "weekYear": "202633",
       "invMenos7": 9,
       "compras": 0,
-      "vtas": 1,
+      "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 1,
+      "vtasTot": 0,
       "inv": 5,
-      "cierre": 8,
-      "dif": -3
+      "cierre": 9,
+      "dif": -4
     },
     {
       "producto": "BRUT NATURE - ALTO SAMA",
@@ -15135,14 +15135,14 @@
       "weekYear": "202633",
       "invMenos7": 0,
       "compras": 6,
-      "vtas": 1,
+      "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 1,
+      "vtasTot": 0,
       "inv": 5,
-      "cierre": 5,
-      "dif": 0
+      "cierre": 6,
+      "dif": -1
     },
     {
       "producto": "CAMPOS DE SOLANA / \"ESTHER ORTIZ\"",
@@ -15163,28 +15163,28 @@
       "weekYear": "202633",
       "invMenos7": 5,
       "compras": 0,
-      "vtas": 1,
+      "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 1,
+      "vtasTot": 0,
       "inv": 1,
-      "cierre": 4,
-      "dif": -3
+      "cierre": 5,
+      "dif": -4
     },
     {
       "producto": "CAÑON ESCONDIDO - TANNAT",
       "weekYear": "202633",
       "invMenos7": 3,
       "compras": 6,
-      "vtas": 1,
+      "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 1,
+      "vtasTot": 0,
       "inv": 7,
-      "cierre": 8,
-      "dif": -1
+      "cierre": 9,
+      "dif": -2
     },
     {
       "producto": "CEPA DE ORO - MISIONERA",
@@ -15471,11 +15471,11 @@
       "weekYear": "202633",
       "invMenos7": null,
       "compras": 0,
-      "vtas": 2,
+      "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 2,
+      "vtasTot": 0,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -15695,14 +15695,14 @@
       "weekYear": "202633",
       "invMenos7": 27,
       "compras": 0,
-      "vtas": 11,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 11,
+      "vtasTot": 1,
       "inv": 9,
-      "cierre": 16,
-      "dif": -7
+      "cierre": 26,
+      "dif": -17
     },
     {
       "producto": "IMPOREÑA - CEPA DE ORO",
@@ -15933,14 +15933,14 @@
       "weekYear": "202633",
       "invMenos7": 8,
       "compras": 0,
-      "vtas": 3,
+      "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 3,
+      "vtasTot": 0,
       "inv": 4,
-      "cierre": 5,
-      "dif": -1
+      "cierre": 8,
+      "dif": -4
     },
     {
       "producto": "MARSELAN - ARSAL",
@@ -16101,14 +16101,14 @@
       "weekYear": "202633",
       "invMenos7": 11,
       "compras": 24,
-      "vtas": 5,
+      "vtas": 4,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 5,
+      "vtasTot": 4,
       "inv": 28,
-      "cierre": 30,
-      "dif": -2
+      "cierre": 31,
+      "dif": -3
     },
     {
       "producto": "REBELION ALBA WEIZEN",
@@ -16157,14 +16157,14 @@
       "weekYear": "202633",
       "invMenos7": 18,
       "compras": 0,
-      "vtas": 1,
+      "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 5,
-      "vtasTot": 6,
+      "vtasTot": 5,
       "inv": 12,
-      "cierre": 12,
-      "dif": 0
+      "cierre": 13,
+      "dif": -1
     },
     {
       "producto": "SAV BLANC - 1750",
@@ -16241,14 +16241,14 @@
       "weekYear": "202633",
       "invMenos7": 5,
       "compras": 0,
-      "vtas": 1,
+      "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 1,
-      "vtasTot": 2,
+      "vtasTot": 1,
       "inv": 3,
-      "cierre": 3,
-      "dif": 0
+      "cierre": 4,
+      "dif": -1
     },
     {
       "producto": "SYRAH - KHOLBERG",
@@ -16283,28 +16283,28 @@
       "weekYear": "202633",
       "invMenos7": 8,
       "compras": 0,
-      "vtas": 1,
+      "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 1,
+      "vtasTot": 0,
       "inv": 7,
-      "cierre": 7,
-      "dif": 0
+      "cierre": 8,
+      "dif": -1
     },
     {
       "producto": "TANNAT RAIZ - KOHLBERG",
       "weekYear": "202633",
       "invMenos7": 2,
       "compras": 6,
-      "vtas": 1,
+      "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 3,
-      "vtasTot": 4,
+      "vtasTot": 3,
       "inv": 4,
-      "cierre": 4,
-      "dif": 0
+      "cierre": 5,
+      "dif": -1
     },
     {
       "producto": "TIERRA ROJA - MOSCATEL",
@@ -16367,14 +16367,14 @@
       "weekYear": "202633",
       "invMenos7": 3,
       "compras": 8,
-      "vtas": 1,
+      "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 1,
+      "vtasTot": 0,
       "inv": 10,
-      "cierre": 10,
-      "dif": 0
+      "cierre": 11,
+      "dif": -1
     },
     {
       "producto": "UYUNI",
@@ -16409,14 +16409,14 @@
       "weekYear": "202633",
       "invMenos7": 5,
       "compras": 0,
-      "vtas": 2,
+      "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 2,
+      "vtasTot": 0,
       "inv": 2,
-      "cierre": 3,
-      "dif": -1
+      "cierre": 5,
+      "dif": -3
     },
     {
       "producto": "VISCHOQUEÑA - YOKICH",
@@ -16600,6 +16600,19 @@
       "cortesias": 0,
       "salidas": 1,
       "invEsperado": 1,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "CAB. SAUVIGNON ZINFANDEL - ALMA OCULTA",
+      "fecha": "2026-10-14",
+      "dia": "mié",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 2,
       "invIniFin": null,
       "dif": null
     },
@@ -17382,7 +17395,7 @@
       },
       {
         "weekYear": "202642",
-        "valor": 19
+        "valor": 20
       }
     ],
     "Vtas Ext": [
@@ -17460,7 +17473,7 @@
       },
       {
         "weekYear": "202642",
-        "valor": 20
+        "valor": 21
       }
     ],
     "Salidas": [
@@ -17522,8 +17535,8 @@
     "filasInventariosGs": 3984,
     "filasCompras": 2357,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 6041,
-    "filasMovInv": 317,
+    "filasVentasIzi": 5737,
+    "filasMovInv": 315,
     "filasDimProducto": 449,
     "warnings": []
   }

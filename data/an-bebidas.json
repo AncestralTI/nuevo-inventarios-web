@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T20:08:21.162Z",
+  "generatedAt": "2026-10-15T23:02:00.679Z",
   "rangoFechas": {
     "desde": "2026-08-10",
     "hasta": "2026-10-15"
@@ -347,14 +347,14 @@
       "producto": "HUARI",
       "weekYear": "202642",
       "invMenos7": 18,
-      "compras": 0,
+      "compras": 24,
       "vtas": 4,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 4,
       "inv": null,
-      "cierre": 14,
+      "cierre": 38,
       "dif": null
     },
     {
@@ -4272,6 +4272,19 @@
       "dif": null
     },
     {
+      "producto": "HUARI",
+      "fecha": "2026-10-15",
+      "dia": "jue",
+      "compras": 24,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 38,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "BENDITA HOPPY",
       "fecha": "2026-10-06",
       "dia": "mar",
@@ -4790,7 +4803,7 @@
       },
       {
         "weekYear": "202642",
-        "valor": 0
+        "valor": 24
       }
     ]
   },
@@ -4798,10 +4811,10 @@
     "ventasIziDisponibles": true,
     "filasApertura": 1430,
     "filasInventariosGs": 3984,
-    "filasCompras": 2361,
+    "filasCompras": 2362,
     "filasMatrizChuleton": 1,
     "filasVentasIzi": 5779,
-    "filasMovInv": 321,
+    "filasMovInv": 323,
     "filasDimProducto": 449,
     "warnings": []
   }

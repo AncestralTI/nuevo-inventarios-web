@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T20:08:09.984Z",
+  "generatedAt": "2026-10-15T23:01:46.904Z",
   "rangoFechas": {
     "desde": "2026-08-10",
     "hasta": "2026-10-15"
@@ -476,14 +476,14 @@
       "producto": "BRUT NATURE - ALTO SAMA",
       "weekYear": "202642",
       "invMenos7": 2,
-      "compras": 0,
+      "compras": 3,
       "vtas": 2,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 2,
       "inv": null,
-      "cierre": 0,
+      "cierre": 3,
       "dif": null
     },
     {
@@ -1078,14 +1078,14 @@
       "producto": "HUARI",
       "weekYear": "202642",
       "invMenos7": 18,
-      "compras": 0,
+      "compras": 24,
       "vtas": 4,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 4,
       "inv": null,
-      "cierre": 14,
+      "cierre": 38,
       "dif": null
     },
     {
@@ -16682,6 +16682,32 @@
       "dif": null
     },
     {
+      "producto": "BRUT NATURE - ALTO SAMA",
+      "fecha": "2026-10-15",
+      "dia": "jue",
+      "compras": 3,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 3,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "HUARI",
+      "fecha": "2026-10-15",
+      "dia": "jue",
+      "compras": 24,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 38,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "NARANJO - CEPA DE ORO",
       "fecha": "2026-10-15",
       "dia": "jue",
@@ -17603,7 +17629,7 @@
       },
       {
         "weekYear": "202642",
-        "valor": 33
+        "valor": 60
       }
     ]
   },
@@ -17611,10 +17637,10 @@
     "ventasIziDisponibles": true,
     "filasApertura": 1430,
     "filasInventariosGs": 3984,
-    "filasCompras": 2361,
+    "filasCompras": 2362,
     "filasMatrizChuleton": 1,
     "filasVentasIzi": 5779,
-    "filasMovInv": 321,
+    "filasMovInv": 323,
     "filasDimProducto": 449,
     "warnings": []
   }

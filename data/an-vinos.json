@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T16:52:11.001Z",
+  "generatedAt": "2026-10-15T20:08:09.984Z",
   "rangoFechas": {
     "desde": "2026-08-10",
     "hasta": "2026-10-15"
@@ -294,14 +294,14 @@
       "producto": "ALTOSAMA - BRUT",
       "weekYear": "202642",
       "invMenos7": 6,
-      "compras": 0,
+      "compras": 12,
       "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 0,
       "inv": null,
-      "cierre": 6,
+      "cierre": 18,
       "dif": null
     },
     {
@@ -1428,14 +1428,14 @@
       "producto": "NARANJO - CEPA DE ORO",
       "weekYear": "202642",
       "invMenos7": 0,
-      "compras": 0,
+      "compras": 12,
       "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 0,
       "inv": null,
-      "cierre": 0,
+      "cierre": 12,
       "dif": null
     },
     {
@@ -16669,6 +16669,32 @@
       "dif": null
     },
     {
+      "producto": "ALTOSAMA - BRUT",
+      "fecha": "2026-10-15",
+      "dia": "jue",
+      "compras": 12,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 18,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "NARANJO - CEPA DE ORO",
+      "fecha": "2026-10-15",
+      "dia": "jue",
+      "compras": 12,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 12,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "ALAYA - TELLUS",
       "fecha": "2026-10-06",
       "dia": "mar",
@@ -17577,7 +17603,7 @@
       },
       {
         "weekYear": "202642",
-        "valor": 9
+        "valor": 33
       }
     ]
   },
@@ -17585,10 +17611,10 @@
     "ventasIziDisponibles": true,
     "filasApertura": 1430,
     "filasInventariosGs": 3984,
-    "filasCompras": 2357,
+    "filasCompras": 2361,
     "filasMatrizChuleton": 1,
     "filasVentasIzi": 5779,
-    "filasMovInv": 319,
+    "filasMovInv": 321,
     "filasDimProducto": 449,
     "warnings": []
   }

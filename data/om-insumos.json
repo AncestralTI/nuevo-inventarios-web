@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T14:57:43.141Z",
+  "generatedAt": "2026-10-16T18:36:47.575Z",
   "rangoFechas": {
     "desde": "2026-08-10",
     "hasta": "2026-10-16"
@@ -79,16 +79,16 @@
       "weekYear": "202642",
       "invMenos7": null,
       "compras": 588,
-      "vtasIzi": 169,
+      "vtasIzi": 174,
       "vtasAnc": 1,
       "vtasPY": 31,
       "vtasExt": 6,
       "vtasVegg": -2,
       "cortesias": 0,
       "salidas": 2,
-      "vtasTot": 207,
+      "vtasTot": 212,
       "inv": null,
-      "cierre": 381,
+      "cierre": 376,
       "dif": null
     },
     {
@@ -113,16 +113,16 @@
       "weekYear": "202642",
       "invMenos7": null,
       "compras": 27,
-      "vtasIzi": 9,
+      "vtasIzi": 11,
       "vtasAnc": 0,
       "vtasPY": 0,
       "vtasExt": 0,
       "vtasVegg": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 9,
+      "vtasTot": 11,
       "inv": null,
-      "cierre": 18,
+      "cierre": 16,
       "dif": null
     },
     {
@@ -720,6 +720,28 @@
     },
     {
       "insumo": "Carne Molida 130g",
+      "fecha": "2026-10-16",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 5,
+      "salidas": 0,
+      "invEsperado": 412,
+      "invFin": null,
+      "dif": null
+    },
+    {
+      "insumo": "Pesca Amazonica",
+      "fecha": "2026-10-16",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 2,
+      "salidas": 0,
+      "invEsperado": 16,
+      "invFin": null,
+      "dif": null
+    },
+    {
+      "insumo": "Carne Molida 130g",
       "fecha": "2026-10-05",
       "dia": "lun",
       "compras": 0,
@@ -974,7 +996,7 @@
       },
       {
         "weekYear": "202642",
-        "valor": 196
+        "valor": 203
       }
     ],
     "Vtas Anc": [
@@ -1130,7 +1152,7 @@
       },
       {
         "weekYear": "202642",
-        "valor": 249
+        "valor": 256
       }
     ],
     "Compras": [
@@ -1166,11 +1188,11 @@
     "filasInventariosUnitarios": 0,
     "filasCompras": 1550,
     "filasSalidas": 96,
-    "filasVentasIzi": 7710,
+    "filasVentasIzi": 7721,
     "filasVentasPY": 10983,
     "filasExtras": 17253,
     "filasMovInv": 331,
-    "filasVentasAncIzi": 5670,
+    "filasVentasAncIzi": 5680,
     "warnings": []
   }
 }

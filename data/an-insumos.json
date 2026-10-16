@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T21:39:20.925Z",
+  "generatedAt": "2026-10-16T23:51:58.290Z",
   "rangoFechas": {
     "desde": "2026-08-10",
     "hasta": "2026-10-16"
@@ -89,12 +89,12 @@
       "insumo": "Chuleton",
       "weekYear": "202642",
       "invMenos7": 11,
-      "compras": 15,
+      "compras": 19,
       "vtas": 5,
       "salidas": 0,
       "vtasTot": 5,
       "inv": null,
-      "cierre": 21,
+      "cierre": 25,
       "dif": null
     },
     {
@@ -113,12 +113,12 @@
       "insumo": "Cordero",
       "weekYear": "202642",
       "invMenos7": 18,
-      "compras": 7,
+      "compras": 13,
       "vtas": 3,
       "salidas": 0,
       "vtasTot": 3,
       "inv": null,
-      "cierre": 22,
+      "cierre": 28,
       "dif": null
     },
     {
@@ -185,12 +185,12 @@
       "insumo": "Ossobuco",
       "weekYear": "202642",
       "invMenos7": 21,
-      "compras": 24,
+      "compras": 25,
       "vtas": 5,
       "salidas": 0,
       "vtasTot": 5,
       "inv": null,
-      "cierre": 40,
+      "cierre": 41,
       "dif": null
     },
     {
@@ -617,13 +617,13 @@
       "insumo": "Cordero",
       "weekYear": "202639",
       "invMenos7": 24,
-      "compras": 12,
+      "compras": 15,
       "vtas": 24,
       "salidas": 0,
       "vtasTot": 24,
       "inv": 16,
-      "cierre": 12,
-      "dif": 4
+      "cierre": 15,
+      "dif": 1
     },
     {
       "insumo": "Keperi",
@@ -1795,10 +1795,10 @@
       "insumo": "Cordero",
       "fecha": "2026-10-13",
       "dia": "mar",
-      "compras": 7,
+      "compras": 13,
       "vtas": 0,
       "salidas": 0,
-      "invEsperado": 7,
+      "invEsperado": 13,
       "invIni": null,
       "invFin": null,
       "dif": null
@@ -1855,10 +1855,10 @@
       "insumo": "Ossobuco",
       "fecha": "2026-10-13",
       "dia": "mar",
-      "compras": 24,
+      "compras": 25,
       "vtas": 2,
       "salidas": 0,
-      "invEsperado": 22,
+      "invEsperado": 23,
       "invIni": null,
       "invFin": null,
       "dif": null
@@ -2062,7 +2062,7 @@
       "compras": 0,
       "vtas": 3,
       "salidas": 0,
-      "invEsperado": 4,
+      "invEsperado": 10,
       "invIni": null,
       "invFin": null,
       "dif": null
@@ -2110,7 +2110,7 @@
       "compras": 0,
       "vtas": 1,
       "salidas": 0,
-      "invEsperado": 21,
+      "invEsperado": 22,
       "invIni": null,
       "invFin": null,
       "dif": null
@@ -2164,6 +2164,18 @@
       "dif": null
     },
     {
+      "insumo": "Chuleton",
+      "fecha": "2026-10-16",
+      "dia": "vie",
+      "compras": 4,
+      "vtas": 0,
+      "salidas": 0,
+      "invEsperado": 14,
+      "invIni": null,
+      "invFin": null,
+      "dif": null
+    },
+    {
       "insumo": "Keperi",
       "fecha": "2026-10-16",
       "dia": "vie",
@@ -2194,7 +2206,7 @@
       "compras": 0,
       "vtas": 2,
       "salidas": 0,
-      "invEsperado": 19,
+      "invEsperado": 20,
       "invIni": null,
       "invFin": null,
       "dif": null
@@ -3202,7 +3214,7 @@
       },
       {
         "weekYear": "202639",
-        "valor": 297
+        "valor": 300
       },
       {
         "weekYear": "202640",
@@ -3214,13 +3226,13 @@
       },
       {
         "weekYear": "202642",
-        "valor": 185
+        "valor": 196
       }
     ]
   },
   "meta": {
     "ventasIziDisponibles": true,
-    "filasCompras": 2370,
+    "filasCompras": 2372,
     "filasSalidas": 909,
     "filasMatriz": 23,
     "filasInventarios": 436,

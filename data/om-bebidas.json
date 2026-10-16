@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T01:14:11.124Z",
+  "generatedAt": "2026-10-16T05:54:22.771Z",
   "rangoFechas": {
     "desde": "2026-08-10",
     "hasta": "2026-10-16"
@@ -131,13 +131,13 @@
       "invMenos7": 28,
       "compras": 30,
       "vtasIzi": 0,
-      "vtasExt": 2,
+      "vtasExt": 3,
       "vtasPY": 2,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 4,
+      "vtasTot": 5,
       "inv": null,
-      "cierre": 54,
+      "cierre": 53,
       "dif": null
     },
     {
@@ -371,13 +371,13 @@
       "invMenos7": 152,
       "compras": 0,
       "vtasIzi": 0,
-      "vtasExt": 11,
+      "vtasExt": 21,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 11,
+      "vtasTot": 21,
       "inv": null,
-      "cierre": 141,
+      "cierre": 131,
       "dif": null
     },
     {
@@ -416,13 +416,13 @@
       "invMenos7": 120,
       "compras": 12,
       "vtasIzi": 4,
-      "vtasExt": 18,
+      "vtasExt": 30,
       "vtasPY": 3,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 25,
+      "vtasTot": 37,
       "inv": null,
-      "cierre": 107,
+      "cierre": 95,
       "dif": null
     },
     {
@@ -461,13 +461,13 @@
       "invMenos7": 62,
       "compras": 0,
       "vtasIzi": 0,
-      "vtasExt": 5,
+      "vtasExt": 6,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 5,
+      "vtasTot": 6,
       "inv": null,
-      "cierre": 57,
+      "cierre": 56,
       "dif": null
     },
     {
@@ -491,13 +491,13 @@
       "invMenos7": 35,
       "compras": 0,
       "vtasIzi": 0,
-      "vtasExt": 2,
+      "vtasExt": 3,
       "vtasPY": 1,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 3,
+      "vtasTot": 4,
       "inv": null,
-      "cierre": 32,
+      "cierre": 31,
       "dif": null
     },
     {
@@ -521,13 +521,13 @@
       "invMenos7": 42,
       "compras": 0,
       "vtasIzi": 0,
-      "vtasExt": 12,
+      "vtasExt": 17,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 12,
+      "vtasTot": 17,
       "inv": null,
-      "cierre": 30,
+      "cierre": 25,
       "dif": null
     },
     {
@@ -583,9 +583,9 @@
       "vtasIzi": 0,
       "vtasExt": 0,
       "vtasPY": 0,
-      "vtasAnc": 0,
+      "vtasAnc": 2,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 2,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -688,9 +688,9 @@
       "vtasIzi": 0,
       "vtasExt": 0,
       "vtasPY": 0,
-      "vtasAnc": 8,
+      "vtasAnc": 10,
       "salidas": 0,
-      "vtasTot": 8,
+      "vtasTot": 10,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -763,9 +763,9 @@
       "vtasIzi": 0,
       "vtasExt": 0,
       "vtasPY": 0,
-      "vtasAnc": 0,
+      "vtasAnc": 1,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -806,13 +806,13 @@
       "invMenos7": 42,
       "compras": 0,
       "vtasIzi": 0,
-      "vtasExt": 2,
+      "vtasExt": 4,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 2,
+      "vtasTot": 4,
       "inv": null,
-      "cierre": 40,
+      "cierre": 38,
       "dif": null
     },
     {
@@ -821,13 +821,13 @@
       "invMenos7": 13,
       "compras": 18,
       "vtasIzi": 0,
-      "vtasExt": 4,
+      "vtasExt": 6,
       "vtasPY": 2,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 6,
+      "vtasTot": 8,
       "inv": null,
-      "cierre": 25,
+      "cierre": 23,
       "dif": null
     },
     {
@@ -7902,6 +7902,20 @@
       "dif": null
     },
     {
+      "producto": "Agua",
+      "fecha": "2026-10-15",
+      "dia": "jue",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 1,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 53,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "BENDITA IPA",
       "fecha": "2026-10-15",
       "dia": "jue",
@@ -7944,6 +7958,20 @@
       "dif": null
     },
     {
+      "producto": "COCA COLA",
+      "fecha": "2026-10-15",
+      "dia": "jue",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 10,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 131,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "COCA COLA SIN AZUCAR",
       "fecha": "2026-10-15",
       "dia": "jue",
@@ -7954,6 +7982,20 @@
       "vtasAnc": 2,
       "salidas": 0,
       "invEsperado": 0,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "Coca Zero",
+      "fecha": "2026-10-15",
+      "dia": "jue",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 12,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 95,
       "invIniFin": null,
       "dif": null
     },
@@ -7972,6 +8014,76 @@
       "dif": null
     },
     {
+      "producto": "FANTA",
+      "fecha": "2026-10-15",
+      "dia": "jue",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 1,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 56,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "Fanta Papaya",
+      "fecha": "2026-10-15",
+      "dia": "jue",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 1,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 31,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "Guaraná Antártica",
+      "fecha": "2026-10-15",
+      "dia": "jue",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 5,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 25,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "MADERA \"LA KALOR\" GOSE",
+      "fecha": "2026-10-15",
+      "dia": "jue",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 2,
+      "salidas": 0,
+      "invEsperado": 0,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "POTOSINA PILSNER",
+      "fecha": "2026-10-15",
+      "dia": "jue",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 2,
+      "salidas": 0,
+      "invEsperado": 0,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "Refresco Artesanal",
       "fecha": "2026-10-15",
       "dia": "jue",
@@ -7982,6 +8094,48 @@
       "vtasAnc": 0,
       "salidas": 0,
       "invEsperado": 0,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "SAN MIGUEL SOLSTICIO",
+      "fecha": "2026-10-15",
+      "dia": "jue",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 1,
+      "salidas": 0,
+      "invEsperado": 0,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "SPRITE",
+      "fecha": "2026-10-15",
+      "dia": "jue",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 2,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 38,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "Sprite Zero",
+      "fecha": "2026-10-15",
+      "dia": "jue",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 2,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 23,
       "invIniFin": null,
       "dif": null
     },
@@ -9646,7 +9800,7 @@
       },
       {
         "weekYear": "202642",
-        "valor": 63
+        "valor": 97
       }
     ],
     "Vtas PY": [
@@ -9698,7 +9852,7 @@
       },
       {
         "weekYear": "202642",
-        "valor": 164
+        "valor": 203
       }
     ],
     "Compras": [
@@ -9734,11 +9888,11 @@
     "filasInventariosOmuh": 425,
     "filasCompras": 1548,
     "filasSalidas": 96,
-    "filasVentasIzi": 7703,
-    "filasVentasPY": 10967,
-    "filasExtras": 17186,
-    "filasMovInv": 327,
-    "filasVentasAncIzi": 5624,
+    "filasVentasIzi": 7710,
+    "filasVentasPY": 10983,
+    "filasExtras": 17253,
+    "filasMovInv": 331,
+    "filasVentasAncIzi": 5670,
     "warnings": []
   }
 }

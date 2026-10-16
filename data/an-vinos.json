@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T01:13:25.349Z",
+  "generatedAt": "2026-10-16T05:53:45.982Z",
   "rangoFechas": {
     "desde": "2026-08-10",
     "hasta": "2026-10-16"
@@ -561,13 +561,13 @@
       "weekYear": "202642",
       "invMenos7": 4,
       "compras": 0,
-      "vtas": 1,
+      "vtas": 2,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 1,
+      "vtasTot": 2,
       "inv": null,
-      "cierre": 3,
+      "cierre": 2,
       "dif": null
     },
     {
@@ -1261,13 +1261,13 @@
       "weekYear": "202642",
       "invMenos7": 22,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 2,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 2,
       "inv": null,
-      "cierre": 22,
+      "cierre": 20,
       "dif": null
     },
     {
@@ -1387,13 +1387,13 @@
       "weekYear": "202642",
       "invMenos7": 3,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 3,
+      "cierre": 2,
       "dif": null
     },
     {
@@ -1485,13 +1485,13 @@
       "weekYear": "202642",
       "invMenos7": 22,
       "compras": 0,
-      "vtas": 8,
+      "vtas": 10,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 8,
+      "vtasTot": 10,
       "inv": null,
-      "cierre": 14,
+      "cierre": 12,
       "dif": null
     },
     {
@@ -1541,13 +1541,13 @@
       "weekYear": "202642",
       "invMenos7": 18,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 18,
+      "cierre": 17,
       "dif": null
     },
     {
@@ -1656,10 +1656,10 @@
       "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 1,
+      "salidas": 1,
+      "vtasTot": 2,
       "inv": null,
-      "cierre": 4,
+      "cierre": 3,
       "dif": null
     },
     {
@@ -1667,13 +1667,13 @@
       "weekYear": "202642",
       "invMenos7": 4,
       "compras": 0,
-      "vtas": 1,
+      "vtas": 2,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 1,
+      "vtasTot": 2,
       "inv": null,
-      "cierre": 3,
+      "cierre": 2,
       "dif": null
     },
     {
@@ -1684,10 +1684,10 @@
       "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
-      "salidas": 1,
-      "vtasTot": 1,
+      "salidas": 2,
+      "vtasTot": 2,
       "inv": null,
-      "cierre": 1,
+      "cierre": 0,
       "dif": null
     },
     {
@@ -16663,8 +16663,21 @@
       "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
-      "salidas": 0,
-      "invEsperado": 4,
+      "salidas": 1,
+      "invEsperado": 3,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "TANNAT RAIZ - KOHLBERG",
+      "fecha": "2026-10-14",
+      "dia": "mié",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 1,
+      "invEsperado": 0,
       "invIniFin": null,
       "dif": null
     },
@@ -16708,6 +16721,19 @@
       "dif": null
     },
     {
+      "producto": "CAÑON ESCONDIDO - TANNAT",
+      "fecha": "2026-10-15",
+      "dia": "jue",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 2,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "HUARI",
       "fecha": "2026-10-15",
       "dia": "jue",
@@ -16721,6 +16747,32 @@
       "dif": null
     },
     {
+      "producto": "MADERA \"LA KALOR\" GOSE",
+      "fecha": "2026-10-15",
+      "dia": "jue",
+      "compras": 0,
+      "vtas": 2,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 20,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "MOSCATEL PINOT BLANC - CASA SOLUM",
+      "fecha": "2026-10-15",
+      "dia": "jue",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 2,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "NARANJO - CEPA DE ORO",
       "fecha": "2026-10-15",
       "dia": "jue",
@@ -16730,6 +16782,45 @@
       "cortesias": 0,
       "salidas": 0,
       "invEsperado": 12,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "POTOSINA PILSNER",
+      "fecha": "2026-10-15",
+      "dia": "jue",
+      "compras": 0,
+      "vtas": 2,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 12,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "SAN MIGUEL SOLSTICIO",
+      "fecha": "2026-10-15",
+      "dia": "jue",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 17,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "TANNAT LADO B - JARDIN OCULTO",
+      "fecha": "2026-10-15",
+      "dia": "jue",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 2,
       "invIniFin": null,
       "dif": null
     },
@@ -17512,7 +17603,7 @@
       },
       {
         "weekYear": "202642",
-        "valor": 27
+        "valor": 35
       }
     ],
     "Vtas Ext": [
@@ -17590,7 +17681,7 @@
       },
       {
         "weekYear": "202642",
-        "valor": 28
+        "valor": 38
       }
     ],
     "Salidas": [
@@ -17616,7 +17707,7 @@
       },
       {
         "weekYear": "202642",
-        "valor": 1
+        "valor": 3
       }
     ],
     "Compras": [
@@ -17648,12 +17739,12 @@
   },
   "meta": {
     "ventasIziDisponibles": true,
-    "filasApertura": 1430,
+    "filasApertura": 1432,
     "filasInventariosGs": 3984,
     "filasCompras": 2362,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 5624,
-    "filasMovInv": 326,
+    "filasVentasIzi": 5670,
+    "filasMovInv": 330,
     "filasDimProducto": 449,
     "warnings": []
   }

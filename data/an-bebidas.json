@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T18:36:26.954Z",
+  "generatedAt": "2026-10-16T21:39:46.574Z",
   "rangoFechas": {
     "desde": "2026-08-10",
     "hasta": "2026-10-16"
@@ -291,28 +291,28 @@
       "producto": "COCA COLA",
       "weekYear": "202642",
       "invMenos7": 31,
-      "compras": 0,
-      "vtas": 0,
+      "compras": 24,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 31,
+      "cierre": 54,
       "dif": null
     },
     {
       "producto": "COCA COLA SIN AZUCAR",
       "weekYear": "202642",
       "invMenos7": 8,
-      "compras": 0,
+      "compras": 36,
       "vtas": 6,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 1,
       "vtasTot": 7,
       "inv": null,
-      "cierre": 1,
+      "cierre": 37,
       "dif": null
     },
     {
@@ -4350,6 +4350,32 @@
       "dif": null
     },
     {
+      "producto": "COCA COLA",
+      "fecha": "2026-10-16",
+      "dia": "vie",
+      "compras": 24,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 54,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "COCA COLA SIN AZUCAR",
+      "fecha": "2026-10-16",
+      "dia": "vie",
+      "compras": 36,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 37,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "BENDITA HOPPY",
       "fecha": "2026-10-06",
       "dia": "mar",
@@ -4738,7 +4764,7 @@
       },
       {
         "weekYear": "202642",
-        "valor": 27
+        "valor": 28
       }
     ],
     "Vtas Ext": [
@@ -4816,7 +4842,7 @@
       },
       {
         "weekYear": "202642",
-        "valor": 28
+        "valor": 29
       }
     ],
     "Salidas": [
@@ -4868,7 +4894,7 @@
       },
       {
         "weekYear": "202642",
-        "valor": 24
+        "valor": 84
       }
     ]
   },
@@ -4876,10 +4902,10 @@
     "ventasIziDisponibles": true,
     "filasApertura": 1432,
     "filasInventariosGs": 3984,
-    "filasCompras": 2362,
+    "filasCompras": 2370,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 5680,
-    "filasMovInv": 330,
+    "filasVentasIzi": 5684,
+    "filasMovInv": 331,
     "filasDimProducto": 449,
     "warnings": []
   }

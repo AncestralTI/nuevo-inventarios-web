@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T18:36:12.899Z",
+  "generatedAt": "2026-10-16T21:39:35.460Z",
   "rangoFechas": {
     "desde": "2026-08-10",
     "hasta": "2026-10-16"
@@ -560,14 +560,14 @@
       "producto": "CAÑON ESCONDIDO - TANNAT",
       "weekYear": "202642",
       "invMenos7": 4,
-      "compras": 0,
+      "compras": 4,
       "vtas": 2,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 2,
       "inv": null,
-      "cierre": 2,
+      "cierre": 6,
       "dif": null
     },
     {
@@ -16825,6 +16825,19 @@
       "dif": null
     },
     {
+      "producto": "CAÑON ESCONDIDO - TANNAT",
+      "fecha": "2026-10-16",
+      "dia": "vie",
+      "compras": 4,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 6,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "ALAYA - TELLUS",
       "fecha": "2026-10-06",
       "dia": "mar",
@@ -17733,7 +17746,7 @@
       },
       {
         "weekYear": "202642",
-        "valor": 60
+        "valor": 64
       }
     ]
   },
@@ -17741,10 +17754,10 @@
     "ventasIziDisponibles": true,
     "filasApertura": 1432,
     "filasInventariosGs": 3984,
-    "filasCompras": 2362,
+    "filasCompras": 2370,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 5680,
-    "filasMovInv": 330,
+    "filasVentasIzi": 5684,
+    "filasMovInv": 331,
     "filasDimProducto": 449,
     "warnings": []
   }

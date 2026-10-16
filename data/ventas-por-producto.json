@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T18:37:05.701Z",
+  "generatedAt": "2026-10-16T21:40:22.558Z",
   "fuente": "API iZi Soluciones (facturas + items-inventarios), sucursal Ancestral (79344)",
   "rango": {
     "desde": "2026-09-16",
@@ -11202,8 +11202,8 @@
       "producto": "NARANJA TUMBO",
       "categoria": "JUGOS",
       "fecha": "2026-10-16",
-      "cantidad": 1,
-      "monto": 15
+      "cantidad": 4,
+      "monto": 60
     },
     {
       "codProducto": "ANC00049",
@@ -11226,8 +11226,8 @@
       "producto": "KEPERI AHUMADO",
       "categoria": "FUERTES",
       "fecha": "2026-10-16",
-      "cantidad": 1,
-      "monto": 140
+      "cantidad": 2,
+      "monto": 280
     },
     {
       "codProducto": "ANC00115",
@@ -11236,6 +11236,22 @@
       "fecha": "2026-10-16",
       "cantidad": 2,
       "monto": 80
+    },
+    {
+      "codProducto": "ANC00104",
+      "producto": "COCA COLA",
+      "categoria": "GASEOSA",
+      "fecha": "2026-10-16",
+      "cantidad": 1,
+      "monto": 15
+    },
+    {
+      "codProducto": "ANC00249",
+      "producto": "ARROZ DE CANGREJOS",
+      "categoria": "FUERTES",
+      "fecha": "2026-10-16",
+      "cantidad": 2,
+      "monto": 300
     }
   ]
 }

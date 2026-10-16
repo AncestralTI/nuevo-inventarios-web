@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T18:35:55.879Z",
+  "generatedAt": "2026-10-16T21:39:20.925Z",
   "rangoFechas": {
     "desde": "2026-08-10",
     "hasta": "2026-10-16"
@@ -125,12 +125,12 @@
       "insumo": "Keperi",
       "weekYear": "202642",
       "invMenos7": 40,
-      "compras": 25,
-      "vtas": 22,
+      "compras": 38,
+      "vtas": 23,
       "salidas": 0,
-      "vtasTot": 22,
+      "vtasTot": 23,
       "inv": null,
-      "cierre": 43,
+      "cierre": 55,
       "dif": null
     },
     {
@@ -2167,10 +2167,10 @@
       "insumo": "Keperi",
       "fecha": "2026-10-16",
       "dia": "vie",
-      "compras": 0,
-      "vtas": 1,
+      "compras": 13,
+      "vtas": 2,
       "salidas": 0,
-      "invEsperado": 3,
+      "invEsperado": 15,
       "invIni": null,
       "invFin": null,
       "dif": null
@@ -3136,7 +3136,7 @@
       },
       {
         "weekYear": "202642",
-        "valor": 92
+        "valor": 93
       }
     ],
     "Salidas": [
@@ -3188,7 +3188,7 @@
       },
       {
         "weekYear": "202642",
-        "valor": 104.84
+        "valor": 105.84
       }
     ],
     "Compras (Un)": [
@@ -3214,16 +3214,16 @@
       },
       {
         "weekYear": "202642",
-        "valor": 172
+        "valor": 185
       }
     ]
   },
   "meta": {
     "ventasIziDisponibles": true,
-    "filasCompras": 2362,
+    "filasCompras": 2370,
     "filasSalidas": 909,
     "filasMatriz": 23,
     "filasInventarios": 436,
-    "filasVentasIzi": 5680
+    "filasVentasIzi": 5684
   }
 }

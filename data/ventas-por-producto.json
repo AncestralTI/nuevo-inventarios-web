@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T19:35:58.529Z",
+  "generatedAt": "2026-10-17T21:43:13.068Z",
   "fuente": "API iZi Soluciones (facturas + items-inventarios), sucursal Ancestral (79344)",
   "rango": {
     "desde": "2026-09-17",
@@ -11170,16 +11170,16 @@
       "producto": "KEPERI AHUMADO",
       "categoria": "FUERTES",
       "fecha": "2026-10-17",
-      "cantidad": 2,
-      "monto": 280
+      "cantidad": 3,
+      "monto": 420
     },
     {
       "codProducto": "ANC00105",
       "producto": "COCA COLA SIN AZUCAR",
       "categoria": "GASEOSA",
       "fecha": "2026-10-17",
-      "cantidad": 1,
-      "monto": 15
+      "cantidad": 10,
+      "monto": 150
     },
     {
       "codProducto": "ANC00065",
@@ -11194,16 +11194,16 @@
       "producto": "PARRILLA OJO DE BIFE",
       "categoria": "FUERTES",
       "fecha": "2026-10-17",
-      "cantidad": 2,
-      "monto": 320
+      "cantidad": 6,
+      "monto": 960
     },
     {
       "codProducto": "ANC00090",
       "producto": "CHULETON (Kg)",
       "categoria": "FUERTES",
       "fecha": "2026-10-17",
-      "cantidad": 2.6,
-      "monto": 1040
+      "cantidad": 6.99,
+      "monto": 2796
     },
     {
       "codProducto": "ANC00205",
@@ -11226,24 +11226,24 @@
       "producto": "TUETANO BRULEE",
       "categoria": "DULCES",
       "fecha": "2026-10-17",
-      "cantidad": 3,
-      "monto": 150
+      "cantidad": 6,
+      "monto": 300
     },
     {
       "codProducto": "ANC00001",
       "producto": "AGUA C/G",
       "categoria": "AGUAS",
       "fecha": "2026-10-17",
-      "cantidad": 1,
-      "monto": 15
+      "cantidad": 2,
+      "monto": 30
     },
     {
       "codProducto": "ANC00112",
       "producto": "LIMONADA",
       "categoria": "JUGOS",
       "fecha": "2026-10-17",
-      "cantidad": 1,
-      "monto": 15
+      "cantidad": 2,
+      "monto": 30
     },
     {
       "codProducto": "ANC00198",
@@ -11258,8 +11258,8 @@
       "producto": "ICED TEA (BOTELLA)",
       "categoria": "JUGOS",
       "fecha": "2026-10-17",
-      "cantidad": 1,
-      "monto": 40
+      "cantidad": 2,
+      "monto": 80
     },
     {
       "codProducto": "ANC00281",
@@ -11274,48 +11274,48 @@
       "producto": "OSSOBUCO A LA BOLIVIANA",
       "categoria": "FUERTES",
       "fecha": "2026-10-17",
-      "cantidad": 1,
-      "monto": 160
+      "cantidad": 3,
+      "monto": 480
     },
     {
       "codProducto": "ANC00114",
       "producto": "NARANJA TUMBO",
       "categoria": "JUGOS",
       "fecha": "2026-10-17",
-      "cantidad": 2,
-      "monto": 30
+      "cantidad": 9,
+      "monto": 135
     },
     {
       "codProducto": "ANC00111",
       "producto": "JAMAICA MENTA",
       "categoria": "JUGOS",
       "fecha": "2026-10-17",
-      "cantidad": 2,
-      "monto": 30
+      "cantidad": 3,
+      "monto": 45
     },
     {
       "codProducto": "ANC00329",
       "producto": "PAN CON QUESO",
       "categoria": "COMIDAS",
       "fecha": "2026-10-17",
-      "cantidad": 1,
-      "monto": 50
+      "cantidad": 2,
+      "monto": 100
     },
     {
       "codProducto": "ANC00115",
       "producto": "NARANJA-TUMBO (BOTELLA)",
       "categoria": "JUGOS",
       "fecha": "2026-10-17",
-      "cantidad": 1,
-      "monto": 40
+      "cantidad": 2,
+      "monto": 80
     },
     {
       "codProducto": "ANC00002",
       "producto": "AGUA S/G",
       "categoria": "AGUAS",
       "fecha": "2026-10-17",
-      "cantidad": 3,
-      "monto": 36
+      "cantidad": 11,
+      "monto": 132
     },
     {
       "codProducto": "ANC00103",
@@ -11330,8 +11330,8 @@
       "producto": "PARRILLA KEPERI",
       "categoria": "FUERTES",
       "fecha": "2026-10-17",
-      "cantidad": 1,
-      "monto": 140
+      "cantidad": 2,
+      "monto": 280
     },
     {
       "codProducto": "ANC00331",
@@ -11346,8 +11346,8 @@
       "producto": "ALCACHOFAS",
       "categoria": "ENTRADAS",
       "fecha": "2026-10-17",
-      "cantidad": 1,
-      "monto": 75
+      "cantidad": 2,
+      "monto": 150
     },
     {
       "codProducto": "ANC00081",
@@ -11372,6 +11372,190 @@
       "fecha": "2026-10-17",
       "cantidad": 1,
       "monto": 60
+    },
+    {
+      "codProducto": "ANC00110",
+      "producto": "JAMAICA (BOTELLA)",
+      "categoria": "JUGOS",
+      "fecha": "2026-10-17",
+      "cantidad": 2,
+      "monto": 80
+    },
+    {
+      "codProducto": "ANC00020",
+      "producto": "CHUFLAY",
+      "categoria": "COCTELES",
+      "fecha": "2026-10-17",
+      "cantidad": 1,
+      "monto": 40
+    },
+    {
+      "codProducto": "ANC00328",
+      "producto": "PAVLOVA DE PIÑA A LA BRASA",
+      "categoria": "COMIDAS",
+      "fecha": "2026-10-17",
+      "cantidad": 3,
+      "monto": 150
+    },
+    {
+      "codProducto": "ANC00064",
+      "producto": "TARTAR DE RES",
+      "categoria": "ENTRADAS",
+      "fecha": "2026-10-17",
+      "cantidad": 3,
+      "monto": 210
+    },
+    {
+      "codProducto": "ANC00008",
+      "producto": "MADERA \"LA KALOR\" GOSE",
+      "categoria": "CERVEZA",
+      "fecha": "2026-10-17",
+      "cantidad": 1,
+      "monto": 31
+    },
+    {
+      "codProducto": "ANC00311",
+      "producto": "SAN MIGUEL SOLSTICIO",
+      "categoria": "CERVEZA",
+      "fecha": "2026-10-17",
+      "cantidad": 1,
+      "monto": 39
+    },
+    {
+      "codProducto": "ANC00249",
+      "producto": "ARROZ DE CANGREJOS",
+      "categoria": "FUERTES",
+      "fecha": "2026-10-17",
+      "cantidad": 1,
+      "monto": 150
+    },
+    {
+      "codProducto": "ANC00214",
+      "producto": "PIE DE LIMON SOUR",
+      "categoria": "COCTELES",
+      "fecha": "2026-10-17",
+      "cantidad": 1,
+      "monto": 50
+    },
+    {
+      "codProducto": "ANC00213",
+      "producto": "PINEAPPLE EXPRESS",
+      "categoria": "COCTELES",
+      "fecha": "2026-10-17",
+      "cantidad": 1,
+      "monto": 50
+    },
+    {
+      "codProducto": "ANC00040",
+      "producto": "UYUNI SOUR",
+      "categoria": "COCTELES",
+      "fecha": "2026-10-17",
+      "cantidad": 2,
+      "monto": 100
+    },
+    {
+      "codProducto": "ANC00024",
+      "producto": "CRISTALINO DE TUMBO",
+      "categoria": "COCTELES",
+      "fecha": "2026-10-17",
+      "cantidad": 1,
+      "monto": 50
+    },
+    {
+      "codProducto": "ANC00049",
+      "producto": "FLAN",
+      "categoria": "DULCES",
+      "fecha": "2026-10-17",
+      "cantidad": 2,
+      "monto": 100
+    },
+    {
+      "codProducto": "ANC00183",
+      "producto": "PANZA FRITA",
+      "categoria": "ENTRADAS",
+      "fecha": "2026-10-17",
+      "cantidad": 1,
+      "monto": 60
+    },
+    {
+      "codProducto": "ANC00108",
+      "producto": "ICED TEA",
+      "categoria": "JUGOS",
+      "fecha": "2026-10-17",
+      "cantidad": 1,
+      "monto": 15
+    },
+    {
+      "codProducto": "ANC00104",
+      "producto": "COCA COLA",
+      "categoria": "GASEOSA",
+      "fecha": "2026-10-17",
+      "cantidad": 1,
+      "monto": 15
+    },
+    {
+      "codProducto": "ANC00046",
+      "producto": "CHOCOLATE",
+      "categoria": "DULCES",
+      "fecha": "2026-10-17",
+      "cantidad": 5,
+      "monto": 250
+    },
+    {
+      "codProducto": "ANC00242",
+      "producto": "PARRILLA PESCADO AMAZÓNICO",
+      "categoria": "FUERTES",
+      "fecha": "2026-10-17",
+      "cantidad": 1,
+      "monto": 150
+    },
+    {
+      "codProducto": "ANC00092",
+      "producto": "GNOCCHIS CON HONGOS A LA BRASA",
+      "categoria": "FUERTES",
+      "fecha": "2026-10-17",
+      "cantidad": 3,
+      "monto": 420
+    },
+    {
+      "codProducto": "ANC00106",
+      "producto": "FANTA",
+      "categoria": "GASEOSA",
+      "fecha": "2026-10-17",
+      "cantidad": 1,
+      "monto": 15
+    },
+    {
+      "codProducto": "ANC00007",
+      "producto": "HUARI",
+      "categoria": "CERVEZA",
+      "fecha": "2026-10-17",
+      "cantidad": 1,
+      "monto": 33
+    },
+    {
+      "codProducto": "ANC00276",
+      "producto": "BENDITA PILS",
+      "categoria": "CERVEZA",
+      "fecha": "2026-10-17",
+      "cantidad": 2,
+      "monto": 44
+    },
+    {
+      "codProducto": "ANC00048",
+      "producto": "ESPRESSO DOBLE",
+      "categoria": "BEBIDAS CALIENTES",
+      "fecha": "2026-10-17",
+      "cantidad": 1,
+      "monto": 20
+    },
+    {
+      "codProducto": "ANC00327",
+      "producto": "ALFAJOR",
+      "categoria": "DULCES",
+      "fecha": "2026-10-17",
+      "cantidad": 1,
+      "monto": 50
     }
   ]
 }

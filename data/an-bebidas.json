@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T19:35:27.837Z",
+  "generatedAt": "2026-10-17T21:42:38.331Z",
   "rangoFechas": {
     "desde": "2026-08-10",
     "hasta": "2026-10-17"
@@ -138,13 +138,13 @@
       "weekYear": "202642",
       "invMenos7": 20,
       "compras": 0,
-      "vtas": 2,
+      "vtas": 4,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 2,
+      "vtasTot": 4,
       "inv": null,
-      "cierre": 18,
+      "cierre": 16,
       "dif": null
     },
     {
@@ -292,13 +292,13 @@
       "weekYear": "202642",
       "invMenos7": 31,
       "compras": 24,
-      "vtas": 3,
+      "vtas": 4,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 3,
+      "vtasTot": 4,
       "inv": null,
-      "cierre": 52,
+      "cierre": 51,
       "dif": null
     },
     {
@@ -306,13 +306,13 @@
       "weekYear": "202642",
       "invMenos7": 8,
       "compras": 36,
-      "vtas": 10,
+      "vtas": 19,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 1,
-      "vtasTot": 11,
+      "vtasTot": 20,
       "inv": null,
-      "cierre": 33,
+      "cierre": 24,
       "dif": null
     },
     {
@@ -320,13 +320,13 @@
       "weekYear": "202642",
       "invMenos7": 16,
       "compras": 0,
-      "vtas": 1,
+      "vtas": 2,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 1,
+      "vtasTot": 2,
       "inv": null,
-      "cierre": 15,
+      "cierre": 14,
       "dif": null
     },
     {
@@ -348,13 +348,13 @@
       "weekYear": "202642",
       "invMenos7": 18,
       "compras": 24,
-      "vtas": 5,
+      "vtas": 6,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 5,
+      "vtasTot": 6,
       "inv": null,
-      "cierre": 37,
+      "cierre": 36,
       "dif": null
     },
     {
@@ -362,13 +362,13 @@
       "weekYear": "202642",
       "invMenos7": 22,
       "compras": 0,
-      "vtas": 2,
+      "vtas": 3,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 2,
+      "vtasTot": 3,
       "inv": null,
-      "cierre": 20,
+      "cierre": 19,
       "dif": null
     },
     {
@@ -474,13 +474,13 @@
       "weekYear": "202642",
       "invMenos7": 18,
       "compras": 0,
-      "vtas": 1,
+      "vtas": 2,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 1,
-      "vtasTot": 2,
+      "vtasTot": 3,
       "inv": null,
-      "cierre": 16,
+      "cierre": 15,
       "dif": null
     },
     {
@@ -4428,7 +4428,20 @@
       "dif": null
     },
     {
-      "producto": "COCA COLA SIN AZUCAR",
+      "producto": "BENDITA PILS",
+      "fecha": "2026-10-17",
+      "dia": "sáb",
+      "compras": 0,
+      "vtas": 2,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 16,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "COCA COLA",
       "fecha": "2026-10-17",
       "dia": "sáb",
       "compras": 0,
@@ -4436,7 +4449,59 @@
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "invEsperado": 33,
+      "invEsperado": 51,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "COCA COLA SIN AZUCAR",
+      "fecha": "2026-10-17",
+      "dia": "sáb",
+      "compras": 0,
+      "vtas": 10,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 24,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "FANTA",
+      "fecha": "2026-10-17",
+      "dia": "sáb",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 14,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "HUARI",
+      "fecha": "2026-10-17",
+      "dia": "sáb",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 36,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "MADERA \"LA KALOR\" GOSE",
+      "fecha": "2026-10-17",
+      "dia": "sáb",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 19,
       "invIniFin": null,
       "dif": null
     },
@@ -4450,6 +4515,19 @@
       "cortesias": 0,
       "salidas": 0,
       "invEsperado": 16,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "SAN MIGUEL SOLSTICIO",
+      "fecha": "2026-10-17",
+      "dia": "sáb",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 15,
       "invIniFin": null,
       "dif": null
     },
@@ -4842,7 +4920,7 @@
       },
       {
         "weekYear": "202642",
-        "valor": 39
+        "valor": 55
       }
     ],
     "Vtas Ext": [
@@ -4920,7 +4998,7 @@
       },
       {
         "weekYear": "202642",
-        "valor": 41
+        "valor": 57
       }
     ],
     "Salidas": [
@@ -4982,8 +5060,8 @@
     "filasInventariosGs": 3984,
     "filasCompras": 2372,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 5821,
-    "filasMovInv": 340,
+    "filasVentasIzi": 5882,
+    "filasMovInv": 342,
     "filasDimProducto": 449,
     "warnings": []
   }

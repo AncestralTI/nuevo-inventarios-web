@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T02:22:00.419Z",
+  "generatedAt": "2026-10-17T07:06:08.199Z",
   "fuente": "API iZi Soluciones (facturas + items-inventarios), sucursal Ancestral (79344)",
   "rango": {
     "desde": "2026-09-17",
@@ -10746,8 +10746,8 @@
       "producto": "PARRILLA OJO DE BIFE",
       "categoria": "FUERTES",
       "fecha": "2026-10-16",
-      "cantidad": 7,
-      "monto": 1120
+      "cantidad": 8,
+      "monto": 1280
     },
     {
       "codProducto": "ANC00210",
@@ -10770,8 +10770,8 @@
       "producto": "NARANJA TUMBO",
       "categoria": "JUGOS",
       "fecha": "2026-10-16",
-      "cantidad": 4,
-      "monto": 60
+      "cantidad": 5,
+      "monto": 75
     },
     {
       "codProducto": "ANC00049",
@@ -10794,8 +10794,8 @@
       "producto": "KEPERI AHUMADO",
       "categoria": "FUERTES",
       "fecha": "2026-10-16",
-      "cantidad": 5,
-      "monto": 700
+      "cantidad": 6,
+      "monto": 840
     },
     {
       "codProducto": "ANC00115",
@@ -10818,32 +10818,32 @@
       "producto": "ARROZ DE CANGREJOS",
       "categoria": "FUERTES",
       "fecha": "2026-10-16",
-      "cantidad": 2,
-      "monto": 300
+      "cantidad": 3,
+      "monto": 450
     },
     {
       "codProducto": "ANC00098",
       "producto": "PARRILLA KEPERI",
       "categoria": "FUERTES",
       "fecha": "2026-10-16",
-      "cantidad": 3,
-      "monto": 420
+      "cantidad": 4,
+      "monto": 560
     },
     {
       "codProducto": "ANC00018",
       "producto": "CHIRIMOYA ALEGRE",
       "categoria": "COCTELES",
       "fecha": "2026-10-16",
-      "cantidad": 1,
-      "monto": 50
+      "cantidad": 3,
+      "monto": 150
     },
     {
       "codProducto": "ANC00183",
       "producto": "PANZA FRITA",
       "categoria": "ENTRADAS",
       "fecha": "2026-10-16",
-      "cantidad": 3,
-      "monto": 180
+      "cantidad": 4,
+      "monto": 240
     },
     {
       "codProducto": "ANC00241",
@@ -10866,8 +10866,8 @@
       "producto": "CHULETON (Kg)",
       "categoria": "FUERTES",
       "fecha": "2026-10-16",
-      "cantidad": 2.99,
-      "monto": 1196
+      "cantidad": 4.39,
+      "monto": 1756
     },
     {
       "codProducto": "ANC00001",
@@ -10970,8 +10970,8 @@
       "producto": "COCA COLA SIN AZUCAR",
       "categoria": "GASEOSA",
       "fecha": "2026-10-16",
-      "cantidad": 2,
-      "monto": 30
+      "cantidad": 3,
+      "monto": 45
     },
     {
       "codProducto": "ANC00215",
@@ -10994,8 +10994,8 @@
       "producto": "BERRIES TONIC",
       "categoria": "COCTELES",
       "fecha": "2026-10-16",
-      "cantidad": 2,
-      "monto": 100
+      "cantidad": 3,
+      "monto": 150
     },
     {
       "codProducto": "ANC00276",
@@ -11018,8 +11018,8 @@
       "producto": "ALCACHOFAS",
       "categoria": "ENTRADAS",
       "fecha": "2026-10-16",
-      "cantidad": 5,
-      "monto": 375
+      "cantidad": 6,
+      "monto": 450
     },
     {
       "codProducto": "ANC00081",
@@ -11108,6 +11108,62 @@
       "fecha": "2026-10-16",
       "cantidad": 2,
       "monto": 100
+    },
+    {
+      "codProducto": "ANC00184",
+      "producto": "ANTICUCHO DE POLLO",
+      "categoria": "ENTRADAS",
+      "fecha": "2026-10-16",
+      "cantidad": 1,
+      "monto": 55
+    },
+    {
+      "codProducto": "ANC00033",
+      "producto": "PALOMA",
+      "categoria": "COCTELES",
+      "fecha": "2026-10-16",
+      "cantidad": 1,
+      "monto": 50
+    },
+    {
+      "codProducto": "ANC00214",
+      "producto": "PIE DE LIMON SOUR",
+      "categoria": "COCTELES",
+      "fecha": "2026-10-16",
+      "cantidad": 1,
+      "monto": 50
+    },
+    {
+      "codProducto": "ANC00073",
+      "producto": "EXPERIENCIA ANCESTRAL",
+      "categoria": "MENU DEGUSTACION",
+      "fecha": "2026-10-16",
+      "cantidad": 2,
+      "monto": 980
+    },
+    {
+      "codProducto": "ANC00075",
+      "producto": "MARIDAJE ANCESTRAL",
+      "categoria": "MENU DEGUSTACION",
+      "fecha": "2026-10-16",
+      "cantidad": 2,
+      "monto": 700
+    },
+    {
+      "codProducto": "ANC00040",
+      "producto": "UYUNI SOUR",
+      "categoria": "COCTELES",
+      "fecha": "2026-10-16",
+      "cantidad": 1,
+      "monto": 50
+    },
+    {
+      "codProducto": "ANC00065",
+      "producto": "TATAKI DE LLAMA",
+      "categoria": "ENTRADAS",
+      "fecha": "2026-10-16",
+      "cantidad": 1,
+      "monto": 75
     }
   ]
 }

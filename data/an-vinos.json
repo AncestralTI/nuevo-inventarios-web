@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T02:21:14.705Z",
+  "generatedAt": "2026-10-17T07:05:28.231Z",
   "rangoFechas": {
     "desde": "2026-08-10",
     "hasta": "2026-10-17"
@@ -284,10 +284,10 @@
       "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 0,
+      "salidas": 1,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 2,
+      "cierre": 1,
       "dif": null
     },
     {
@@ -298,10 +298,10 @@
       "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 0,
+      "salidas": 1,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 18,
+      "cierre": 17,
       "dif": null
     },
     {
@@ -564,10 +564,10 @@
       "vtas": 2,
       "vtasExt": 0,
       "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 2,
+      "salidas": 1,
+      "vtasTot": 3,
       "inv": null,
-      "cierre": 6,
+      "cierre": 5,
       "dif": null
     },
     {
@@ -1180,10 +1180,10 @@
       "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 0,
+      "salidas": 1,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 6,
+      "cierre": 5,
       "dif": null
     },
     {
@@ -1250,10 +1250,10 @@
       "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 0,
+      "salidas": 1,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 2,
+      "cierre": 1,
       "dif": null
     },
     {
@@ -1432,10 +1432,10 @@
       "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 0,
+      "salidas": 1,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 12,
+      "cierre": 11,
       "dif": null
     },
     {
@@ -1544,10 +1544,10 @@
       "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 1,
+      "salidas": 1,
+      "vtasTot": 2,
       "inv": null,
-      "cierre": 17,
+      "cierre": 16,
       "dif": null
     },
     {
@@ -16780,8 +16780,8 @@
       "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
-      "salidas": 0,
-      "invEsperado": 12,
+      "salidas": 1,
+      "invEsperado": 11,
       "invIniFin": null,
       "dif": null
     },
@@ -16825,6 +16825,32 @@
       "dif": null
     },
     {
+      "producto": "ALMA OCULTA - FORTIFICADO TINTO",
+      "fecha": "2026-10-16",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 1,
+      "invEsperado": 1,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "ALTOSAMA - BRUT",
+      "fecha": "2026-10-16",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 1,
+      "invEsperado": 17,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "BENDITA PILS",
       "fecha": "2026-10-16",
       "dia": "vie",
@@ -16845,8 +16871,8 @@
       "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
-      "salidas": 0,
-      "invEsperado": 6,
+      "salidas": 1,
+      "invEsperado": 5,
       "invIniFin": null,
       "dif": null
     },
@@ -16886,6 +16912,45 @@
       "cortesias": 0,
       "salidas": 0,
       "invEsperado": 37,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "KOHLBERG - FLAMANT ROSE",
+      "fecha": "2026-10-16",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 1,
+      "invEsperado": 5,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "LOCURA 5.1.1. - MAGNUS",
+      "fecha": "2026-10-16",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 1,
+      "invEsperado": 1,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "SAN MIGUEL SOLSTICIO",
+      "fecha": "2026-10-16",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 1,
+      "invEsperado": 16,
       "invIniFin": null,
       "dif": null
     },
@@ -17746,7 +17811,7 @@
       },
       {
         "weekYear": "202642",
-        "valor": 43
+        "valor": 50
       }
     ],
     "Salidas": [
@@ -17772,7 +17837,7 @@
       },
       {
         "weekYear": "202642",
-        "valor": 3
+        "valor": 10
       }
     ],
     "Compras": [
@@ -17804,12 +17869,12 @@
   },
   "meta": {
     "ventasIziDisponibles": true,
-    "filasApertura": 1432,
+    "filasApertura": 1439,
     "filasInventariosGs": 3984,
     "filasCompras": 2372,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 5764,
-    "filasMovInv": 335,
+    "filasVentasIzi": 5784,
+    "filasMovInv": 337,
     "filasDimProducto": 449,
     "warnings": []
   }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T14:23:25.087Z",
+  "generatedAt": "2026-10-17T17:23:44.858Z",
   "rangoFechas": {
     "desde": "2026-08-10",
     "hasta": "2026-10-17"
@@ -785,11 +785,11 @@
       "weekYear": "202642",
       "invMenos7": null,
       "compras": 0,
-      "vtas": 1,
+      "vtas": 3,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 1,
+      "vtasTot": 3,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -1513,13 +1513,13 @@
       "weekYear": "202642",
       "invMenos7": 18,
       "compras": 0,
-      "vtas": 1,
+      "vtas": 2,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 1,
+      "vtasTot": 2,
       "inv": null,
-      "cierre": 17,
+      "cierre": 16,
       "dif": null
     },
     {
@@ -16955,6 +16955,32 @@
       "dif": null
     },
     {
+      "producto": "COPA LOCURA 5.1.1. - MAGNUS",
+      "fecha": "2026-10-17",
+      "dia": "sáb",
+      "compras": 0,
+      "vtas": 2,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 0,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "REBELION OBSESSION IPA",
+      "fecha": "2026-10-17",
+      "dia": "sáb",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 16,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "ALAYA - TELLUS",
       "fecha": "2026-10-06",
       "dia": "mar",
@@ -17733,7 +17759,7 @@
       },
       {
         "weekYear": "202642",
-        "valor": 40
+        "valor": 43
       }
     ],
     "Vtas Ext": [
@@ -17811,7 +17837,7 @@
       },
       {
         "weekYear": "202642",
-        "valor": 50
+        "valor": 53
       }
     ],
     "Salidas": [
@@ -17873,7 +17899,7 @@
     "filasInventariosGs": 3984,
     "filasCompras": 2372,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 5784,
+    "filasVentasIzi": 5793,
     "filasMovInv": 337,
     "filasDimProducto": 449,
     "warnings": []

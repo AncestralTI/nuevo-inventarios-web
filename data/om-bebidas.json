@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T14:24:05.836Z",
+  "generatedAt": "2026-10-17T17:24:27.638Z",
   "rangoFechas": {
     "desde": "2026-08-10",
     "hasta": "2026-10-17"
@@ -403,9 +403,9 @@
       "vtasIzi": 0,
       "vtasExt": 0,
       "vtasPY": 0,
-      "vtasAnc": 9,
+      "vtasAnc": 10,
       "salidas": 0,
-      "vtasTot": 9,
+      "vtasTot": 10,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -718,9 +718,9 @@
       "vtasIzi": 0,
       "vtasExt": 0,
       "vtasPY": 0,
-      "vtasAnc": 1,
+      "vtasAnc": 2,
       "salidas": 0,
-      "vtasTot": 1,
+      "vtasTot": 2,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -8406,6 +8406,34 @@
       "dif": null
     },
     {
+      "producto": "COCA COLA SIN AZUCAR",
+      "fecha": "2026-10-17",
+      "dia": "sáb",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 1,
+      "salidas": 0,
+      "invEsperado": 0,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "REBELION OBSESSION IPA",
+      "fecha": "2026-10-17",
+      "dia": "sáb",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 1,
+      "salidas": 0,
+      "invEsperado": 0,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "Agua",
       "fecha": "2026-10-05",
       "dia": "lun",
@@ -10118,7 +10146,7 @@
       },
       {
         "weekYear": "202642",
-        "valor": 279
+        "valor": 281
       }
     ],
     "Compras": [
@@ -10153,12 +10181,12 @@
     "filasDimProducto": 449,
     "filasInventariosOmuh": 425,
     "filasCompras": 1550,
-    "filasSalidas": 96,
-    "filasVentasIzi": 7756,
+    "filasSalidas": 97,
+    "filasVentasIzi": 7767,
     "filasVentasPY": 11018,
     "filasExtras": 17333,
     "filasMovInv": 344,
-    "filasVentasAncIzi": 5784,
+    "filasVentasAncIzi": 5793,
     "warnings": []
   }
 }

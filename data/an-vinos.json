@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T17:23:44.858Z",
+  "generatedAt": "2026-10-17T19:35:17.518Z",
   "rangoFechas": {
     "desde": "2026-08-10",
     "hasta": "2026-10-17"
@@ -869,11 +869,11 @@
       "weekYear": "202642",
       "invMenos7": null,
       "compras": 0,
-      "vtas": 3,
+      "vtas": 4,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 3,
+      "vtasTot": 4,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -883,11 +883,11 @@
       "weekYear": "202642",
       "invMenos7": null,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -16968,6 +16968,32 @@
       "dif": null
     },
     {
+      "producto": "COPA SYRAH - TERRA ANCESTRAL",
+      "fecha": "2026-10-17",
+      "dia": "sáb",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 0,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "COPA TANNAT - CAÑON ESCONDIDO",
+      "fecha": "2026-10-17",
+      "dia": "sáb",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 0,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "REBELION OBSESSION IPA",
       "fecha": "2026-10-17",
       "dia": "sáb",
@@ -17759,7 +17785,7 @@
       },
       {
         "weekYear": "202642",
-        "valor": 43
+        "valor": 45
       }
     ],
     "Vtas Ext": [
@@ -17837,7 +17863,7 @@
       },
       {
         "weekYear": "202642",
-        "valor": 53
+        "valor": 55
       }
     ],
     "Salidas": [
@@ -17899,8 +17925,8 @@
     "filasInventariosGs": 3984,
     "filasCompras": 2372,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 5793,
-    "filasMovInv": 337,
+    "filasVentasIzi": 5821,
+    "filasMovInv": 340,
     "filasDimProducto": 449,
     "warnings": []
   }

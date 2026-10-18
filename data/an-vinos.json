@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T01:23:02.266Z",
+  "generatedAt": "2026-10-18T06:12:57.403Z",
   "rangoFechas": {
     "desde": "2026-08-10",
     "hasta": "2026-10-18"
@@ -1499,13 +1499,13 @@
       "weekYear": "202642",
       "invMenos7": 8,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 8,
+      "cierre": 7,
       "dif": null
     },
     {
@@ -1513,13 +1513,13 @@
       "weekYear": "202642",
       "invMenos7": 18,
       "compras": 0,
-      "vtas": 6,
+      "vtas": 10,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 6,
+      "vtasTot": 10,
       "inv": null,
-      "cierre": 12,
+      "cierre": 8,
       "dif": null
     },
     {
@@ -1793,13 +1793,13 @@
       "weekYear": "202642",
       "invMenos7": 6,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 6,
+      "cierre": 5,
       "dif": null
     },
     {
@@ -17046,15 +17046,28 @@
       "dif": null
     },
     {
+      "producto": "REBELION ALBA WEIZEN",
+      "fecha": "2026-10-17",
+      "dia": "sáb",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 7,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "REBELION OBSESSION IPA",
       "fecha": "2026-10-17",
       "dia": "sáb",
       "compras": 0,
-      "vtas": 5,
+      "vtas": 9,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "invEsperado": 12,
+      "invEsperado": 8,
       "invIniFin": null,
       "dif": null
     },
@@ -17081,6 +17094,19 @@
       "cortesias": 0,
       "salidas": 0,
       "invEsperado": 15,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "VISCHOQUEÑA - SAN FRANCISCO",
+      "fecha": "2026-10-17",
+      "dia": "sáb",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 5,
       "invIniFin": null,
       "dif": null
     },
@@ -17863,7 +17889,7 @@
       },
       {
         "weekYear": "202642",
-        "valor": 58
+        "valor": 64
       }
     ],
     "Vtas Ext": [
@@ -17941,7 +17967,7 @@
       },
       {
         "weekYear": "202642",
-        "valor": 68
+        "valor": 74
       }
     ],
     "Salidas": [
@@ -18003,8 +18029,8 @@
     "filasInventariosGs": 3984,
     "filasCompras": 2372,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 5777,
-    "filasMovInv": 335,
+    "filasVentasIzi": 5844,
+    "filasMovInv": 343,
     "filasDimProducto": 449,
     "warnings": []
   }

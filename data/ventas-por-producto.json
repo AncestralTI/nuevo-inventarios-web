@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T01:23:53.294Z",
+  "generatedAt": "2026-10-18T06:13:37.788Z",
   "fuente": "API iZi Soluciones (facturas + items-inventarios), sucursal Ancestral (79344)",
   "rango": {
     "desde": "2026-09-18",
@@ -10930,16 +10930,16 @@
       "producto": "COCA COLA SIN AZUCAR",
       "categoria": "GASEOSA",
       "fecha": "2026-10-17",
-      "cantidad": 10,
-      "monto": 150
+      "cantidad": 11,
+      "monto": 165
     },
     {
       "codProducto": "ANC00065",
       "producto": "TATAKI DE LLAMA",
       "categoria": "ENTRADAS",
       "fecha": "2026-10-17",
-      "cantidad": 2,
-      "monto": 150
+      "cantidad": 3,
+      "monto": 225
     },
     {
       "codProducto": "ANC00099",
@@ -10954,16 +10954,16 @@
       "producto": "CHULETON (Kg)",
       "categoria": "FUERTES",
       "fecha": "2026-10-17",
-      "cantidad": 6.99,
-      "monto": 2796
+      "cantidad": 9.29,
+      "monto": 3716
     },
     {
       "codProducto": "ANC00205",
       "producto": "REBELION OBSESSION IPA",
       "categoria": "CERVEZA",
       "fecha": "2026-10-17",
-      "cantidad": 5,
-      "monto": 195
+      "cantidad": 9,
+      "monto": 351
     },
     {
       "codProducto": "ANC00354",
@@ -10978,24 +10978,24 @@
       "producto": "TUETANO BRULEE",
       "categoria": "DULCES",
       "fecha": "2026-10-17",
-      "cantidad": 10,
-      "monto": 500
+      "cantidad": 13,
+      "monto": 650
     },
     {
       "codProducto": "ANC00001",
       "producto": "AGUA C/G",
       "categoria": "AGUAS",
       "fecha": "2026-10-17",
-      "cantidad": 13,
-      "monto": 195
+      "cantidad": 22,
+      "monto": 330
     },
     {
       "codProducto": "ANC00112",
       "producto": "LIMONADA",
       "categoria": "JUGOS",
       "fecha": "2026-10-17",
-      "cantidad": 3,
-      "monto": 45
+      "cantidad": 4,
+      "monto": 60
     },
     {
       "codProducto": "ANC00198",
@@ -11018,56 +11018,56 @@
       "producto": "CUARTO PATO CONFITADO",
       "categoria": "FUERTES",
       "fecha": "2026-10-17",
-      "cantidad": 2,
-      "monto": 280
+      "cantidad": 3,
+      "monto": 420
     },
     {
       "codProducto": "ANC00095",
       "producto": "OSSOBUCO A LA BOLIVIANA",
       "categoria": "FUERTES",
       "fecha": "2026-10-17",
-      "cantidad": 4,
-      "monto": 640
+      "cantidad": 5,
+      "monto": 800
     },
     {
       "codProducto": "ANC00114",
       "producto": "NARANJA TUMBO",
       "categoria": "JUGOS",
       "fecha": "2026-10-17",
-      "cantidad": 10,
-      "monto": 150
+      "cantidad": 11,
+      "monto": 165
     },
     {
       "codProducto": "ANC00111",
       "producto": "JAMAICA MENTA",
       "categoria": "JUGOS",
       "fecha": "2026-10-17",
-      "cantidad": 4,
-      "monto": 60
+      "cantidad": 6,
+      "monto": 90
     },
     {
       "codProducto": "ANC00329",
       "producto": "PAN CON QUESO",
       "categoria": "COMIDAS",
       "fecha": "2026-10-17",
-      "cantidad": 2,
-      "monto": 100
+      "cantidad": 3,
+      "monto": 150
     },
     {
       "codProducto": "ANC00115",
       "producto": "NARANJA-TUMBO (BOTELLA)",
       "categoria": "JUGOS",
       "fecha": "2026-10-17",
-      "cantidad": 2,
-      "monto": 80
+      "cantidad": 3,
+      "monto": 120
     },
     {
       "codProducto": "ANC00002",
       "producto": "AGUA S/G",
       "categoria": "AGUAS",
       "fecha": "2026-10-17",
-      "cantidad": 11,
-      "monto": 132
+      "cantidad": 17,
+      "monto": 204
     },
     {
       "codProducto": "ANC00103",
@@ -11082,24 +11082,24 @@
       "producto": "PARRILLA KEPERI",
       "categoria": "FUERTES",
       "fecha": "2026-10-17",
-      "cantidad": 3,
-      "monto": 420
+      "cantidad": 5,
+      "monto": 700
     },
     {
       "codProducto": "ANC00331",
       "producto": "CORDERO A LA CRUZ",
       "categoria": "COMIDAS",
       "fecha": "2026-10-17",
-      "cantidad": 1,
-      "monto": 150
+      "cantidad": 2,
+      "monto": 300
     },
     {
       "codProducto": "ANC00058",
       "producto": "ALCACHOFAS",
       "categoria": "ENTRADAS",
       "fecha": "2026-10-17",
-      "cantidad": 2,
-      "monto": 150
+      "cantidad": 6,
+      "monto": 450
     },
     {
       "codProducto": "ANC00081",
@@ -11154,8 +11154,8 @@
       "producto": "TARTAR DE RES",
       "categoria": "ENTRADAS",
       "fecha": "2026-10-17",
-      "cantidad": 6,
-      "monto": 420
+      "cantidad": 7,
+      "monto": 490
     },
     {
       "codProducto": "ANC00008",
@@ -11178,16 +11178,16 @@
       "producto": "ARROZ DE CANGREJOS",
       "categoria": "FUERTES",
       "fecha": "2026-10-17",
-      "cantidad": 1,
-      "monto": 150
+      "cantidad": 3,
+      "monto": 450
     },
     {
       "codProducto": "ANC00214",
       "producto": "PIE DE LIMON SOUR",
       "categoria": "COCTELES",
       "fecha": "2026-10-17",
-      "cantidad": 1,
-      "monto": 50
+      "cantidad": 3,
+      "monto": 150
     },
     {
       "codProducto": "ANC00213",
@@ -11202,8 +11202,8 @@
       "producto": "UYUNI SOUR",
       "categoria": "COCTELES",
       "fecha": "2026-10-17",
-      "cantidad": 3,
-      "monto": 150
+      "cantidad": 13,
+      "monto": 650
     },
     {
       "codProducto": "ANC00024",
@@ -11242,8 +11242,8 @@
       "producto": "COCA COLA",
       "categoria": "GASEOSA",
       "fecha": "2026-10-17",
-      "cantidad": 2,
-      "monto": 30
+      "cantidad": 3,
+      "monto": 45
     },
     {
       "codProducto": "ANC00046",
@@ -11274,8 +11274,8 @@
       "producto": "FANTA",
       "categoria": "GASEOSA",
       "fecha": "2026-10-17",
-      "cantidad": 1,
-      "monto": 15
+      "cantidad": 2,
+      "monto": 30
     },
     {
       "codProducto": "ANC00007",
@@ -11314,8 +11314,8 @@
       "producto": "PESCADO AMAZONICO Y TUMBO",
       "categoria": "COMIDAS",
       "fecha": "2026-10-17",
-      "cantidad": 2,
-      "monto": 280
+      "cantidad": 3,
+      "monto": 420
     },
     {
       "codProducto": "ANC00310",
@@ -11330,8 +11330,8 @@
       "producto": "CEVICHE DE TRUCHA Y HONGOS",
       "categoria": "ENTRADAS",
       "fecha": "2026-10-17",
-      "cantidad": 3,
-      "monto": 225
+      "cantidad": 7,
+      "monto": 525
     },
     {
       "codProducto": "ANC00101",
@@ -11354,12 +11354,132 @@
       "producto": "TRUCHA CURADA EN PATACÓN",
       "categoria": "COMIDAS",
       "fecha": "2026-10-17",
-      "cantidad": 1,
-      "monto": 70
+      "cantidad": 2,
+      "monto": 140
     },
     {
       "codProducto": "ANC00200",
       "producto": "GOLDEN RUSH",
+      "categoria": "COCTELES",
+      "fecha": "2026-10-17",
+      "cantidad": 1,
+      "monto": 50
+    },
+    {
+      "codProducto": "ANC00184",
+      "producto": "ANTICUCHO DE POLLO",
+      "categoria": "ENTRADAS",
+      "fecha": "2026-10-17",
+      "cantidad": 1,
+      "monto": 55
+    },
+    {
+      "codProducto": "ANC00047",
+      "producto": "ESPRESSO",
+      "categoria": "BEBIDAS CALIENTES",
+      "fecha": "2026-10-17",
+      "cantidad": 1,
+      "monto": 15
+    },
+    {
+      "codProducto": "ANC00052",
+      "producto": "INFUSION MENTA - CHOCO",
+      "categoria": "BEBIDAS CALIENTES",
+      "fecha": "2026-10-17",
+      "cantidad": 1,
+      "monto": 15
+    },
+    {
+      "codProducto": "ANC00073",
+      "producto": "EXPERIENCIA ANCESTRAL",
+      "categoria": "MENU DEGUSTACION",
+      "fecha": "2026-10-17",
+      "cantidad": 10,
+      "monto": 4900
+    },
+    {
+      "codProducto": "ANC00210",
+      "producto": "SINGANI MULE",
+      "categoria": "COCTELES",
+      "fecha": "2026-10-17",
+      "cantidad": 1,
+      "monto": 40
+    },
+    {
+      "codProducto": "ANC00063",
+      "producto": "TACO PULLED PORK",
+      "categoria": "ENTRADAS",
+      "fecha": "2026-10-17",
+      "cantidad": 2,
+      "monto": 140
+    },
+    {
+      "codProducto": "ANC00284",
+      "producto": "VISCHOQUEÑA - SAN FRANCISCO",
+      "categoria": "VINOS",
+      "fecha": "2026-10-17",
+      "cantidad": 1,
+      "monto": 375
+    },
+    {
+      "codProducto": "ANC00030",
+      "producto": "MOSCOW MULE",
+      "categoria": "COCTELES",
+      "fecha": "2026-10-17",
+      "cantidad": 1,
+      "monto": 50
+    },
+    {
+      "codProducto": "ANC00075",
+      "producto": "MARIDAJE ANCESTRAL",
+      "categoria": "MENU DEGUSTACION",
+      "fecha": "2026-10-17",
+      "cantidad": 3,
+      "monto": 1050
+    },
+    {
+      "codProducto": "ANC00018",
+      "producto": "CHIRIMOYA ALEGRE",
+      "categoria": "COCTELES",
+      "fecha": "2026-10-17",
+      "cantidad": 1,
+      "monto": 50
+    },
+    {
+      "codProducto": "ANC00193",
+      "producto": "REBELION ALBA WEIZEN",
+      "categoria": "CERVEZA",
+      "fecha": "2026-10-17",
+      "cantidad": 1,
+      "monto": 33
+    },
+    {
+      "codProducto": "ANC00083",
+      "producto": "RISOTTO AJI",
+      "categoria": "GUARNICIONES",
+      "fecha": "2026-10-17",
+      "cantidad": 1,
+      "monto": 50
+    },
+    {
+      "codProducto": "ANC00029",
+      "producto": "MOJITO",
+      "categoria": "COCTELES",
+      "fecha": "2026-10-17",
+      "cantidad": 1,
+      "monto": 50
+    },
+    {
+      "codProducto": "ANC00032",
+      "producto": "OLD FASHIONED",
+      "categoria": "COCTELES",
+      "fecha": "2026-10-17",
+      "cantidad": 1,
+      "monto": 50
+    },
+    {
+      "codProducto": "ANC00215",
+      "producto": "EXPRESO MARTINI DE CHOCOLATE",
       "categoria": "COCTELES",
       "fecha": "2026-10-17",
       "cantidad": 1,

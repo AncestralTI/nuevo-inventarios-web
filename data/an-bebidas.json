@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T21:50:39.935Z",
+  "generatedAt": "2026-10-18T23:44:33.247Z",
   "rangoFechas": {
     "desde": "2026-08-10",
     "hasta": "2026-10-18"
@@ -115,9 +115,9 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 0,
-      "inv": 2,
+      "inv": 21,
       "cierre": 21,
-      "dif": -19
+      "dif": 0
     },
     {
       "producto": "BENDITA IPA",
@@ -297,9 +297,9 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 9,
-      "inv": 43,
+      "inv": 46,
       "cierre": 46,
-      "dif": -3
+      "dif": 0
     },
     {
       "producto": "COCA COLA SIN AZUCAR",
@@ -4567,8 +4567,8 @@
       "cortesias": 0,
       "salidas": 0,
       "invEsperado": 46,
-      "invIniFin": 43,
-      "dif": -3
+      "invIniFin": 46,
+      "dif": 0
     },
     {
       "producto": "COCA COLA SIN AZUCAR",
@@ -5134,12 +5134,12 @@
   },
   "meta": {
     "ventasIziDisponibles": true,
-    "filasApertura": 1439,
+    "filasApertura": 1442,
     "filasInventariosGs": 4063,
     "filasCompras": 2372,
     "filasMatrizChuleton": 1,
     "filasVentasIzi": 5909,
-    "filasMovInv": 354,
+    "filasMovInv": 356,
     "filasDimProducto": 449,
     "warnings": []
   }

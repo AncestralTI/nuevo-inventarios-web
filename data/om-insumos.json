@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T21:50:55.653Z",
+  "generatedAt": "2026-10-18T23:44:50.516Z",
   "rangoFechas": {
     "desde": "2026-08-10",
     "hasta": "2026-10-18"
@@ -79,16 +79,16 @@
       "weekYear": "202642",
       "invMenos7": null,
       "compras": 588,
-      "vtasIzi": 429.5,
+      "vtasIzi": 452.5,
       "vtasAnc": 4,
       "vtasPY": 54,
       "vtasExt": 15,
       "vtasVegg": -4,
-      "cortesias": 0,
+      "cortesias": 1,
       "salidas": 3,
-      "vtasTot": 501.5,
+      "vtasTot": 525.5,
       "inv": null,
-      "cierre": 86.5,
+      "cierre": 62.5,
       "dif": null
     },
     {
@@ -96,16 +96,16 @@
       "weekYear": "202642",
       "invMenos7": null,
       "compras": 76,
-      "vtasIzi": 53,
+      "vtasIzi": 59,
       "vtasAnc": 0,
       "vtasPY": 19,
       "vtasExt": 0,
       "vtasVegg": 0,
       "cortesias": 0,
       "salidas": 1,
-      "vtasTot": 73,
+      "vtasTot": 79,
       "inv": null,
-      "cierre": 3,
+      "cierre": 0,
       "dif": null
     },
     {
@@ -789,9 +789,9 @@
       "fecha": "2026-10-18",
       "dia": "dom",
       "compras": 0,
-      "vtas": 70.5,
+      "vtas": 94.5,
       "salidas": 0,
-      "invEsperado": 155.5,
+      "invEsperado": 131.5,
       "invFin": null,
       "dif": null
     },
@@ -800,9 +800,9 @@
       "fecha": "2026-10-18",
       "dia": "dom",
       "compras": 0,
-      "vtas": 8,
+      "vtas": 14,
       "salidas": 0,
-      "invEsperado": 22,
+      "invEsperado": 16,
       "invFin": null,
       "dif": null
     },
@@ -1073,7 +1073,7 @@
       },
       {
         "weekYear": "202642",
-        "valor": 501.5
+        "valor": 530.5
       }
     ],
     "Vtas Anc": [
@@ -1177,7 +1177,7 @@
       },
       {
         "weekYear": "202642",
-        "valor": 0
+        "valor": 1
       }
     ],
     "Salidas": [
@@ -1229,7 +1229,7 @@
       },
       {
         "weekYear": "202642",
-        "valor": 593.5
+        "valor": 623.5
       }
     ],
     "Compras": [
@@ -1265,10 +1265,10 @@
     "filasInventariosUnitarios": 0,
     "filasCompras": 1550,
     "filasSalidas": 97,
-    "filasVentasIzi": 7945,
+    "filasVentasIzi": 7979,
     "filasVentasPY": 11033,
     "filasExtras": 17437,
-    "filasMovInv": 363,
+    "filasMovInv": 365,
     "filasVentasAncIzi": 5909,
     "warnings": []
   }

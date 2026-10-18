@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T19:38:57.690Z",
+  "generatedAt": "2026-10-18T21:51:17.197Z",
   "fuente": "API iZi Soluciones (facturas + items-inventarios), sucursal Ancestral (79344)",
   "rango": {
     "desde": "2026-09-18",
@@ -11498,8 +11498,8 @@
       "producto": "TRUCHA CURADA EN PATACÓN",
       "categoria": "COMIDAS",
       "fecha": "2026-10-18",
-      "cantidad": 2,
-      "monto": 140
+      "cantidad": 3,
+      "monto": 210
     },
     {
       "codProducto": "ANC00090",
@@ -11530,8 +11530,8 @@
       "producto": "NARANJA-TUMBO (BOTELLA)",
       "categoria": "JUGOS",
       "fecha": "2026-10-18",
-      "cantidad": 2,
-      "monto": 80
+      "cantidad": 3,
+      "monto": 120
     },
     {
       "codProducto": "ANC00010",
@@ -11554,16 +11554,16 @@
       "producto": "PANZA FRITA",
       "categoria": "ENTRADAS",
       "fecha": "2026-10-18",
-      "cantidad": 5,
-      "monto": 300
+      "cantidad": 6,
+      "monto": 360
     },
     {
       "codProducto": "ANC00058",
       "producto": "ALCACHOFAS",
       "categoria": "ENTRADAS",
       "fecha": "2026-10-18",
-      "cantidad": 4,
-      "monto": 300
+      "cantidad": 6,
+      "monto": 450
     },
     {
       "codProducto": "ANC00064",
@@ -11642,8 +11642,8 @@
       "producto": "PARRILLA OJO DE BIFE",
       "categoria": "FUERTES",
       "fecha": "2026-10-18",
-      "cantidad": 2,
-      "monto": 320
+      "cantidad": 3,
+      "monto": 480
     },
     {
       "codProducto": "ANC00066",
@@ -11674,16 +11674,16 @@
       "producto": "COCA COLA",
       "categoria": "GASEOSA",
       "fecha": "2026-10-18",
-      "cantidad": 2,
-      "monto": 30
+      "cantidad": 3,
+      "monto": 45
     },
     {
       "codProducto": "ANC00092",
       "producto": "GNOCCHIS CON HONGOS A LA BRASA",
       "categoria": "FUERTES",
       "fecha": "2026-10-18",
-      "cantidad": 2,
-      "monto": 280
+      "cantidad": 3,
+      "monto": 420
     },
     {
       "codProducto": "ANC00050",
@@ -11698,8 +11698,8 @@
       "producto": "CUARTO PATO CONFITADO",
       "categoria": "FUERTES",
       "fecha": "2026-10-18",
-      "cantidad": 1,
-      "monto": 140
+      "cantidad": 3,
+      "monto": 420
     },
     {
       "codProducto": "ANC00184",
@@ -11714,16 +11714,16 @@
       "producto": "PARRILLA KEPERI",
       "categoria": "FUERTES",
       "fecha": "2026-10-18",
-      "cantidad": 1,
-      "monto": 140
+      "cantidad": 2,
+      "monto": 280
     },
     {
       "codProducto": "ANC00331",
       "producto": "CORDERO A LA CRUZ",
       "categoria": "COMIDAS",
       "fecha": "2026-10-18",
-      "cantidad": 1,
-      "monto": 150
+      "cantidad": 2,
+      "monto": 300
     },
     {
       "codProducto": "ANC00113",
@@ -11740,6 +11740,30 @@
       "fecha": "2026-10-18",
       "cantidad": 1,
       "monto": 50
+    },
+    {
+      "codProducto": "ANC00328",
+      "producto": "PAVLOVA DE PIÑA A LA BRASA",
+      "categoria": "COMIDAS",
+      "fecha": "2026-10-18",
+      "cantidad": 1,
+      "monto": 50
+    },
+    {
+      "codProducto": "ANC00001",
+      "producto": "AGUA C/G",
+      "categoria": "AGUAS",
+      "fecha": "2026-10-18",
+      "cantidad": 2,
+      "monto": 30
+    },
+    {
+      "codProducto": "ANC00249",
+      "producto": "ARROZ DE CANGREJOS",
+      "categoria": "FUERTES",
+      "fecha": "2026-10-18",
+      "cantidad": 1,
+      "monto": 150
     }
   ]
 }

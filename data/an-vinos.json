@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T17:31:57.155Z",
+  "generatedAt": "2026-10-18T19:37:50.309Z",
   "rangoFechas": {
     "desde": "2026-08-10",
     "hasta": "2026-10-18"
@@ -883,11 +883,11 @@
       "weekYear": "202642",
       "invMenos7": null,
       "compras": 0,
-      "vtas": 1,
+      "vtas": 2,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 1,
+      "vtasTot": 2,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -1079,13 +1079,13 @@
       "weekYear": "202642",
       "invMenos7": 18,
       "compras": 24,
-      "vtas": 6,
-      "vtasExt": 0,
+      "vtas": 11,
+      "vtasExt": 1,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 6,
+      "vtasTot": 12,
       "inv": null,
-      "cierre": 36,
+      "cierre": 30,
       "dif": null
     },
     {
@@ -1429,13 +1429,13 @@
       "weekYear": "202642",
       "invMenos7": 0,
       "compras": 12,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 1,
-      "vtasTot": 1,
+      "vtasTot": 2,
       "inv": null,
-      "cierre": 11,
+      "cierre": 10,
       "dif": null
     },
     {
@@ -17111,6 +17111,45 @@
       "dif": null
     },
     {
+      "producto": "COPA TANNAT - CAÑON ESCONDIDO",
+      "fecha": "2026-10-18",
+      "dia": "dom",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 0,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "HUARI",
+      "fecha": "2026-10-18",
+      "dia": "dom",
+      "compras": 0,
+      "vtas": 5,
+      "vtasExt": 1,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 30,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "NARANJO - CEPA DE ORO",
+      "fecha": "2026-10-18",
+      "dia": "dom",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 10,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "ALAYA - TELLUS",
       "fecha": "2026-10-06",
       "dia": "mar",
@@ -17889,7 +17928,7 @@
       },
       {
         "weekYear": "202642",
-        "valor": 64
+        "valor": 71
       }
     ],
     "Vtas Ext": [
@@ -17915,7 +17954,7 @@
       },
       {
         "weekYear": "202642",
-        "valor": 0
+        "valor": 1
       }
     ],
     "Cortesias": [
@@ -17967,7 +18006,7 @@
       },
       {
         "weekYear": "202642",
-        "valor": 74
+        "valor": 82
       }
     ],
     "Salidas": [
@@ -18029,8 +18068,8 @@
     "filasInventariosGs": 3984,
     "filasCompras": 2372,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 5844,
-    "filasMovInv": 344,
+    "filasVentasIzi": 5894,
+    "filasMovInv": 349,
     "filasDimProducto": 449,
     "warnings": []
   }

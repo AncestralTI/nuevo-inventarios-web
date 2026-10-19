@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T06:56:05.464Z",
+  "generatedAt": "2026-10-19T14:13:48.748Z",
   "rangoFechas": {
     "desde": "2026-08-17",
     "hasta": "2026-10-19"
@@ -136,10 +136,10 @@
       "vtasExt": 18,
       "vtasVegg": -6,
       "cortesias": 1,
-      "salidas": 5,
-      "vtasTot": 567.5,
+      "salidas": 2,
+      "vtasTot": 564.5,
       "inv": null,
-      "cierre": 20.5,
+      "cierre": 23.5,
       "dif": null
     },
     {
@@ -723,9 +723,9 @@
       "fecha": "2026-10-16",
       "dia": "vie",
       "compras": 0,
-      "vtas": 91,
-      "salidas": 1,
-      "invEsperado": 326,
+      "vtas": 90,
+      "salidas": 0,
+      "invEsperado": 327,
       "invFin": null,
       "dif": null
     },
@@ -758,7 +758,7 @@
       "compras": 0,
       "vtas": 100,
       "salidas": 0,
-      "invEsperado": 226,
+      "invEsperado": 227,
       "invFin": null,
       "dif": null
     },
@@ -789,9 +789,9 @@
       "fecha": "2026-10-18",
       "dia": "dom",
       "compras": 0,
-      "vtas": 112.5,
-      "salidas": 2,
-      "invEsperado": 113.5,
+      "vtas": 110.5,
+      "salidas": 0,
+      "invEsperado": 116.5,
       "invFin": null,
       "dif": null
     },
@@ -968,7 +968,7 @@
       },
       {
         "weekYear": "202642",
-        "valor": 6
+        "valor": 3
       },
       {
         "weekYear": "202643",
@@ -994,7 +994,7 @@
       },
       {
         "weekYear": "202642",
-        "valor": 672.5
+        "valor": 669.5
       },
       {
         "weekYear": "202643",

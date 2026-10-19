@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T14:13:23.842Z",
+  "generatedAt": "2026-10-19T19:58:45.963Z",
   "rangoFechas": {
     "desde": "2026-08-17",
     "hasta": "2026-10-19"
@@ -3304,15 +3304,15 @@
       "producto": "TANNAT RAIZ - KOHLBERG",
       "weekYear": "202642",
       "invMenos7": 2,
-      "compras": 0,
+      "compras": 6,
       "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 3,
       "vtasTot": 3,
       "inv": 5,
-      "cierre": 0,
-      "dif": 5
+      "cierre": 5,
+      "dif": 0
     },
     {
       "producto": "TIERRA ROJA - MOSCATEL",
@@ -16958,12 +16958,12 @@
       "producto": "TANNAT RAIZ - KOHLBERG",
       "fecha": "2026-10-16",
       "dia": "vie",
-      "compras": 0,
+      "compras": 6,
       "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 1,
-      "invEsperado": 0,
+      "invEsperado": 5,
       "invIniFin": null,
       "dif": null
     },
@@ -17339,7 +17339,7 @@
       },
       {
         "weekYear": "202642",
-        "valor": 64
+        "valor": 70
       },
       {
         "weekYear": "202643",

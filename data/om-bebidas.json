@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T14:14:04.900Z",
+  "generatedAt": "2026-10-19T19:59:48.562Z",
   "rangoFechas": {
     "desde": "2026-08-17",
     "hasta": "2026-10-19"
@@ -145,14 +145,14 @@
       "weekYear": "202643",
       "invMenos7": 54,
       "compras": 0,
-      "vtasIzi": 0,
+      "vtasIzi": 1,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 54,
+      "cierre": 53,
       "dif": null
     },
     {
@@ -355,12 +355,12 @@
       "weekYear": "202643",
       "invMenos7": null,
       "compras": 0,
-      "vtasIzi": 0,
+      "vtasIzi": 1,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -430,14 +430,14 @@
       "weekYear": "202643",
       "invMenos7": 17,
       "compras": 0,
-      "vtasIzi": 0,
+      "vtasIzi": 1,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 17,
+      "cierre": 16,
       "dif": null
     },
     {
@@ -1332,13 +1332,13 @@
       "compras": 0,
       "vtasIzi": 3,
       "vtasExt": 0,
-      "vtasPY": 1,
+      "vtasPY": 2,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 4,
+      "vtasTot": 5,
       "inv": 18,
-      "cierre": 19,
-      "dif": -1
+      "cierre": 18,
+      "dif": 0
     },
     {
       "producto": "Pepsi",
@@ -7328,6 +7328,48 @@
   ],
   "detalleDiario": [
     {
+      "producto": "Agua con gas",
+      "fecha": "2026-10-19",
+      "dia": "lun",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 53,
+      "invIniFin": 54,
+      "dif": 1
+    },
+    {
+      "producto": "Coca Cola",
+      "fecha": "2026-10-19",
+      "dia": "lun",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 0,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "Curandero",
+      "fecha": "2026-10-19",
+      "dia": "lun",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 16,
+      "invIniFin": 17,
+      "dif": 1
+    },
+    {
       "producto": "Agua",
       "fecha": "2026-10-12",
       "dia": "lun",
@@ -8616,6 +8658,20 @@
       "dif": null
     },
     {
+      "producto": "Mandala Frambuesa",
+      "fecha": "2026-10-17",
+      "dia": "sáb",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "vtasPY": 1,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 21,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "REBELION ALBA WEIZEN",
       "fecha": "2026-10-17",
       "dia": "sáb",
@@ -8891,9 +8947,9 @@
       "vtasPY": 1,
       "vtasAnc": 0,
       "salidas": 0,
-      "invEsperado": 19,
+      "invEsperado": 18,
       "invIniFin": 18,
-      "dif": -1
+      "dif": 0
     },
     {
       "producto": "SPRITE",
@@ -8948,7 +9004,7 @@
       },
       {
         "weekYear": "202643",
-        "valor": 0
+        "valor": 3
       }
     ],
     "Vtas Ext.": [
@@ -8996,7 +9052,7 @@
       },
       {
         "weekYear": "202642",
-        "valor": 17
+        "valor": 18
       },
       {
         "weekYear": "202643",
@@ -9022,11 +9078,11 @@
       },
       {
         "weekYear": "202642",
-        "valor": 490
+        "valor": 491
       },
       {
         "weekYear": "202643",
-        "valor": 0
+        "valor": 3
       }
     ],
     "Compras": [
@@ -9062,8 +9118,8 @@
     "filasInventariosOmuh": 443,
     "filasCompras": 1550,
     "filasSalidas": 98,
-    "filasVentasIzi": 7901,
-    "filasVentasPY": 11076,
+    "filasVentasIzi": 7916,
+    "filasVentasPY": 11077,
     "filasExtras": 17572,
     "filasMovInv": 357,
     "filasVentasAncIzi": 5763,

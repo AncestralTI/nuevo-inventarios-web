@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T20:50:49.496Z",
+  "generatedAt": "2026-10-20T23:29:10.607Z",
   "rangoFechas": {
     "desde": "2026-08-17",
     "hasta": "2026-10-20"
@@ -79,14 +79,14 @@
       "weekYear": "202643",
       "invMenos7": null,
       "compras": 0,
-      "vtasIzi": 48.5,
+      "vtasIzi": 54,
       "vtasAnc": 0,
       "vtasPY": 6,
       "vtasExt": 1,
       "vtasVegg": 0,
       "cortesias": 0,
       "salidas": -1,
-      "vtasTot": 54.5,
+      "vtasTot": 60,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -113,14 +113,14 @@
       "weekYear": "202643",
       "invMenos7": null,
       "compras": 0,
-      "vtasIzi": 2,
+      "vtasIzi": 5,
       "vtasAnc": 0,
       "vtasPY": 0,
       "vtasExt": 0,
       "vtasVegg": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 2,
+      "vtasTot": 5,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -624,7 +624,7 @@
       "fecha": "2026-10-20",
       "dia": "mar",
       "compras": 0,
-      "vtas": 7,
+      "vtas": 12.5,
       "salidas": 0,
       "invEsperado": 0,
       "invFin": null,
@@ -636,6 +636,17 @@
       "dia": "mar",
       "compras": 0,
       "vtas": 1,
+      "salidas": 0,
+      "invEsperado": 0,
+      "invFin": null,
+      "dif": null
+    },
+    {
+      "insumo": "Pesca Amazonica",
+      "fecha": "2026-10-20",
+      "dia": "mar",
+      "compras": 0,
+      "vtas": 3,
       "salidas": 0,
       "invEsperado": 0,
       "invFin": null,
@@ -897,7 +908,7 @@
       },
       {
         "weekYear": "202643",
-        "valor": 55.5
+        "valor": 64
       }
     ],
     "Vtas Anc": [
@@ -1053,7 +1064,7 @@
       },
       {
         "weekYear": "202643",
-        "valor": 61.5
+        "valor": 70
       }
     ],
     "Compras": [
@@ -1087,9 +1098,9 @@
     "ventasIziDisponibles": true,
     "filasDimProducto": 449,
     "filasInventariosUnitarios": 0,
-    "filasCompras": 1562,
+    "filasCompras": 1563,
     "filasSalidas": 99,
-    "filasVentasIzi": 7878,
+    "filasVentasIzi": 7895,
     "filasVentasPY": 11086,
     "filasExtras": 17603,
     "filasMovInv": 331,

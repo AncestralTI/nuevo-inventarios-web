@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T20:51:05.082Z",
+  "generatedAt": "2026-10-20T23:29:23.587Z",
   "rangoFechas": {
     "desde": "2026-08-17",
     "hasta": "2026-10-20"
@@ -130,14 +130,14 @@
       "weekYear": "202643",
       "invMenos7": 41,
       "compras": 30,
-      "vtasIzi": 0,
+      "vtasIzi": 1,
       "vtasExt": 1,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 1,
+      "vtasTot": 2,
       "inv": null,
-      "cierre": 70,
+      "cierre": 69,
       "dif": null
     },
     {
@@ -445,14 +445,14 @@
       "weekYear": "202643",
       "invMenos7": null,
       "compras": 36,
-      "vtasIzi": 0,
+      "vtasIzi": 1,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 36,
+      "cierre": 35,
       "dif": null
     },
     {
@@ -730,12 +730,12 @@
       "weekYear": "202643",
       "invMenos7": null,
       "compras": 0,
-      "vtasIzi": 2,
+      "vtasIzi": 4,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 2,
+      "vtasTot": 4,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -7486,12 +7486,12 @@
       "fecha": "2026-10-20",
       "dia": "mar",
       "compras": 30,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "invEsperado": 70,
+      "invEsperado": 69,
       "invIniFin": null,
       "dif": null
     },
@@ -7542,12 +7542,12 @@
       "fecha": "2026-10-20",
       "dia": "mar",
       "compras": 36,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "invEsperado": 36,
+      "invEsperado": 35,
       "invIniFin": null,
       "dif": null
     },
@@ -7576,6 +7576,20 @@
       "vtasAnc": 0,
       "salidas": 0,
       "invEsperado": 67,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "Refresco Artesanal",
+      "fecha": "2026-10-20",
+      "dia": "mar",
+      "compras": 0,
+      "vtas": 2,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 0,
       "invIniFin": null,
       "dif": null
     },
@@ -9242,7 +9256,7 @@
       },
       {
         "weekYear": "202643",
-        "valor": 8
+        "valor": 12
       }
     ],
     "Vtas Ext.": [
@@ -9320,7 +9334,7 @@
       },
       {
         "weekYear": "202643",
-        "valor": 25
+        "valor": 29
       }
     ],
     "Compras": [
@@ -9354,9 +9368,9 @@
     "ventasIziDisponibles": true,
     "filasDimProducto": 449,
     "filasInventariosOmuh": 443,
-    "filasCompras": 1562,
+    "filasCompras": 1563,
     "filasSalidas": 99,
-    "filasVentasIzi": 7878,
+    "filasVentasIzi": 7895,
     "filasVentasPY": 11086,
     "filasExtras": 17603,
     "filasMovInv": 331,

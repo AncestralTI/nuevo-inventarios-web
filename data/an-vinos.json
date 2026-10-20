@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-19T23:21:36.615Z",
+  "generatedAt": "2026-10-20T01:57:53.335Z",
   "rangoFechas": {
     "desde": "2026-08-17",
-    "hasta": "2026-10-19"
+    "hasta": "2026-10-20"
   },
   "categorias": [
     "CERVEZA",
@@ -15079,14 +15079,14 @@
       "weekYear": "202634",
       "invMenos7": 5,
       "compras": 0,
-      "vtas": 1,
+      "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 1,
+      "vtasTot": 0,
       "inv": 4,
-      "cierre": 4,
-      "dif": 0
+      "cierre": 5,
+      "dif": -1
     },
     {
       "producto": "BRUT NATURE - ALTO SAMA",
@@ -15149,14 +15149,14 @@
       "weekYear": "202634",
       "invMenos7": 3,
       "compras": 2,
-      "vtas": 2,
+      "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 2,
+      "vtasTot": 0,
       "inv": 3,
-      "cierre": 3,
-      "dif": 0
+      "cierre": 5,
+      "dif": -2
     },
     {
       "producto": "CAÑON ESCONDIDO - RED BLEND",
@@ -17353,8 +17353,8 @@
     "filasInventariosGs": 4063,
     "filasCompras": 2375,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 5763,
-    "filasMovInv": 330,
+    "filasVentasIzi": 5681,
+    "filasMovInv": 320,
     "filasDimProducto": 449,
     "warnings": []
   }

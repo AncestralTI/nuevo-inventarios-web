@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-19T23:22:19.635Z",
+  "generatedAt": "2026-10-20T01:58:49.460Z",
   "rangoFechas": {
     "desde": "2026-08-17",
-    "hasta": "2026-10-19"
+    "hasta": "2026-10-20"
   },
   "categorias": [
     "5. Bebidas alcohólicas",
@@ -415,14 +415,14 @@
       "weekYear": "202643",
       "invMenos7": 36,
       "compras": 0,
-      "vtasIzi": 0,
+      "vtasIzi": 1,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 36,
+      "cierre": 35,
       "dif": null
     },
     {
@@ -520,14 +520,14 @@
       "weekYear": "202643",
       "invMenos7": 9,
       "compras": 0,
-      "vtasIzi": 0,
+      "vtasIzi": 1,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 9,
+      "cierre": 8,
       "dif": null
     },
     {
@@ -730,12 +730,12 @@
       "weekYear": "202643",
       "invMenos7": null,
       "compras": 0,
-      "vtasIzi": 0,
+      "vtasIzi": 2,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 2,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -6835,14 +6835,14 @@
       "weekYear": "202634",
       "invMenos7": null,
       "compras": 90,
-      "vtasIzi": 11,
+      "vtasIzi": 10,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 11,
+      "vtasTot": 10,
       "inv": null,
-      "cierre": 79,
+      "cierre": 80,
       "dif": null
     },
     {
@@ -6853,12 +6853,12 @@
       "vtasIzi": 0,
       "vtasExt": 114,
       "vtasPY": 0,
-      "vtasAnc": 17,
+      "vtasAnc": 16,
       "salidas": 0,
-      "vtasTot": 131,
+      "vtasTot": 130,
       "inv": 103,
-      "cierre": 8,
-      "dif": 95
+      "cierre": 9,
+      "dif": 94
     },
     {
       "producto": "Coca Cola MINI",
@@ -6895,15 +6895,15 @@
       "weekYear": "202634",
       "invMenos7": 61,
       "compras": 72,
-      "vtasIzi": 11,
+      "vtasIzi": 8,
       "vtasExt": 50,
       "vtasPY": 3,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 64,
+      "vtasTot": 61,
       "inv": 62,
-      "cierre": 69,
-      "dif": -7
+      "cierre": 72,
+      "dif": -10
     },
     {
       "producto": "Curandero",
@@ -6925,14 +6925,14 @@
       "weekYear": "202634",
       "invMenos7": null,
       "compras": 36,
-      "vtasIzi": 6,
+      "vtasIzi": 5,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 6,
+      "vtasTot": 5,
       "inv": null,
-      "cierre": 30,
+      "cierre": 31,
       "dif": null
     },
     {
@@ -7210,12 +7210,12 @@
       "weekYear": "202634",
       "invMenos7": null,
       "compras": 0,
-      "vtasIzi": 28,
+      "vtasIzi": 23,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 28,
+      "vtasTot": 23,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -7356,6 +7356,20 @@
       "dif": null
     },
     {
+      "producto": "Coca Zero",
+      "fecha": "2026-10-19",
+      "dia": "lun",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 35,
+      "invIniFin": 36,
+      "dif": 1
+    },
+    {
       "producto": "Curandero",
       "fecha": "2026-10-19",
       "dia": "lun",
@@ -7368,6 +7382,34 @@
       "invEsperado": 16,
       "invIniFin": 17,
       "dif": 1
+    },
+    {
+      "producto": "Guaraná Antártica",
+      "fecha": "2026-10-19",
+      "dia": "lun",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 8,
+      "invIniFin": 9,
+      "dif": 1
+    },
+    {
+      "producto": "Refresco Artesanal",
+      "fecha": "2026-10-19",
+      "dia": "lun",
+      "compras": 0,
+      "vtas": 2,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 0,
+      "invIniFin": null,
+      "dif": null
     },
     {
       "producto": "Agua",
@@ -9004,7 +9046,7 @@
       },
       {
         "weekYear": "202643",
-        "valor": 3
+        "valor": 7
       }
     ],
     "Vtas Ext.": [
@@ -9082,7 +9124,7 @@
       },
       {
         "weekYear": "202643",
-        "valor": 3
+        "valor": 7
       }
     ],
     "Compras": [
@@ -9118,11 +9160,11 @@
     "filasInventariosOmuh": 443,
     "filasCompras": 1550,
     "filasSalidas": 98,
-    "filasVentasIzi": 7926,
+    "filasVentasIzi": 7867,
     "filasVentasPY": 11077,
     "filasExtras": 17572,
-    "filasMovInv": 357,
-    "filasVentasAncIzi": 5763,
+    "filasMovInv": 331,
+    "filasVentasAncIzi": 5681,
     "warnings": []
   }
 }

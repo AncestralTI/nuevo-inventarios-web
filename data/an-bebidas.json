@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-19T23:21:48.751Z",
+  "generatedAt": "2026-10-20T01:58:03.825Z",
   "rangoFechas": {
     "desde": "2026-08-17",
-    "hasta": "2026-10-19"
+    "hasta": "2026-10-20"
   },
   "categorias": [
     "5. Bebidas alcohólicas",
@@ -3946,14 +3946,14 @@
       "weekYear": "202634",
       "invMenos7": 24,
       "compras": 12,
-      "vtas": 17,
+      "vtas": 16,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 1,
-      "vtasTot": 18,
+      "vtasTot": 17,
       "inv": 9,
-      "cierre": 18,
-      "dif": -9
+      "cierre": 19,
+      "dif": -10
     },
     {
       "producto": "COCA COLA SIN AZUCAR",
@@ -4774,8 +4774,8 @@
     "filasInventariosGs": 4063,
     "filasCompras": 2375,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 5763,
-    "filasMovInv": 330,
+    "filasVentasIzi": 5681,
+    "filasMovInv": 320,
     "filasDimProducto": 449,
     "warnings": []
   }

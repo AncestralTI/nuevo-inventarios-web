@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T17:34:41.005Z",
+  "generatedAt": "2026-10-20T20:50:49.496Z",
   "rangoFechas": {
     "desde": "2026-08-17",
     "hasta": "2026-10-20"
@@ -79,14 +79,14 @@
       "weekYear": "202643",
       "invMenos7": null,
       "compras": 0,
-      "vtasIzi": 42.5,
+      "vtasIzi": 48.5,
       "vtasAnc": 0,
       "vtasPY": 6,
       "vtasExt": 1,
       "vtasVegg": 0,
       "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 49.5,
+      "salidas": -1,
+      "vtasTot": 54.5,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -96,14 +96,14 @@
       "weekYear": "202643",
       "invMenos7": null,
       "compras": 0,
-      "vtasIzi": 4,
+      "vtasIzi": 5,
       "vtasAnc": 0,
       "vtasPY": 0,
       "vtasExt": 0,
       "vtasVegg": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 4,
+      "vtasTot": 5,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -591,8 +591,8 @@
       "fecha": "2026-10-19",
       "dia": "lun",
       "compras": 0,
-      "vtas": 41.5,
-      "salidas": 0,
+      "vtas": 40.5,
+      "salidas": -1,
       "invEsperado": 0,
       "invFin": null,
       "dif": null
@@ -621,6 +621,17 @@
     },
     {
       "insumo": "Carne Molida 130g",
+      "fecha": "2026-10-20",
+      "dia": "mar",
+      "compras": 0,
+      "vtas": 7,
+      "salidas": 0,
+      "invEsperado": 0,
+      "invFin": null,
+      "dif": null
+    },
+    {
+      "insumo": "Pechuga de Pollo",
       "fecha": "2026-10-20",
       "dia": "mar",
       "compras": 0,
@@ -886,7 +897,7 @@
       },
       {
         "weekYear": "202643",
-        "valor": 48.5
+        "valor": 55.5
       }
     ],
     "Vtas Anc": [
@@ -1016,7 +1027,7 @@
       },
       {
         "weekYear": "202643",
-        "valor": 0
+        "valor": -1
       }
     ],
     "Vtas Tot.": [
@@ -1042,7 +1053,7 @@
       },
       {
         "weekYear": "202643",
-        "valor": 55.5
+        "valor": 61.5
       }
     ],
     "Compras": [
@@ -1077,8 +1088,8 @@
     "filasDimProducto": 449,
     "filasInventariosUnitarios": 0,
     "filasCompras": 1562,
-    "filasSalidas": 98,
-    "filasVentasIzi": 7870,
+    "filasSalidas": 99,
+    "filasVentasIzi": 7878,
     "filasVentasPY": 11086,
     "filasExtras": 17603,
     "filasMovInv": 331,

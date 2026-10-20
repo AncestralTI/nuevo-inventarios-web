@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T12:45:38.340Z",
+  "generatedAt": "2026-10-20T17:34:08.497Z",
   "rangoFechas": {
     "desde": "2026-08-17",
     "hasta": "2026-10-20"
@@ -305,28 +305,28 @@
       "producto": "COCA COLA SIN AZUCAR",
       "weekYear": "202643",
       "invMenos7": 17,
-      "compras": 0,
+      "compras": 24,
       "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 0,
       "inv": null,
-      "cierre": 17,
+      "cierre": 41,
       "dif": null
     },
     {
       "producto": "FANTA",
       "weekYear": "202643",
       "invMenos7": 12,
-      "compras": 0,
+      "compras": 12,
       "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 0,
       "inv": null,
-      "cierre": 12,
+      "cierre": 24,
       "dif": null
     },
     {
@@ -4168,6 +4168,32 @@
   ],
   "detalleDiario": [
     {
+      "producto": "COCA COLA SIN AZUCAR",
+      "fecha": "2026-10-20",
+      "dia": "mar",
+      "compras": 24,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 41,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "FANTA",
+      "fecha": "2026-10-20",
+      "dia": "mar",
+      "compras": 12,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 24,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "BENDITA IPA",
       "fecha": "2026-10-13",
       "dia": "mar",
@@ -4764,7 +4790,7 @@
       },
       {
         "weekYear": "202643",
-        "valor": 0
+        "valor": 36
       }
     ]
   },
@@ -4772,7 +4798,7 @@
     "ventasIziDisponibles": true,
     "filasApertura": 1442,
     "filasInventariosGs": 4063,
-    "filasCompras": 2375,
+    "filasCompras": 2382,
     "filasMatrizChuleton": 1,
     "filasVentasIzi": 5681,
     "filasMovInv": 320,

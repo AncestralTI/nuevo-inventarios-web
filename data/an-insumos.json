@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T12:45:13.352Z",
+  "generatedAt": "2026-10-20T17:33:41.086Z",
   "rangoFechas": {
     "desde": "2026-08-17",
     "hasta": "2026-10-20"
@@ -221,24 +221,24 @@
       "insumo": "Pechuga de pollo",
       "weekYear": "202643",
       "invMenos7": 19,
-      "compras": 0,
+      "compras": 16,
       "vtas": 0,
       "salidas": 0,
       "vtasTot": 0,
       "inv": null,
-      "cierre": 19,
+      "cierre": 35,
       "dif": null
     },
     {
       "insumo": "Pescado amazonico",
       "weekYear": "202643",
       "invMenos7": 19,
-      "compras": 0,
+      "compras": 14,
       "vtas": 0,
       "salidas": 0,
       "vtasTot": 0,
       "inv": null,
-      "cierre": 19,
+      "cierre": 33,
       "dif": null
     },
     {
@@ -1768,6 +1768,30 @@
   ],
   "detalleDiario": [
     {
+      "insumo": "Pechuga de pollo",
+      "fecha": "2026-10-20",
+      "dia": "mar",
+      "compras": 16,
+      "vtas": 0,
+      "salidas": 0,
+      "invEsperado": 16,
+      "invIni": null,
+      "invFin": null,
+      "dif": null
+    },
+    {
+      "insumo": "Pescado amazonico",
+      "fecha": "2026-10-20",
+      "dia": "mar",
+      "compras": 14,
+      "vtas": 0,
+      "salidas": 0,
+      "invEsperado": 14,
+      "invIni": null,
+      "invFin": null,
+      "dif": null
+    },
+    {
       "insumo": "Chuleton",
       "fecha": "2026-10-13",
       "dia": "mar",
@@ -2734,13 +2758,13 @@
       },
       {
         "weekYear": "202643",
-        "valor": 0
+        "valor": 30
       }
     ]
   },
   "meta": {
     "ventasIziDisponibles": true,
-    "filasCompras": 2375,
+    "filasCompras": 2382,
     "filasSalidas": 927,
     "filasMatriz": 23,
     "filasInventarios": 449,

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T20:53:39.596Z",
+  "generatedAt": "2026-10-21T23:51:40.803Z",
   "rangoFechas": {
     "desde": "2026-08-17",
     "hasta": "2026-10-21"
@@ -79,14 +79,14 @@
       "weekYear": "202643",
       "invMenos7": null,
       "compras": 0,
-      "vtasIzi": 70.5,
+      "vtasIzi": 105.5,
       "vtasAnc": 0,
       "vtasPY": 8,
       "vtasExt": 2,
       "vtasVegg": 0,
       "cortesias": 0,
       "salidas": -1,
-      "vtasTot": 79.5,
+      "vtasTot": 114.5,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -96,16 +96,16 @@
       "weekYear": "202643",
       "invMenos7": null,
       "compras": 56,
-      "vtasIzi": 10,
+      "vtasIzi": 11,
       "vtasAnc": 0,
       "vtasPY": 2,
       "vtasExt": 0,
       "vtasVegg": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 12,
+      "vtasTot": 13,
       "inv": null,
-      "cierre": 44,
+      "cierre": 43,
       "dif": null
     },
     {
@@ -113,16 +113,16 @@
       "weekYear": "202643",
       "invMenos7": null,
       "compras": 16,
-      "vtasIzi": 5,
+      "vtasIzi": 6,
       "vtasAnc": 0,
       "vtasPY": 0,
       "vtasExt": 0,
       "vtasVegg": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 5,
+      "vtasTot": 6,
       "inv": null,
-      "cierre": 11,
+      "cierre": 10,
       "dif": null
     },
     {
@@ -657,7 +657,7 @@
       "fecha": "2026-10-21",
       "dia": "mié",
       "compras": 0,
-      "vtas": 5,
+      "vtas": 40,
       "salidas": 0,
       "invEsperado": 0,
       "invFin": null,
@@ -668,9 +668,20 @@
       "fecha": "2026-10-21",
       "dia": "mié",
       "compras": 0,
-      "vtas": 2,
+      "vtas": 3,
       "salidas": 0,
-      "invEsperado": 46,
+      "invEsperado": 45,
+      "invFin": null,
+      "dif": null
+    },
+    {
+      "insumo": "Pesca Amazonica",
+      "fecha": "2026-10-21",
+      "dia": "mié",
+      "compras": 0,
+      "vtas": 1,
+      "salidas": 0,
+      "invEsperado": 10,
       "invFin": null,
       "dif": null
     },
@@ -930,7 +941,7 @@
       },
       {
         "weekYear": "202643",
-        "valor": 85.5
+        "valor": 122.5
       }
     ],
     "Vtas Anc": [
@@ -1086,7 +1097,7 @@
       },
       {
         "weekYear": "202643",
-        "valor": 96.5
+        "valor": 133.5
       }
     ],
     "Compras": [
@@ -1122,10 +1133,10 @@
     "filasInventariosUnitarios": 0,
     "filasCompras": 1564,
     "filasSalidas": 99,
-    "filasVentasIzi": 7732,
+    "filasVentasIzi": 7766,
     "filasVentasPY": 11091,
     "filasExtras": 17636,
-    "filasMovInv": 333,
+    "filasMovInv": 335,
     "filasVentasAncIzi": 5682,
     "warnings": []
   }

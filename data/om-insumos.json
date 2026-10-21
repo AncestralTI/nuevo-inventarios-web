@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T17:38:32.574Z",
+  "generatedAt": "2026-10-21T20:53:39.596Z",
   "rangoFechas": {
     "desde": "2026-08-17",
     "hasta": "2026-10-21"
@@ -79,14 +79,14 @@
       "weekYear": "202643",
       "invMenos7": null,
       "compras": 0,
-      "vtasIzi": 67.5,
+      "vtasIzi": 70.5,
       "vtasAnc": 0,
       "vtasPY": 8,
       "vtasExt": 2,
       "vtasVegg": 0,
       "cortesias": 0,
       "salidas": -1,
-      "vtasTot": 76.5,
+      "vtasTot": 79.5,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -96,16 +96,16 @@
       "weekYear": "202643",
       "invMenos7": null,
       "compras": 56,
-      "vtasIzi": 8,
+      "vtasIzi": 10,
       "vtasAnc": 0,
       "vtasPY": 2,
       "vtasExt": 0,
       "vtasVegg": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 10,
+      "vtasTot": 12,
       "inv": null,
-      "cierre": 46,
+      "cierre": 44,
       "dif": null
     },
     {
@@ -657,9 +657,20 @@
       "fecha": "2026-10-21",
       "dia": "mié",
       "compras": 0,
-      "vtas": 2,
+      "vtas": 5,
       "salidas": 0,
       "invEsperado": 0,
+      "invFin": null,
+      "dif": null
+    },
+    {
+      "insumo": "Pechuga de Pollo",
+      "fecha": "2026-10-21",
+      "dia": "mié",
+      "compras": 0,
+      "vtas": 2,
+      "salidas": 0,
+      "invEsperado": 46,
       "invFin": null,
       "dif": null
     },
@@ -919,7 +930,7 @@
       },
       {
         "weekYear": "202643",
-        "valor": 80.5
+        "valor": 85.5
       }
     ],
     "Vtas Anc": [
@@ -1075,7 +1086,7 @@
       },
       {
         "weekYear": "202643",
-        "valor": 91.5
+        "valor": 96.5
       }
     ],
     "Compras": [
@@ -1111,7 +1122,7 @@
     "filasInventariosUnitarios": 0,
     "filasCompras": 1564,
     "filasSalidas": 99,
-    "filasVentasIzi": 7723,
+    "filasVentasIzi": 7732,
     "filasVentasPY": 11091,
     "filasExtras": 17636,
     "filasMovInv": 333,

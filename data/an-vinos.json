@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T13:25:42.449Z",
+  "generatedAt": "2026-10-22T18:05:49.381Z",
   "rangoFechas": {
     "desde": "2026-08-17",
     "hasta": "2026-10-22"
@@ -546,14 +546,14 @@
       "producto": "CAÑON ESCONDIDO - RED BLEND",
       "weekYear": "202643",
       "invMenos7": 0,
-      "compras": 0,
+      "compras": 6,
       "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 0,
       "inv": null,
-      "cierre": 0,
+      "cierre": 6,
       "dif": null
     },
     {
@@ -1246,14 +1246,14 @@
       "producto": "LOCURA 5.1.1. - MAGNUS",
       "weekYear": "202643",
       "invMenos7": 1,
-      "compras": 0,
+      "compras": 6,
       "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 1,
       "vtasTot": 1,
       "inv": null,
-      "cierre": 0,
+      "cierre": 6,
       "dif": null
     },
     {
@@ -1288,14 +1288,14 @@
       "producto": "MAGNUS - MERLOT",
       "weekYear": "202643",
       "invMenos7": 1,
-      "compras": 0,
+      "compras": 6,
       "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 1,
       "inv": null,
-      "cierre": 0,
+      "cierre": 6,
       "dif": null
     },
     {
@@ -1554,14 +1554,14 @@
       "producto": "SAV BLANC - 1750",
       "weekYear": "202643",
       "invMenos7": 2,
-      "compras": 0,
+      "compras": 6,
       "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 0,
       "inv": null,
-      "cierre": 2,
+      "cierre": 8,
       "dif": null
     },
     {
@@ -1736,14 +1736,14 @@
       "producto": "TRIVARIETAL TINTO - MAGNUS",
       "weekYear": "202643",
       "invMenos7": 1,
-      "compras": 0,
+      "compras": 6,
       "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 1,
       "inv": null,
-      "cierre": 0,
+      "cierre": 6,
       "dif": null
     },
     {
@@ -16695,6 +16695,19 @@
       "dif": null
     },
     {
+      "producto": "CAÑON ESCONDIDO - RED BLEND",
+      "fecha": "2026-10-21",
+      "dia": "mié",
+      "compras": 6,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 6,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "COPA LOCURA 5.1.1. - MAGNUS",
       "fecha": "2026-10-21",
       "dia": "mié",
@@ -16734,6 +16747,32 @@
       "dif": null
     },
     {
+      "producto": "LOCURA 5.1.1. - MAGNUS",
+      "fecha": "2026-10-21",
+      "dia": "mié",
+      "compras": 6,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 6,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "MAGNUS - MERLOT",
+      "fecha": "2026-10-21",
+      "dia": "mié",
+      "compras": 6,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 6,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "MALBEC CALADOC - KUHLMANN",
       "fecha": "2026-10-21",
       "dia": "mié",
@@ -16769,6 +16808,32 @@
       "cortesias": 0,
       "salidas": 0,
       "invEsperado": 19,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "SAV BLANC - 1750",
+      "fecha": "2026-10-21",
+      "dia": "mié",
+      "compras": 6,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 8,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "TRIVARIETAL TINTO - MAGNUS",
+      "fecha": "2026-10-21",
+      "dia": "mié",
+      "compras": 6,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 6,
       "invIniFin": null,
       "dif": null
     },
@@ -17681,7 +17746,7 @@
       },
       {
         "weekYear": "202643",
-        "valor": 0
+        "valor": 30
       }
     ]
   },
@@ -17689,7 +17754,7 @@
     "ventasIziDisponibles": true,
     "filasApertura": 1445,
     "filasInventariosGs": 4063,
-    "filasCompras": 2390,
+    "filasCompras": 2395,
     "filasMatrizChuleton": 1,
     "filasVentasIzi": 5570,
     "filasMovInv": 319,

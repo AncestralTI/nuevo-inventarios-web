@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T13:26:21.727Z",
+  "generatedAt": "2026-10-22T18:06:36.405Z",
   "rangoFechas": {
     "desde": "2026-08-17",
     "hasta": "2026-10-22"
@@ -249,7 +249,7 @@
       "producto": "Cerveza Bendita Hoppy Lager",
       "weekYear": "202643",
       "invMenos7": 2,
-      "compras": 0,
+      "compras": 12,
       "vtasIzi": 0,
       "vtasExt": 0,
       "vtasPY": 0,
@@ -257,7 +257,7 @@
       "salidas": 0,
       "vtasTot": 0,
       "inv": null,
-      "cierre": 2,
+      "cierre": 14,
       "dif": null
     },
     {
@@ -609,7 +609,7 @@
       "producto": "Mandala Frambuesa",
       "weekYear": "202643",
       "invMenos7": 18,
-      "compras": 0,
+      "compras": 13,
       "vtasIzi": 0,
       "vtasExt": 0,
       "vtasPY": 0,
@@ -617,7 +617,7 @@
       "salidas": 0,
       "vtasTot": 0,
       "inv": null,
-      "cierre": 18,
+      "cierre": 31,
       "dif": null
     },
     {
@@ -730,12 +730,12 @@
       "weekYear": "202643",
       "invMenos7": null,
       "compras": 0,
-      "vtasIzi": 8,
+      "vtasIzi": 9,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 8,
+      "vtasTot": 9,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -7958,6 +7958,48 @@
       "dif": null
     },
     {
+      "producto": "Cerveza Bendita Hoppy Lager",
+      "fecha": "2026-10-22",
+      "dia": "jue",
+      "compras": 12,
+      "vtas": 0,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 14,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "Mandala Frambuesa",
+      "fecha": "2026-10-22",
+      "dia": "jue",
+      "compras": 13,
+      "vtas": 0,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 31,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "Refresco Artesanal",
+      "fecha": "2026-10-22",
+      "dia": "jue",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 0,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "Agua",
       "fecha": "2026-10-12",
       "dia": "lun",
@@ -9592,7 +9634,7 @@
       },
       {
         "weekYear": "202643",
-        "valor": 24
+        "valor": 25
       }
     ],
     "Vtas Ext.": [
@@ -9670,7 +9712,7 @@
       },
       {
         "weekYear": "202643",
-        "valor": 105
+        "valor": 106
       }
     ],
     "Compras": [
@@ -9696,7 +9738,7 @@
       },
       {
         "weekYear": "202643",
-        "valor": 360
+        "valor": 385
       }
     ]
   },
@@ -9704,9 +9746,9 @@
     "ventasIziDisponibles": true,
     "filasDimProducto": 449,
     "filasInventariosOmuh": 443,
-    "filasCompras": 1564,
+    "filasCompras": 1567,
     "filasSalidas": 99,
-    "filasVentasIzi": 7567,
+    "filasVentasIzi": 7579,
     "filasVentasPY": 11099,
     "filasExtras": 17683,
     "filasMovInv": 321,

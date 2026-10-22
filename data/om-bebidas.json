@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T02:40:52.647Z",
+  "generatedAt": "2026-10-22T07:57:52.509Z",
   "rangoFechas": {
     "desde": "2026-08-17",
     "hasta": "2026-10-22"
@@ -193,9 +193,9 @@
       "vtasIzi": 0,
       "vtasExt": 0,
       "vtasPY": 0,
-      "vtasAnc": 0,
+      "vtasAnc": 1,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -373,11 +373,11 @@
       "vtasIzi": 0,
       "vtasExt": 20,
       "vtasPY": 0,
-      "vtasAnc": 7,
+      "vtasAnc": 9,
       "salidas": 0,
-      "vtasTot": 27,
+      "vtasTot": 29,
       "inv": null,
-      "cierre": 113,
+      "cierre": 111,
       "dif": null
     },
     {
@@ -553,9 +553,9 @@
       "vtasIzi": 0,
       "vtasExt": 0,
       "vtasPY": 0,
-      "vtasAnc": 2,
+      "vtasAnc": 4,
       "salidas": 0,
-      "vtasTot": 2,
+      "vtasTot": 4,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -7762,6 +7762,20 @@
       "dif": null
     },
     {
+      "producto": "BENDITA PILS",
+      "fecha": "2026-10-21",
+      "dia": "mié",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 1,
+      "salidas": 0,
+      "invEsperado": 0,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "Coca Cola",
       "fecha": "2026-10-21",
       "dia": "mié",
@@ -7783,9 +7797,9 @@
       "vtas": 0,
       "vtasExt": 10,
       "vtasPY": 0,
-      "vtasAnc": 6,
+      "vtasAnc": 8,
       "salidas": 0,
-      "invEsperado": 113,
+      "invEsperado": 111,
       "invIniFin": null,
       "dif": null
     },
@@ -7828,6 +7842,20 @@
       "vtasAnc": 0,
       "salidas": 0,
       "invEsperado": 64,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "HUARI",
+      "fecha": "2026-10-21",
+      "dia": "mié",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 2,
+      "salidas": 0,
+      "invEsperado": 0,
       "invIniFin": null,
       "dif": null
     },
@@ -9642,7 +9670,7 @@
       },
       {
         "weekYear": "202643",
-        "valor": 100
+        "valor": 105
       }
     ],
     "Compras": [
@@ -9682,7 +9710,7 @@
     "filasVentasPY": 11099,
     "filasExtras": 17683,
     "filasMovInv": 321,
-    "filasVentasAncIzi": 5555,
+    "filasVentasAncIzi": 5570,
     "warnings": []
   }
 }

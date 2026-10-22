@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T02:40:54.190Z",
+  "generatedAt": "2026-10-22T07:57:54.392Z",
   "fuente": "API iZi Soluciones (facturas + items-inventarios), sucursal Ancestral (79344)",
   "rango": {
     "desde": "2026-09-22",
@@ -10810,8 +10810,8 @@
       "producto": "AGUA C/G",
       "categoria": "AGUAS",
       "fecha": "2026-10-21",
-      "cantidad": 14,
-      "monto": 210
+      "cantidad": 19,
+      "monto": 285
     },
     {
       "codProducto": "ANC00198",
@@ -11050,8 +11050,8 @@
       "producto": "AGUA S/G",
       "categoria": "AGUAS",
       "fecha": "2026-10-21",
-      "cantidad": 5,
-      "monto": 60
+      "cantidad": 7,
+      "monto": 84
     },
     {
       "codProducto": "ANC00283",
@@ -11082,16 +11082,16 @@
       "producto": "EXPERIENCIA ANCESTRAL",
       "categoria": "MENU DEGUSTACION",
       "fecha": "2026-10-21",
-      "cantidad": 1,
-      "monto": 490
+      "cantidad": 10,
+      "monto": 4900
     },
     {
       "codProducto": "ANC00075",
       "producto": "MARIDAJE ANCESTRAL",
       "categoria": "MENU DEGUSTACION",
       "fecha": "2026-10-21",
-      "cantidad": 1,
-      "monto": 350
+      "cantidad": 3,
+      "monto": 1050
     },
     {
       "codProducto": "ANC00064",
@@ -11154,8 +11154,8 @@
       "producto": "COCA COLA",
       "categoria": "GASEOSA",
       "fecha": "2026-10-21",
-      "cantidad": 6,
-      "monto": 90
+      "cantidad": 8,
+      "monto": 120
     },
     {
       "codProducto": "ANC00098",
@@ -11172,6 +11172,54 @@
       "fecha": "2026-10-21",
       "cantidad": 1,
       "monto": 50
+    },
+    {
+      "codProducto": "ANC00007",
+      "producto": "HUARI",
+      "categoria": "CERVEZA",
+      "fecha": "2026-10-21",
+      "cantidad": 2,
+      "monto": 66
+    },
+    {
+      "codProducto": "ANC00152",
+      "producto": "MALBEC CALADOC - KUHLMANN",
+      "categoria": "VINOS",
+      "fecha": "2026-10-21",
+      "cantidad": 1,
+      "monto": 200
+    },
+    {
+      "codProducto": "ANC00178",
+      "producto": "COPA MALBEC - CALADOC",
+      "categoria": "VINOS POR COPA",
+      "fecha": "2026-10-21",
+      "cantidad": 3,
+      "monto": 120
+    },
+    {
+      "codProducto": "ANC00276",
+      "producto": "BENDITA PILS",
+      "categoria": "CERVEZA",
+      "fecha": "2026-10-21",
+      "cantidad": 1,
+      "monto": 22
+    },
+    {
+      "codProducto": "ANC00354",
+      "producto": "COPA LOCURA 5.1.1. - MAGNUS",
+      "categoria": "VINOS",
+      "fecha": "2026-10-21",
+      "cantidad": 2,
+      "monto": 110
+    },
+    {
+      "codProducto": "ANC00316",
+      "producto": "SINGANI LEYENDA",
+      "categoria": "POR VASO",
+      "fecha": "2026-10-21",
+      "cantidad": 1,
+      "monto": 45
     }
   ]
 }

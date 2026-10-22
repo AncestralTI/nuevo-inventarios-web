@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T02:40:26.249Z",
+  "generatedAt": "2026-10-22T07:57:25.947Z",
   "rangoFechas": {
     "desde": "2026-08-17",
     "hasta": "2026-10-22"
@@ -138,13 +138,13 @@
       "weekYear": "202643",
       "invMenos7": 15,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 15,
+      "cierre": 14,
       "dif": null
     },
     {
@@ -292,13 +292,13 @@
       "weekYear": "202643",
       "invMenos7": 46,
       "compras": 0,
-      "vtas": 7,
+      "vtas": 9,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 7,
+      "vtasTot": 9,
       "inv": null,
-      "cierre": 39,
+      "cierre": 37,
       "dif": null
     },
     {
@@ -348,13 +348,13 @@
       "weekYear": "202643",
       "invMenos7": 30,
       "compras": 0,
-      "vtas": 2,
+      "vtas": 4,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 2,
+      "vtasTot": 4,
       "inv": null,
-      "cierre": 28,
+      "cierre": 26,
       "dif": null
     },
     {
@@ -4259,15 +4259,41 @@
       "dif": null
     },
     {
+      "producto": "BENDITA PILS",
+      "fecha": "2026-10-21",
+      "dia": "mié",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 14,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "COCA COLA",
       "fecha": "2026-10-21",
       "dia": "mié",
       "compras": 0,
-      "vtas": 6,
+      "vtas": 8,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "invEsperado": 39,
+      "invEsperado": 37,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "HUARI",
+      "fecha": "2026-10-21",
+      "dia": "mié",
+      "compras": 0,
+      "vtas": 2,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 26,
       "invIniFin": null,
       "dif": null
     },
@@ -4777,7 +4803,7 @@
       },
       {
         "weekYear": "202643",
-        "valor": 17
+        "valor": 22
       }
     ],
     "Vtas Ext": [
@@ -4855,7 +4881,7 @@
       },
       {
         "weekYear": "202643",
-        "valor": 18
+        "valor": 23
       }
     ],
     "Salidas": [
@@ -4917,7 +4943,7 @@
     "filasInventariosGs": 4063,
     "filasCompras": 2390,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 5555,
+    "filasVentasIzi": 5570,
     "filasMovInv": 319,
     "filasDimProducto": 449,
     "warnings": []

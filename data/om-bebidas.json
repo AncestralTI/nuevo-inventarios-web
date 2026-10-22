@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T18:06:36.405Z",
+  "generatedAt": "2026-10-22T21:30:28.817Z",
   "rangoFechas": {
     "desde": "2026-08-17",
     "hasta": "2026-10-22"
@@ -249,7 +249,7 @@
       "producto": "Cerveza Bendita Hoppy Lager",
       "weekYear": "202643",
       "invMenos7": 2,
-      "compras": 12,
+      "compras": 24,
       "vtasIzi": 0,
       "vtasExt": 0,
       "vtasPY": 0,
@@ -257,7 +257,7 @@
       "salidas": 0,
       "vtasTot": 0,
       "inv": null,
-      "cierre": 14,
+      "cierre": 26,
       "dif": null
     },
     {
@@ -7961,13 +7961,13 @@
       "producto": "Cerveza Bendita Hoppy Lager",
       "fecha": "2026-10-22",
       "dia": "jue",
-      "compras": 12,
+      "compras": 24,
       "vtas": 0,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "invEsperado": 14,
+      "invEsperado": 26,
       "invIniFin": null,
       "dif": null
     },
@@ -9738,7 +9738,7 @@
       },
       {
         "weekYear": "202643",
-        "valor": 385
+        "valor": 397
       }
     ]
   },
@@ -9748,7 +9748,7 @@
     "filasInventariosOmuh": 443,
     "filasCompras": 1567,
     "filasSalidas": 99,
-    "filasVentasIzi": 7579,
+    "filasVentasIzi": 7582,
     "filasVentasPY": 11099,
     "filasExtras": 17683,
     "filasMovInv": 321,

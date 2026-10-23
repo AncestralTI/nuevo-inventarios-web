@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T00:05:37.148Z",
+  "generatedAt": "2026-10-23T04:37:59.091Z",
   "rangoFechas": {
     "desde": "2026-08-17",
     "hasta": "2026-10-23"
@@ -306,13 +306,13 @@
       "weekYear": "202643",
       "invMenos7": 17,
       "compras": 24,
-      "vtas": 0,
+      "vtas": 5,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 5,
       "inv": null,
-      "cierre": 41,
+      "cierre": 36,
       "dif": null
     },
     {
@@ -474,13 +474,13 @@
       "weekYear": "202643",
       "invMenos7": 15,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 15,
+      "cierre": 14,
       "dif": null
     },
     {
@@ -488,13 +488,13 @@
       "weekYear": "202643",
       "invMenos7": 20,
       "compras": 0,
-      "vtas": 2,
+      "vtas": 3,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 2,
+      "vtasTot": 3,
       "inv": null,
-      "cierre": 18,
+      "cierre": 17,
       "dif": null
     },
     {
@@ -4337,6 +4337,45 @@
       "dif": null
     },
     {
+      "producto": "COCA COLA SIN AZUCAR",
+      "fecha": "2026-10-22",
+      "dia": "jue",
+      "compras": 0,
+      "vtas": 5,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 36,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "SAN MIGUEL SOLSTICIO",
+      "fecha": "2026-10-22",
+      "dia": "jue",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 14,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "SPRITE",
+      "fecha": "2026-10-22",
+      "dia": "jue",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 17,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "BENDITA IPA",
       "fecha": "2026-10-13",
       "dia": "mar",
@@ -4803,7 +4842,7 @@
       },
       {
         "weekYear": "202643",
-        "valor": 22
+        "valor": 29
       }
     ],
     "Vtas Ext": [
@@ -4881,7 +4920,7 @@
       },
       {
         "weekYear": "202643",
-        "valor": 23
+        "valor": 30
       }
     ],
     "Salidas": [
@@ -4943,8 +4982,8 @@
     "filasInventariosGs": 4063,
     "filasCompras": 2395,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 5464,
-    "filasMovInv": 315,
+    "filasVentasIzi": 5538,
+    "filasMovInv": 318,
     "filasDimProducto": 449,
     "warnings": []
   }

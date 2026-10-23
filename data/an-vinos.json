@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T00:05:25.670Z",
+  "generatedAt": "2026-10-23T04:37:44.036Z",
   "rangoFechas": {
     "desde": "2026-08-17",
     "hasta": "2026-10-23"
@@ -463,13 +463,13 @@
       "weekYear": "202643",
       "invMenos7": 11,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 11,
+      "cierre": 10,
       "dif": null
     },
     {
@@ -785,11 +785,11 @@
       "weekYear": "202643",
       "invMenos7": null,
       "compras": 0,
-      "vtas": 4,
+      "vtas": 5,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 4,
+      "vtasTot": 5,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -799,11 +799,11 @@
       "weekYear": "202643",
       "invMenos7": null,
       "compras": 0,
-      "vtas": 2,
+      "vtas": 3,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 2,
+      "vtasTot": 3,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -1177,11 +1177,11 @@
       "weekYear": "202643",
       "invMenos7": 5,
       "compras": 0,
-      "vtas": 4,
+      "vtas": 5,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 1,
-      "vtasTot": 5,
+      "vtasTot": 6,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -1317,13 +1317,13 @@
       "weekYear": "202643",
       "invMenos7": 7,
       "compras": 0,
-      "vtas": 3,
+      "vtas": 4,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 3,
+      "vtasTot": 4,
       "inv": null,
-      "cierre": 4,
+      "cierre": 3,
       "dif": null
     },
     {
@@ -1541,13 +1541,13 @@
       "weekYear": "202643",
       "invMenos7": 15,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 15,
+      "cierre": 14,
       "dif": null
     },
     {
@@ -16838,6 +16838,84 @@
       "dif": null
     },
     {
+      "producto": "BONARDA \"PIONERO\" - ARANJUEZ",
+      "fecha": "2026-10-22",
+      "dia": "jue",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 10,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "COPA LOCURA 5.1.1. - MAGNUS",
+      "fecha": "2026-10-22",
+      "dia": "jue",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 0,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "COPA MARSELAN - ARSAL",
+      "fecha": "2026-10-22",
+      "dia": "jue",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 0,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "KOHLBERG - FLAMANT ROSE",
+      "fecha": "2026-10-22",
+      "dia": "jue",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 0,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "MALBEC CALADOC - KUHLMANN",
+      "fecha": "2026-10-22",
+      "dia": "jue",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 3,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "SAN MIGUEL SOLSTICIO",
+      "fecha": "2026-10-22",
+      "dia": "jue",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 14,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "ALAYA - TELLUS",
       "fecha": "2026-10-13",
       "dia": "mar",
@@ -17616,7 +17694,7 @@
       },
       {
         "weekYear": "202643",
-        "valor": 39
+        "valor": 45
       }
     ],
     "Vtas Ext": [
@@ -17694,7 +17772,7 @@
       },
       {
         "weekYear": "202643",
-        "valor": 42
+        "valor": 48
       }
     ],
     "Salidas": [
@@ -17756,8 +17834,8 @@
     "filasInventariosGs": 4063,
     "filasCompras": 2395,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 5464,
-    "filasMovInv": 315,
+    "filasVentasIzi": 5538,
+    "filasMovInv": 318,
     "filasDimProducto": 449,
     "warnings": []
   }

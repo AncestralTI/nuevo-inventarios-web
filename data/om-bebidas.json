@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-22T21:30:28.817Z",
+  "generatedAt": "2026-10-23T00:06:16.188Z",
   "rangoFechas": {
     "desde": "2026-08-17",
-    "hasta": "2026-10-22"
+    "hasta": "2026-10-23"
   },
   "categorias": [
     "5. Bebidas alcohólicas",
@@ -279,7 +279,7 @@
       "producto": "Cerveza Huari",
       "weekYear": "202643",
       "invMenos7": 141,
-      "compras": 0,
+      "compras": 120,
       "vtasIzi": 0,
       "vtasExt": 0,
       "vtasPY": 0,
@@ -287,7 +287,7 @@
       "salidas": 0,
       "vtasTot": 0,
       "inv": null,
-      "cierre": 141,
+      "cierre": 261,
       "dif": null
     },
     {
@@ -415,14 +415,14 @@
       "weekYear": "202643",
       "invMenos7": 36,
       "compras": 90,
-      "vtasIzi": 2,
+      "vtasIzi": 3,
       "vtasExt": 8,
       "vtasPY": 1,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 11,
+      "vtasTot": 12,
       "inv": null,
-      "cierre": 115,
+      "cierre": 114,
       "dif": null
     },
     {
@@ -6610,15 +6610,15 @@
       "weekYear": "202634",
       "invMenos7": 36,
       "compras": 30,
-      "vtasIzi": 2,
+      "vtasIzi": 0,
       "vtasExt": 24,
       "vtasPY": 1,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 27,
+      "vtasTot": 25,
       "inv": 25,
-      "cierre": 39,
-      "dif": -14
+      "cierre": 41,
+      "dif": -16
     },
     {
       "producto": "Agua con gas",
@@ -6835,14 +6835,14 @@
       "weekYear": "202634",
       "invMenos7": null,
       "compras": 90,
-      "vtasIzi": 1,
+      "vtasIzi": 0,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 1,
+      "vtasTot": 0,
       "inv": null,
-      "cierre": 89,
+      "cierre": 90,
       "dif": null
     },
     {
@@ -6853,12 +6853,12 @@
       "vtasIzi": 0,
       "vtasExt": 114,
       "vtasPY": 0,
-      "vtasAnc": 3,
+      "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 117,
+      "vtasTot": 114,
       "inv": 103,
-      "cierre": 22,
-      "dif": 81
+      "cierre": 25,
+      "dif": 78
     },
     {
       "producto": "Coca Cola MINI",
@@ -6883,9 +6883,9 @@
       "vtasIzi": 0,
       "vtasExt": 0,
       "vtasPY": 0,
-      "vtasAnc": 1,
+      "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 1,
+      "vtasTot": 0,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -7090,15 +7090,15 @@
       "weekYear": "202634",
       "invMenos7": 14,
       "compras": 0,
-      "vtasIzi": 3,
+      "vtasIzi": 0,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 3,
+      "vtasTot": 0,
       "inv": 1,
-      "cierre": 11,
-      "dif": -10
+      "cierre": 14,
+      "dif": -13
     },
     {
       "producto": "Pepsi",
@@ -7168,9 +7168,9 @@
       "vtasIzi": 0,
       "vtasExt": 0,
       "vtasPY": 0,
-      "vtasAnc": 1,
+      "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 1,
+      "vtasTot": 0,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -7183,9 +7183,9 @@
       "vtasIzi": 0,
       "vtasExt": 0,
       "vtasPY": 0,
-      "vtasAnc": 1,
+      "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 1,
+      "vtasTot": 0,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -7210,12 +7210,12 @@
       "weekYear": "202634",
       "invMenos7": null,
       "compras": 0,
-      "vtasIzi": 11,
+      "vtasIzi": 0,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 11,
+      "vtasTot": 0,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -7968,6 +7968,34 @@
       "vtasAnc": 0,
       "salidas": 0,
       "invEsperado": 26,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "Cerveza Huari",
+      "fecha": "2026-10-22",
+      "dia": "jue",
+      "compras": 120,
+      "vtas": 0,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 261,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "Coca Zero",
+      "fecha": "2026-10-22",
+      "dia": "jue",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 114,
       "invIniFin": null,
       "dif": null
     },
@@ -9634,7 +9662,7 @@
       },
       {
         "weekYear": "202643",
-        "valor": 25
+        "valor": 26
       }
     ],
     "Vtas Ext.": [
@@ -9712,7 +9740,7 @@
       },
       {
         "weekYear": "202643",
-        "valor": 106
+        "valor": 107
       }
     ],
     "Compras": [
@@ -9738,7 +9766,7 @@
       },
       {
         "weekYear": "202643",
-        "valor": 397
+        "valor": 517
       }
     ]
   },
@@ -9746,13 +9774,13 @@
     "ventasIziDisponibles": true,
     "filasDimProducto": 449,
     "filasInventariosOmuh": 443,
-    "filasCompras": 1567,
+    "filasCompras": 1568,
     "filasSalidas": 99,
-    "filasVentasIzi": 7582,
+    "filasVentasIzi": 7430,
     "filasVentasPY": 11099,
     "filasExtras": 17683,
-    "filasMovInv": 321,
-    "filasVentasAncIzi": 5570,
+    "filasMovInv": 320,
+    "filasVentasAncIzi": 5464,
     "warnings": []
   }
 }

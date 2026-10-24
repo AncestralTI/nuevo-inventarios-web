@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T21:15:53.567Z",
+  "generatedAt": "2026-10-24T23:18:42.787Z",
   "rangoFechas": {
     "desde": "2026-08-17",
     "hasta": "2026-10-24"
@@ -355,14 +355,14 @@
       "weekYear": "202643",
       "invMenos7": null,
       "compras": 96,
-      "vtasIzi": 6,
+      "vtasIzi": 7,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 6,
+      "vtasTot": 7,
       "inv": null,
-      "cierre": 90,
+      "cierre": 89,
       "dif": null
     },
     {
@@ -430,14 +430,14 @@
       "weekYear": "202643",
       "invMenos7": 17,
       "compras": 0,
-      "vtasIzi": 5,
+      "vtasIzi": 6,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 5,
+      "vtasTot": 6,
       "inv": null,
-      "cierre": 12,
+      "cierre": 11,
       "dif": null
     },
     {
@@ -8504,6 +8504,20 @@
       "dif": null
     },
     {
+      "producto": "Coca Cola",
+      "fecha": "2026-10-24",
+      "dia": "sáb",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 89,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "COCA COLA",
       "fecha": "2026-10-24",
       "dia": "sáb",
@@ -8550,12 +8564,12 @@
       "fecha": "2026-10-24",
       "dia": "sáb",
       "compras": 0,
-      "vtas": 3,
+      "vtas": 4,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "invEsperado": 12,
+      "invEsperado": 11,
       "invIniFin": null,
       "dif": null
     },
@@ -10264,7 +10278,7 @@
       },
       {
         "weekYear": "202643",
-        "valor": 56.75
+        "valor": 58.75
       }
     ],
     "Vtas Ext.": [
@@ -10342,7 +10356,7 @@
       },
       {
         "weekYear": "202643",
-        "valor": 288.75
+        "valor": 290.75
       }
     ],
     "Compras": [
@@ -10378,7 +10392,7 @@
     "filasInventariosOmuh": 443,
     "filasCompras": 1569,
     "filasSalidas": 102,
-    "filasVentasIzi": 7581,
+    "filasVentasIzi": 7609,
     "filasVentasPY": 11124,
     "filasExtras": 17825,
     "filasMovInv": 347,

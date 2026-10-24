@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-23T14:23:51.834Z",
+  "generatedAt": "2026-10-24T03:34:23.347Z",
   "rangoFechas": {
     "desde": "2026-08-17",
-    "hasta": "2026-10-23"
+    "hasta": "2026-10-24"
   },
   "categorias": [
     "CERVEZA",
@@ -253,13 +253,13 @@
       "weekYear": "202643",
       "invMenos7": 3,
       "compras": 0,
-      "vtas": 2,
+      "vtas": 3,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 2,
+      "vtasTot": 3,
       "inv": null,
-      "cierre": 1,
+      "cierre": 0,
       "dif": null
     },
     {
@@ -561,13 +561,13 @@
       "weekYear": "202643",
       "invMenos7": 4,
       "compras": 0,
-      "vtas": 1,
+      "vtas": 2,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 1,
+      "vtasTot": 2,
       "inv": null,
-      "cierre": 3,
+      "cierre": 2,
       "dif": null
     },
     {
@@ -799,11 +799,11 @@
       "weekYear": "202643",
       "invMenos7": null,
       "compras": 0,
-      "vtas": 3,
+      "vtas": 7,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 3,
+      "vtasTot": 7,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -1079,13 +1079,13 @@
       "weekYear": "202643",
       "invMenos7": 30,
       "compras": 0,
-      "vtas": 4,
+      "vtas": 10,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 4,
+      "vtasTot": 10,
       "inv": null,
-      "cierre": 26,
+      "cierre": 20,
       "dif": null
     },
     {
@@ -1320,24 +1320,24 @@
       "vtas": 4,
       "vtasExt": 0,
       "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 4,
+      "salidas": 1,
+      "vtasTot": 5,
       "inv": null,
-      "cierre": 3,
+      "cierre": 2,
       "dif": null
     },
     {
       "producto": "MARSELAN - ARSAL",
       "weekYear": "202643",
       "invMenos7": 0,
-      "compras": 0,
+      "compras": 12,
       "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 0,
+      "salidas": 1,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 0,
+      "cierre": 11,
       "dif": null
     },
     {
@@ -16780,8 +16780,21 @@
       "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
-      "salidas": 0,
-      "invEsperado": 4,
+      "salidas": 1,
+      "invEsperado": 3,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "MARSELAN - ARSAL",
+      "fecha": "2026-10-21",
+      "dia": "mié",
+      "compras": 12,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 1,
+      "invEsperado": 11,
       "invIniFin": null,
       "dif": null
     },
@@ -16898,7 +16911,7 @@
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "invEsperado": 3,
+      "invEsperado": 2,
       "invIniFin": null,
       "dif": null
     },
@@ -16912,6 +16925,58 @@
       "cortesias": 0,
       "salidas": 0,
       "invEsperado": 14,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "ALAYA - TELLUS",
+      "fecha": "2026-10-23",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 0,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "CAÑON ESCONDIDO - TANNAT",
+      "fecha": "2026-10-23",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 2,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "COPA MARSELAN - ARSAL",
+      "fecha": "2026-10-23",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 4,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 0,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "HUARI",
+      "fecha": "2026-10-23",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 6,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 20,
       "invIniFin": null,
       "dif": null
     },
@@ -17694,7 +17759,7 @@
       },
       {
         "weekYear": "202643",
-        "valor": 45
+        "valor": 57
       }
     ],
     "Vtas Ext": [
@@ -17772,7 +17837,7 @@
       },
       {
         "weekYear": "202643",
-        "valor": 48
+        "valor": 62
       }
     ],
     "Salidas": [
@@ -17798,7 +17863,7 @@
       },
       {
         "weekYear": "202643",
-        "valor": 3
+        "valor": 5
       }
     ],
     "Compras": [
@@ -17824,18 +17889,18 @@
       },
       {
         "weekYear": "202643",
-        "valor": 30
+        "valor": 42
       }
     ]
   },
   "meta": {
     "ventasIziDisponibles": true,
-    "filasApertura": 1445,
+    "filasApertura": 1447,
     "filasInventariosGs": 4063,
-    "filasCompras": 2395,
+    "filasCompras": 2405,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 5538,
-    "filasMovInv": 318,
+    "filasVentasIzi": 5668,
+    "filasMovInv": 335,
     "filasDimProducto": 449,
     "warnings": []
   }

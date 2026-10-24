@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T18:50:22.173Z",
+  "generatedAt": "2026-10-24T21:15:09.416Z",
   "rangoFechas": {
     "desde": "2026-08-17",
     "hasta": "2026-10-24"
@@ -466,13 +466,13 @@
       "weekYear": "202643",
       "invMenos7": 11,
       "compras": 0,
-      "vtas": 1,
+      "vtas": 2,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 1,
+      "vtasTot": 2,
       "inv": null,
-      "cierre": 10,
+      "cierre": 9,
       "dif": null
     },
     {
@@ -536,13 +536,13 @@
       "weekYear": "202643",
       "invMenos7": 3,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 3,
+      "cierre": 2,
       "dif": null
     },
     {
@@ -1124,13 +1124,13 @@
       "weekYear": "202643",
       "invMenos7": 30,
       "compras": 0,
-      "vtas": 12,
+      "vtas": 17,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 12,
+      "vtasTot": 17,
       "inv": null,
-      "cierre": 18,
+      "cierre": 13,
       "dif": null
     },
     {
@@ -1586,13 +1586,13 @@
       "weekYear": "202643",
       "invMenos7": 15,
       "compras": 0,
-      "vtas": 1,
+      "vtas": 2,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 1,
+      "vtasTot": 2,
       "inv": null,
-      "cierre": 14,
+      "cierre": 13,
       "dif": null
     },
     {
@@ -17417,15 +17417,54 @@
       "dif": null
     },
     {
+      "producto": "BONARDA \"PIONERO\" - ARANJUEZ",
+      "fecha": "2026-10-24",
+      "dia": "sáb",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 9,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "CAMPOS DE SOLANA / \"ESTHER ORTIZ\"",
+      "fecha": "2026-10-24",
+      "dia": "sáb",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 2,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "HUARI",
       "fecha": "2026-10-24",
       "dia": "sáb",
       "compras": 0,
-      "vtas": 2,
+      "vtas": 7,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "invEsperado": 18,
+      "invEsperado": 13,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "SAN MIGUEL SOLSTICIO",
+      "fecha": "2026-10-24",
+      "dia": "sáb",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 13,
       "invIniFin": null,
       "dif": null
     },
@@ -18208,7 +18247,7 @@
       },
       {
         "weekYear": "202643",
-        "valor": 60
+        "valor": 68
       }
     ],
     "Vtas Ext": [
@@ -18286,7 +18325,7 @@
       },
       {
         "weekYear": "202643",
-        "valor": 65
+        "valor": 73
       }
     ],
     "Salidas": [
@@ -18348,8 +18387,8 @@
     "filasInventariosGs": 4063,
     "filasCompras": 2405,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 5684,
-    "filasMovInv": 337,
+    "filasVentasIzi": 5733,
+    "filasMovInv": 341,
     "filasDimProducto": 452,
     "warnings": []
   }

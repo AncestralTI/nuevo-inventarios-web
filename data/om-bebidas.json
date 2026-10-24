@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T18:51:02.007Z",
+  "generatedAt": "2026-10-24T21:15:53.567Z",
   "rangoFechas": {
     "desde": "2026-08-17",
     "hasta": "2026-10-24"
@@ -373,11 +373,11 @@
       "vtasIzi": 0,
       "vtasExt": 42,
       "vtasPY": 0,
-      "vtasAnc": 11,
+      "vtasAnc": 13,
       "salidas": 0,
-      "vtasTot": 53,
+      "vtasTot": 55,
       "inv": null,
-      "cierre": 87,
+      "cierre": 85,
       "dif": null
     },
     {
@@ -403,9 +403,9 @@
       "vtasIzi": 0,
       "vtasExt": 0,
       "vtasPY": 0,
-      "vtasAnc": 9,
+      "vtasAnc": 10,
       "salidas": 0,
-      "vtasTot": 9,
+      "vtasTot": 10,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -553,9 +553,9 @@
       "vtasIzi": 0,
       "vtasExt": 0,
       "vtasPY": 0,
-      "vtasAnc": 12,
+      "vtasAnc": 17,
       "salidas": 0,
-      "vtasTot": 12,
+      "vtasTot": 17,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -763,9 +763,9 @@
       "vtasIzi": 0,
       "vtasExt": 0,
       "vtasPY": 0,
-      "vtasAnc": 1,
+      "vtasAnc": 2,
       "salidas": 0,
-      "vtasTot": 1,
+      "vtasTot": 2,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -8504,6 +8504,20 @@
       "dif": null
     },
     {
+      "producto": "COCA COLA",
+      "fecha": "2026-10-24",
+      "dia": "sáb",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 2,
+      "salidas": 0,
+      "invEsperado": 85,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "COCA COLA SIN AZUCAR",
       "fecha": "2026-10-24",
       "dia": "sáb",
@@ -8511,7 +8525,7 @@
       "vtas": 0,
       "vtasExt": 0,
       "vtasPY": 0,
-      "vtasAnc": 1,
+      "vtasAnc": 2,
       "salidas": 0,
       "invEsperado": 0,
       "invIniFin": null,
@@ -8567,7 +8581,7 @@
       "vtas": 0,
       "vtasExt": 0,
       "vtasPY": 0,
-      "vtasAnc": 2,
+      "vtasAnc": 7,
       "salidas": 0,
       "invEsperado": 0,
       "invIniFin": null,
@@ -8582,6 +8596,20 @@
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 0,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "SAN MIGUEL SOLSTICIO",
+      "fecha": "2026-10-24",
+      "dia": "sáb",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 1,
       "salidas": 0,
       "invEsperado": 0,
       "invIniFin": null,
@@ -10314,7 +10342,7 @@
       },
       {
         "weekYear": "202643",
-        "valor": 279.75
+        "valor": 288.75
       }
     ],
     "Compras": [
@@ -10350,11 +10378,11 @@
     "filasInventariosOmuh": 443,
     "filasCompras": 1569,
     "filasSalidas": 102,
-    "filasVentasIzi": 7579,
+    "filasVentasIzi": 7581,
     "filasVentasPY": 11124,
     "filasExtras": 17825,
-    "filasMovInv": 343,
-    "filasVentasAncIzi": 5684,
+    "filasMovInv": 347,
+    "filasVentasAncIzi": 5733,
     "warnings": []
   }
 }

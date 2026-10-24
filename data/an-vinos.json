@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T16:17:35.367Z",
+  "generatedAt": "2026-10-24T18:50:22.173Z",
   "rangoFechas": {
     "desde": "2026-08-17",
     "hasta": "2026-10-24"
@@ -46,9 +46,11 @@
     "COPA ALAYA - TELLUS",
     "COPA BARBERA - MALA CABEZA",
     "COPA BLANC DE NOIR - CEPA DE ORO",
+    "COPA CAB. FRANC - CRUCE DEL ZORRO",
     "COPA CAB. FRANC ROSE - CASA SOLUM",
     "COPA CAB. ZINFANDDEL - ALMA OCULTA",
     "COPA DE CEPA DE ORO - VISCHOQUEÑA",
+    "COPA GRAN RESERVA  CARMENERE - CASA SOLUM",
     "COPA IMPOREÑA - CEPA DE ORO",
     "COPA IMPOREÑA - YOCKICH",
     "COPA IMPREDECIBLE - TERRA ANCESTRAL",
@@ -60,6 +62,7 @@
     "COPA SYRAH - KOHLBERG",
     "COPA SYRAH - TERRA ANCESTRAL",
     "COPA TANNAT - CAÑON ESCONDIDO",
+    "COPA TANNAT MEMENTO MORI - TELLUS WINE",
     "COPA VISCHOQUEÑA - YOKICH",
     "CORTE GRAN RESERVA - CASA SOLUM",
     "COTES DU RHONE- CAIRANE",
@@ -393,13 +396,13 @@
       "weekYear": "202643",
       "invMenos7": 21,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 21,
+      "cierre": 20,
       "dif": null
     },
     {
@@ -697,6 +700,20 @@
       "dif": null
     },
     {
+      "producto": "COPA CAB. FRANC - CRUCE DEL ZORRO",
+      "weekYear": "202643",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
       "producto": "COPA CAB. FRANC ROSE - CASA SOLUM",
       "weekYear": "202643",
       "invMenos7": null,
@@ -726,6 +743,20 @@
     },
     {
       "producto": "COPA DE CEPA DE ORO - VISCHOQUEÑA",
+      "weekYear": "202643",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
+      "producto": "COPA GRAN RESERVA  CARMENERE - CASA SOLUM",
       "weekYear": "202643",
       "invMenos7": null,
       "compras": 0,
@@ -888,6 +919,20 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 3,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
+      "producto": "COPA TANNAT MEMENTO MORI - TELLUS WINE",
+      "weekYear": "202643",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -1079,13 +1124,13 @@
       "weekYear": "202643",
       "invMenos7": 30,
       "compras": 0,
-      "vtas": 10,
+      "vtas": 12,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 10,
+      "vtasTot": 12,
       "inv": null,
-      "cierre": 20,
+      "cierre": 18,
       "dif": null
     },
     {
@@ -2321,6 +2366,20 @@
       "dif": null
     },
     {
+      "producto": "COPA CAB. FRANC - CRUCE DEL ZORRO",
+      "weekYear": "202642",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
       "producto": "COPA CAB. FRANC ROSE - CASA SOLUM",
       "weekYear": "202642",
       "invMenos7": null,
@@ -2350,6 +2409,20 @@
     },
     {
       "producto": "COPA DE CEPA DE ORO - VISCHOQUEÑA",
+      "weekYear": "202642",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
+      "producto": "COPA GRAN RESERVA  CARMENERE - CASA SOLUM",
       "weekYear": "202642",
       "invMenos7": null,
       "compras": 0,
@@ -2512,6 +2585,20 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 2,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
+      "producto": "COPA TANNAT MEMENTO MORI - TELLUS WINE",
+      "weekYear": "202642",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -3945,6 +4032,20 @@
       "dif": null
     },
     {
+      "producto": "COPA CAB. FRANC - CRUCE DEL ZORRO",
+      "weekYear": "202641",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
       "producto": "COPA CAB. FRANC ROSE - CASA SOLUM",
       "weekYear": "202641",
       "invMenos7": null,
@@ -3974,6 +4075,20 @@
     },
     {
       "producto": "COPA DE CEPA DE ORO - VISCHOQUEÑA",
+      "weekYear": "202641",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
+      "producto": "COPA GRAN RESERVA  CARMENERE - CASA SOLUM",
       "weekYear": "202641",
       "invMenos7": null,
       "compras": 0,
@@ -4128,6 +4243,20 @@
     },
     {
       "producto": "COPA TANNAT - CAÑON ESCONDIDO",
+      "weekYear": "202641",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
+      "producto": "COPA TANNAT MEMENTO MORI - TELLUS WINE",
       "weekYear": "202641",
       "invMenos7": null,
       "compras": 0,
@@ -5569,6 +5698,20 @@
       "dif": null
     },
     {
+      "producto": "COPA CAB. FRANC - CRUCE DEL ZORRO",
+      "weekYear": "202640",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
       "producto": "COPA CAB. FRANC ROSE - CASA SOLUM",
       "weekYear": "202640",
       "invMenos7": null,
@@ -5598,6 +5741,20 @@
     },
     {
       "producto": "COPA DE CEPA DE ORO - VISCHOQUEÑA",
+      "weekYear": "202640",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
+      "producto": "COPA GRAN RESERVA  CARMENERE - CASA SOLUM",
       "weekYear": "202640",
       "invMenos7": null,
       "compras": 0,
@@ -5760,6 +5917,20 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 11,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
+      "producto": "COPA TANNAT MEMENTO MORI - TELLUS WINE",
+      "weekYear": "202640",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -7193,6 +7364,20 @@
       "dif": null
     },
     {
+      "producto": "COPA CAB. FRANC - CRUCE DEL ZORRO",
+      "weekYear": "202639",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
       "producto": "COPA CAB. FRANC ROSE - CASA SOLUM",
       "weekYear": "202639",
       "invMenos7": null,
@@ -7222,6 +7407,20 @@
     },
     {
       "producto": "COPA DE CEPA DE ORO - VISCHOQUEÑA",
+      "weekYear": "202639",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
+      "producto": "COPA GRAN RESERVA  CARMENERE - CASA SOLUM",
       "weekYear": "202639",
       "invMenos7": null,
       "compras": 0,
@@ -7376,6 +7575,20 @@
     },
     {
       "producto": "COPA TANNAT - CAÑON ESCONDIDO",
+      "weekYear": "202639",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
+      "producto": "COPA TANNAT MEMENTO MORI - TELLUS WINE",
       "weekYear": "202639",
       "invMenos7": null,
       "compras": 0,
@@ -8817,6 +9030,20 @@
       "dif": null
     },
     {
+      "producto": "COPA CAB. FRANC - CRUCE DEL ZORRO",
+      "weekYear": "202638",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
       "producto": "COPA CAB. FRANC ROSE - CASA SOLUM",
       "weekYear": "202638",
       "invMenos7": null,
@@ -8846,6 +9073,20 @@
     },
     {
       "producto": "COPA DE CEPA DE ORO - VISCHOQUEÑA",
+      "weekYear": "202638",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
+      "producto": "COPA GRAN RESERVA  CARMENERE - CASA SOLUM",
       "weekYear": "202638",
       "invMenos7": null,
       "compras": 0,
@@ -9000,6 +9241,20 @@
     },
     {
       "producto": "COPA TANNAT - CAÑON ESCONDIDO",
+      "weekYear": "202638",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
+      "producto": "COPA TANNAT MEMENTO MORI - TELLUS WINE",
       "weekYear": "202638",
       "invMenos7": null,
       "compras": 0,
@@ -10441,6 +10696,20 @@
       "dif": null
     },
     {
+      "producto": "COPA CAB. FRANC - CRUCE DEL ZORRO",
+      "weekYear": "202637",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
       "producto": "COPA CAB. FRANC ROSE - CASA SOLUM",
       "weekYear": "202637",
       "invMenos7": null,
@@ -10470,6 +10739,20 @@
     },
     {
       "producto": "COPA DE CEPA DE ORO - VISCHOQUEÑA",
+      "weekYear": "202637",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
+      "producto": "COPA GRAN RESERVA  CARMENERE - CASA SOLUM",
       "weekYear": "202637",
       "invMenos7": null,
       "compras": 0,
@@ -10624,6 +10907,20 @@
     },
     {
       "producto": "COPA TANNAT - CAÑON ESCONDIDO",
+      "weekYear": "202637",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
+      "producto": "COPA TANNAT MEMENTO MORI - TELLUS WINE",
       "weekYear": "202637",
       "invMenos7": null,
       "compras": 0,
@@ -12065,6 +12362,20 @@
       "dif": null
     },
     {
+      "producto": "COPA CAB. FRANC - CRUCE DEL ZORRO",
+      "weekYear": "202636",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
       "producto": "COPA CAB. FRANC ROSE - CASA SOLUM",
       "weekYear": "202636",
       "invMenos7": null,
@@ -12094,6 +12405,20 @@
     },
     {
       "producto": "COPA DE CEPA DE ORO - VISCHOQUEÑA",
+      "weekYear": "202636",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
+      "producto": "COPA GRAN RESERVA  CARMENERE - CASA SOLUM",
       "weekYear": "202636",
       "invMenos7": null,
       "compras": 0,
@@ -12248,6 +12573,20 @@
     },
     {
       "producto": "COPA TANNAT - CAÑON ESCONDIDO",
+      "weekYear": "202636",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
+      "producto": "COPA TANNAT MEMENTO MORI - TELLUS WINE",
       "weekYear": "202636",
       "invMenos7": null,
       "compras": 0,
@@ -13689,6 +14028,20 @@
       "dif": null
     },
     {
+      "producto": "COPA CAB. FRANC - CRUCE DEL ZORRO",
+      "weekYear": "202635",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
       "producto": "COPA CAB. FRANC ROSE - CASA SOLUM",
       "weekYear": "202635",
       "invMenos7": null,
@@ -13718,6 +14071,20 @@
     },
     {
       "producto": "COPA DE CEPA DE ORO - VISCHOQUEÑA",
+      "weekYear": "202635",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
+      "producto": "COPA GRAN RESERVA  CARMENERE - CASA SOLUM",
       "weekYear": "202635",
       "invMenos7": null,
       "compras": 0,
@@ -13872,6 +14239,20 @@
     },
     {
       "producto": "COPA TANNAT - CAÑON ESCONDIDO",
+      "weekYear": "202635",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
+      "producto": "COPA TANNAT MEMENTO MORI - TELLUS WINE",
       "weekYear": "202635",
       "invMenos7": null,
       "compras": 0,
@@ -15313,6 +15694,20 @@
       "dif": null
     },
     {
+      "producto": "COPA CAB. FRANC - CRUCE DEL ZORRO",
+      "weekYear": "202634",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
       "producto": "COPA CAB. FRANC ROSE - CASA SOLUM",
       "weekYear": "202634",
       "invMenos7": null,
@@ -15342,6 +15737,20 @@
     },
     {
       "producto": "COPA DE CEPA DE ORO - VISCHOQUEÑA",
+      "weekYear": "202634",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
+      "producto": "COPA GRAN RESERVA  CARMENERE - CASA SOLUM",
       "weekYear": "202634",
       "invMenos7": null,
       "compras": 0,
@@ -15496,6 +15905,20 @@
     },
     {
       "producto": "COPA TANNAT - CAÑON ESCONDIDO",
+      "weekYear": "202634",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
+      "producto": "COPA TANNAT MEMENTO MORI - TELLUS WINE",
       "weekYear": "202634",
       "invMenos7": null,
       "compras": 0,
@@ -16981,6 +17404,32 @@
       "dif": null
     },
     {
+      "producto": "BENDITA HOPPY",
+      "fecha": "2026-10-24",
+      "dia": "sáb",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 20,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "HUARI",
+      "fecha": "2026-10-24",
+      "dia": "sáb",
+      "compras": 0,
+      "vtas": 2,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 18,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "ALAYA - TELLUS",
       "fecha": "2026-10-13",
       "dia": "mar",
@@ -17759,7 +18208,7 @@
       },
       {
         "weekYear": "202643",
-        "valor": 57
+        "valor": 60
       }
     ],
     "Vtas Ext": [
@@ -17837,7 +18286,7 @@
       },
       {
         "weekYear": "202643",
-        "valor": 62
+        "valor": 65
       }
     ],
     "Salidas": [
@@ -17899,9 +18348,9 @@
     "filasInventariosGs": 4063,
     "filasCompras": 2405,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 5668,
-    "filasMovInv": 335,
-    "filasDimProducto": 449,
+    "filasVentasIzi": 5684,
+    "filasMovInv": 337,
+    "filasDimProducto": 452,
     "warnings": []
   }
 }

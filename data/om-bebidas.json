@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T15:03:35.125Z",
+  "generatedAt": "2026-10-25T18:22:26.534Z",
   "rangoFechas": {
     "desde": "2026-08-17",
     "hasta": "2026-10-25"
@@ -130,14 +130,14 @@
       "weekYear": "202643",
       "invMenos7": 41,
       "compras": 30,
-      "vtasIzi": 3,
+      "vtasIzi": 4,
       "vtasExt": 11,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 14,
+      "vtasTot": 15,
       "inv": null,
-      "cierre": 57,
+      "cierre": 56,
       "dif": null
     },
     {
@@ -355,14 +355,14 @@
       "weekYear": "202643",
       "invMenos7": null,
       "compras": 96,
-      "vtasIzi": 9,
+      "vtasIzi": 10,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 9,
+      "vtasTot": 10,
       "inv": null,
-      "cierre": 87,
+      "cierre": 86,
       "dif": null
     },
     {
@@ -415,14 +415,14 @@
       "weekYear": "202643",
       "invMenos7": 36,
       "compras": 90,
-      "vtasIzi": 6,
+      "vtasIzi": 7,
       "vtasExt": 33,
       "vtasPY": 1,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 40,
+      "vtasTot": 41,
       "inv": null,
-      "cierre": 86,
+      "cierre": 85,
       "dif": null
     },
     {
@@ -610,14 +610,14 @@
       "weekYear": "202643",
       "invMenos7": 18,
       "compras": 13,
-      "vtasIzi": 2,
+      "vtasIzi": 3,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 2,
+      "vtasTot": 3,
       "inv": null,
-      "cierre": 29,
+      "cierre": 28,
       "dif": null
     },
     {
@@ -730,12 +730,12 @@
       "weekYear": "202643",
       "invMenos7": null,
       "compras": 0,
-      "vtasIzi": 22,
+      "vtasIzi": 23,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 22,
+      "vtasTot": 23,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -8715,6 +8715,76 @@
     },
     {
       "producto": "Agua",
+      "fecha": "2026-10-25",
+      "dia": "dom",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 56,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "Coca Cola",
+      "fecha": "2026-10-25",
+      "dia": "dom",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 86,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "Coca Zero",
+      "fecha": "2026-10-25",
+      "dia": "dom",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 85,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "Mandala Frambuesa",
+      "fecha": "2026-10-25",
+      "dia": "dom",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 28,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "Refresco Artesanal",
+      "fecha": "2026-10-25",
+      "dia": "dom",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 0,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "Agua",
       "fecha": "2026-10-12",
       "dia": "lun",
       "compras": 0,
@@ -10348,7 +10418,7 @@
       },
       {
         "weekYear": "202643",
-        "valor": 65.75
+        "valor": 70.75
       }
     ],
     "Vtas Ext.": [
@@ -10426,7 +10496,7 @@
       },
       {
         "weekYear": "202643",
-        "valor": 334.75
+        "valor": 339.75
       }
     ],
     "Compras": [
@@ -10462,11 +10532,11 @@
     "filasInventariosOmuh": 443,
     "filasCompras": 1569,
     "filasSalidas": 102,
-    "filasVentasIzi": 7590,
+    "filasVentasIzi": 7645,
     "filasVentasPY": 11136,
     "filasExtras": 17906,
     "filasMovInv": 350,
-    "filasVentasAncIzi": 5733,
+    "filasVentasAncIzi": 5742,
     "warnings": []
   }
 }

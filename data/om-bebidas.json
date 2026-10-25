@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T18:22:26.534Z",
+  "generatedAt": "2026-10-25T21:02:08.589Z",
   "rangoFechas": {
     "desde": "2026-08-17",
     "hasta": "2026-10-25"
@@ -250,14 +250,14 @@
       "weekYear": "202643",
       "invMenos7": 2,
       "compras": 24,
-      "vtasIzi": 2,
+      "vtasIzi": 3,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 2,
+      "vtasTot": 3,
       "inv": null,
-      "cierre": 24,
+      "cierre": 23,
       "dif": null
     },
     {
@@ -373,11 +373,11 @@
       "vtasIzi": 0,
       "vtasExt": 51,
       "vtasPY": 0,
-      "vtasAnc": 13,
+      "vtasAnc": 16,
       "salidas": 0,
-      "vtasTot": 64,
+      "vtasTot": 67,
       "inv": null,
-      "cierre": 76,
+      "cierre": 73,
       "dif": null
     },
     {
@@ -403,9 +403,9 @@
       "vtasIzi": 0,
       "vtasExt": 0,
       "vtasPY": 0,
-      "vtasAnc": 10,
+      "vtasAnc": 14,
       "salidas": 0,
-      "vtasTot": 10,
+      "vtasTot": 14,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -610,14 +610,14 @@
       "weekYear": "202643",
       "invMenos7": 18,
       "compras": 13,
-      "vtasIzi": 3,
+      "vtasIzi": 4,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 3,
+      "vtasTot": 4,
       "inv": null,
-      "cierre": 28,
+      "cierre": 27,
       "dif": null
     },
     {
@@ -8728,6 +8728,20 @@
       "dif": null
     },
     {
+      "producto": "Cerveza Bendita Hoppy Lager",
+      "fecha": "2026-10-25",
+      "dia": "dom",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 23,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "Coca Cola",
       "fecha": "2026-10-25",
       "dia": "dom",
@@ -8738,6 +8752,34 @@
       "vtasAnc": 0,
       "salidas": 0,
       "invEsperado": 86,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "COCA COLA",
+      "fecha": "2026-10-25",
+      "dia": "dom",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 3,
+      "salidas": 0,
+      "invEsperado": 73,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "COCA COLA SIN AZUCAR",
+      "fecha": "2026-10-25",
+      "dia": "dom",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 4,
+      "salidas": 0,
+      "invEsperado": 0,
       "invIniFin": null,
       "dif": null
     },
@@ -8760,12 +8802,12 @@
       "fecha": "2026-10-25",
       "dia": "dom",
       "compras": 0,
-      "vtas": 1,
+      "vtas": 2,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "invEsperado": 28,
+      "invEsperado": 27,
       "invIniFin": null,
       "dif": null
     },
@@ -10418,7 +10460,7 @@
       },
       {
         "weekYear": "202643",
-        "valor": 70.75
+        "valor": 72.75
       }
     ],
     "Vtas Ext.": [
@@ -10496,7 +10538,7 @@
       },
       {
         "weekYear": "202643",
-        "valor": 339.75
+        "valor": 348.75
       }
     ],
     "Compras": [
@@ -10532,11 +10574,11 @@
     "filasInventariosOmuh": 443,
     "filasCompras": 1569,
     "filasSalidas": 102,
-    "filasVentasIzi": 7645,
+    "filasVentasIzi": 7669,
     "filasVentasPY": 11136,
     "filasExtras": 17906,
-    "filasMovInv": 350,
-    "filasVentasAncIzi": 5742,
+    "filasMovInv": 358,
+    "filasVentasAncIzi": 5832,
     "warnings": []
   }
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T21:01:35.971Z",
+  "generatedAt": "2026-10-25T23:11:10.981Z",
   "rangoFechas": {
     "desde": "2026-08-17",
     "hasta": "2026-10-25"
@@ -115,9 +115,9 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 3,
-      "inv": null,
+      "inv": 18,
       "cierre": 18,
-      "dif": null
+      "dif": 0
     },
     {
       "producto": "BENDITA IPA",
@@ -129,9 +129,9 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 0,
-      "inv": null,
+      "inv": 8,
       "cierre": 8,
-      "dif": null
+      "dif": 0
     },
     {
       "producto": "BENDITA PILS",
@@ -143,9 +143,9 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 1,
-      "inv": null,
+      "inv": 14,
       "cierre": 14,
-      "dif": null
+      "dif": 0
     },
     {
       "producto": "Cerveza",
@@ -297,9 +297,9 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 16,
-      "inv": null,
+      "inv": 30,
       "cierre": 30,
-      "dif": null
+      "dif": 0
     },
     {
       "producto": "COCA COLA SIN AZUCAR",
@@ -311,9 +311,9 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 14,
-      "inv": null,
+      "inv": 24,
       "cierre": 27,
-      "dif": null
+      "dif": -3
     },
     {
       "producto": "FANTA",
@@ -325,9 +325,9 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 0,
-      "inv": null,
+      "inv": 24,
       "cierre": 24,
-      "dif": null
+      "dif": 0
     },
     {
       "producto": "HOPPY BARRIL",
@@ -353,9 +353,9 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 18,
-      "inv": null,
+      "inv": 12,
       "cierre": 12,
-      "dif": null
+      "dif": 0
     },
     {
       "producto": "MADERA \"LA KALOR\" GOSE",
@@ -367,9 +367,9 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 1,
-      "inv": null,
+      "inv": 17,
       "cierre": 17,
-      "dif": null
+      "dif": 0
     },
     {
       "producto": "MADERA DOMINGA",
@@ -381,9 +381,9 @@
       "cortesias": 0,
       "salidas": 1,
       "vtasTot": 3,
-      "inv": null,
+      "inv": 20,
       "cierre": 20,
-      "dif": null
+      "dif": 0
     },
     {
       "producto": "POTOSINA 4000",
@@ -423,9 +423,9 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 1,
-      "inv": null,
+      "inv": 11,
       "cierre": 11,
-      "dif": null
+      "dif": 0
     },
     {
       "producto": "REBELION ALBA WEIZEN",
@@ -437,9 +437,9 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 0,
-      "inv": null,
+      "inv": 7,
       "cierre": 7,
-      "dif": null
+      "dif": 0
     },
     {
       "producto": "REBELION OBSESSION IPA",
@@ -451,9 +451,9 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 1,
-      "inv": null,
+      "inv": 7,
       "cierre": 7,
-      "dif": null
+      "dif": 0
     },
     {
       "producto": "SAN MIGUEL MATILDA PALE ALE",
@@ -465,9 +465,9 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 1,
-      "inv": null,
+      "inv": 19,
       "cierre": 19,
-      "dif": null
+      "dif": 0
     },
     {
       "producto": "SAN MIGUEL SOLSTICIO",
@@ -479,9 +479,9 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 2,
-      "inv": null,
+      "inv": 13,
       "cierre": 13,
-      "dif": null
+      "dif": 0
     },
     {
       "producto": "SPRITE",
@@ -493,9 +493,9 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 4,
-      "inv": null,
+      "inv": 16,
       "cierre": 16,
-      "dif": null
+      "dif": 0
     },
     {
       "producto": "UYUNI",
@@ -4502,8 +4502,8 @@
       "cortesias": 0,
       "salidas": 0,
       "invEsperado": 30,
-      "invIniFin": null,
-      "dif": null
+      "invIniFin": 30,
+      "dif": 0
     },
     {
       "producto": "COCA COLA SIN AZUCAR",
@@ -4515,8 +4515,8 @@
       "cortesias": 0,
       "salidas": 0,
       "invEsperado": 27,
-      "invIniFin": null,
-      "dif": null
+      "invIniFin": 24,
+      "dif": -3
     },
     {
       "producto": "BENDITA IPA",
@@ -5121,12 +5121,12 @@
   },
   "meta": {
     "ventasIziDisponibles": true,
-    "filasApertura": 1455,
-    "filasInventariosGs": 4063,
+    "filasApertura": 1456,
+    "filasInventariosGs": 4096,
     "filasCompras": 2405,
     "filasMatrizChuleton": 1,
     "filasVentasIzi": 5832,
-    "filasMovInv": 346,
+    "filasMovInv": 347,
     "filasDimProducto": 452,
     "warnings": []
   }

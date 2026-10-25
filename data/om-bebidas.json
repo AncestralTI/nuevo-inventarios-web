@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T21:02:08.589Z",
+  "generatedAt": "2026-10-25T23:11:45.341Z",
   "rangoFechas": {
     "desde": "2026-08-17",
     "hasta": "2026-10-25"
@@ -430,14 +430,14 @@
       "weekYear": "202643",
       "invMenos7": 17,
       "compras": 0,
-      "vtasIzi": 6,
+      "vtasIzi": 8,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 6,
+      "vtasTot": 8,
       "inv": null,
-      "cierre": 11,
+      "cierre": 9,
       "dif": null
     },
     {
@@ -610,14 +610,14 @@
       "weekYear": "202643",
       "invMenos7": 18,
       "compras": 13,
-      "vtasIzi": 4,
+      "vtasIzi": 5,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 4,
+      "vtasTot": 5,
       "inv": null,
-      "cierre": 27,
+      "cierre": 26,
       "dif": null
     },
     {
@@ -730,12 +730,12 @@
       "weekYear": "202643",
       "invMenos7": null,
       "compras": 0,
-      "vtasIzi": 23,
+      "vtasIzi": 24,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 23,
+      "vtasTot": 24,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -820,14 +820,14 @@
       "weekYear": "202643",
       "invMenos7": 12,
       "compras": 0,
-      "vtasIzi": 1,
+      "vtasIzi": 2,
       "vtasExt": 7,
       "vtasPY": 1,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 9,
+      "vtasTot": 10,
       "inv": null,
-      "cierre": 3,
+      "cierre": 2,
       "dif": null
     },
     {
@@ -8798,7 +8798,7 @@
       "dif": null
     },
     {
-      "producto": "Mandala Frambuesa",
+      "producto": "Curandero",
       "fecha": "2026-10-25",
       "dia": "dom",
       "compras": 0,
@@ -8807,7 +8807,21 @@
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "invEsperado": 27,
+      "invEsperado": 9,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "Mandala Frambuesa",
+      "fecha": "2026-10-25",
+      "dia": "dom",
+      "compras": 0,
+      "vtas": 3,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 26,
       "invIniFin": null,
       "dif": null
     },
@@ -8816,12 +8830,26 @@
       "fecha": "2026-10-25",
       "dia": "dom",
       "compras": 0,
-      "vtas": 1,
+      "vtas": 2,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
       "invEsperado": 0,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "Sprite Zero",
+      "fecha": "2026-10-25",
+      "dia": "dom",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 2,
       "invIniFin": null,
       "dif": null
     },
@@ -10460,7 +10488,7 @@
       },
       {
         "weekYear": "202643",
-        "valor": 72.75
+        "valor": 77.75
       }
     ],
     "Vtas Ext.": [
@@ -10538,7 +10566,7 @@
       },
       {
         "weekYear": "202643",
-        "valor": 348.75
+        "valor": 353.75
       }
     ],
     "Compras": [
@@ -10574,10 +10602,10 @@
     "filasInventariosOmuh": 443,
     "filasCompras": 1569,
     "filasSalidas": 102,
-    "filasVentasIzi": 7669,
+    "filasVentasIzi": 7692,
     "filasVentasPY": 11136,
     "filasExtras": 17906,
-    "filasMovInv": 358,
+    "filasMovInv": 359,
     "filasVentasAncIzi": 5832,
     "warnings": []
   }

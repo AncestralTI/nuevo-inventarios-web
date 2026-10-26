@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T19:21:45.445Z",
+  "generatedAt": "2026-10-26T23:12:51.525Z",
   "rangoFechas": {
     "desde": "2026-08-24",
     "hasta": "2026-10-26"
@@ -305,13 +305,13 @@
       "insumo": "Llama",
       "weekYear": "202643",
       "invMenos7": 32,
-      "compras": 0,
+      "compras": 30,
       "vtas": 19,
-      "salidas": 11.08,
-      "vtasTot": 30.08,
+      "salidas": 11,
+      "vtasTot": 30,
       "inv": 31,
-      "cierre": 1.92,
-      "dif": 29.08
+      "cierre": 32,
+      "dif": -1
     },
     {
       "insumo": "Matambre de cerdo",
@@ -475,11 +475,11 @@
       "invMenos7": 21,
       "compras": 28,
       "vtas": 7,
-      "salidas": 4.54,
-      "vtasTot": 11.54,
+      "salidas": 4.51,
+      "vtasTot": 11.51,
       "inv": 32,
-      "cierre": 37.46,
-      "dif": -5.46
+      "cierre": 37.49,
+      "dif": -5.49
     },
     {
       "insumo": "Matambre de cerdo",
@@ -643,11 +643,11 @@
       "invMenos7": 16,
       "compras": 20,
       "vtas": 12,
-      "salidas": 5.4,
-      "vtasTot": 17.4,
+      "salidas": 5.38,
+      "vtasTot": 17.38,
       "inv": 21,
-      "cierre": 18.6,
-      "dif": 2.4
+      "cierre": 18.62,
+      "dif": 2.38
     },
     {
       "insumo": "Matambre de cerdo",
@@ -811,11 +811,11 @@
       "invMenos7": 24,
       "compras": 20,
       "vtas": 12,
-      "salidas": 8.04,
-      "vtasTot": 20.04,
+      "salidas": 7.99,
+      "vtasTot": 19.99,
       "inv": 16,
-      "cierre": 23.96,
-      "dif": -7.96
+      "cierre": 24.01,
+      "dif": -8.01
     },
     {
       "insumo": "Matambre de cerdo",
@@ -979,11 +979,11 @@
       "invMenos7": 20,
       "compras": 20,
       "vtas": 14,
-      "salidas": 3.86,
-      "vtasTot": 17.86,
+      "salidas": 3.83,
+      "vtasTot": 17.83,
       "inv": 24,
-      "cierre": 22.14,
-      "dif": 1.86
+      "cierre": 22.17,
+      "dif": 1.83
     },
     {
       "insumo": "Matambre de cerdo",
@@ -1147,11 +1147,11 @@
       "invMenos7": 16,
       "compras": 24,
       "vtas": 12,
-      "salidas": 2.95,
-      "vtasTot": 14.95,
+      "salidas": 2.93,
+      "vtasTot": 14.93,
       "inv": 20,
-      "cierre": 25.05,
-      "dif": -5.05
+      "cierre": 25.07,
+      "dif": -5.07
     },
     {
       "insumo": "Matambre de cerdo",
@@ -1315,11 +1315,11 @@
       "invMenos7": 10,
       "compras": 29,
       "vtas": 19,
-      "salidas": 2.72,
-      "vtasTot": 21.72,
+      "salidas": 2.7,
+      "vtasTot": 21.7,
       "inv": 16,
-      "cierre": 17.28,
-      "dif": -1.28
+      "cierre": 17.3,
+      "dif": -1.3
     },
     {
       "insumo": "Matambre de cerdo",
@@ -1483,11 +1483,11 @@
       "invMenos7": 30,
       "compras": 0,
       "vtas": 13,
-      "salidas": 3.18,
-      "vtasTot": 16.18,
+      "salidas": 3.16,
+      "vtasTot": 16.16,
       "inv": 10,
-      "cierre": 13.82,
-      "dif": -3.82
+      "cierre": 13.84,
+      "dif": -3.84
     },
     {
       "insumo": "Matambre de cerdo",
@@ -1651,11 +1651,11 @@
       "invMenos7": 30,
       "compras": 20,
       "vtas": 14,
-      "salidas": 5.45,
-      "vtasTot": 19.45,
+      "salidas": 5.41,
+      "vtasTot": 19.41,
       "inv": 30,
-      "cierre": 30.55,
-      "dif": -0.55
+      "cierre": 30.59,
+      "dif": -0.59
     },
     {
       "insumo": "Matambre de cerdo",
@@ -1821,8 +1821,8 @@
       "dia": "mar",
       "compras": 0,
       "vtas": 3,
-      "salidas": 2.9509517883146437,
-      "invEsperado": 25.05,
+      "salidas": 2.9301958425741463,
+      "invEsperado": 25.07,
       "invIni": null,
       "invFin": null,
       "dif": null
@@ -1977,8 +1977,8 @@
       "dia": "mié",
       "compras": 0,
       "vtas": 3,
-      "salidas": 2.2699629140881874,
-      "invEsperado": 19.78,
+      "salidas": 2.253996801980113,
+      "invEsperado": 19.82,
       "invIni": null,
       "invFin": null,
       "dif": null
@@ -2133,8 +2133,8 @@
       "dia": "jue",
       "compras": 0,
       "vtas": 2,
-      "salidas": 1.5889740398617314,
-      "invEsperado": 16.19,
+      "salidas": 1.577797761386079,
+      "invEsperado": 16.24,
       "invIni": null,
       "invFin": null,
       "dif": null
@@ -2275,10 +2275,10 @@
       "insumo": "Llama",
       "fecha": "2026-10-23",
       "dia": "vie",
-      "compras": 0,
+      "compras": 30,
       "vtas": 4,
-      "salidas": 0.6809888742264562,
-      "invEsperado": 11.51,
+      "salidas": 0.6761990405940337,
+      "invEsperado": 41.56,
       "invIni": null,
       "invFin": null,
       "dif": null
@@ -2421,8 +2421,8 @@
       "dia": "sáb",
       "compras": 0,
       "vtas": 3,
-      "salidas": 0.907985165635275,
-      "invEsperado": 7.6,
+      "salidas": 0.9015987207920451,
+      "invEsperado": 37.66,
       "invIni": null,
       "invFin": null,
       "dif": null
@@ -2577,11 +2577,11 @@
       "dia": "dom",
       "compras": 0,
       "vtas": 4,
-      "salidas": 2.678556238624061,
-      "invEsperado": 0.92,
+      "salidas": 2.6597162263365326,
+      "invEsperado": 31,
       "invIni": 31,
       "invFin": 31,
-      "dif": 30.08
+      "dif": 0
     },
     {
       "insumo": "Ojo de bife",
@@ -2710,23 +2710,23 @@
     "Salidas": [
       {
         "weekYear": "202639",
-        "valor": 30.85
+        "valor": 30.82
       },
       {
         "weekYear": "202640",
-        "valor": 50.59
+        "valor": 50.54
       },
       {
         "weekYear": "202641",
-        "valor": 81.6
+        "valor": 81.57
       },
       {
         "weekYear": "202642",
-        "valor": 49.52
+        "valor": 49.49
       },
       {
         "weekYear": "202643",
-        "valor": 60.06
+        "valor": 59.98
       },
       {
         "weekYear": "202644",
@@ -2736,23 +2736,23 @@
     "Vtas Tot": [
       {
         "weekYear": "202639",
-        "valor": 329.85
+        "valor": 329.82
       },
       {
         "weekYear": "202640",
-        "valor": 275.59
+        "valor": 275.54
       },
       {
         "weekYear": "202641",
-        "valor": 357.6
+        "valor": 357.57
       },
       {
         "weekYear": "202642",
-        "valor": 285.52
+        "valor": 285.49
       },
       {
         "weekYear": "202643",
-        "valor": 332.06
+        "valor": 331.98
       },
       {
         "weekYear": "202644",
@@ -2778,7 +2778,7 @@
       },
       {
         "weekYear": "202643",
-        "valor": 275
+        "valor": 305
       },
       {
         "weekYear": "202644",
@@ -2788,7 +2788,7 @@
   },
   "meta": {
     "ventasIziDisponibles": true,
-    "filasCompras": 2408,
+    "filasCompras": 2409,
     "filasSalidas": 960,
     "filasMatriz": 23,
     "filasInventarios": 462,

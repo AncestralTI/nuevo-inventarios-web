@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T13:16:07.551Z",
+  "generatedAt": "2026-10-26T19:22:03.197Z",
   "rangoFechas": {
     "desde": "2026-08-24",
     "hasta": "2026-10-26"
@@ -1935,15 +1935,15 @@
       "producto": "ALMA OCULTA - FORTIFICADO BLANCO",
       "weekYear": "202643",
       "invMenos7": 0,
-      "compras": 0,
+      "compras": 3,
       "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 1,
       "vtasTot": 1,
       "inv": 2,
-      "cierre": 0,
-      "dif": 2
+      "cierre": 2,
+      "dif": 0
     },
     {
       "producto": "ALMA OCULTA - FORTIFICADO TINTO",
@@ -2173,15 +2173,15 @@
       "producto": "CAB. SAUVIGNON ZINFANDEL - ALMA OCULTA",
       "weekYear": "202643",
       "invMenos7": 2,
-      "compras": 0,
+      "compras": 3,
       "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 0,
       "inv": 5,
-      "cierre": 2,
-      "dif": 3
+      "cierre": 5,
+      "dif": 0
     },
     {
       "producto": "CABERNET FRANC - CRUCE DEL ZORRO",
@@ -16871,6 +16871,19 @@
       "dif": null
     },
     {
+      "producto": "ALMA OCULTA - FORTIFICADO BLANCO",
+      "fecha": "2026-10-20",
+      "dia": "mar",
+      "compras": 3,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 3,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "AMOR FATI - TELLUS",
       "fecha": "2026-10-20",
       "dia": "mar",
@@ -16893,6 +16906,19 @@
       "cortesias": 0,
       "salidas": 0,
       "invEsperado": 8,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "CAB. SAUVIGNON ZINFANDEL - ALMA OCULTA",
+      "fecha": "2026-10-20",
+      "dia": "mar",
+      "compras": 3,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 5,
       "invIniFin": null,
       "dif": null
     },
@@ -17711,9 +17737,9 @@
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 1,
-      "invEsperado": 0,
+      "invEsperado": 2,
       "invIniFin": 2,
-      "dif": 2
+      "dif": 0
     },
     {
       "producto": "CAÑON ESCONDIDO - TANNAT",
@@ -17918,7 +17944,7 @@
       },
       {
         "weekYear": "202643",
-        "valor": 42
+        "valor": 48
       },
       {
         "weekYear": "202644",
@@ -17930,7 +17956,7 @@
     "ventasIziDisponibles": true,
     "filasApertura": 1462,
     "filasInventariosGs": 4144,
-    "filasCompras": 2405,
+    "filasCompras": 2408,
     "filasMatrizChuleton": 1,
     "filasVentasIzi": 5758,
     "filasMovInv": 332,

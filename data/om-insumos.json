@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T13:16:32.279Z",
+  "generatedAt": "2026-10-26T19:22:34.015Z",
   "rangoFechas": {
     "desde": "2026-08-24",
     "hasta": "2026-10-26"
@@ -79,14 +79,14 @@
       "weekYear": "202644",
       "invMenos7": null,
       "compras": 0,
-      "vtasIzi": 0,
+      "vtasIzi": 2,
       "vtasAnc": 0,
       "vtasPY": 0,
       "vtasExt": 0,
       "vtasVegg": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 2,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -96,14 +96,14 @@
       "weekYear": "202644",
       "invMenos7": null,
       "compras": 0,
-      "vtasIzi": 0,
+      "vtasIzi": 1,
       "vtasAnc": 0,
       "vtasPY": 0,
       "vtasExt": 0,
       "vtasVegg": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -588,6 +588,28 @@
   "detalleDiario": [
     {
       "insumo": "Carne Molida 130g",
+      "fecha": "2026-10-26",
+      "dia": "lun",
+      "compras": 0,
+      "vtas": 2,
+      "salidas": 0,
+      "invEsperado": 0,
+      "invFin": null,
+      "dif": null
+    },
+    {
+      "insumo": "Pechuga de Pollo",
+      "fecha": "2026-10-26",
+      "dia": "lun",
+      "compras": 0,
+      "vtas": 1,
+      "salidas": 0,
+      "invEsperado": 0,
+      "invFin": null,
+      "dif": null
+    },
+    {
+      "insumo": "Carne Molida 130g",
       "fecha": "2026-10-19",
       "dia": "lun",
       "compras": 0,
@@ -831,7 +853,7 @@
       },
       {
         "weekYear": "202644",
-        "valor": 0
+        "valor": 3
       }
     ],
     "Vtas Anc": [
@@ -987,7 +1009,7 @@
       },
       {
         "weekYear": "202644",
-        "valor": 0
+        "valor": 3
       }
     ],
     "Compras": [
@@ -1023,7 +1045,7 @@
     "filasInventariosUnitarios": 0,
     "filasCompras": 1569,
     "filasSalidas": 102,
-    "filasVentasIzi": 7641,
+    "filasVentasIzi": 7646,
     "filasVentasPY": 11158,
     "filasExtras": 18015,
     "filasMovInv": 348,

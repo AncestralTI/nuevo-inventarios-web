@@ -1,11 +1,12 @@
 {
-  "generatedAt": "2026-10-26T01:14:41.901Z",
+  "generatedAt": "2026-10-26T06:18:50.939Z",
   "fuente": "API iZi Soluciones (facturas + items-inventarios), sucursal Ancestral (79344)",
   "rango": {
     "desde": "2026-09-26",
     "hasta": "2026-10-26"
   },
   "categorias": [
+    "6. Extra",
     "AGUAS",
     "BEBIDAS ALCOHOLICAS",
     "BEBIDAS CALIENTES",
@@ -11034,16 +11035,16 @@
       "producto": "INFUSION MENTA - CHOCO",
       "categoria": "BEBIDAS CALIENTES",
       "fecha": "2026-10-25",
-      "cantidad": 1,
-      "monto": 15
+      "cantidad": 5,
+      "monto": 75
     },
     {
       "codProducto": "ANC00051",
       "producto": "INFUSION MANZANILLA - CEDRON",
       "categoria": "BEBIDAS CALIENTES",
       "fecha": "2026-10-25",
-      "cantidad": 1,
-      "monto": 15
+      "cantidad": 11,
+      "monto": 165
     },
     {
       "codProducto": "ANC00040",
@@ -11076,6 +11077,46 @@
       "fecha": "2026-10-25",
       "cantidad": 1,
       "monto": 50
+    },
+    {
+      "codProducto": "ANC00079",
+      "producto": "MENU 5 TIEMPOS",
+      "categoria": "EVENTOS",
+      "fecha": "2026-10-25",
+      "cantidad": 24,
+      "monto": 8400
+    },
+    {
+      "codProducto": "ANC00074",
+      "producto": "MARIDAJE 5 TIEMPOS",
+      "categoria": "EXTRAS",
+      "fecha": "2026-10-25",
+      "cantidad": 24,
+      "monto": 3360
+    },
+    {
+      "codProducto": "ANC00372",
+      "producto": "SERVICIO DE ATENCIÓN EN HORARIO EXTRAORDINARIO",
+      "categoria": "6. Extra",
+      "fecha": "2026-10-25",
+      "cantidad": 2,
+      "monto": 1600
+    },
+    {
+      "codProducto": "ANC00047",
+      "producto": "ESPRESSO",
+      "categoria": "BEBIDAS CALIENTES",
+      "fecha": "2026-10-25",
+      "cantidad": 4,
+      "monto": 60
+    },
+    {
+      "codProducto": "ANC00043",
+      "producto": "CAFÉ PRENSA TAZA",
+      "categoria": "BEBIDAS CALIENTES",
+      "fecha": "2026-10-25",
+      "cantidad": 2,
+      "monto": 40
     }
   ]
 }

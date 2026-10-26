@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T01:13:56.809Z",
+  "generatedAt": "2026-10-26T06:18:02.201Z",
   "rangoFechas": {
     "desde": "2026-08-24",
     "hasta": "2026-10-26"
@@ -534,7 +534,7 @@
     {
       "producto": "CAMPOS DE SOLANA / \"ESTHER ORTIZ\"",
       "weekYear": "202644",
-      "invMenos7": 3,
+      "invMenos7": 2,
       "compras": 0,
       "vtas": 0,
       "vtasExt": 0,
@@ -542,13 +542,13 @@
       "salidas": 0,
       "vtasTot": 0,
       "inv": null,
-      "cierre": 3,
+      "cierre": 2,
       "dif": null
     },
     {
       "producto": "CAÑON ESCONDIDO - RED BLEND",
       "weekYear": "202644",
-      "invMenos7": 4,
+      "invMenos7": 6,
       "compras": 0,
       "vtas": 0,
       "vtasExt": 0,
@@ -556,13 +556,13 @@
       "salidas": 0,
       "vtasTot": 0,
       "inv": null,
-      "cierre": 4,
+      "cierre": 6,
       "dif": null
     },
     {
       "producto": "CAÑON ESCONDIDO - TANNAT",
       "weekYear": "202644",
-      "invMenos7": 3,
+      "invMenos7": 1,
       "compras": 0,
       "vtas": 0,
       "vtasExt": 0,
@@ -570,7 +570,7 @@
       "salidas": 0,
       "vtasTot": 0,
       "inv": null,
-      "cierre": 3,
+      "cierre": 1,
       "dif": null
     },
     {
@@ -604,7 +604,7 @@
     {
       "producto": "CHARDONNAY - 1750",
       "weekYear": "202644",
-      "invMenos7": 7,
+      "invMenos7": 8,
       "compras": 0,
       "vtas": 0,
       "vtasExt": 0,
@@ -612,7 +612,7 @@
       "salidas": 0,
       "vtasTot": 0,
       "inv": null,
-      "cierre": 7,
+      "cierre": 8,
       "dif": null
     },
     {
@@ -1374,7 +1374,7 @@
     {
       "producto": "MARSELAN - ARSAL",
       "weekYear": "202644",
-      "invMenos7": 7,
+      "invMenos7": 9,
       "compras": 0,
       "vtas": 0,
       "vtasExt": 0,
@@ -1382,7 +1382,7 @@
       "salidas": 0,
       "vtasTot": 0,
       "inv": null,
-      "cierre": 7,
+      "cierre": 9,
       "dif": null
     },
     {
@@ -1472,7 +1472,7 @@
     {
       "producto": "NARANJO - CEPA DE ORO",
       "weekYear": "202644",
-      "invMenos7": 8,
+      "invMenos7": 7,
       "compras": 0,
       "vtas": 0,
       "vtasExt": 0,
@@ -1480,7 +1480,7 @@
       "salidas": 0,
       "vtasTot": 0,
       "inv": null,
-      "cierre": 8,
+      "cierre": 7,
       "dif": null
     },
     {
@@ -1738,7 +1738,7 @@
     {
       "producto": "TIERRA ROJA - MOSCATEL",
       "weekYear": "202644",
-      "invMenos7": null,
+      "invMenos7": 1,
       "compras": 0,
       "vtas": 0,
       "vtasExt": 0,
@@ -1746,13 +1746,13 @@
       "salidas": 0,
       "vtasTot": 0,
       "inv": null,
-      "cierre": 0,
+      "cierre": 1,
       "dif": null
     },
     {
       "producto": "TIERRA ROJA - VISCHOQUEÑA",
       "weekYear": "202644",
-      "invMenos7": null,
+      "invMenos7": 5,
       "compras": 0,
       "vtas": 0,
       "vtasExt": 0,
@@ -1760,7 +1760,7 @@
       "salidas": 0,
       "vtasTot": 0,
       "inv": null,
-      "cierre": 0,
+      "cierre": 5,
       "dif": null
     },
     {
@@ -1822,7 +1822,7 @@
     {
       "producto": "VAL DO - GALIR",
       "weekYear": "202644",
-      "invMenos7": 0,
+      "invMenos7": 1,
       "compras": 0,
       "vtas": 0,
       "vtasExt": 0,
@@ -1830,7 +1830,7 @@
       "salidas": 0,
       "vtasTot": 0,
       "inv": null,
-      "cierre": 0,
+      "cierre": 1,
       "dif": null
     },
     {
@@ -1939,8 +1939,8 @@
       "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 0,
+      "salidas": 1,
+      "vtasTot": 1,
       "inv": 2,
       "cierre": 0,
       "dif": 2
@@ -2207,9 +2207,9 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 1,
-      "inv": 3,
+      "inv": 2,
       "cierre": 2,
-      "dif": 1
+      "dif": 0
     },
     {
       "producto": "CAÑON ESCONDIDO - RED BLEND",
@@ -2221,9 +2221,9 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 0,
-      "inv": 4,
+      "inv": 6,
       "cierre": 6,
-      "dif": -2
+      "dif": 0
     },
     {
       "producto": "CAÑON ESCONDIDO - TANNAT",
@@ -2235,9 +2235,9 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 3,
-      "inv": 3,
+      "inv": 1,
       "cierre": 1,
-      "dif": 2
+      "dif": 0
     },
     {
       "producto": "CEPA DE ORO - MISIONERA",
@@ -2277,9 +2277,9 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 0,
-      "inv": 7,
+      "inv": 8,
       "cierre": 8,
-      "dif": -1
+      "dif": 0
     },
     {
       "producto": "CHARDONNAY - APALTAGUA",
@@ -2961,11 +2961,11 @@
       "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
-      "salidas": 2,
-      "vtasTot": 2,
+      "salidas": 3,
+      "vtasTot": 3,
       "inv": 4,
-      "cierre": 5,
-      "dif": -1
+      "cierre": 4,
+      "dif": 0
     },
     {
       "producto": "MADERA \"LA KALOR\" GOSE",
@@ -3045,11 +3045,11 @@
       "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
-      "salidas": 1,
-      "vtasTot": 1,
-      "inv": 7,
-      "cierre": 11,
-      "dif": -4
+      "salidas": 3,
+      "vtasTot": 3,
+      "inv": 9,
+      "cierre": 9,
+      "dif": 0
     },
     {
       "producto": "MDLV - TRI VARIETAL",
@@ -3143,10 +3143,10 @@
       "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
-      "salidas": 1,
-      "vtasTot": 2,
-      "inv": 8,
-      "cierre": 8,
+      "salidas": 2,
+      "vtasTot": 3,
+      "inv": 7,
+      "cierre": 7,
       "dif": 0
     },
     {
@@ -3395,11 +3395,11 @@
       "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 0,
+      "salidas": 1,
+      "vtasTot": 1,
       "inv": 4,
-      "cierre": 5,
-      "dif": -1
+      "cierre": 4,
+      "dif": 0
     },
     {
       "producto": "TIERRA ROJA - MOSCATEL",
@@ -3411,9 +3411,9 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 0,
-      "inv": null,
+      "inv": 1,
       "cierre": 0,
-      "dif": null
+      "dif": 1
     },
     {
       "producto": "TIERRA ROJA - VISCHOQUEÑA",
@@ -3423,11 +3423,11 @@
       "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 0,
-      "inv": null,
+      "salidas": 1,
+      "vtasTot": 1,
+      "inv": 5,
       "cierre": 0,
-      "dif": null
+      "dif": 5
     },
     {
       "producto": "TRIVARIETAL BLANCO - CAMPOS",
@@ -3495,9 +3495,9 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 0,
-      "inv": 0,
+      "inv": 1,
       "cierre": 1,
-      "dif": null
+      "dif": 0
     },
     {
       "producto": "VISCHOQUEÑA - SAN FRANCISCO",
@@ -17469,6 +17469,32 @@
       "dif": null
     },
     {
+      "producto": "LOCURA 5.1.1. - MAGNUS",
+      "fecha": "2026-10-23",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 1,
+      "invEsperado": 5,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "MARSELAN - ARSAL",
+      "fecha": "2026-10-23",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 2,
+      "invEsperado": 9,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "MEMENTO MORI - TELLUS",
       "fecha": "2026-10-23",
       "dia": "vie",
@@ -17478,6 +17504,32 @@
       "cortesias": 0,
       "salidas": 1,
       "invEsperado": 3,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "TANNAT RAIZ - KOHLBERG",
+      "fecha": "2026-10-23",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 1,
+      "invEsperado": 4,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "TIERRA ROJA - VISCHOQUEÑA",
+      "fecha": "2026-10-23",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 1,
+      "invEsperado": 0,
       "invIniFin": null,
       "dif": null
     },
@@ -17612,19 +17664,6 @@
       "dif": null
     },
     {
-      "producto": "IMPREDECIBLE - TERRA ANCESTRAL",
-      "fecha": "2026-10-24",
-      "dia": "sáb",
-      "compras": 0,
-      "vtas": 0,
-      "vtasExt": 0,
-      "cortesias": 0,
-      "salidas": 1,
-      "invEsperado": 2,
-      "invIniFin": null,
-      "dif": null
-    },
-    {
       "producto": "MALBEC CALADOC - KUHLMANN",
       "fecha": "2026-10-24",
       "dia": "sáb",
@@ -17664,6 +17703,19 @@
       "dif": null
     },
     {
+      "producto": "ALMA OCULTA - FORTIFICADO BLANCO",
+      "fecha": "2026-10-25",
+      "dia": "dom",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 1,
+      "invEsperado": 0,
+      "invIniFin": 2,
+      "dif": 2
+    },
+    {
       "producto": "CAÑON ESCONDIDO - TANNAT",
       "fecha": "2026-10-25",
       "dia": "dom",
@@ -17673,8 +17725,21 @@
       "cortesias": 0,
       "salidas": 0,
       "invEsperado": 1,
-      "invIniFin": 3,
-      "dif": 2
+      "invIniFin": 1,
+      "dif": 0
+    },
+    {
+      "producto": "IMPREDECIBLE - TERRA ANCESTRAL",
+      "fecha": "2026-10-25",
+      "dia": "dom",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 1,
+      "invEsperado": 2,
+      "invIniFin": 2,
+      "dif": 0
     },
     {
       "producto": "LOCURA 5.1.1. - MAGNUS",
@@ -17685,9 +17750,22 @@
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 1,
-      "invEsperado": 5,
+      "invEsperado": 4,
       "invIniFin": 4,
-      "dif": -1
+      "dif": 0
+    },
+    {
+      "producto": "NARANJO - CEPA DE ORO",
+      "fecha": "2026-10-25",
+      "dia": "dom",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 1,
+      "invEsperado": 7,
+      "invIniFin": 7,
+      "dif": 0
     }
   ],
   "serieSemanal": {
@@ -17788,7 +17866,7 @@
       },
       {
         "weekYear": "202643",
-        "valor": 99
+        "valor": 106
       },
       {
         "weekYear": "202644",
@@ -17814,7 +17892,7 @@
       },
       {
         "weekYear": "202643",
-        "valor": 14
+        "valor": 21
       },
       {
         "weekYear": "202644",
@@ -17850,11 +17928,11 @@
   },
   "meta": {
     "ventasIziDisponibles": true,
-    "filasApertura": 1456,
-    "filasInventariosGs": 4142,
+    "filasApertura": 1462,
+    "filasInventariosGs": 4144,
     "filasCompras": 2405,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 5751,
+    "filasVentasIzi": 5758,
     "filasMovInv": 332,
     "filasDimProducto": 453,
     "warnings": []

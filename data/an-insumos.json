@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-26T23:12:51.525Z",
+  "generatedAt": "2026-10-27T02:06:37.976Z",
   "rangoFechas": {
     "desde": "2026-08-24",
-    "hasta": "2026-10-26"
+    "hasta": "2026-10-27"
   },
   "insumos": [
     "Chuleton",
@@ -1602,60 +1602,60 @@
       "weekYear": "202635",
       "invMenos7": 0,
       "compras": 24,
-      "vtas": 17,
+      "vtas": 13,
       "salidas": 0,
-      "vtasTot": 17,
+      "vtasTot": 13,
       "inv": 3,
-      "cierre": 7,
-      "dif": -4
+      "cierre": 11,
+      "dif": -8
     },
     {
       "insumo": "Corazon de pollo",
       "weekYear": "202635",
       "invMenos7": 35,
       "compras": 0,
-      "vtas": 6,
+      "vtas": 4,
       "salidas": 0,
-      "vtasTot": 6,
+      "vtasTot": 4,
       "inv": 31,
-      "cierre": 29,
-      "dif": 2
+      "cierre": 31,
+      "dif": 0
     },
     {
       "insumo": "Cordero",
       "weekYear": "202635",
       "invMenos7": 60,
       "compras": 0,
-      "vtas": 16,
+      "vtas": 15,
       "salidas": 0,
-      "vtasTot": 16,
+      "vtasTot": 15,
       "inv": 39,
-      "cierre": 44,
-      "dif": -5
+      "cierre": 45,
+      "dif": -6
     },
     {
       "insumo": "Keperi",
       "weekYear": "202635",
       "invMenos7": 13,
       "compras": 52,
-      "vtas": 32,
+      "vtas": 29,
       "salidas": 0,
-      "vtasTot": 32,
+      "vtasTot": 29,
       "inv": 22,
-      "cierre": 33,
-      "dif": -11
+      "cierre": 36,
+      "dif": -14
     },
     {
       "insumo": "Llama",
       "weekYear": "202635",
       "invMenos7": 30,
       "compras": 20,
-      "vtas": 14,
+      "vtas": 11,
       "salidas": 5.41,
-      "vtasTot": 19.41,
+      "vtasTot": 16.41,
       "inv": 30,
-      "cierre": 30.59,
-      "dif": -0.59
+      "cierre": 33.59,
+      "dif": -3.59
     },
     {
       "insumo": "Matambre de cerdo",
@@ -1674,12 +1674,12 @@
       "weekYear": "202635",
       "invMenos7": 28,
       "compras": 75,
-      "vtas": 37,
+      "vtas": 27,
       "salidas": 21.36,
-      "vtasTot": 58.36,
+      "vtasTot": 48.36,
       "inv": 27,
-      "cierre": 44.64,
-      "dif": -17.64
+      "cierre": 54.64,
+      "dif": -27.64
     },
     {
       "insumo": "Oreja de cerdo",
@@ -1698,72 +1698,72 @@
       "weekYear": "202635",
       "invMenos7": 30,
       "compras": 13,
-      "vtas": 15,
+      "vtas": 14,
       "salidas": 0,
-      "vtasTot": 15,
+      "vtasTot": 14,
       "inv": 19,
-      "cierre": 28,
-      "dif": -9
+      "cierre": 29,
+      "dif": -10
     },
     {
       "insumo": "Panza",
       "weekYear": "202635",
       "invMenos7": 24,
       "compras": 9,
-      "vtas": 14,
+      "vtas": 9,
       "salidas": 3.72,
-      "vtasTot": 17.72,
+      "vtasTot": 12.72,
       "inv": 15,
-      "cierre": 15.28,
-      "dif": -0.28
+      "cierre": 20.28,
+      "dif": -5.28
     },
     {
       "insumo": "Pato",
       "weekYear": "202635",
       "invMenos7": 94,
       "compras": 0,
-      "vtas": 8,
+      "vtas": 7,
       "salidas": 0,
-      "vtasTot": 8,
+      "vtasTot": 7,
       "inv": 83,
-      "cierre": 86,
-      "dif": -3
+      "cierre": 87,
+      "dif": -4
     },
     {
       "insumo": "Pechuga de pollo",
       "weekYear": "202635",
       "invMenos7": 21,
       "compras": 12,
-      "vtas": 16,
+      "vtas": 13,
       "salidas": 0,
-      "vtasTot": 16,
+      "vtasTot": 13,
       "inv": 12,
-      "cierre": 17,
-      "dif": -5
+      "cierre": 20,
+      "dif": -8
     },
     {
       "insumo": "Pescado amazonico",
       "weekYear": "202635",
       "invMenos7": 16,
       "compras": 23,
-      "vtas": 10,
+      "vtas": 9,
       "salidas": 0,
-      "vtasTot": 10,
+      "vtasTot": 9,
       "inv": 21,
-      "cierre": 29,
-      "dif": -8
+      "cierre": 30,
+      "dif": -9
     },
     {
       "insumo": "Trucha",
       "weekYear": "202635",
       "invMenos7": 36,
       "compras": 56,
-      "vtas": 36,
+      "vtas": 33,
       "salidas": 12,
-      "vtasTot": 48,
+      "vtasTot": 45,
       "inv": 55,
-      "cierre": 44,
-      "dif": 11
+      "cierre": 47,
+      "dif": 8
     }
   ],
   "detalleDiario": [
@@ -2792,6 +2792,6 @@
     "filasSalidas": 960,
     "filasMatriz": 23,
     "filasInventarios": 462,
-    "filasVentasIzi": 5758
+    "filasVentasIzi": 5676
   }
 }

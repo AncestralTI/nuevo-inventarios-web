@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-26T23:13:16.502Z",
+  "generatedAt": "2026-10-27T02:07:00.496Z",
   "rangoFechas": {
     "desde": "2026-08-24",
-    "hasta": "2026-10-26"
+    "hasta": "2026-10-27"
   },
   "categorias": [
     "5. Bebidas alcohólicas",
@@ -477,10 +477,10 @@
       "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 0,
+      "salidas": 4,
+      "vtasTot": 4,
       "inv": null,
-      "cierre": 13,
+      "cierre": 9,
       "dif": null
     },
     {
@@ -3778,14 +3778,14 @@
       "weekYear": "202635",
       "invMenos7": 20,
       "compras": 0,
-      "vtas": 6,
+      "vtas": 4,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 6,
+      "vtasTot": 4,
       "inv": 11,
-      "cierre": 14,
-      "dif": -3
+      "cierre": 16,
+      "dif": -5
     },
     {
       "producto": "BENDITA PILS",
@@ -3960,14 +3960,14 @@
       "weekYear": "202635",
       "invMenos7": 54,
       "compras": 0,
-      "vtas": 15,
+      "vtas": 12,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 1,
-      "vtasTot": 16,
+      "vtasTot": 13,
       "inv": 35,
-      "cierre": 38,
-      "dif": -3
+      "cierre": 41,
+      "dif": -6
     },
     {
       "producto": "FANTA",
@@ -4002,28 +4002,28 @@
       "weekYear": "202635",
       "invMenos7": 0,
       "compras": 72,
-      "vtas": 17,
+      "vtas": 11,
       "vtasExt": 2,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 19,
+      "vtasTot": 13,
       "inv": 49,
-      "cierre": 53,
-      "dif": -4
+      "cierre": 59,
+      "dif": -10
     },
     {
       "producto": "MADERA \"LA KALOR\" GOSE",
       "weekYear": "202635",
       "invMenos7": 10,
       "compras": 0,
-      "vtas": 2,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 2,
+      "vtasTot": 1,
       "inv": 7,
-      "cierre": 8,
-      "dif": -1
+      "cierre": 9,
+      "dif": -2
     },
     {
       "producto": "MADERA DOMINGA",
@@ -4142,14 +4142,14 @@
       "weekYear": "202635",
       "invMenos7": 17,
       "compras": 0,
-      "vtas": 2,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 2,
+      "vtasTot": 1,
       "inv": 14,
-      "cierre": 15,
-      "dif": -1
+      "cierre": 16,
+      "dif": -2
     },
     {
       "producto": "UYUNI",
@@ -4167,6 +4167,19 @@
     }
   ],
   "detalleDiario": [
+    {
+      "producto": "SAN MIGUEL SOLSTICIO",
+      "fecha": "2026-10-26",
+      "dia": "lun",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 4,
+      "invEsperado": 9,
+      "invIniFin": 13,
+      "dif": 4
+    },
     {
       "producto": "COCA COLA",
       "fecha": "2026-10-20",
@@ -4621,7 +4634,7 @@
       },
       {
         "weekYear": "202644",
-        "valor": 0
+        "valor": 4
       }
     ],
     "Salidas": [
@@ -4647,7 +4660,7 @@
       },
       {
         "weekYear": "202644",
-        "valor": 0
+        "valor": 4
       }
     ],
     "Compras": [
@@ -4679,12 +4692,12 @@
   },
   "meta": {
     "ventasIziDisponibles": true,
-    "filasApertura": 1462,
+    "filasApertura": 1466,
     "filasInventariosGs": 4144,
     "filasCompras": 2409,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 5758,
-    "filasMovInv": 332,
+    "filasVentasIzi": 5676,
+    "filasMovInv": 308,
     "filasDimProducto": 453,
     "warnings": []
   }

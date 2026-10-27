@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T13:38:55.554Z",
+  "generatedAt": "2026-10-27T18:57:57.744Z",
   "rangoFechas": {
     "desde": "2026-08-24",
     "hasta": "2026-10-27"
@@ -130,14 +130,14 @@
       "weekYear": "202644",
       "invMenos7": 54,
       "compras": 0,
-      "vtasIzi": 0,
+      "vtasIzi": 1,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 54,
+      "cierre": 53,
       "dif": null
     },
     {
@@ -280,14 +280,14 @@
       "weekYear": "202644",
       "invMenos7": 259,
       "compras": 0,
-      "vtasIzi": 0,
+      "vtasIzi": 1,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 259,
+      "cierre": 258,
       "dif": null
     },
     {
@@ -7441,6 +7441,34 @@
     },
     {
       "producto": "Agua",
+      "fecha": "2026-10-27",
+      "dia": "mar",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 53,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "Cerveza Huari",
+      "fecha": "2026-10-27",
+      "dia": "mar",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 258,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "Agua",
       "fecha": "2026-10-19",
       "dia": "lun",
       "compras": 0,
@@ -9060,7 +9088,7 @@
       },
       {
         "weekYear": "202644",
-        "valor": 2
+        "valor": 4
       }
     ],
     "Vtas Ext.": [
@@ -9138,7 +9166,7 @@
       },
       {
         "weekYear": "202644",
-        "valor": 27
+        "valor": 29
       }
     ],
     "Compras": [
@@ -9172,9 +9200,9 @@
     "ventasIziDisponibles": true,
     "filasDimProducto": 453,
     "filasInventariosOmuh": 460,
-    "filasCompras": 1569,
+    "filasCompras": 1573,
     "filasSalidas": 102,
-    "filasVentasIzi": 7588,
+    "filasVentasIzi": 7601,
     "filasVentasPY": 11173,
     "filasExtras": 18057,
     "filasMovInv": 333,

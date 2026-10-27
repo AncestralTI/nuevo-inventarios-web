@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T18:57:17.809Z",
+  "generatedAt": "2026-10-27T22:50:57.018Z",
   "rangoFechas": {
     "desde": "2026-08-24",
     "hasta": "2026-10-27"
@@ -255,14 +255,14 @@
       "producto": "ALAYA - TELLUS",
       "weekYear": "202644",
       "invMenos7": 0,
-      "compras": 0,
+      "compras": 6,
       "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 0,
       "inv": null,
-      "cierre": 0,
+      "cierre": 6,
       "dif": null
     },
     {
@@ -311,14 +311,14 @@
       "producto": "AMOR FATI - TELLUS",
       "weekYear": "202644",
       "invMenos7": 1,
-      "compras": 0,
+      "compras": 6,
       "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 0,
       "inv": null,
-      "cierre": 1,
+      "cierre": 7,
       "dif": null
     },
     {
@@ -493,14 +493,14 @@
       "producto": "CAB- FRANC ROSE - CASA SOLUM",
       "weekYear": "202644",
       "invMenos7": 0,
-      "compras": 0,
+      "compras": 6,
       "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 0,
       "inv": null,
-      "cierre": 0,
+      "cierre": 6,
       "dif": null
     },
     {
@@ -1403,14 +1403,14 @@
       "producto": "MEMENTO MORI - TELLUS",
       "weekYear": "202644",
       "invMenos7": 2,
-      "compras": 0,
+      "compras": 6,
       "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 0,
       "inv": null,
-      "cierre": 2,
+      "cierre": 8,
       "dif": null
     },
     {
@@ -16911,6 +16911,58 @@
     },
     {
       "producto": "ALAYA - TELLUS",
+      "fecha": "2026-10-27",
+      "dia": "mar",
+      "compras": 6,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 6,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "AMOR FATI - TELLUS",
+      "fecha": "2026-10-27",
+      "dia": "mar",
+      "compras": 6,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 7,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "CAB- FRANC ROSE - CASA SOLUM",
+      "fecha": "2026-10-27",
+      "dia": "mar",
+      "compras": 6,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 6,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "MEMENTO MORI - TELLUS",
+      "fecha": "2026-10-27",
+      "dia": "mar",
+      "compras": 6,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 8,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "ALAYA - TELLUS",
       "fecha": "2026-10-20",
       "dia": "mar",
       "compras": 0,
@@ -18000,7 +18052,7 @@
       },
       {
         "weekYear": "202644",
-        "valor": 0
+        "valor": 24
       }
     ]
   },
@@ -18008,7 +18060,7 @@
     "ventasIziDisponibles": true,
     "filasApertura": 1466,
     "filasInventariosGs": 4144,
-    "filasCompras": 2414,
+    "filasCompras": 2423,
     "filasMatrizChuleton": 1,
     "filasVentasIzi": 5680,
     "filasMovInv": 308,

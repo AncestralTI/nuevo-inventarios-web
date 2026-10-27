@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T02:07:42.538Z",
+  "generatedAt": "2026-10-27T07:44:26.224Z",
   "fuente": "API iZi Soluciones (facturas + items-inventarios), sucursal Ancestral (79344)",
   "rango": {
     "desde": "2026-09-27",
@@ -10637,6 +10637,38 @@
       "fecha": "2026-10-25",
       "cantidad": 2,
       "monto": 40
+    },
+    {
+      "codProducto": "ANC00079",
+      "producto": "MENU 5 TIEMPOS",
+      "categoria": "EVENTOS",
+      "fecha": "2026-10-26",
+      "cantidad": 16,
+      "monto": 5600
+    },
+    {
+      "codProducto": "ANC00074",
+      "producto": "MARIDAJE 5 TIEMPOS",
+      "categoria": "EXTRAS",
+      "fecha": "2026-10-26",
+      "cantidad": 16,
+      "monto": 2240
+    },
+    {
+      "codProducto": "ANC00001",
+      "producto": "AGUA C/G",
+      "categoria": "AGUAS",
+      "fecha": "2026-10-26",
+      "cantidad": 16,
+      "monto": 160
+    },
+    {
+      "codProducto": "ANC00372",
+      "producto": "SERVICIO DE ATENCIÓN EN HORARIO EXTRAORDINARIO",
+      "categoria": "6. Extra",
+      "fecha": "2026-10-26",
+      "cantidad": 1,
+      "monto": 1000
     }
   ]
 }

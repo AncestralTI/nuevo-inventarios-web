@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T19:55:55.456Z",
+  "generatedAt": "2026-10-28T23:46:24.693Z",
   "fuente": "API iZi Soluciones (facturas + items-inventarios), sucursal Ancestral (79344)",
   "rango": {
     "desde": "2026-09-28",
@@ -10726,6 +10726,22 @@
       "fecha": "2026-10-27",
       "cantidad": 1,
       "monto": 275
+    },
+    {
+      "codProducto": "ANC00079",
+      "producto": "MENU 5 TIEMPOS",
+      "categoria": "EVENTOS",
+      "fecha": "2026-10-28",
+      "cantidad": 25,
+      "monto": 6500
+    },
+    {
+      "codProducto": "ANC00002",
+      "producto": "AGUA S/G",
+      "categoria": "AGUAS",
+      "fecha": "2026-10-28",
+      "cantidad": 25,
+      "monto": 250
     }
   ]
 }

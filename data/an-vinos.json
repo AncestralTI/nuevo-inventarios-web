@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T14:43:57.892Z",
+  "generatedAt": "2026-10-28T19:55:06.395Z",
   "rangoFechas": {
     "desde": "2026-08-24",
     "hasta": "2026-10-28"
@@ -98,6 +98,7 @@
     "MDLV - TRI VARIETAL",
     "MEMENTO MORI - TELLUS",
     "MISIONERA - YOKICH",
+    "MOSCATEL - TIERRA ROJA",
     "MOSCATEL PINOT BLANC - CASA SOLUM",
     "MOSCATEL RESERVA - MARQUEZ DE LA VIÑA",
     "MUGA - RESERVA",
@@ -120,13 +121,12 @@
     "SYRAH - TERRA ANCESTRAL",
     "TANNAT LADO B - JARDIN OCULTO",
     "TANNAT RAIZ - KOHLBERG",
-    "TIERRA ROJA - MOSCATEL",
-    "TIERRA ROJA - VISCHOQUEÑA",
     "TRIVARIETAL BLANCO - CAMPOS",
     "TRIVARIETAL TINTO - MAGNUS",
     "UNICO - CAMPOS DE SOLANA",
     "UYUNI",
     "VAL DO - GALIR",
+    "VISCHOQUEÑA - DON CRISTIAN TIERRA ROJA",
     "VISCHOQUEÑA - SAN FRANCISCO",
     "VISCHOQUEÑA - YOKICH"
   ],
@@ -1361,14 +1361,14 @@
       "producto": "MALBEC CALADOC - KUHLMANN",
       "weekYear": "202644",
       "invMenos7": 1,
-      "compras": 0,
+      "compras": 6,
       "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 1,
       "vtasTot": 1,
       "inv": null,
-      "cierre": 0,
+      "cierre": 6,
       "dif": null
     },
     {
@@ -1425,6 +1425,20 @@
       "vtasTot": 0,
       "inv": null,
       "cierre": 3,
+      "dif": null
+    },
+    {
+      "producto": "MOSCATEL - TIERRA ROJA",
+      "weekYear": "202644",
+      "invMenos7": 1,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 1,
       "dif": null
     },
     {
@@ -1736,34 +1750,6 @@
       "dif": null
     },
     {
-      "producto": "TIERRA ROJA - MOSCATEL",
-      "weekYear": "202644",
-      "invMenos7": 1,
-      "compras": 0,
-      "vtas": 0,
-      "vtasExt": 0,
-      "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 0,
-      "inv": null,
-      "cierre": 1,
-      "dif": null
-    },
-    {
-      "producto": "TIERRA ROJA - VISCHOQUEÑA",
-      "weekYear": "202644",
-      "invMenos7": 5,
-      "compras": 0,
-      "vtas": 1,
-      "vtasExt": 0,
-      "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 1,
-      "inv": null,
-      "cierre": 4,
-      "dif": null
-    },
-    {
       "producto": "TRIVARIETAL BLANCO - CAMPOS",
       "weekYear": "202644",
       "invMenos7": 4,
@@ -1831,6 +1817,20 @@
       "vtasTot": 0,
       "inv": null,
       "cierre": 1,
+      "dif": null
+    },
+    {
+      "producto": "VISCHOQUEÑA - DON CRISTIAN TIERRA ROJA",
+      "weekYear": "202644",
+      "invMenos7": 5,
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 1,
+      "inv": null,
+      "cierre": 4,
       "dif": null
     },
     {
@@ -3094,6 +3094,20 @@
       "dif": 0
     },
     {
+      "producto": "MOSCATEL - TIERRA ROJA",
+      "weekYear": "202643",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": 1,
+      "cierre": 0,
+      "dif": 1
+    },
+    {
       "producto": "MOSCATEL PINOT BLANC - CASA SOLUM",
       "weekYear": "202643",
       "invMenos7": 2,
@@ -3402,34 +3416,6 @@
       "dif": 0
     },
     {
-      "producto": "TIERRA ROJA - MOSCATEL",
-      "weekYear": "202643",
-      "invMenos7": null,
-      "compras": 0,
-      "vtas": 0,
-      "vtasExt": 0,
-      "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 0,
-      "inv": 1,
-      "cierre": 0,
-      "dif": 1
-    },
-    {
-      "producto": "TIERRA ROJA - VISCHOQUEÑA",
-      "weekYear": "202643",
-      "invMenos7": null,
-      "compras": 0,
-      "vtas": 0,
-      "vtasExt": 0,
-      "cortesias": 0,
-      "salidas": 1,
-      "vtasTot": 1,
-      "inv": 5,
-      "cierre": 0,
-      "dif": 5
-    },
-    {
       "producto": "TRIVARIETAL BLANCO - CAMPOS",
       "weekYear": "202643",
       "invMenos7": 4,
@@ -3498,6 +3484,20 @@
       "inv": 1,
       "cierre": 1,
       "dif": 0
+    },
+    {
+      "producto": "VISCHOQUEÑA - DON CRISTIAN TIERRA ROJA",
+      "weekYear": "202643",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 1,
+      "vtasTot": 1,
+      "inv": 5,
+      "cierre": 0,
+      "dif": 5
     },
     {
       "producto": "VISCHOQUEÑA - SAN FRANCISCO",
@@ -4760,6 +4760,20 @@
       "dif": 0
     },
     {
+      "producto": "MOSCATEL - TIERRA ROJA",
+      "weekYear": "202642",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
       "producto": "MOSCATEL PINOT BLANC - CASA SOLUM",
       "weekYear": "202642",
       "invMenos7": 3,
@@ -5068,34 +5082,6 @@
       "dif": 0
     },
     {
-      "producto": "TIERRA ROJA - MOSCATEL",
-      "weekYear": "202642",
-      "invMenos7": null,
-      "compras": 0,
-      "vtas": 0,
-      "vtasExt": 0,
-      "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 0,
-      "inv": null,
-      "cierre": 0,
-      "dif": null
-    },
-    {
-      "producto": "TIERRA ROJA - VISCHOQUEÑA",
-      "weekYear": "202642",
-      "invMenos7": null,
-      "compras": 0,
-      "vtas": 0,
-      "vtasExt": 0,
-      "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 0,
-      "inv": null,
-      "cierre": 0,
-      "dif": null
-    },
-    {
       "producto": "TRIVARIETAL BLANCO - CAMPOS",
       "weekYear": "202642",
       "invMenos7": 4,
@@ -5164,6 +5150,20 @@
       "inv": 1,
       "cierre": 1,
       "dif": 0
+    },
+    {
+      "producto": "VISCHOQUEÑA - DON CRISTIAN TIERRA ROJA",
+      "weekYear": "202642",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
     },
     {
       "producto": "VISCHOQUEÑA - SAN FRANCISCO",
@@ -6426,6 +6426,20 @@
       "dif": 0
     },
     {
+      "producto": "MOSCATEL - TIERRA ROJA",
+      "weekYear": "202641",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
       "producto": "MOSCATEL PINOT BLANC - CASA SOLUM",
       "weekYear": "202641",
       "invMenos7": 3,
@@ -6734,34 +6748,6 @@
       "dif": 0
     },
     {
-      "producto": "TIERRA ROJA - MOSCATEL",
-      "weekYear": "202641",
-      "invMenos7": null,
-      "compras": 0,
-      "vtas": 0,
-      "vtasExt": 0,
-      "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 0,
-      "inv": null,
-      "cierre": 0,
-      "dif": null
-    },
-    {
-      "producto": "TIERRA ROJA - VISCHOQUEÑA",
-      "weekYear": "202641",
-      "invMenos7": null,
-      "compras": 0,
-      "vtas": 0,
-      "vtasExt": 0,
-      "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 0,
-      "inv": null,
-      "cierre": 0,
-      "dif": null
-    },
-    {
       "producto": "TRIVARIETAL BLANCO - CAMPOS",
       "weekYear": "202641",
       "invMenos7": 4,
@@ -6830,6 +6816,20 @@
       "inv": 1,
       "cierre": 1,
       "dif": 0
+    },
+    {
+      "producto": "VISCHOQUEÑA - DON CRISTIAN TIERRA ROJA",
+      "weekYear": "202641",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
     },
     {
       "producto": "VISCHOQUEÑA - SAN FRANCISCO",
@@ -8092,6 +8092,20 @@
       "dif": 0
     },
     {
+      "producto": "MOSCATEL - TIERRA ROJA",
+      "weekYear": "202640",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
       "producto": "MOSCATEL PINOT BLANC - CASA SOLUM",
       "weekYear": "202640",
       "invMenos7": 4,
@@ -8400,34 +8414,6 @@
       "dif": 0
     },
     {
-      "producto": "TIERRA ROJA - MOSCATEL",
-      "weekYear": "202640",
-      "invMenos7": null,
-      "compras": 0,
-      "vtas": 0,
-      "vtasExt": 0,
-      "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 0,
-      "inv": null,
-      "cierre": 0,
-      "dif": null
-    },
-    {
-      "producto": "TIERRA ROJA - VISCHOQUEÑA",
-      "weekYear": "202640",
-      "invMenos7": null,
-      "compras": 0,
-      "vtas": 0,
-      "vtasExt": 0,
-      "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 0,
-      "inv": null,
-      "cierre": 0,
-      "dif": null
-    },
-    {
       "producto": "TRIVARIETAL BLANCO - CAMPOS",
       "weekYear": "202640",
       "invMenos7": 4,
@@ -8496,6 +8482,20 @@
       "inv": 1,
       "cierre": 1,
       "dif": 0
+    },
+    {
+      "producto": "VISCHOQUEÑA - DON CRISTIAN TIERRA ROJA",
+      "weekYear": "202640",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
     },
     {
       "producto": "VISCHOQUEÑA - SAN FRANCISCO",
@@ -9758,6 +9758,20 @@
       "dif": 0
     },
     {
+      "producto": "MOSCATEL - TIERRA ROJA",
+      "weekYear": "202639",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
       "producto": "MOSCATEL PINOT BLANC - CASA SOLUM",
       "weekYear": "202639",
       "invMenos7": 6,
@@ -10066,34 +10080,6 @@
       "dif": 0
     },
     {
-      "producto": "TIERRA ROJA - MOSCATEL",
-      "weekYear": "202639",
-      "invMenos7": null,
-      "compras": 0,
-      "vtas": 0,
-      "vtasExt": 0,
-      "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 0,
-      "inv": null,
-      "cierre": 0,
-      "dif": null
-    },
-    {
-      "producto": "TIERRA ROJA - VISCHOQUEÑA",
-      "weekYear": "202639",
-      "invMenos7": null,
-      "compras": 0,
-      "vtas": 0,
-      "vtasExt": 0,
-      "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 0,
-      "inv": null,
-      "cierre": 0,
-      "dif": null
-    },
-    {
       "producto": "TRIVARIETAL BLANCO - CAMPOS",
       "weekYear": "202639",
       "invMenos7": 4,
@@ -10162,6 +10148,20 @@
       "inv": 1,
       "cierre": 1,
       "dif": 0
+    },
+    {
+      "producto": "VISCHOQUEÑA - DON CRISTIAN TIERRA ROJA",
+      "weekYear": "202639",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
     },
     {
       "producto": "VISCHOQUEÑA - SAN FRANCISCO",
@@ -11424,6 +11424,20 @@
       "dif": 0
     },
     {
+      "producto": "MOSCATEL - TIERRA ROJA",
+      "weekYear": "202638",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
       "producto": "MOSCATEL PINOT BLANC - CASA SOLUM",
       "weekYear": "202638",
       "invMenos7": 6,
@@ -11732,34 +11746,6 @@
       "dif": 0
     },
     {
-      "producto": "TIERRA ROJA - MOSCATEL",
-      "weekYear": "202638",
-      "invMenos7": null,
-      "compras": 0,
-      "vtas": 0,
-      "vtasExt": 0,
-      "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 0,
-      "inv": null,
-      "cierre": 0,
-      "dif": null
-    },
-    {
-      "producto": "TIERRA ROJA - VISCHOQUEÑA",
-      "weekYear": "202638",
-      "invMenos7": null,
-      "compras": 0,
-      "vtas": 0,
-      "vtasExt": 0,
-      "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 0,
-      "inv": null,
-      "cierre": 0,
-      "dif": null
-    },
-    {
       "producto": "TRIVARIETAL BLANCO - CAMPOS",
       "weekYear": "202638",
       "invMenos7": 4,
@@ -11828,6 +11814,20 @@
       "inv": 1,
       "cierre": 1,
       "dif": 0
+    },
+    {
+      "producto": "VISCHOQUEÑA - DON CRISTIAN TIERRA ROJA",
+      "weekYear": "202638",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
     },
     {
       "producto": "VISCHOQUEÑA - SAN FRANCISCO",
@@ -13090,6 +13090,20 @@
       "dif": 0
     },
     {
+      "producto": "MOSCATEL - TIERRA ROJA",
+      "weekYear": "202637",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
       "producto": "MOSCATEL PINOT BLANC - CASA SOLUM",
       "weekYear": "202637",
       "invMenos7": 0,
@@ -13398,34 +13412,6 @@
       "dif": 0
     },
     {
-      "producto": "TIERRA ROJA - MOSCATEL",
-      "weekYear": "202637",
-      "invMenos7": null,
-      "compras": 0,
-      "vtas": 0,
-      "vtasExt": 0,
-      "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 0,
-      "inv": null,
-      "cierre": 0,
-      "dif": null
-    },
-    {
-      "producto": "TIERRA ROJA - VISCHOQUEÑA",
-      "weekYear": "202637",
-      "invMenos7": null,
-      "compras": 0,
-      "vtas": 0,
-      "vtasExt": 0,
-      "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 0,
-      "inv": null,
-      "cierre": 0,
-      "dif": null
-    },
-    {
       "producto": "TRIVARIETAL BLANCO - CAMPOS",
       "weekYear": "202637",
       "invMenos7": 4,
@@ -13494,6 +13480,20 @@
       "inv": 1,
       "cierre": 1,
       "dif": 0
+    },
+    {
+      "producto": "VISCHOQUEÑA - DON CRISTIAN TIERRA ROJA",
+      "weekYear": "202637",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
     },
     {
       "producto": "VISCHOQUEÑA - SAN FRANCISCO",
@@ -14756,6 +14756,20 @@
       "dif": 0
     },
     {
+      "producto": "MOSCATEL - TIERRA ROJA",
+      "weekYear": "202636",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
       "producto": "MOSCATEL PINOT BLANC - CASA SOLUM",
       "weekYear": "202636",
       "invMenos7": 0,
@@ -15064,34 +15078,6 @@
       "dif": 0
     },
     {
-      "producto": "TIERRA ROJA - MOSCATEL",
-      "weekYear": "202636",
-      "invMenos7": null,
-      "compras": 0,
-      "vtas": 0,
-      "vtasExt": 0,
-      "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 0,
-      "inv": null,
-      "cierre": 0,
-      "dif": null
-    },
-    {
-      "producto": "TIERRA ROJA - VISCHOQUEÑA",
-      "weekYear": "202636",
-      "invMenos7": null,
-      "compras": 0,
-      "vtas": 0,
-      "vtasExt": 0,
-      "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 0,
-      "inv": null,
-      "cierre": 0,
-      "dif": null
-    },
-    {
       "producto": "TRIVARIETAL BLANCO - CAMPOS",
       "weekYear": "202636",
       "invMenos7": 4,
@@ -15160,6 +15146,20 @@
       "inv": 1,
       "cierre": 1,
       "dif": 0
+    },
+    {
+      "producto": "VISCHOQUEÑA - DON CRISTIAN TIERRA ROJA",
+      "weekYear": "202636",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
     },
     {
       "producto": "VISCHOQUEÑA - SAN FRANCISCO",
@@ -16422,6 +16422,20 @@
       "dif": 0
     },
     {
+      "producto": "MOSCATEL - TIERRA ROJA",
+      "weekYear": "202635",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
       "producto": "MOSCATEL PINOT BLANC - CASA SOLUM",
       "weekYear": "202635",
       "invMenos7": 0,
@@ -16730,34 +16744,6 @@
       "dif": 0
     },
     {
-      "producto": "TIERRA ROJA - MOSCATEL",
-      "weekYear": "202635",
-      "invMenos7": null,
-      "compras": 0,
-      "vtas": 0,
-      "vtasExt": 0,
-      "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 0,
-      "inv": null,
-      "cierre": 0,
-      "dif": null
-    },
-    {
-      "producto": "TIERRA ROJA - VISCHOQUEÑA",
-      "weekYear": "202635",
-      "invMenos7": null,
-      "compras": 0,
-      "vtas": 0,
-      "vtasExt": 0,
-      "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 0,
-      "inv": null,
-      "cierre": 0,
-      "dif": null
-    },
-    {
       "producto": "TRIVARIETAL BLANCO - CAMPOS",
       "weekYear": "202635",
       "invMenos7": 4,
@@ -16826,6 +16812,20 @@
       "inv": 1,
       "cierre": 1,
       "dif": 0
+    },
+    {
+      "producto": "VISCHOQUEÑA - DON CRISTIAN TIERRA ROJA",
+      "weekYear": "202635",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
     },
     {
       "producto": "VISCHOQUEÑA - SAN FRANCISCO",
@@ -17066,7 +17066,7 @@
       "dif": null
     },
     {
-      "producto": "TIERRA ROJA - VISCHOQUEÑA",
+      "producto": "VISCHOQUEÑA - DON CRISTIAN TIERRA ROJA",
       "fecha": "2026-10-27",
       "dia": "mar",
       "compras": 0,
@@ -17075,6 +17075,19 @@
       "cortesias": 0,
       "salidas": 0,
       "invEsperado": 4,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "MALBEC CALADOC - KUHLMANN",
+      "fecha": "2026-10-28",
+      "dia": "mié",
+      "compras": 6,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 6,
       "invIniFin": null,
       "dif": null
     },
@@ -17768,7 +17781,7 @@
       "dif": null
     },
     {
-      "producto": "TIERRA ROJA - VISCHOQUEÑA",
+      "producto": "VISCHOQUEÑA - DON CRISTIAN TIERRA ROJA",
       "fecha": "2026-10-23",
       "dia": "vie",
       "compras": 0,
@@ -18169,7 +18182,7 @@
       },
       {
         "weekYear": "202644",
-        "valor": 24
+        "valor": 30
       }
     ]
   },
@@ -18177,10 +18190,10 @@
     "ventasIziDisponibles": true,
     "filasApertura": 1468,
     "filasInventariosGs": 4144,
-    "filasCompras": 2423,
+    "filasCompras": 2426,
     "filasMatrizChuleton": 1,
     "filasVentasIzi": 5636,
-    "filasMovInv": 296,
+    "filasMovInv": 298,
     "filasDimProducto": 454,
     "warnings": []
   }

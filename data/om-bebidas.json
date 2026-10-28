@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T14:44:37.620Z",
+  "generatedAt": "2026-10-28T19:55:53.335Z",
   "rangoFechas": {
     "desde": "2026-08-24",
     "hasta": "2026-10-28"
@@ -355,12 +355,12 @@
       "weekYear": "202644",
       "invMenos7": null,
       "compras": 0,
-      "vtasIzi": 2,
+      "vtasIzi": 3,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 2,
+      "vtasTot": 3,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -429,7 +429,7 @@
       "producto": "Curandero",
       "weekYear": "202644",
       "invMenos7": 9,
-      "compras": 0,
+      "compras": 24,
       "vtasIzi": 0,
       "vtasExt": 0,
       "vtasPY": 0,
@@ -437,7 +437,7 @@
       "salidas": 0,
       "vtasTot": 0,
       "inv": null,
-      "cierre": 9,
+      "cierre": 33,
       "dif": null
     },
     {
@@ -7552,6 +7552,20 @@
       "dif": null
     },
     {
+      "producto": "Curandero",
+      "fecha": "2026-10-27",
+      "dia": "mar",
+      "compras": 24,
+      "vtas": 0,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 33,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "Fanta",
       "fecha": "2026-10-27",
       "dia": "mar",
@@ -7674,6 +7688,20 @@
       "vtasAnc": 0,
       "salidas": 0,
       "invEsperado": 37,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "Coca Cola",
+      "fecha": "2026-10-28",
+      "dia": "mié",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 0,
       "invIniFin": null,
       "dif": null
     },
@@ -9298,7 +9326,7 @@
       },
       {
         "weekYear": "202644",
-        "valor": 11
+        "valor": 12
       }
     ],
     "Vtas Ext.": [
@@ -9376,7 +9404,7 @@
       },
       {
         "weekYear": "202644",
-        "valor": 71
+        "valor": 72
       }
     ],
     "Compras": [
@@ -9402,7 +9430,7 @@
       },
       {
         "weekYear": "202644",
-        "valor": 156
+        "valor": 180
       }
     ]
   },
@@ -9410,12 +9438,12 @@
     "ventasIziDisponibles": true,
     "filasDimProducto": 454,
     "filasInventariosOmuh": 460,
-    "filasCompras": 1574,
+    "filasCompras": 1575,
     "filasSalidas": 102,
-    "filasVentasIzi": 7436,
+    "filasVentasIzi": 7449,
     "filasVentasPY": 11175,
     "filasExtras": 18116,
-    "filasMovInv": 316,
+    "filasMovInv": 318,
     "filasVentasAncIzi": 5636,
     "warnings": []
   }

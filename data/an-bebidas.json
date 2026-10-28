@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-27T22:51:08.148Z",
+  "generatedAt": "2026-10-28T01:57:17.060Z",
   "rangoFechas": {
     "desde": "2026-08-24",
-    "hasta": "2026-10-27"
+    "hasta": "2026-10-28"
   },
   "categorias": [
     "5. Bebidas alcohólicas",
@@ -124,13 +124,13 @@
       "weekYear": "202644",
       "invMenos7": 8,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 8,
+      "cierre": 7,
       "dif": null
     },
     {
@@ -292,13 +292,13 @@
       "weekYear": "202644",
       "invMenos7": 30,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 2,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 2,
       "inv": null,
-      "cierre": 30,
+      "cierre": 28,
       "dif": null
     },
     {
@@ -306,13 +306,13 @@
       "weekYear": "202644",
       "invMenos7": 24,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 4,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 4,
       "inv": null,
-      "cierre": 24,
+      "cierre": 20,
       "dif": null
     },
     {
@@ -348,13 +348,13 @@
       "weekYear": "202644",
       "invMenos7": 12,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 12,
+      "cierre": 11,
       "dif": null
     },
     {
@@ -3778,14 +3778,14 @@
       "weekYear": "202635",
       "invMenos7": 20,
       "compras": 0,
-      "vtas": 4,
+      "vtas": 3,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 4,
+      "vtasTot": 3,
       "inv": 11,
-      "cierre": 16,
-      "dif": -5
+      "cierre": 17,
+      "dif": -6
     },
     {
       "producto": "BENDITA PILS",
@@ -3960,14 +3960,14 @@
       "weekYear": "202635",
       "invMenos7": 54,
       "compras": 0,
-      "vtas": 12,
+      "vtas": 7,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 1,
-      "vtasTot": 13,
+      "vtasTot": 8,
       "inv": 35,
-      "cierre": 41,
-      "dif": -6
+      "cierre": 46,
+      "dif": -11
     },
     {
       "producto": "FANTA",
@@ -4002,14 +4002,14 @@
       "weekYear": "202635",
       "invMenos7": 0,
       "compras": 72,
-      "vtas": 11,
-      "vtasExt": 2,
+      "vtas": 4,
+      "vtasExt": 1,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 13,
+      "vtasTot": 5,
       "inv": 49,
-      "cierre": 59,
-      "dif": -10
+      "cierre": 67,
+      "dif": -18
     },
     {
       "producto": "MADERA \"LA KALOR\" GOSE",
@@ -4072,28 +4072,28 @@
       "weekYear": "202635",
       "invMenos7": 12,
       "compras": 24,
-      "vtas": 7,
+      "vtas": 6,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 7,
+      "vtasTot": 6,
       "inv": 29,
-      "cierre": 29,
-      "dif": 0
+      "cierre": 30,
+      "dif": -1
     },
     {
       "producto": "REBELION ALBA WEIZEN",
       "weekYear": "202635",
       "invMenos7": 16,
       "compras": 0,
-      "vtas": 3,
+      "vtas": 2,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 3,
+      "vtasTot": 2,
       "inv": 13,
-      "cierre": 13,
-      "dif": 0
+      "cierre": 14,
+      "dif": -1
     },
     {
       "producto": "REBELION OBSESSION IPA",
@@ -4179,6 +4179,58 @@
       "invEsperado": 9,
       "invIniFin": 13,
       "dif": 4
+    },
+    {
+      "producto": "BENDITA IPA",
+      "fecha": "2026-10-27",
+      "dia": "mar",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 7,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "COCA COLA",
+      "fecha": "2026-10-27",
+      "dia": "mar",
+      "compras": 0,
+      "vtas": 2,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 28,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "COCA COLA SIN AZUCAR",
+      "fecha": "2026-10-27",
+      "dia": "mar",
+      "compras": 0,
+      "vtas": 4,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 20,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "HUARI",
+      "fecha": "2026-10-27",
+      "dia": "mar",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 11,
+      "invIniFin": null,
+      "dif": null
     },
     {
       "producto": "COCA COLA",
@@ -4556,7 +4608,7 @@
       },
       {
         "weekYear": "202644",
-        "valor": 0
+        "valor": 8
       }
     ],
     "Vtas Ext": [
@@ -4634,7 +4686,7 @@
       },
       {
         "weekYear": "202644",
-        "valor": 4
+        "valor": 12
       }
     ],
     "Salidas": [
@@ -4696,9 +4748,9 @@
     "filasInventariosGs": 4144,
     "filasCompras": 2423,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 5680,
-    "filasMovInv": 308,
-    "filasDimProducto": 453,
+    "filasVentasIzi": 5607,
+    "filasMovInv": 294,
+    "filasDimProducto": 454,
     "warnings": []
   }
 }

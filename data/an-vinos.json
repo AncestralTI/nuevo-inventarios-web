@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T01:57:08.682Z",
+  "generatedAt": "2026-10-28T07:52:47.603Z",
   "rangoFechas": {
     "desde": "2026-08-24",
     "hasta": "2026-10-28"
@@ -312,13 +312,13 @@
       "weekYear": "202644",
       "invMenos7": 1,
       "compras": 6,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 7,
+      "cierre": 6,
       "dif": null
     },
     {
@@ -1040,13 +1040,13 @@
       "weekYear": "202644",
       "invMenos7": 5,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 3,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 3,
       "inv": null,
-      "cierre": 5,
+      "cierre": 2,
       "dif": null
     },
     {
@@ -1194,13 +1194,13 @@
       "weekYear": "202644",
       "invMenos7": 3,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 3,
+      "cierre": 2,
       "dif": null
     },
     {
@@ -1404,13 +1404,13 @@
       "weekYear": "202644",
       "invMenos7": 2,
       "compras": 6,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 8,
+      "cierre": 7,
       "dif": null
     },
     {
@@ -1477,10 +1477,10 @@
       "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 0,
+      "salidas": 1,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 7,
+      "cierre": 6,
       "dif": null
     },
     {
@@ -1603,10 +1603,10 @@
       "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 0,
+      "salidas": 1,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 8,
+      "cierre": 7,
       "dif": null
     },
     {
@@ -1726,13 +1726,13 @@
       "weekYear": "202644",
       "invMenos7": 4,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 4,
+      "cierre": 3,
       "dif": null
     },
     {
@@ -1754,13 +1754,13 @@
       "weekYear": "202644",
       "invMenos7": 5,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 5,
+      "cierre": 4,
       "dif": null
     },
     {
@@ -16927,11 +16927,11 @@
       "fecha": "2026-10-27",
       "dia": "mar",
       "compras": 6,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "invEsperado": 7,
+      "invEsperado": 6,
       "invIniFin": null,
       "dif": null
     },
@@ -16975,6 +16975,19 @@
       "dif": null
     },
     {
+      "producto": "EL ENEMIGO-CABERNET FRANC",
+      "fecha": "2026-10-27",
+      "dia": "mar",
+      "compras": 0,
+      "vtas": 3,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 2,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "HUARI",
       "fecha": "2026-10-27",
       "dia": "mar",
@@ -16988,15 +17001,80 @@
       "dif": null
     },
     {
+      "producto": "JARDIN OCULTO - NEGRA CRIOLLA",
+      "fecha": "2026-10-27",
+      "dia": "mar",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 2,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "MEMENTO MORI - TELLUS",
       "fecha": "2026-10-27",
       "dia": "mar",
       "compras": 6,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "invEsperado": 8,
+      "invEsperado": 7,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "NARANJO - CEPA DE ORO",
+      "fecha": "2026-10-27",
+      "dia": "mar",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 1,
+      "invEsperado": 6,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "SAV BLANC - 1750",
+      "fecha": "2026-10-27",
+      "dia": "mar",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 1,
+      "invEsperado": 7,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "TANNAT RAIZ - KOHLBERG",
+      "fecha": "2026-10-27",
+      "dia": "mar",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 3,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "TIERRA ROJA - VISCHOQUEÑA",
+      "fecha": "2026-10-27",
+      "dia": "mar",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 4,
       "invIniFin": null,
       "dif": null
     },
@@ -17961,7 +18039,7 @@
       },
       {
         "weekYear": "202644",
-        "valor": 5
+        "valor": 13
       }
     ],
     "Vtas Ext": [
@@ -18039,7 +18117,7 @@
       },
       {
         "weekYear": "202644",
-        "valor": 14
+        "valor": 24
       }
     ],
     "Salidas": [
@@ -18065,7 +18143,7 @@
       },
       {
         "weekYear": "202644",
-        "valor": 9
+        "valor": 11
       }
     ],
     "Compras": [
@@ -18097,12 +18175,12 @@
   },
   "meta": {
     "ventasIziDisponibles": true,
-    "filasApertura": 1466,
+    "filasApertura": 1468,
     "filasInventariosGs": 4144,
     "filasCompras": 2423,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 5607,
-    "filasMovInv": 294,
+    "filasVentasIzi": 5636,
+    "filasMovInv": 296,
     "filasDimProducto": 454,
     "warnings": []
   }

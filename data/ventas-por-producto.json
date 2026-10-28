@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T01:57:48.874Z",
+  "generatedAt": "2026-10-28T07:53:23.323Z",
   "fuente": "API iZi Soluciones (facturas + items-inventarios), sucursal Ancestral (79344)",
   "rango": {
     "desde": "2026-09-28",
@@ -10332,8 +10332,8 @@
       "producto": "PARRILLA OJO DE BIFE",
       "categoria": "FUERTES",
       "fecha": "2026-10-27",
-      "cantidad": 10,
-      "monto": 1600
+      "cantidad": 11,
+      "monto": 1760
     },
     {
       "codProducto": "ANC00081",
@@ -10380,8 +10380,8 @@
       "producto": "TRUCHA CURADA EN PATACÓN",
       "categoria": "COMIDAS",
       "fecha": "2026-10-27",
-      "cantidad": 3,
-      "monto": 210
+      "cantidad": 5,
+      "monto": 350
     },
     {
       "codProducto": "ANC00330",
@@ -10396,16 +10396,16 @@
       "producto": "TACO PULLED PORK",
       "categoria": "ENTRADAS",
       "fecha": "2026-10-27",
-      "cantidad": 2,
-      "monto": 140
+      "cantidad": 3,
+      "monto": 210
     },
     {
       "codProducto": "ANC00058",
       "producto": "ALCACHOFAS",
       "categoria": "ENTRADAS",
       "fecha": "2026-10-27",
-      "cantidad": 4,
-      "monto": 300
+      "cantidad": 5,
+      "monto": 375
     },
     {
       "codProducto": "ANC00101",
@@ -10444,8 +10444,8 @@
       "producto": "AGUA S/G",
       "categoria": "AGUAS",
       "fecha": "2026-10-27",
-      "cantidad": 4,
-      "monto": 48
+      "cantidad": 5,
+      "monto": 60
     },
     {
       "codProducto": "ANC00241",
@@ -10476,8 +10476,8 @@
       "producto": "CHULETON (Kg)",
       "categoria": "FUERTES",
       "fecha": "2026-10-27",
-      "cantidad": 2.8,
-      "monto": 1120
+      "cantidad": 3.7,
+      "monto": 1480
     },
     {
       "codProducto": "ANC00281",
@@ -10548,8 +10548,8 @@
       "producto": "AGUA C/G",
       "categoria": "AGUAS",
       "fecha": "2026-10-27",
-      "cantidad": 1,
-      "monto": 15
+      "cantidad": 10,
+      "monto": 150
     },
     {
       "codProducto": "ANC00283",
@@ -10572,8 +10572,8 @@
       "producto": "TABLA ANCESTRAL",
       "categoria": "ENTRADAS",
       "fecha": "2026-10-27",
-      "cantidad": 1,
-      "monto": 120
+      "cantidad": 2,
+      "monto": 240
     },
     {
       "codProducto": "ANC00007",
@@ -10614,6 +10614,118 @@
       "fecha": "2026-10-27",
       "cantidad": 1,
       "monto": 50
+    },
+    {
+      "codProducto": "ANC00287",
+      "producto": "AMOR FATI - TELLUS",
+      "categoria": "VINOS",
+      "fecha": "2026-10-27",
+      "cantidad": 1,
+      "monto": 700
+    },
+    {
+      "codProducto": "ANC00285",
+      "producto": "MEMENTO MORI - TELLUS",
+      "categoria": "VINOS",
+      "fecha": "2026-10-27",
+      "cantidad": 1,
+      "monto": 450
+    },
+    {
+      "codProducto": "ANC00249",
+      "producto": "ARROZ DE CANGREJOS",
+      "categoria": "FUERTES",
+      "fecha": "2026-10-27",
+      "cantidad": 2,
+      "monto": 300
+    },
+    {
+      "codProducto": "ANC00093",
+      "producto": "KEPERI AHUMADO",
+      "categoria": "FUERTES",
+      "fecha": "2026-10-27",
+      "cantidad": 1,
+      "monto": 140
+    },
+    {
+      "codProducto": "ANC00254",
+      "producto": "EL ENEMIGO-CABERNET FRANC",
+      "categoria": "VINOS IMPORTADOS",
+      "fecha": "2026-10-27",
+      "cantidad": 3,
+      "monto": 1200
+    },
+    {
+      "codProducto": "ANC00153",
+      "producto": "TIERRA ROJA - VISCHOQUEÑA",
+      "categoria": "VINOS",
+      "fecha": "2026-10-27",
+      "cantidad": 1,
+      "monto": 250
+    },
+    {
+      "codProducto": "ANC00031",
+      "producto": "NEGRONI",
+      "categoria": "COCTELES",
+      "fecha": "2026-10-27",
+      "cantidad": 1,
+      "monto": 50
+    },
+    {
+      "codProducto": "ANC00142",
+      "producto": "JARDIN OCULTO - NEGRA CRIOLLA",
+      "categoria": "VINOS",
+      "fecha": "2026-10-27",
+      "cantidad": 1,
+      "monto": 325
+    },
+    {
+      "codProducto": "ANC00183",
+      "producto": "PANZA FRITA",
+      "categoria": "ENTRADAS",
+      "fecha": "2026-10-27",
+      "cantidad": 2,
+      "monto": 120
+    },
+    {
+      "codProducto": "ANC00075",
+      "producto": "MARIDAJE ANCESTRAL",
+      "categoria": "MENU DEGUSTACION",
+      "fecha": "2026-10-27",
+      "cantidad": 3,
+      "monto": 1050
+    },
+    {
+      "codProducto": "ANC00073",
+      "producto": "EXPERIENCIA ANCESTRAL",
+      "categoria": "MENU DEGUSTACION",
+      "fecha": "2026-10-27",
+      "cantidad": 3,
+      "monto": 1470
+    },
+    {
+      "codProducto": "ANC00033",
+      "producto": "PALOMA",
+      "categoria": "COCTELES",
+      "fecha": "2026-10-27",
+      "cantidad": 1,
+      "monto": 50
+    },
+    {
+      "codProducto": "ANC00215",
+      "producto": "EXPRESO MARTINI DE CHOCOLATE",
+      "categoria": "COCTELES",
+      "fecha": "2026-10-27",
+      "cantidad": 1,
+      "monto": 50
+    },
+    {
+      "codProducto": "ANC00146",
+      "producto": "TANNAT RAIZ - KOHLBERG",
+      "categoria": "VINOS",
+      "fecha": "2026-10-27",
+      "cantidad": 1,
+      "monto": 275
     }
   ]
 }

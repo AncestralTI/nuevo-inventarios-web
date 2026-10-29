@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T02:55:31.533Z",
+  "generatedAt": "2026-10-29T09:10:01.340Z",
   "rangoFechas": {
     "desde": "2026-08-24",
     "hasta": "2026-10-29"
@@ -477,10 +477,10 @@
       "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
-      "salidas": 4,
-      "vtasTot": 4,
+      "salidas": 5,
+      "vtasTot": 5,
       "inv": null,
-      "cierre": 9,
+      "cierre": 8,
       "dif": null
     },
     {
@@ -4298,6 +4298,19 @@
       "dif": null
     },
     {
+      "producto": "SAN MIGUEL SOLSTICIO",
+      "fecha": "2026-10-28",
+      "dia": "mié",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 1,
+      "invEsperado": 8,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "COCA COLA",
       "fecha": "2026-10-20",
       "dia": "mar",
@@ -4751,7 +4764,7 @@
       },
       {
         "weekYear": "202644",
-        "valor": 19
+        "valor": 20
       }
     ],
     "Salidas": [
@@ -4777,7 +4790,7 @@
       },
       {
         "weekYear": "202644",
-        "valor": 4
+        "valor": 5
       }
     ],
     "Compras": [
@@ -4809,7 +4822,7 @@
   },
   "meta": {
     "ventasIziDisponibles": true,
-    "filasApertura": 1468,
+    "filasApertura": 1470,
     "filasInventariosGs": 4144,
     "filasCompras": 2426,
     "filasMatrizChuleton": 1,

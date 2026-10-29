@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T02:55:21.196Z",
+  "generatedAt": "2026-10-29T09:09:51.842Z",
   "rangoFechas": {
     "desde": "2026-08-24",
     "hasta": "2026-10-29"
@@ -1379,10 +1379,10 @@
       "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
-      "salidas": 2,
-      "vtasTot": 2,
+      "salidas": 3,
+      "vtasTot": 3,
       "inv": null,
-      "cierre": 7,
+      "cierre": 6,
       "dif": null
     },
     {
@@ -1603,10 +1603,10 @@
       "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
-      "salidas": 4,
-      "vtasTot": 4,
+      "salidas": 5,
+      "vtasTot": 5,
       "inv": null,
-      "cierre": 9,
+      "cierre": 8,
       "dif": null
     },
     {
@@ -17196,6 +17196,19 @@
       "dif": null
     },
     {
+      "producto": "MARSELAN - ARSAL",
+      "fecha": "2026-10-28",
+      "dia": "mié",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 1,
+      "invEsperado": 6,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "POTOSINA PILSNER",
       "fecha": "2026-10-28",
       "dia": "mié",
@@ -17205,6 +17218,19 @@
       "cortesias": 0,
       "salidas": 0,
       "invEsperado": 10,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "SAN MIGUEL SOLSTICIO",
+      "fecha": "2026-10-28",
+      "dia": "mié",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 1,
+      "invEsperado": 8,
       "invIniFin": null,
       "dif": null
     },
@@ -18260,7 +18286,7 @@
       },
       {
         "weekYear": "202644",
-        "valor": 38
+        "valor": 40
       }
     ],
     "Salidas": [
@@ -18286,7 +18312,7 @@
       },
       {
         "weekYear": "202644",
-        "valor": 11
+        "valor": 13
       }
     ],
     "Compras": [
@@ -18318,7 +18344,7 @@
   },
   "meta": {
     "ventasIziDisponibles": true,
-    "filasApertura": 1468,
+    "filasApertura": 1470,
     "filasInventariosGs": 4144,
     "filasCompras": 2426,
     "filasMatrizChuleton": 1,

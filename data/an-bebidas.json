@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T16:04:50.343Z",
+  "generatedAt": "2026-10-29T21:02:27.029Z",
   "rangoFechas": {
     "desde": "2026-08-24",
     "hasta": "2026-10-29"
@@ -123,14 +123,14 @@
       "producto": "BENDITA IPA",
       "weekYear": "202644",
       "invMenos7": 8,
-      "compras": 0,
+      "compras": 12,
       "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 1,
       "inv": null,
-      "cierre": 7,
+      "cierre": 19,
       "dif": null
     },
     {
@@ -4311,6 +4311,19 @@
       "dif": null
     },
     {
+      "producto": "BENDITA IPA",
+      "fecha": "2026-10-29",
+      "dia": "jue",
+      "compras": 12,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 19,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "COCA COLA",
       "fecha": "2026-10-20",
       "dia": "mar",
@@ -4816,7 +4829,7 @@
       },
       {
         "weekYear": "202644",
-        "valor": 0
+        "valor": 12
       }
     ]
   },
@@ -4824,7 +4837,7 @@
     "ventasIziDisponibles": true,
     "filasApertura": 1470,
     "filasInventariosGs": 4144,
-    "filasCompras": 2426,
+    "filasCompras": 2430,
     "filasMatrizChuleton": 1,
     "filasVentasIzi": 5523,
     "filasMovInv": 302,

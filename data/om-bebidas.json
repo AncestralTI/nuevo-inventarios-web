@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T18:49:38.103Z",
+  "generatedAt": "2026-10-30T22:42:04.940Z",
   "rangoFechas": {
     "desde": "2026-08-24",
     "hasta": "2026-10-30"
@@ -610,14 +610,14 @@
       "weekYear": "202644",
       "invMenos7": 27,
       "compras": 13,
-      "vtasIzi": 1,
+      "vtasIzi": 2,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 1,
+      "vtasTot": 2,
       "inv": null,
-      "cierre": 39,
+      "cierre": 38,
       "dif": null
     },
     {
@@ -8224,6 +8224,20 @@
       "dif": null
     },
     {
+      "producto": "Mandala Frambuesa",
+      "fecha": "2026-10-30",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 38,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "Sprite",
       "fecha": "2026-10-30",
       "dia": "vie",
@@ -9872,7 +9886,7 @@
       },
       {
         "weekYear": "202644",
-        "valor": 29
+        "valor": 30
       }
     ],
     "Vtas Ext.": [
@@ -9950,7 +9964,7 @@
       },
       {
         "weekYear": "202644",
-        "valor": 203
+        "valor": 204
       }
     ],
     "Compras": [
@@ -9982,15 +9996,15 @@
   },
   "meta": {
     "ventasIziDisponibles": true,
-    "filasDimProducto": 455,
+    "filasDimProducto": 456,
     "filasInventariosOmuh": 460,
-    "filasCompras": 1585,
+    "filasCompras": 1586,
     "filasSalidas": 104,
-    "filasVentasIzi": 7200,
+    "filasVentasIzi": 7211,
     "filasVentasPY": 11200,
     "filasExtras": 18223,
-    "filasMovInv": 314,
-    "filasVentasAncIzi": 5483,
+    "filasMovInv": 315,
+    "filasVentasAncIzi": 5489,
     "warnings": []
   }
 }

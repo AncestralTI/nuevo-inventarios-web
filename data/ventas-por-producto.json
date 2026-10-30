@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T18:49:39.701Z",
+  "generatedAt": "2026-10-30T22:42:06.461Z",
   "fuente": "API iZi Soluciones (facturas + items-inventarios), sucursal Ancestral (79344)",
   "rango": {
     "desde": "2026-09-30",
@@ -11094,6 +11094,54 @@
       "fecha": "2026-10-30",
       "cantidad": 1,
       "monto": 40
+    },
+    {
+      "codProducto": "ANC00078",
+      "producto": "MENU 3 TIEMPOS",
+      "categoria": "EVENTOS",
+      "fecha": "2026-10-30",
+      "cantidad": 23,
+      "monto": 4370
+    },
+    {
+      "codProducto": "ANC00002",
+      "producto": "AGUA S/G",
+      "categoria": "AGUAS",
+      "fecha": "2026-10-30",
+      "cantidad": 23,
+      "monto": 230
+    },
+    {
+      "codProducto": "ANC00108",
+      "producto": "ICED TEA",
+      "categoria": "JUGOS",
+      "fecha": "2026-10-30",
+      "cantidad": 2,
+      "monto": 30
+    },
+    {
+      "codProducto": "ANC00071",
+      "producto": "COLIFLOR",
+      "categoria": "GUARNICIONES",
+      "fecha": "2026-10-30",
+      "cantidad": 1,
+      "monto": 40
+    },
+    {
+      "codProducto": "ANC00099",
+      "producto": "PARRILLA OJO DE BIFE",
+      "categoria": "FUERTES",
+      "fecha": "2026-10-30",
+      "cantidad": 1,
+      "monto": 160
+    },
+    {
+      "codProducto": "ANC00093",
+      "producto": "KEPERI AHUMADO",
+      "categoria": "FUERTES",
+      "fecha": "2026-10-30",
+      "cantidad": 1,
+      "monto": 140
     }
   ]
 }

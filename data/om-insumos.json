@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T00:51:03.514Z",
+  "generatedAt": "2026-10-30T06:40:48.461Z",
   "rangoFechas": {
     "desde": "2026-08-24",
     "hasta": "2026-10-30"
@@ -79,14 +79,14 @@
       "weekYear": "202644",
       "invMenos7": null,
       "compras": 0,
-      "vtasIzi": 126,
+      "vtasIzi": 136,
       "vtasAnc": 0,
-      "vtasPY": 15,
-      "vtasExt": 5,
-      "vtasVegg": -3,
+      "vtasPY": 16,
+      "vtasExt": 6,
+      "vtasVegg": -4,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 143,
+      "vtasTot": 154,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -96,16 +96,16 @@
       "weekYear": "202644",
       "invMenos7": null,
       "compras": 43,
-      "vtasIzi": 19,
+      "vtasIzi": 20,
       "vtasAnc": 0,
-      "vtasPY": 3,
+      "vtasPY": 5,
       "vtasExt": 0,
       "vtasVegg": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 22,
+      "vtasTot": 25,
       "inv": null,
-      "cierre": 21,
+      "cierre": 18,
       "dif": null
     },
     {
@@ -679,7 +679,7 @@
       "fecha": "2026-10-29",
       "dia": "jue",
       "compras": 0,
-      "vtas": 29.5,
+      "vtas": 39.5,
       "salidas": 0,
       "invEsperado": 0,
       "invFin": null,
@@ -690,9 +690,9 @@
       "fecha": "2026-10-29",
       "dia": "jue",
       "compras": 0,
-      "vtas": 3,
+      "vtas": 4,
       "salidas": 0,
-      "invEsperado": 24,
+      "invEsperado": 23,
       "invFin": null,
       "dif": null
     },
@@ -941,7 +941,7 @@
       },
       {
         "weekYear": "202644",
-        "valor": 152
+        "valor": 163
       }
     ],
     "Vtas Anc": [
@@ -993,7 +993,7 @@
       },
       {
         "weekYear": "202644",
-        "valor": 18
+        "valor": 21
       }
     ],
     "Vtas Ext.": [
@@ -1019,7 +1019,7 @@
       },
       {
         "weekYear": "202644",
-        "valor": 5
+        "valor": 6
       }
     ],
     "Cortesias": [
@@ -1097,7 +1097,7 @@
       },
       {
         "weekYear": "202644",
-        "valor": 172
+        "valor": 186
       }
     ],
     "Compras": [
@@ -1129,15 +1129,15 @@
   },
   "meta": {
     "ventasIziDisponibles": true,
-    "filasDimProducto": 454,
+    "filasDimProducto": 455,
     "filasInventariosUnitarios": 0,
     "filasCompras": 1579,
     "filasSalidas": 102,
-    "filasVentasIzi": 7167,
-    "filasVentasPY": 11191,
-    "filasExtras": 18167,
-    "filasMovInv": 303,
-    "filasVentasAncIzi": 5387,
+    "filasVentasIzi": 7183,
+    "filasVentasPY": 11200,
+    "filasExtras": 18223,
+    "filasMovInv": 312,
+    "filasVentasAncIzi": 5480,
     "warnings": []
   }
 }

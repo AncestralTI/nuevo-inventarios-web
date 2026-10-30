@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T00:50:40.070Z",
+  "generatedAt": "2026-10-30T06:40:13.408Z",
   "rangoFechas": {
     "desde": "2026-08-24",
     "hasta": "2026-10-30"
@@ -396,13 +396,13 @@
       "weekYear": "202644",
       "invMenos7": 18,
       "compras": 0,
-      "vtas": 1,
+      "vtas": 2,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 1,
+      "vtasTot": 2,
       "inv": null,
-      "cierre": 17,
+      "cierre": 16,
       "dif": null
     },
     {
@@ -564,13 +564,13 @@
       "weekYear": "202644",
       "invMenos7": 1,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 1,
+      "cierre": 0,
       "dif": null
     },
     {
@@ -1040,13 +1040,13 @@
       "weekYear": "202644",
       "invMenos7": 5,
       "compras": 0,
-      "vtas": 3,
+      "vtas": 5,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 3,
+      "vtasTot": 5,
       "inv": null,
-      "cierre": 2,
+      "cierre": 0,
       "dif": null
     },
     {
@@ -1124,13 +1124,13 @@
       "weekYear": "202644",
       "invMenos7": 12,
       "compras": 0,
-      "vtas": 3,
+      "vtas": 8,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 3,
+      "vtasTot": 8,
       "inv": null,
-      "cierre": 9,
+      "cierre": 4,
       "dif": null
     },
     {
@@ -1362,13 +1362,13 @@
       "weekYear": "202644",
       "invMenos7": 1,
       "compras": 6,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 1,
-      "vtasTot": 1,
+      "vtasTot": 2,
       "inv": null,
-      "cierre": 6,
+      "cierre": 5,
       "dif": null
     },
     {
@@ -17248,6 +17248,19 @@
       "dif": null
     },
     {
+      "producto": "BENDITA HOPPY",
+      "fecha": "2026-10-29",
+      "dia": "jue",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 16,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "BENDITA IPA",
       "fecha": "2026-10-29",
       "dia": "jue",
@@ -17257,6 +17270,58 @@
       "cortesias": 0,
       "salidas": 0,
       "invEsperado": 19,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "CAÑON ESCONDIDO - TANNAT",
+      "fecha": "2026-10-29",
+      "dia": "jue",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 0,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "EL ENEMIGO-CABERNET FRANC",
+      "fecha": "2026-10-29",
+      "dia": "jue",
+      "compras": 0,
+      "vtas": 2,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 0,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "HUARI",
+      "fecha": "2026-10-29",
+      "dia": "jue",
+      "compras": 0,
+      "vtas": 5,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 4,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "MALBEC CALADOC - KUHLMANN",
+      "fecha": "2026-10-29",
+      "dia": "jue",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 5,
       "invIniFin": null,
       "dif": null
     },
@@ -18221,7 +18286,7 @@
       },
       {
         "weekYear": "202644",
-        "valor": 27
+        "valor": 37
       }
     ],
     "Vtas Ext": [
@@ -18299,7 +18364,7 @@
       },
       {
         "weekYear": "202644",
-        "valor": 40
+        "valor": 50
       }
     ],
     "Salidas": [
@@ -18361,9 +18426,9 @@
     "filasInventariosGs": 4144,
     "filasCompras": 2430,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 5387,
-    "filasMovInv": 301,
-    "filasDimProducto": 454,
+    "filasVentasIzi": 5480,
+    "filasMovInv": 310,
+    "filasDimProducto": 455,
     "warnings": []
   }
 }

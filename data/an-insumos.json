@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T13:33:22.100Z",
+  "generatedAt": "2026-10-30T18:48:42.701Z",
   "rangoFechas": {
     "desde": "2026-08-24",
     "hasta": "2026-10-30"
@@ -161,12 +161,12 @@
       "insumo": "Ojo de bife",
       "weekYear": "202644",
       "invMenos7": 38,
-      "compras": 30,
+      "compras": 83,
       "vtas": 19,
       "salidas": 27.54,
       "vtasTot": 46.54,
       "inv": null,
-      "cierre": 21.46,
+      "cierre": 74.46,
       "dif": null
     },
     {
@@ -210,11 +210,11 @@
       "weekYear": "202644",
       "invMenos7": 35,
       "compras": 6,
-      "vtas": 4,
+      "vtas": 5,
       "salidas": 0,
-      "vtasTot": 4,
+      "vtasTot": 5,
       "inv": null,
-      "cierre": 37,
+      "cierre": 36,
       "dif": null
     },
     {
@@ -2107,7 +2107,7 @@
       "insumo": "Ojo de bife",
       "fecha": "2026-10-29",
       "dia": "jue",
-      "compras": 0,
+      "compras": 9,
       "vtas": 4,
       "salidas": 0,
       "invEsperado": 0,
@@ -2183,6 +2183,30 @@
       "vtas": 4,
       "salidas": 0,
       "invEsperado": 4,
+      "invIni": null,
+      "invFin": null,
+      "dif": null
+    },
+    {
+      "insumo": "Ojo de bife",
+      "fecha": "2026-10-30",
+      "dia": "vie",
+      "compras": 44,
+      "vtas": 0,
+      "salidas": 0,
+      "invEsperado": 36.46,
+      "invIni": null,
+      "invFin": null,
+      "dif": null
+    },
+    {
+      "insumo": "Pato",
+      "fecha": "2026-10-30",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 1,
+      "salidas": 0,
+      "invEsperado": 1,
       "invIni": null,
       "invFin": null,
       "dif": null
@@ -3124,7 +3148,7 @@
       },
       {
         "weekYear": "202644",
-        "valor": 103
+        "valor": 104
       }
     ],
     "Salidas": [
@@ -3176,7 +3200,7 @@
       },
       {
         "weekYear": "202644",
-        "valor": 162.5
+        "valor": 163.5
       }
     ],
     "Compras (Un)": [
@@ -3202,16 +3226,16 @@
       },
       {
         "weekYear": "202644",
-        "valor": 233
+        "valor": 286
       }
     ]
   },
   "meta": {
     "ventasIziDisponibles": true,
-    "filasCompras": 2430,
+    "filasCompras": 2438,
     "filasSalidas": 981,
     "filasMatriz": 23,
     "filasInventarios": 462,
-    "filasVentasIzi": 5480
+    "filasVentasIzi": 5483
   }
 }

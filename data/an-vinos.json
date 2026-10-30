@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T13:33:34.500Z",
+  "generatedAt": "2026-10-30T18:48:55.408Z",
   "rangoFechas": {
     "desde": "2026-08-24",
     "hasta": "2026-10-30"
@@ -395,14 +395,14 @@
       "producto": "BENDITA HOPPY",
       "weekYear": "202644",
       "invMenos7": 18,
-      "compras": 0,
+      "compras": 12,
       "vtas": 2,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 2,
       "inv": null,
-      "cierre": 16,
+      "cierre": 28,
       "dif": null
     },
     {
@@ -1123,14 +1123,14 @@
       "producto": "HUARI",
       "weekYear": "202644",
       "invMenos7": 12,
-      "compras": 0,
+      "compras": 48,
       "vtas": 8,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 8,
       "inv": null,
-      "cierre": 4,
+      "cierre": 52,
       "dif": null
     },
     {
@@ -17251,12 +17251,12 @@
       "producto": "BENDITA HOPPY",
       "fecha": "2026-10-29",
       "dia": "jue",
-      "compras": 0,
+      "compras": 12,
       "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "invEsperado": 16,
+      "invEsperado": 28,
       "invIniFin": null,
       "dif": null
     },
@@ -17322,6 +17322,19 @@
       "cortesias": 0,
       "salidas": 0,
       "invEsperado": 5,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "HUARI",
+      "fecha": "2026-10-30",
+      "dia": "vie",
+      "compras": 48,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 52,
       "invIniFin": null,
       "dif": null
     },
@@ -18416,7 +18429,7 @@
       },
       {
         "weekYear": "202644",
-        "valor": 42
+        "valor": 102
       }
     ]
   },
@@ -18424,10 +18437,10 @@
     "ventasIziDisponibles": true,
     "filasApertura": 1470,
     "filasInventariosGs": 4144,
-    "filasCompras": 2430,
+    "filasCompras": 2438,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 5480,
-    "filasMovInv": 310,
+    "filasVentasIzi": 5483,
+    "filasMovInv": 312,
     "filasDimProducto": 455,
     "warnings": []
   }

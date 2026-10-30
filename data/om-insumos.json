@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T13:33:56.219Z",
+  "generatedAt": "2026-10-30T18:49:23.301Z",
   "rangoFechas": {
     "desde": "2026-08-24",
     "hasta": "2026-10-30"
@@ -78,17 +78,17 @@
       "insumo": "Carne Molida 130g",
       "weekYear": "202644",
       "invMenos7": null,
-      "compras": 0,
-      "vtasIzi": 136,
+      "compras": 468,
+      "vtasIzi": 149,
       "vtasAnc": 0,
       "vtasPY": 16,
       "vtasExt": 6,
       "vtasVegg": -4,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 154,
+      "vtasTot": 167,
       "inv": null,
-      "cierre": 0,
+      "cierre": 301,
       "dif": null
     },
     {
@@ -645,10 +645,10 @@
       "insumo": "Carne Molida 130g",
       "fecha": "2026-10-28",
       "dia": "mié",
-      "compras": 0,
+      "compras": 468,
       "vtas": 28,
       "salidas": 0,
-      "invEsperado": 0,
+      "invEsperado": 371.5,
       "invFin": null,
       "dif": null
     },
@@ -681,7 +681,7 @@
       "compras": 0,
       "vtas": 39.5,
       "salidas": 0,
-      "invEsperado": 0,
+      "invEsperado": 332,
       "invFin": null,
       "dif": null
     },
@@ -693,6 +693,17 @@
       "vtas": 4,
       "salidas": 0,
       "invEsperado": 23,
+      "invFin": null,
+      "dif": null
+    },
+    {
+      "insumo": "Carne Molida 130g",
+      "fecha": "2026-10-30",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 13,
+      "salidas": 0,
+      "invEsperado": 319,
       "invFin": null,
       "dif": null
     },
@@ -941,7 +952,7 @@
       },
       {
         "weekYear": "202644",
-        "valor": 163
+        "valor": 176
       }
     ],
     "Vtas Anc": [
@@ -1097,7 +1108,7 @@
       },
       {
         "weekYear": "202644",
-        "valor": 186
+        "valor": 199
       }
     ],
     "Compras": [
@@ -1123,7 +1134,7 @@
       },
       {
         "weekYear": "202644",
-        "valor": 63
+        "valor": 531
       }
     ]
   },
@@ -1131,13 +1142,13 @@
     "ventasIziDisponibles": true,
     "filasDimProducto": 455,
     "filasInventariosUnitarios": 0,
-    "filasCompras": 1579,
-    "filasSalidas": 102,
-    "filasVentasIzi": 7183,
+    "filasCompras": 1585,
+    "filasSalidas": 104,
+    "filasVentasIzi": 7200,
     "filasVentasPY": 11200,
     "filasExtras": 18223,
-    "filasMovInv": 312,
-    "filasVentasAncIzi": 5480,
+    "filasMovInv": 314,
+    "filasVentasAncIzi": 5483,
     "warnings": []
   }
 }

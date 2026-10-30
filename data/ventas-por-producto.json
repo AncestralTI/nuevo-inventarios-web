@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T13:34:11.123Z",
+  "generatedAt": "2026-10-30T18:49:39.701Z",
   "fuente": "API iZi Soluciones (facturas + items-inventarios), sucursal Ancestral (79344)",
   "rango": {
     "desde": "2026-09-30",
@@ -11070,6 +11070,30 @@
       "fecha": "2026-10-29",
       "cantidad": 4,
       "monto": 140
+    },
+    {
+      "codProducto": "ANC00111",
+      "producto": "JAMAICA MENTA",
+      "categoria": "JUGOS",
+      "fecha": "2026-10-30",
+      "cantidad": 1,
+      "monto": 15
+    },
+    {
+      "codProducto": "ANC00281",
+      "producto": "CUARTO PATO CONFITADO",
+      "categoria": "FUERTES",
+      "fecha": "2026-10-30",
+      "cantidad": 1,
+      "monto": 140
+    },
+    {
+      "codProducto": "ANC00081",
+      "producto": "PORCION PAPAS",
+      "categoria": "GUARNICIONES",
+      "fecha": "2026-10-30",
+      "cantidad": 1,
+      "monto": 40
     }
   ]
 }

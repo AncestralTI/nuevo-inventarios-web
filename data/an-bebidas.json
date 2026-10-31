@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T13:55:33.414Z",
+  "generatedAt": "2026-10-31T18:05:16.154Z",
   "rangoFechas": {
     "desde": "2026-08-24",
     "hasta": "2026-10-31"
@@ -306,13 +306,13 @@
       "weekYear": "202644",
       "invMenos7": 24,
       "compras": 24,
-      "vtas": 7,
+      "vtas": 8,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 7,
+      "vtasTot": 8,
       "inv": null,
-      "cierre": 41,
+      "cierre": 40,
       "dif": null
     },
     {
@@ -418,13 +418,13 @@
       "weekYear": "202644",
       "invMenos7": 11,
       "compras": 0,
-      "vtas": 1,
+      "vtas": 2,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 1,
+      "vtasTot": 2,
       "inv": null,
-      "cierre": 10,
+      "cierre": 9,
       "dif": null
     },
     {
@@ -488,13 +488,13 @@
       "weekYear": "202644",
       "invMenos7": 16,
       "compras": 0,
-      "vtas": 1,
+      "vtas": 2,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 1,
+      "vtasTot": 2,
       "inv": null,
-      "cierre": 15,
+      "cierre": 14,
       "dif": null
     },
     {
@@ -4454,6 +4454,45 @@
       "dif": null
     },
     {
+      "producto": "COCA COLA SIN AZUCAR",
+      "fecha": "2026-10-31",
+      "dia": "sáb",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 40,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "POTOSINA PILSNER",
+      "fecha": "2026-10-31",
+      "dia": "sáb",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 9,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "SPRITE",
+      "fecha": "2026-10-31",
+      "dia": "sáb",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 14,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "COCA COLA",
       "fecha": "2026-10-20",
       "dia": "mar",
@@ -4829,7 +4868,7 @@
       },
       {
         "weekYear": "202644",
-        "valor": 33
+        "valor": 36
       }
     ],
     "Vtas Ext": [
@@ -4907,7 +4946,7 @@
       },
       {
         "weekYear": "202644",
-        "valor": 38
+        "valor": 41
       }
     ],
     "Salidas": [
@@ -4969,8 +5008,8 @@
     "filasInventariosGs": 4144,
     "filasCompras": 2440,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 5593,
-    "filasMovInv": 323,
+    "filasVentasIzi": 5610,
+    "filasMovInv": 324,
     "filasDimProducto": 458,
     "warnings": []
   }

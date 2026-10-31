@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T13:55:23.066Z",
+  "generatedAt": "2026-10-31T18:05:04.988Z",
   "rangoFechas": {
     "desde": "2026-08-24",
     "hasta": "2026-10-31"
@@ -1559,13 +1559,13 @@
       "weekYear": "202644",
       "invMenos7": 11,
       "compras": 0,
-      "vtas": 1,
+      "vtas": 2,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 1,
+      "vtasTot": 2,
       "inv": null,
-      "cierre": 10,
+      "cierre": 9,
       "dif": null
     },
     {
@@ -17545,6 +17545,19 @@
       "dif": null
     },
     {
+      "producto": "POTOSINA PILSNER",
+      "fecha": "2026-10-31",
+      "dia": "sáb",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 9,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "ALAYA - TELLUS",
       "fecha": "2026-10-20",
       "dia": "mar",
@@ -18505,7 +18518,7 @@
       },
       {
         "weekYear": "202644",
-        "valor": 46
+        "valor": 47
       }
     ],
     "Vtas Ext": [
@@ -18583,7 +18596,7 @@
       },
       {
         "weekYear": "202644",
-        "valor": 59
+        "valor": 60
       }
     ],
     "Salidas": [
@@ -18645,8 +18658,8 @@
     "filasInventariosGs": 4144,
     "filasCompras": 2440,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 5593,
-    "filasMovInv": 323,
+    "filasVentasIzi": 5610,
+    "filasMovInv": 324,
     "filasDimProducto": 458,
     "warnings": []
   }

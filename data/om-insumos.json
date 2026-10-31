@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T13:55:48.528Z",
+  "generatedAt": "2026-10-31T18:05:33.345Z",
   "rangoFechas": {
     "desde": "2026-08-24",
     "hasta": "2026-10-31"
@@ -79,16 +79,16 @@
       "weekYear": "202644",
       "invMenos7": null,
       "compras": 497,
-      "vtasIzi": 201.5,
+      "vtasIzi": 213.5,
       "vtasAnc": 0,
       "vtasPY": 26,
       "vtasExt": 8,
       "vtasVegg": -4,
       "cortesias": 1,
       "salidas": 0,
-      "vtasTot": 232.5,
+      "vtasTot": 244.5,
       "inv": null,
-      "cierre": 264.5,
+      "cierre": 252.5,
       "dif": null
     },
     {
@@ -96,14 +96,14 @@
       "weekYear": "202644",
       "invMenos7": null,
       "compras": 43,
-      "vtasIzi": 37,
+      "vtasIzi": 43,
       "vtasAnc": 0,
       "vtasPY": 6,
       "vtasExt": 0,
       "vtasVegg": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 43,
+      "vtasTot": 49,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -731,6 +731,28 @@
     },
     {
       "insumo": "Carne Molida 130g",
+      "fecha": "2026-10-31",
+      "dia": "sáb",
+      "compras": 0,
+      "vtas": 12,
+      "salidas": 0,
+      "invEsperado": 282.5,
+      "invFin": null,
+      "dif": null
+    },
+    {
+      "insumo": "Pechuga de Pollo",
+      "fecha": "2026-10-31",
+      "dia": "sáb",
+      "compras": 0,
+      "vtas": 6,
+      "salidas": 0,
+      "invEsperado": 0,
+      "invFin": null,
+      "dif": null
+    },
+    {
+      "insumo": "Carne Molida 130g",
       "fecha": "2026-10-19",
       "dia": "lun",
       "compras": 0,
@@ -974,7 +996,7 @@
       },
       {
         "weekYear": "202644",
-        "valor": 247.5
+        "valor": 265.5
       }
     ],
     "Vtas Anc": [
@@ -1130,7 +1152,7 @@
       },
       {
         "weekYear": "202644",
-        "valor": 284.5
+        "valor": 302.5
       }
     ],
     "Compras": [
@@ -1166,11 +1188,11 @@
     "filasInventariosUnitarios": 0,
     "filasCompras": 1586,
     "filasSalidas": 104,
-    "filasVentasIzi": 7232,
+    "filasVentasIzi": 7263,
     "filasVentasPY": 11221,
     "filasExtras": 18295,
-    "filasMovInv": 323,
-    "filasVentasAncIzi": 5593,
+    "filasMovInv": 324,
+    "filasVentasAncIzi": 5610,
     "warnings": []
   }
 }

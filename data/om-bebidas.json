@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T13:56:00.758Z",
+  "generatedAt": "2026-10-31T18:05:47.223Z",
   "rangoFechas": {
     "desde": "2026-08-24",
     "hasta": "2026-10-31"
@@ -130,14 +130,14 @@
       "weekYear": "202644",
       "invMenos7": 54,
       "compras": 24,
-      "vtasIzi": 6,
+      "vtasIzi": 9,
       "vtasExt": 7,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 13,
+      "vtasTot": 16,
       "inv": null,
-      "cierre": 65,
+      "cierre": 62,
       "dif": null
     },
     {
@@ -403,9 +403,9 @@
       "vtasIzi": 0,
       "vtasExt": 0,
       "vtasPY": 0,
-      "vtasAnc": 7,
+      "vtasAnc": 8,
       "salidas": 0,
-      "vtasTot": 7,
+      "vtasTot": 8,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -430,14 +430,14 @@
       "weekYear": "202644",
       "invMenos7": 9,
       "compras": 24,
-      "vtasIzi": 3,
+      "vtasIzi": 5,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 3,
+      "vtasTot": 5,
       "inv": null,
-      "cierre": 30,
+      "cierre": 28,
       "dif": null
     },
     {
@@ -688,9 +688,9 @@
       "vtasIzi": 0,
       "vtasExt": 0,
       "vtasPY": 0,
-      "vtasAnc": 1,
+      "vtasAnc": 2,
       "salidas": 0,
-      "vtasTot": 1,
+      "vtasTot": 2,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -730,12 +730,12 @@
       "weekYear": "202644",
       "invMenos7": null,
       "compras": 0,
-      "vtasIzi": 4,
+      "vtasIzi": 5,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 4,
+      "vtasTot": 5,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -808,11 +808,11 @@
       "vtasIzi": 0,
       "vtasExt": 9,
       "vtasPY": 0,
-      "vtasAnc": 1,
+      "vtasAnc": 2,
       "salidas": 0,
-      "vtasTot": 10,
+      "vtasTot": 11,
       "inv": null,
-      "cierre": 29,
+      "cierre": 28,
       "dif": null
     },
     {
@@ -8421,6 +8421,90 @@
     },
     {
       "producto": "Agua",
+      "fecha": "2026-10-31",
+      "dia": "sáb",
+      "compras": 0,
+      "vtas": 3,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 62,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "COCA COLA SIN AZUCAR",
+      "fecha": "2026-10-31",
+      "dia": "sáb",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 1,
+      "salidas": 0,
+      "invEsperado": 0,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "Curandero",
+      "fecha": "2026-10-31",
+      "dia": "sáb",
+      "compras": 0,
+      "vtas": 2,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 28,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "POTOSINA PILSNER",
+      "fecha": "2026-10-31",
+      "dia": "sáb",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 1,
+      "salidas": 0,
+      "invEsperado": 0,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "Refresco Artesanal",
+      "fecha": "2026-10-31",
+      "dia": "sáb",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 0,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "SPRITE",
+      "fecha": "2026-10-31",
+      "dia": "sáb",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 1,
+      "salidas": 0,
+      "invEsperado": 28,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "Agua",
       "fecha": "2026-10-19",
       "dia": "lun",
       "compras": 0,
@@ -10040,7 +10124,7 @@
       },
       {
         "weekYear": "202644",
-        "valor": 42.5
+        "valor": 48.5
       }
     ],
     "Vtas Ext.": [
@@ -10118,7 +10202,7 @@
       },
       {
         "weekYear": "202644",
-        "valor": 257.5
+        "valor": 266.5
       }
     ],
     "Compras": [
@@ -10154,11 +10238,11 @@
     "filasInventariosOmuh": 460,
     "filasCompras": 1586,
     "filasSalidas": 104,
-    "filasVentasIzi": 7232,
+    "filasVentasIzi": 7264,
     "filasVentasPY": 11221,
     "filasExtras": 18295,
-    "filasMovInv": 323,
-    "filasVentasAncIzi": 5593,
+    "filasMovInv": 324,
+    "filasVentasAncIzi": 5610,
     "warnings": []
   }
 }

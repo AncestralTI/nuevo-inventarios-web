@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T18:05:47.223Z",
+  "generatedAt": "2026-10-31T21:26:50.656Z",
   "rangoFechas": {
     "desde": "2026-08-24",
     "hasta": "2026-10-31"
@@ -130,14 +130,14 @@
       "weekYear": "202644",
       "invMenos7": 54,
       "compras": 24,
-      "vtasIzi": 9,
+      "vtasIzi": 10,
       "vtasExt": 7,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 16,
+      "vtasTot": 17,
       "inv": null,
-      "cierre": 62,
+      "cierre": 61,
       "dif": null
     },
     {
@@ -403,9 +403,9 @@
       "vtasIzi": 0,
       "vtasExt": 0,
       "vtasPY": 0,
-      "vtasAnc": 8,
+      "vtasAnc": 9,
       "salidas": 0,
-      "vtasTot": 8,
+      "vtasTot": 9,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -610,14 +610,14 @@
       "weekYear": "202644",
       "invMenos7": 27,
       "compras": 13,
-      "vtasIzi": 3,
+      "vtasIzi": 6,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 3,
+      "vtasTot": 6,
       "inv": null,
-      "cierre": 37,
+      "cierre": 34,
       "dif": null
     },
     {
@@ -8424,12 +8424,12 @@
       "fecha": "2026-10-31",
       "dia": "sáb",
       "compras": 0,
-      "vtas": 3,
+      "vtas": 4,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "invEsperado": 62,
+      "invEsperado": 61,
       "invIniFin": null,
       "dif": null
     },
@@ -8441,7 +8441,7 @@
       "vtas": 0,
       "vtasExt": 0,
       "vtasPY": 0,
-      "vtasAnc": 1,
+      "vtasAnc": 2,
       "salidas": 0,
       "invEsperado": 0,
       "invIniFin": null,
@@ -8458,6 +8458,20 @@
       "vtasAnc": 0,
       "salidas": 0,
       "invEsperado": 28,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "Mandala Frambuesa",
+      "fecha": "2026-10-31",
+      "dia": "sáb",
+      "compras": 0,
+      "vtas": 3,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 34,
       "invIniFin": null,
       "dif": null
     },
@@ -10124,7 +10138,7 @@
       },
       {
         "weekYear": "202644",
-        "valor": 48.5
+        "valor": 52.5
       }
     ],
     "Vtas Ext.": [
@@ -10202,7 +10216,7 @@
       },
       {
         "weekYear": "202644",
-        "valor": 266.5
+        "valor": 271.5
       }
     ],
     "Compras": [
@@ -10238,11 +10252,11 @@
     "filasInventariosOmuh": 460,
     "filasCompras": 1586,
     "filasSalidas": 104,
-    "filasVentasIzi": 7264,
+    "filasVentasIzi": 7303,
     "filasVentasPY": 11221,
     "filasExtras": 18295,
-    "filasMovInv": 324,
-    "filasVentasAncIzi": 5610,
+    "filasMovInv": 328,
+    "filasVentasAncIzi": 5624,
     "warnings": []
   }
 }

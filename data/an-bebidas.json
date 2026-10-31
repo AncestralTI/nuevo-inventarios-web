@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T01:51:57.330Z",
+  "generatedAt": "2026-10-31T07:49:21.030Z",
   "rangoFechas": {
     "desde": "2026-08-24",
     "hasta": "2026-10-31"
@@ -292,13 +292,13 @@
       "weekYear": "202644",
       "invMenos7": 30,
       "compras": 24,
-      "vtas": 6,
+      "vtas": 7,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 6,
+      "vtasTot": 7,
       "inv": null,
-      "cierre": 48,
+      "cierre": 47,
       "dif": null
     },
     {
@@ -348,13 +348,13 @@
       "weekYear": "202644",
       "invMenos7": 12,
       "compras": 48,
-      "vtas": 8,
+      "vtas": 10,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 8,
+      "vtasTot": 10,
       "inv": null,
-      "cierre": 52,
+      "cierre": 50,
       "dif": null
     },
     {
@@ -446,13 +446,13 @@
       "weekYear": "202644",
       "invMenos7": 7,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 7,
+      "cierre": 6,
       "dif": null
     },
     {
@@ -460,13 +460,13 @@
       "weekYear": "202644",
       "invMenos7": 19,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 19,
+      "cierre": 18,
       "dif": null
     },
     {
@@ -488,13 +488,13 @@
       "weekYear": "202644",
       "invMenos7": 16,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 16,
+      "cierre": 15,
       "dif": null
     },
     {
@@ -4380,11 +4380,11 @@
       "fecha": "2026-10-30",
       "dia": "vie",
       "compras": 24,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "invEsperado": 48,
+      "invEsperado": 47,
       "invIniFin": null,
       "dif": null
     },
@@ -4406,11 +4406,50 @@
       "fecha": "2026-10-30",
       "dia": "vie",
       "compras": 48,
-      "vtas": 0,
+      "vtas": 2,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "invEsperado": 52,
+      "invEsperado": 50,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "REBELION OBSESSION IPA",
+      "fecha": "2026-10-30",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 6,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "SAN MIGUEL MATILDA PALE ALE",
+      "fecha": "2026-10-30",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 18,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "SPRITE",
+      "fecha": "2026-10-30",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 15,
       "invIniFin": null,
       "dif": null
     },
@@ -4790,7 +4829,7 @@
       },
       {
         "weekYear": "202644",
-        "valor": 27
+        "valor": 33
       }
     ],
     "Vtas Ext": [
@@ -4868,7 +4907,7 @@
       },
       {
         "weekYear": "202644",
-        "valor": 32
+        "valor": 38
       }
     ],
     "Salidas": [
@@ -4930,9 +4969,9 @@
     "filasInventariosGs": 4144,
     "filasCompras": 2440,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 5519,
-    "filasMovInv": 317,
-    "filasDimProducto": 457,
+    "filasVentasIzi": 5593,
+    "filasMovInv": 323,
+    "filasDimProducto": 458,
     "warnings": []
   }
 }

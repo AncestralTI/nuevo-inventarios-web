@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-30T22:41:27.434Z",
+  "generatedAt": "2026-10-31T01:51:47.664Z",
   "rangoFechas": {
     "desde": "2026-08-24",
-    "hasta": "2026-10-30"
+    "hasta": "2026-10-31"
   },
   "categorias": [
     "CERVEZA",
@@ -59,6 +59,7 @@
     "COPA MOSCATEL - JARDIN OCULTO",
     "COPA PEDRO GIMENEZ - 1750",
     "COPA PEDRO XIMENEZ - LANDSÚA",
+    "COPA ROSE - CRUCE DEL ZORRO",
     "COPA SYRAH - KOHLBERG",
     "COPA SYRAH - TERRA ANCESTRAL",
     "COPA TANNAT - CAÑON ESCONDIDO",
@@ -522,13 +523,13 @@
       "weekYear": "202644",
       "invMenos7": 5,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 5,
+      "cierre": 4,
       "dif": null
     },
     {
@@ -869,6 +870,20 @@
     },
     {
       "producto": "COPA PEDRO XIMENEZ - LANDSÚA",
+      "weekYear": "202644",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
+      "producto": "COPA ROSE - CRUCE DEL ZORRO",
       "weekYear": "202644",
       "invMenos7": null,
       "compras": 0,
@@ -2548,6 +2563,20 @@
       "dif": null
     },
     {
+      "producto": "COPA ROSE - CRUCE DEL ZORRO",
+      "weekYear": "202643",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
       "producto": "COPA SYRAH - KOHLBERG",
       "weekYear": "202643",
       "invMenos7": null,
@@ -4201,6 +4230,20 @@
     },
     {
       "producto": "COPA PEDRO XIMENEZ - LANDSÚA",
+      "weekYear": "202642",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
+      "producto": "COPA ROSE - CRUCE DEL ZORRO",
       "weekYear": "202642",
       "invMenos7": null,
       "compras": 0,
@@ -5880,6 +5923,20 @@
       "dif": null
     },
     {
+      "producto": "COPA ROSE - CRUCE DEL ZORRO",
+      "weekYear": "202641",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
       "producto": "COPA SYRAH - KOHLBERG",
       "weekYear": "202641",
       "invMenos7": null,
@@ -7533,6 +7590,20 @@
     },
     {
       "producto": "COPA PEDRO XIMENEZ - LANDSÚA",
+      "weekYear": "202640",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
+      "producto": "COPA ROSE - CRUCE DEL ZORRO",
       "weekYear": "202640",
       "invMenos7": null,
       "compras": 0,
@@ -9212,6 +9283,20 @@
       "dif": null
     },
     {
+      "producto": "COPA ROSE - CRUCE DEL ZORRO",
+      "weekYear": "202639",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
       "producto": "COPA SYRAH - KOHLBERG",
       "weekYear": "202639",
       "invMenos7": null,
@@ -10873,6 +10958,20 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 3,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
+      "producto": "COPA ROSE - CRUCE DEL ZORRO",
+      "weekYear": "202638",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -12544,6 +12643,20 @@
       "dif": null
     },
     {
+      "producto": "COPA ROSE - CRUCE DEL ZORRO",
+      "weekYear": "202637",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
       "producto": "COPA SYRAH - KOHLBERG",
       "weekYear": "202637",
       "invMenos7": null,
@@ -14205,6 +14318,20 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 2,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
+      "producto": "COPA ROSE - CRUCE DEL ZORRO",
+      "weekYear": "202636",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -15876,6 +16003,20 @@
       "dif": null
     },
     {
+      "producto": "COPA ROSE - CRUCE DEL ZORRO",
+      "weekYear": "202635",
+      "invMenos7": null,
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 0,
+      "inv": null,
+      "cierre": 0,
+      "dif": null
+    },
+    {
       "producto": "COPA SYRAH - KOHLBERG",
       "weekYear": "202635",
       "invMenos7": null,
@@ -17326,6 +17467,19 @@
       "dif": null
     },
     {
+      "producto": "CABERNET FRANC - CRUCE DEL ZORRO",
+      "fecha": "2026-10-30",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 4,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "HUARI",
       "fecha": "2026-10-30",
       "dia": "vie",
@@ -18299,7 +18453,7 @@
       },
       {
         "weekYear": "202644",
-        "valor": 37
+        "valor": 38
       }
     ],
     "Vtas Ext": [
@@ -18377,7 +18531,7 @@
       },
       {
         "weekYear": "202644",
-        "valor": 50
+        "valor": 51
       }
     ],
     "Salidas": [
@@ -18439,9 +18593,9 @@
     "filasInventariosGs": 4144,
     "filasCompras": 2440,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 5489,
-    "filasMovInv": 313,
-    "filasDimProducto": 456,
+    "filasVentasIzi": 5519,
+    "filasMovInv": 317,
+    "filasDimProducto": 457,
     "warnings": []
   }
 }

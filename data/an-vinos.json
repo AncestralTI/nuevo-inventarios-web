@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T18:29:38.240Z",
+  "generatedAt": "2026-11-01T22:15:59.685Z",
   "rangoFechas": {
     "desde": "2026-08-24",
     "hasta": "2026-11-01"
@@ -302,10 +302,10 @@
       "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 0,
+      "salidas": 2,
+      "vtasTot": 2,
       "inv": null,
-      "cierre": 16,
+      "cierre": 14,
       "dif": null
     },
     {
@@ -344,10 +344,10 @@
       "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 0,
+      "salidas": 1,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 7,
+      "cierre": 6,
       "dif": null
     },
     {
@@ -402,23 +402,23 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 7,
-      "inv": null,
+      "inv": 23,
       "cierre": 23,
-      "dif": null
+      "dif": 0
     },
     {
       "producto": "BENDITA IPA",
       "weekYear": "202644",
       "invMenos7": 8,
       "compras": 12,
-      "vtas": 1,
+      "vtas": 3,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 1,
-      "inv": null,
-      "cierre": 19,
-      "dif": null
+      "vtasTot": 3,
+      "inv": 17,
+      "cierre": 17,
+      "dif": 0
     },
     {
       "producto": "BENDITA PILS",
@@ -430,9 +430,9 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 0,
-      "inv": null,
+      "inv": 14,
       "cierre": 14,
-      "dif": null
+      "dif": 0
     },
     {
       "producto": "BLANC DE NOIR - CEPA DE ORO",
@@ -1139,14 +1139,14 @@
       "weekYear": "202644",
       "invMenos7": 12,
       "compras": 48,
-      "vtas": 10,
+      "vtas": 14,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 10,
-      "inv": null,
-      "cierre": 50,
-      "dif": null
+      "vtasTot": 14,
+      "inv": 44,
+      "cierre": 46,
+      "dif": -2
     },
     {
       "producto": "IMPOREÑA - CEPA DE ORO",
@@ -1240,8 +1240,8 @@
       "vtas": 2,
       "vtasExt": 0,
       "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 2,
+      "salidas": 1,
+      "vtasTot": 3,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -1326,9 +1326,9 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 0,
-      "inv": null,
+      "inv": 17,
       "cierre": 17,
-      "dif": null
+      "dif": 0
     },
     {
       "producto": "MADERA DOMINGA",
@@ -1340,9 +1340,9 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 2,
-      "inv": null,
+      "inv": 18,
       "cierre": 18,
-      "dif": null
+      "dif": 0
     },
     {
       "producto": "MAGNUS - MERLOT",
@@ -1366,10 +1366,10 @@
       "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 1,
+      "salidas": 1,
+      "vtasTot": 2,
       "inv": null,
-      "cierre": 2,
+      "cierre": 1,
       "dif": null
     },
     {
@@ -1564,9 +1564,9 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 2,
-      "inv": null,
+      "inv": 9,
       "cierre": 9,
-      "dif": null
+      "dif": 0
     },
     {
       "producto": "REBELION ALBA WEIZEN",
@@ -1578,9 +1578,9 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 0,
-      "inv": null,
+      "inv": 7,
       "cierre": 7,
-      "dif": null
+      "dif": 0
     },
     {
       "producto": "REBELION OBSESSION IPA",
@@ -1592,37 +1592,37 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 1,
-      "inv": null,
+      "inv": 6,
       "cierre": 6,
-      "dif": null
+      "dif": 0
     },
     {
       "producto": "SAN MIGUEL MATILDA PALE ALE",
       "weekYear": "202644",
       "invMenos7": 19,
       "compras": 0,
-      "vtas": 1,
+      "vtas": 2,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 1,
-      "inv": null,
-      "cierre": 18,
-      "dif": null
+      "vtasTot": 2,
+      "inv": 17,
+      "cierre": 17,
+      "dif": 0
     },
     {
       "producto": "SAN MIGUEL SOLSTICIO",
       "weekYear": "202644",
       "invMenos7": 13,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 2,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 5,
-      "vtasTot": 5,
-      "inv": null,
-      "cierre": 8,
-      "dif": null
+      "vtasTot": 7,
+      "inv": 6,
+      "cierre": 6,
+      "dif": 0
     },
     {
       "producto": "SAV BLANC - 1750",
@@ -17272,6 +17272,19 @@
       "dif": null
     },
     {
+      "producto": "KOHLBERG - FLAMANT ROSE",
+      "fecha": "2026-10-28",
+      "dia": "mié",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 1,
+      "invEsperado": 1,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "KOHLBERG - ICONO",
       "fecha": "2026-10-28",
       "dia": "mié",
@@ -17389,6 +17402,19 @@
       "dif": null
     },
     {
+      "producto": "ALTOSAMA - BRUT",
+      "fecha": "2026-10-29",
+      "dia": "jue",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 1,
+      "invEsperado": 15,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "BENDITA HOPPY",
       "fecha": "2026-10-29",
       "dia": "jue",
@@ -17467,6 +17493,19 @@
       "dif": null
     },
     {
+      "producto": "ARANJUEZ / TANNAT \"ORIGEN\"",
+      "fecha": "2026-10-30",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 1,
+      "invEsperado": 6,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "CABERNET FRANC - CRUCE DEL ZORRO",
       "fecha": "2026-10-30",
       "dia": "vie",
@@ -17519,6 +17558,19 @@
       "dif": null
     },
     {
+      "producto": "MAGNUS SANGIOVESE",
+      "fecha": "2026-10-30",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 1,
+      "invEsperado": 1,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "REBELION OBSESSION IPA",
       "fecha": "2026-10-30",
       "dia": "vie",
@@ -17541,6 +17593,19 @@
       "cortesias": 0,
       "salidas": 0,
       "invEsperado": 18,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "ALTOSAMA - BRUT",
+      "fecha": "2026-10-31",
+      "dia": "sáb",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 1,
+      "invEsperado": 14,
       "invIniFin": null,
       "dif": null
     },
@@ -17608,6 +17673,58 @@
       "invEsperado": 9,
       "invIniFin": null,
       "dif": null
+    },
+    {
+      "producto": "BENDITA IPA",
+      "fecha": "2026-11-01",
+      "dia": "dom",
+      "compras": 0,
+      "vtas": 2,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 17,
+      "invIniFin": 17,
+      "dif": 0
+    },
+    {
+      "producto": "HUARI",
+      "fecha": "2026-11-01",
+      "dia": "dom",
+      "compras": 0,
+      "vtas": 4,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 46,
+      "invIniFin": 44,
+      "dif": -2
+    },
+    {
+      "producto": "SAN MIGUEL MATILDA PALE ALE",
+      "fecha": "2026-11-01",
+      "dia": "dom",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 17,
+      "invIniFin": 17,
+      "dif": 0
+    },
+    {
+      "producto": "SAN MIGUEL SOLSTICIO",
+      "fecha": "2026-11-01",
+      "dia": "dom",
+      "compras": 0,
+      "vtas": 2,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 6,
+      "invIniFin": 6,
+      "dif": 0
     },
     {
       "producto": "ALAYA - TELLUS",
@@ -18570,7 +18687,7 @@
       },
       {
         "weekYear": "202644",
-        "valor": 55
+        "valor": 64
       }
     ],
     "Vtas Ext": [
@@ -18648,7 +18765,7 @@
       },
       {
         "weekYear": "202644",
-        "valor": 68
+        "valor": 82
       }
     ],
     "Salidas": [
@@ -18674,7 +18791,7 @@
       },
       {
         "weekYear": "202644",
-        "valor": 13
+        "valor": 18
       }
     ],
     "Compras": [
@@ -18706,12 +18823,12 @@
   },
   "meta": {
     "ventasIziDisponibles": true,
-    "filasApertura": 1470,
-    "filasInventariosGs": 4144,
+    "filasApertura": 1476,
+    "filasInventariosGs": 4199,
     "filasCompras": 2440,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 5589,
-    "filasMovInv": 336,
+    "filasVentasIzi": 5678,
+    "filasMovInv": 343,
     "filasDimProducto": 458,
     "warnings": []
   }

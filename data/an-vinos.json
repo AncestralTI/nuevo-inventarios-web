@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T00:15:33.667Z",
+  "generatedAt": "2026-11-01T06:12:48.965Z",
   "rangoFechas": {
     "desde": "2026-08-24",
     "hasta": "2026-11-01"
@@ -1349,13 +1349,13 @@
       "weekYear": "202644",
       "invMenos7": 6,
       "compras": 0,
-      "vtas": 1,
+      "vtas": 2,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 1,
+      "vtasTot": 2,
       "inv": null,
-      "cierre": 5,
+      "cierre": 4,
       "dif": null
     },
     {
@@ -17571,6 +17571,19 @@
       "dif": null
     },
     {
+      "producto": "MAGNUS - MERLOT",
+      "fecha": "2026-10-31",
+      "dia": "sáb",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 4,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "MALBEC CALADOC - KUHLMANN",
       "fecha": "2026-10-31",
       "dia": "sáb",
@@ -18557,7 +18570,7 @@
       },
       {
         "weekYear": "202644",
-        "valor": 54
+        "valor": 55
       }
     ],
     "Vtas Ext": [
@@ -18635,7 +18648,7 @@
       },
       {
         "weekYear": "202644",
-        "valor": 67
+        "valor": 68
       }
     ],
     "Salidas": [
@@ -18697,8 +18710,8 @@
     "filasInventariosGs": 4144,
     "filasCompras": 2440,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 5544,
-    "filasMovInv": 328,
+    "filasVentasIzi": 5577,
+    "filasMovInv": 334,
     "filasDimProducto": 458,
     "warnings": []
   }

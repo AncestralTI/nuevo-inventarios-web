@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T13:30:17.611Z",
+  "generatedAt": "2026-11-01T18:30:23.845Z",
   "fuente": "API iZi Soluciones (facturas + items-inventarios), sucursal Ancestral (79344)",
   "rango": {
     "desde": "2026-10-02",
@@ -11358,6 +11358,94 @@
       "fecha": "2026-10-31",
       "cantidad": 1,
       "monto": 50
+    },
+    {
+      "codProducto": "ANC00058",
+      "producto": "ALCACHOFAS",
+      "categoria": "ENTRADAS",
+      "fecha": "2026-11-01",
+      "cantidad": 1,
+      "monto": 75
+    },
+    {
+      "codProducto": "ANC00331",
+      "producto": "CORDERO A LA CRUZ",
+      "categoria": "COMIDAS",
+      "fecha": "2026-11-01",
+      "cantidad": 1,
+      "monto": 150
+    },
+    {
+      "codProducto": "ANC00093",
+      "producto": "KEPERI AHUMADO",
+      "categoria": "FUERTES",
+      "fecha": "2026-11-01",
+      "cantidad": 2,
+      "monto": 280
+    },
+    {
+      "codProducto": "ANC00038",
+      "producto": "APEROL SPRITZ",
+      "categoria": "COCTELES",
+      "fecha": "2026-11-01",
+      "cantidad": 1,
+      "monto": 50
+    },
+    {
+      "codProducto": "ANC00029",
+      "producto": "MOJITO",
+      "categoria": "COCTELES",
+      "fecha": "2026-11-01",
+      "cantidad": 1,
+      "monto": 50
+    },
+    {
+      "codProducto": "ANC00115",
+      "producto": "NARANJA-TUMBO (BOTELLA)",
+      "categoria": "JUGOS",
+      "fecha": "2026-11-01",
+      "cantidad": 1,
+      "monto": 40
+    },
+    {
+      "codProducto": "ANC00065",
+      "producto": "TATAKI DE LLAMA",
+      "categoria": "ENTRADAS",
+      "fecha": "2026-11-01",
+      "cantidad": 1,
+      "monto": 75
+    },
+    {
+      "codProducto": "ANC00063",
+      "producto": "TACO PULLED PORK",
+      "categoria": "ENTRADAS",
+      "fecha": "2026-11-01",
+      "cantidad": 1,
+      "monto": 70
+    },
+    {
+      "codProducto": "ANC00183",
+      "producto": "PANZA FRITA",
+      "categoria": "ENTRADAS",
+      "fecha": "2026-11-01",
+      "cantidad": 1,
+      "monto": 60
+    },
+    {
+      "codProducto": "ANC00064",
+      "producto": "TARTAR DE RES",
+      "categoria": "ENTRADAS",
+      "fecha": "2026-11-01",
+      "cantidad": 1,
+      "monto": 70
+    },
+    {
+      "codProducto": "ANC00324",
+      "producto": "TRUCHA CURADA EN PATACÓN",
+      "categoria": "COMIDAS",
+      "fecha": "2026-11-01",
+      "cantidad": 1,
+      "monto": 70
     }
   ]
 }

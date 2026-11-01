@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-31T21:26:13.653Z",
+  "generatedAt": "2026-11-01T00:15:33.667Z",
   "rangoFechas": {
     "desde": "2026-08-24",
-    "hasta": "2026-10-31"
+    "hasta": "2026-11-01"
   },
   "categorias": [
     "CERVEZA",
@@ -313,13 +313,13 @@
       "weekYear": "202644",
       "invMenos7": 1,
       "compras": 6,
-      "vtas": 1,
+      "vtas": 2,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 1,
+      "vtasTot": 2,
       "inv": null,
-      "cierre": 6,
+      "cierre": 5,
       "dif": null
     },
     {
@@ -397,13 +397,13 @@
       "weekYear": "202644",
       "invMenos7": 18,
       "compras": 12,
-      "vtas": 2,
+      "vtas": 7,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 2,
+      "vtasTot": 7,
       "inv": null,
-      "cierre": 28,
+      "cierre": 23,
       "dif": null
     },
     {
@@ -1377,13 +1377,13 @@
       "weekYear": "202644",
       "invMenos7": 1,
       "compras": 6,
-      "vtas": 1,
+      "vtas": 2,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 1,
-      "vtasTot": 2,
+      "vtasTot": 3,
       "inv": null,
-      "cierre": 5,
+      "cierre": 4,
       "dif": null
     },
     {
@@ -13851,14 +13851,14 @@
       "weekYear": "202636",
       "invMenos7": 11,
       "compras": 0,
-      "vtas": 3,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 3,
+      "vtasTot": 1,
       "inv": 8,
-      "cierre": 8,
-      "dif": 0
+      "cierre": 10,
+      "dif": -2
     },
     {
       "producto": "BENDITA PILS",
@@ -14579,14 +14579,14 @@
       "weekYear": "202636",
       "invMenos7": 49,
       "compras": 0,
-      "vtas": 17,
+      "vtas": 16,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 17,
+      "vtasTot": 16,
       "inv": 32,
-      "cierre": 32,
-      "dif": 0
+      "cierre": 33,
+      "dif": -1
     },
     {
       "producto": "IMPOREÑA - CEPA DE ORO",
@@ -14817,13 +14817,13 @@
       "weekYear": "202636",
       "invMenos7": 2,
       "compras": 0,
-      "vtas": 2,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 2,
+      "vtasTot": 1,
       "inv": 0,
-      "cierre": 0,
+      "cierre": 1,
       "dif": null
     },
     {
@@ -14999,28 +14999,28 @@
       "weekYear": "202636",
       "invMenos7": 29,
       "compras": 0,
-      "vtas": 7,
+      "vtas": 4,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 7,
+      "vtasTot": 4,
       "inv": 22,
-      "cierre": 22,
-      "dif": 0
+      "cierre": 25,
+      "dif": -3
     },
     {
       "producto": "REBELION ALBA WEIZEN",
       "weekYear": "202636",
       "invMenos7": 13,
       "compras": 0,
-      "vtas": 2,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 2,
+      "vtasTot": 1,
       "inv": 11,
-      "cierre": 11,
-      "dif": 0
+      "cierre": 12,
+      "dif": -1
     },
     {
       "producto": "REBELION OBSESSION IPA",
@@ -15055,14 +15055,14 @@
       "weekYear": "202636",
       "invMenos7": 29,
       "compras": 0,
-      "vtas": 3,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 3,
+      "vtasTot": 1,
       "inv": 26,
-      "cierre": 26,
-      "dif": 0
+      "cierre": 28,
+      "dif": -2
     },
     {
       "producto": "SAV BLANC - 1750",
@@ -17545,6 +17545,45 @@
       "dif": null
     },
     {
+      "producto": "AMOR FATI - TELLUS",
+      "fecha": "2026-10-31",
+      "dia": "sáb",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 5,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "BENDITA HOPPY",
+      "fecha": "2026-10-31",
+      "dia": "sáb",
+      "compras": 0,
+      "vtas": 5,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 23,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "MALBEC CALADOC - KUHLMANN",
+      "fecha": "2026-10-31",
+      "dia": "sáb",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 4,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "POTOSINA PILSNER",
       "fecha": "2026-10-31",
       "dia": "sáb",
@@ -18518,7 +18557,7 @@
       },
       {
         "weekYear": "202644",
-        "valor": 47
+        "valor": 54
       }
     ],
     "Vtas Ext": [
@@ -18596,7 +18635,7 @@
       },
       {
         "weekYear": "202644",
-        "valor": 60
+        "valor": 67
       }
     ],
     "Salidas": [
@@ -18658,7 +18697,7 @@
     "filasInventariosGs": 4144,
     "filasCompras": 2440,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 5624,
+    "filasVentasIzi": 5544,
     "filasMovInv": 328,
     "filasDimProducto": 458,
     "warnings": []

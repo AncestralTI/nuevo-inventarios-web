@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T15:40:28.980Z",
+  "generatedAt": "2026-11-03T21:16:15.072Z",
   "rangoFechas": {
     "desde": "2026-08-31",
     "hasta": "2026-11-03"
@@ -730,12 +730,12 @@
       "weekYear": "202645",
       "invMenos7": null,
       "compras": 0,
-      "vtasIzi": 0,
+      "vtasIzi": 2,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 2,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -7496,6 +7496,20 @@
       "dif": 4
     },
     {
+      "producto": "Refresco Artesanal",
+      "fecha": "2026-11-03",
+      "dia": "mar",
+      "compras": 0,
+      "vtas": 2,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 0,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "Coca Cola",
       "fecha": "2026-10-26",
       "dia": "lun",
@@ -9060,7 +9074,7 @@
       },
       {
         "weekYear": "202645",
-        "valor": 7
+        "valor": 9
       }
     ],
     "Vtas Ext.": [
@@ -9138,7 +9152,7 @@
       },
       {
         "weekYear": "202645",
-        "valor": 56
+        "valor": 58
       }
     ],
     "Compras": [
@@ -9173,11 +9187,11 @@
     "filasDimProducto": 458,
     "filasInventariosOmuh": 477,
     "filasCompras": 1586,
-    "filasSalidas": 106,
-    "filasVentasIzi": 7429,
+    "filasSalidas": 107,
+    "filasVentasIzi": 7454,
     "filasVentasPY": 11295,
     "filasExtras": 18602,
-    "filasMovInv": 322,
+    "filasMovInv": 323,
     "filasVentasAncIzi": 5481,
     "warnings": []
   }

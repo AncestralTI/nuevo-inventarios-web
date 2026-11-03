@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T15:39:48.539Z",
+  "generatedAt": "2026-11-03T21:15:35.151Z",
   "rangoFechas": {
     "desde": "2026-08-31",
     "hasta": "2026-11-03"
@@ -2734,15 +2734,15 @@
       "producto": "EL ENEMIGO-CABERNET FRANC",
       "weekYear": "202644",
       "invMenos7": 5,
-      "compras": 0,
+      "compras": 4,
       "vtas": 5,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 5,
       "inv": 4,
-      "cierre": 0,
-      "dif": 4
+      "cierre": 4,
+      "dif": 0
     },
     {
       "producto": "EL ENEMIGO-MALBEC",
@@ -17636,6 +17636,19 @@
       "dif": null
     },
     {
+      "producto": "EL ENEMIGO-CABERNET FRANC",
+      "fecha": "2026-10-31",
+      "dia": "sáb",
+      "compras": 4,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 4,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "MAGNUS - MERLOT",
       "fecha": "2026-10-31",
       "dia": "sáb",
@@ -17877,7 +17890,7 @@
       },
       {
         "weekYear": "202644",
-        "valor": 102
+        "valor": 106
       },
       {
         "weekYear": "202645",
@@ -17892,7 +17905,7 @@
     "filasCompras": 2443,
     "filasMatrizChuleton": 1,
     "filasVentasIzi": 5481,
-    "filasMovInv": 322,
+    "filasMovInv": 323,
     "filasDimProducto": 458,
     "warnings": []
   }

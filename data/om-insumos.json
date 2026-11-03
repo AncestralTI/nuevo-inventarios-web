@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-02T18:26:23.466Z",
+  "generatedAt": "2026-11-03T01:07:54.254Z",
   "rangoFechas": {
     "desde": "2026-08-31",
-    "hasta": "2026-11-02"
+    "hasta": "2026-11-03"
   },
   "insumos": [
     "Carne Molida 130g",
@@ -79,14 +79,14 @@
       "weekYear": "202645",
       "invMenos7": null,
       "compras": 0,
-      "vtasIzi": 5.5,
+      "vtasIzi": 90,
       "vtasAnc": 0,
       "vtasPY": 0,
       "vtasExt": 0,
       "vtasVegg": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 5.5,
+      "vtasTot": 90,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -96,14 +96,14 @@
       "weekYear": "202645",
       "invMenos7": null,
       "compras": 0,
-      "vtasIzi": 1,
+      "vtasIzi": 7,
       "vtasAnc": 0,
       "vtasPY": 0,
       "vtasExt": 0,
       "vtasVegg": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 1,
+      "vtasTot": 7,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -113,14 +113,14 @@
       "weekYear": "202645",
       "invMenos7": null,
       "compras": 0,
-      "vtasIzi": 0,
+      "vtasIzi": 3,
       "vtasAnc": 0,
       "vtasPY": 0,
       "vtasExt": 0,
       "vtasVegg": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 3,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -538,16 +538,16 @@
       "weekYear": "202636",
       "invMenos7": null,
       "compras": 701,
-      "vtasIzi": 404.5,
+      "vtasIzi": 327,
       "vtasAnc": 1,
       "vtasPY": 54,
       "vtasExt": 16,
       "vtasVegg": -4,
       "cortesias": 0,
       "salidas": 5,
-      "vtasTot": 476.5,
+      "vtasTot": 399,
       "inv": null,
-      "cierre": 224.5,
+      "cierre": 302,
       "dif": null
     },
     {
@@ -555,16 +555,16 @@
       "weekYear": "202636",
       "invMenos7": null,
       "compras": 89,
-      "vtasIzi": 58,
+      "vtasIzi": 52,
       "vtasAnc": 0,
       "vtasPY": 12,
       "vtasExt": 0,
       "vtasVegg": -1,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 69,
+      "vtasTot": 63,
       "inv": null,
-      "cierre": 20,
+      "cierre": 26,
       "dif": null
     },
     {
@@ -572,16 +572,16 @@
       "weekYear": "202636",
       "invMenos7": null,
       "compras": 94,
-      "vtasIzi": 18,
+      "vtasIzi": 15,
       "vtasAnc": 0,
       "vtasPY": 0,
       "vtasExt": 0,
       "vtasVegg": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 18,
+      "vtasTot": 15,
       "inv": null,
-      "cierre": 76,
+      "cierre": 79,
       "dif": null
     }
   ],
@@ -591,7 +591,7 @@
       "fecha": "2026-11-02",
       "dia": "lun",
       "compras": 0,
-      "vtas": 5.5,
+      "vtas": 90,
       "salidas": 0,
       "invEsperado": 0,
       "invFin": null,
@@ -602,7 +602,18 @@
       "fecha": "2026-11-02",
       "dia": "lun",
       "compras": 0,
-      "vtas": 1,
+      "vtas": 7,
+      "salidas": 0,
+      "invEsperado": 0,
+      "invFin": null,
+      "dif": null
+    },
+    {
+      "insumo": "Pesca Amazonica",
+      "fecha": "2026-11-02",
+      "dia": "lun",
+      "compras": 0,
+      "vtas": 3,
       "salidas": 0,
       "invEsperado": 0,
       "invFin": null,
@@ -842,7 +853,7 @@
       },
       {
         "weekYear": "202645",
-        "valor": 6.5
+        "valor": 100
       }
     ],
     "Vtas Anc": [
@@ -998,7 +1009,7 @@
       },
       {
         "weekYear": "202645",
-        "valor": 6.5
+        "valor": 100
       }
     ],
     "Compras": [
@@ -1034,11 +1045,11 @@
     "filasInventariosUnitarios": 0,
     "filasCompras": 1586,
     "filasSalidas": 106,
-    "filasVentasIzi": 7384,
+    "filasVentasIzi": 7413,
     "filasVentasPY": 11257,
     "filasExtras": 18494,
-    "filasMovInv": 329,
-    "filasVentasAncIzi": 5599,
+    "filasMovInv": 322,
+    "filasVentasAncIzi": 5481,
     "warnings": []
   }
 }

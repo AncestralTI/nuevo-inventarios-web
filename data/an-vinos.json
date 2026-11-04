@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T01:25:25.871Z",
+  "generatedAt": "2026-11-04T07:42:29.744Z",
   "rangoFechas": {
     "desde": "2026-08-31",
     "hasta": "2026-11-04"
@@ -607,13 +607,13 @@
       "weekYear": "202645",
       "invMenos7": 8,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 8,
+      "cierre": 7,
       "dif": null
     },
     {
@@ -1573,13 +1573,13 @@
       "weekYear": "202645",
       "invMenos7": 7,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 7,
+      "cierre": 6,
       "dif": null
     },
     {
@@ -16999,6 +16999,19 @@
   ],
   "detalleDiario": [
     {
+      "producto": "CHARDONNAY - 1750",
+      "fecha": "2026-11-03",
+      "dia": "mar",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 7,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "COPA MARSELAN - ARSAL",
       "fecha": "2026-11-03",
       "dia": "mar",
@@ -17008,6 +17021,19 @@
       "cortesias": 0,
       "salidas": 0,
       "invEsperado": 0,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "REBELION ALBA WEIZEN",
+      "fecha": "2026-11-03",
+      "dia": "mar",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 6,
       "invIniFin": null,
       "dif": null
     },
@@ -17777,7 +17803,7 @@
       },
       {
         "weekYear": "202645",
-        "valor": 2
+        "valor": 4
       }
     ],
     "Vtas Ext": [
@@ -17855,7 +17881,7 @@
       },
       {
         "weekYear": "202645",
-        "valor": 2
+        "valor": 4
       }
     ],
     "Salidas": [
@@ -17917,8 +17943,8 @@
     "filasInventariosGs": 4225,
     "filasCompras": 2443,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 5361,
-    "filasMovInv": 312,
+    "filasVentasIzi": 5387,
+    "filasMovInv": 314,
     "filasDimProducto": 458,
     "warnings": []
   }

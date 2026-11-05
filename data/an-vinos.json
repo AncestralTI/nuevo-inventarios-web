@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T01:45:08.457Z",
+  "generatedAt": "2026-11-05T08:32:47.275Z",
   "rangoFechas": {
     "desde": "2026-08-31",
     "hasta": "2026-11-05"
@@ -302,10 +302,10 @@
       "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 0,
+      "salidas": 1,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 14,
+      "cierre": 13,
       "dif": null
     },
     {
@@ -411,13 +411,13 @@
       "weekYear": "202645",
       "invMenos7": 17,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 2,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 2,
       "inv": null,
-      "cierre": 17,
+      "cierre": 15,
       "dif": null
     },
     {
@@ -565,11 +565,11 @@
       "weekYear": "202645",
       "invMenos7": 0,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 2,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 2,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -1139,13 +1139,13 @@
       "weekYear": "202645",
       "invMenos7": 46,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 46,
+      "cierre": 45,
       "dif": null
     },
     {
@@ -1349,13 +1349,13 @@
       "weekYear": "202645",
       "invMenos7": 4,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 4,
+      "cierre": 3,
       "dif": null
     },
     {
@@ -1394,10 +1394,10 @@
       "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 0,
+      "salidas": 1,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 6,
+      "cierre": 5,
       "dif": null
     },
     {
@@ -1629,13 +1629,13 @@
       "weekYear": "202645",
       "invMenos7": 7,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 7,
+      "cierre": 6,
       "dif": null
     },
     {
@@ -1853,13 +1853,13 @@
       "weekYear": "202645",
       "invMenos7": 4,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 4,
+      "cierre": 3,
       "dif": null
     },
     {
@@ -17025,6 +17025,19 @@
       "dif": null
     },
     {
+      "producto": "MARSELAN - ARSAL",
+      "fecha": "2026-11-03",
+      "dia": "mar",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 1,
+      "invEsperado": 5,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "REBELION ALBA WEIZEN",
       "fecha": "2026-11-03",
       "dia": "mar",
@@ -17038,6 +17051,45 @@
       "dif": null
     },
     {
+      "producto": "ALTOSAMA - BRUT",
+      "fecha": "2026-11-04",
+      "dia": "mié",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 1,
+      "invEsperado": 13,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "BENDITA IPA",
+      "fecha": "2026-11-04",
+      "dia": "mié",
+      "compras": 0,
+      "vtas": 2,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 15,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "CAÑON ESCONDIDO - TANNAT",
+      "fecha": "2026-11-04",
+      "dia": "mié",
+      "compras": 0,
+      "vtas": 2,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 0,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "COPA LOCURA 5.1.1. - MAGNUS",
       "fecha": "2026-11-04",
       "dia": "mié",
@@ -17047,6 +17099,58 @@
       "cortesias": 0,
       "salidas": 0,
       "invEsperado": 0,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "HUARI",
+      "fecha": "2026-11-04",
+      "dia": "mié",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 45,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "MAGNUS - MERLOT",
+      "fecha": "2026-11-04",
+      "dia": "mié",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 3,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "SAV BLANC - 1750",
+      "fecha": "2026-11-04",
+      "dia": "mié",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 6,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "VISCHOQUEÑA - SAN FRANCISCO",
+      "fecha": "2026-11-04",
+      "dia": "mié",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 3,
       "invIniFin": null,
       "dif": null
     },
@@ -17816,7 +17920,7 @@
       },
       {
         "weekYear": "202645",
-        "valor": 5
+        "valor": 13
       }
     ],
     "Vtas Ext": [
@@ -17894,7 +17998,7 @@
       },
       {
         "weekYear": "202645",
-        "valor": 5
+        "valor": 15
       }
     ],
     "Salidas": [
@@ -17920,7 +18024,7 @@
       },
       {
         "weekYear": "202645",
-        "valor": 0
+        "valor": 2
       }
     ],
     "Compras": [
@@ -17952,12 +18056,12 @@
   },
   "meta": {
     "ventasIziDisponibles": true,
-    "filasApertura": 1476,
+    "filasApertura": 1483,
     "filasInventariosGs": 4225,
     "filasCompras": 2446,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 5221,
-    "filasMovInv": 297,
+    "filasVentasIzi": 5276,
+    "filasMovInv": 303,
     "filasDimProducto": 458,
     "warnings": []
   }

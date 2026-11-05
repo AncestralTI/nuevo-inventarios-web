@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T01:45:19.219Z",
+  "generatedAt": "2026-11-05T08:32:56.226Z",
   "rangoFechas": {
     "desde": "2026-08-31",
     "hasta": "2026-11-05"
@@ -124,13 +124,13 @@
       "weekYear": "202645",
       "invMenos7": 17,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 2,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 2,
       "inv": null,
-      "cierre": 17,
+      "cierre": 15,
       "dif": null
     },
     {
@@ -306,13 +306,13 @@
       "weekYear": "202645",
       "invMenos7": 36,
       "compras": 0,
-      "vtas": 1,
+      "vtas": 2,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 1,
+      "vtasTot": 2,
       "inv": null,
-      "cierre": 35,
+      "cierre": 34,
       "dif": null
     },
     {
@@ -348,13 +348,13 @@
       "weekYear": "202645",
       "invMenos7": 46,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 46,
+      "cierre": 45,
       "dif": null
     },
     {
@@ -4207,6 +4207,19 @@
       "dif": null
     },
     {
+      "producto": "BENDITA IPA",
+      "fecha": "2026-11-04",
+      "dia": "mié",
+      "compras": 0,
+      "vtas": 2,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 15,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "COCA COLA",
       "fecha": "2026-11-04",
       "dia": "mié",
@@ -4216,6 +4229,32 @@
       "cortesias": 0,
       "salidas": 0,
       "invEsperado": 44,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "COCA COLA SIN AZUCAR",
+      "fecha": "2026-11-04",
+      "dia": "mié",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 34,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "HUARI",
+      "fecha": "2026-11-04",
+      "dia": "mié",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 45,
       "invIniFin": null,
       "dif": null
     },
@@ -4673,7 +4712,7 @@
       },
       {
         "weekYear": "202645",
-        "valor": 4
+        "valor": 8
       }
     ],
     "Vtas Ext": [
@@ -4751,7 +4790,7 @@
       },
       {
         "weekYear": "202645",
-        "valor": 4
+        "valor": 8
       }
     ],
     "Salidas": [
@@ -4809,12 +4848,12 @@
   },
   "meta": {
     "ventasIziDisponibles": true,
-    "filasApertura": 1476,
+    "filasApertura": 1483,
     "filasInventariosGs": 4225,
     "filasCompras": 2446,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 5221,
-    "filasMovInv": 297,
+    "filasVentasIzi": 5276,
+    "filasMovInv": 303,
     "filasDimProducto": 458,
     "warnings": []
   }

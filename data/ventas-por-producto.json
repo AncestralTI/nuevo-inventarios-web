@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-04T21:34:00.403Z",
+  "generatedAt": "2026-11-05T01:45:54.569Z",
   "fuente": "API iZi Soluciones (facturas + items-inventarios), sucursal Ancestral (79344)",
   "rango": {
-    "desde": "2026-10-05",
-    "hasta": "2026-11-04"
+    "desde": "2026-10-06",
+    "hasta": "2026-11-05"
   },
   "categorias": [
     "6. Extra",
@@ -10493,6 +10493,110 @@
       "fecha": "2026-11-03",
       "cantidad": 0.64,
       "monto": 256
+    },
+    {
+      "codProducto": "ANC00099",
+      "producto": "PARRILLA OJO DE BIFE",
+      "categoria": "FUERTES",
+      "fecha": "2026-11-04",
+      "cantidad": 4,
+      "monto": 640
+    },
+    {
+      "codProducto": "ANC00175",
+      "producto": "COPA MAGNUS MERLOT",
+      "categoria": "VINOS POR COPA",
+      "fecha": "2026-11-04",
+      "cantidad": 3,
+      "monto": 150
+    },
+    {
+      "codProducto": "ANC00001",
+      "producto": "AGUA C/G",
+      "categoria": "AGUAS",
+      "fecha": "2026-11-04",
+      "cantidad": 2,
+      "monto": 30
+    },
+    {
+      "codProducto": "ANC00329",
+      "producto": "PAN CON QUESO",
+      "categoria": "COMIDAS",
+      "fecha": "2026-11-04",
+      "cantidad": 1,
+      "monto": 50
+    },
+    {
+      "codProducto": "ANC00057",
+      "producto": "TUETANO BRULEE",
+      "categoria": "DULCES",
+      "fecha": "2026-11-04",
+      "cantidad": 1,
+      "monto": 50
+    },
+    {
+      "codProducto": "ANC00031",
+      "producto": "NEGRONI",
+      "categoria": "COCTELES",
+      "fecha": "2026-11-04",
+      "cantidad": 1,
+      "monto": 50
+    },
+    {
+      "codProducto": "ANC00183",
+      "producto": "PANZA FRITA",
+      "categoria": "ENTRADAS",
+      "fecha": "2026-11-04",
+      "cantidad": 1,
+      "monto": 60
+    },
+    {
+      "codProducto": "ANC00058",
+      "producto": "ALCACHOFAS",
+      "categoria": "ENTRADAS",
+      "fecha": "2026-11-04",
+      "cantidad": 1,
+      "monto": 75
+    },
+    {
+      "codProducto": "ANC00330",
+      "producto": "PESCADO AMAZONICO Y TUMBO",
+      "categoria": "COMIDAS",
+      "fecha": "2026-11-04",
+      "cantidad": 2,
+      "monto": 280
+    },
+    {
+      "codProducto": "ANC00331",
+      "producto": "CORDERO A LA CRUZ",
+      "categoria": "COMIDAS",
+      "fecha": "2026-11-04",
+      "cantidad": 1,
+      "monto": 150
+    },
+    {
+      "codProducto": "ANC00354",
+      "producto": "COPA LOCURA 5.1.1. - MAGNUS",
+      "categoria": "VINOS",
+      "fecha": "2026-11-04",
+      "cantidad": 1,
+      "monto": 55
+    },
+    {
+      "codProducto": "ANC00002",
+      "producto": "AGUA S/G",
+      "categoria": "AGUAS",
+      "fecha": "2026-11-04",
+      "cantidad": 2,
+      "monto": 24
+    },
+    {
+      "codProducto": "ANC00104",
+      "producto": "COCA COLA",
+      "categoria": "GASEOSA",
+      "fecha": "2026-11-04",
+      "cantidad": 1,
+      "monto": 15
     }
   ]
 }

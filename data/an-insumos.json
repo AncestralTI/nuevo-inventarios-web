@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T17:03:21.497Z",
+  "generatedAt": "2026-11-06T22:01:35.850Z",
   "rangoFechas": {
     "desde": "2026-08-31",
     "hasta": "2026-11-06"
@@ -3124,7 +3124,7 @@
   },
   "meta": {
     "ventasIziDisponibles": true,
-    "filasCompras": 2457,
+    "filasCompras": 2459,
     "filasSalidas": 1015,
     "filasMatriz": 23,
     "filasInventarios": 475,

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T17:04:24.643Z",
+  "generatedAt": "2026-11-06T22:02:32.021Z",
   "rangoFechas": {
     "desde": "2026-08-31",
     "hasta": "2026-11-06"
@@ -130,14 +130,14 @@
       "weekYear": "202645",
       "invMenos7": 51,
       "compras": 0,
-      "vtasIzi": 4,
+      "vtasIzi": 5,
       "vtasExt": 10,
       "vtasPY": 1,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 15,
+      "vtasTot": 16,
       "inv": null,
-      "cierre": 36,
+      "cierre": 35,
       "dif": null
     },
     {
@@ -430,14 +430,14 @@
       "weekYear": "202645",
       "invMenos7": 27,
       "compras": 0,
-      "vtasIzi": 4,
+      "vtasIzi": 5,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 4,
+      "vtasTot": 5,
       "inv": null,
-      "cierre": 23,
+      "cierre": 22,
       "dif": null
     },
     {
@@ -490,14 +490,14 @@
       "weekYear": "202645",
       "invMenos7": 7,
       "compras": 0,
-      "vtasIzi": 0,
+      "vtasIzi": 1,
       "vtasExt": 2,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 2,
+      "vtasTot": 3,
       "inv": null,
-      "cierre": 5,
+      "cierre": 4,
       "dif": null
     },
     {
@@ -7906,7 +7906,7 @@
       "fecha": "2026-11-05",
       "dia": "jue",
       "compras": 0,
-      "vtas": 2,
+      "vtas": 1,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
@@ -8004,12 +8004,12 @@
       "fecha": "2026-11-05",
       "dia": "jue",
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 1,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "invEsperado": 5,
+      "invEsperado": 4,
       "invIniFin": null,
       "dif": null
     },
@@ -8080,6 +8080,48 @@
       "vtasAnc": 0,
       "salidas": 0,
       "invEsperado": 5,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "Agua",
+      "fecha": "2026-11-06",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 35,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "Coca Cola",
+      "fecha": "2026-11-06",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 0,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "Curandero",
+      "fecha": "2026-11-06",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 22,
       "invIniFin": null,
       "dif": null
     },
@@ -9648,7 +9690,7 @@
       },
       {
         "weekYear": "202645",
-        "valor": 41
+        "valor": 44
       }
     ],
     "Vtas Ext.": [
@@ -9726,7 +9768,7 @@
       },
       {
         "weekYear": "202645",
-        "valor": 159
+        "valor": 162
       }
     ],
     "Compras": [
@@ -9762,7 +9804,7 @@
     "filasInventariosOmuh": 477,
     "filasCompras": 1593,
     "filasSalidas": 108,
-    "filasVentasIzi": 7141,
+    "filasVentasIzi": 7162,
     "filasVentasPY": 11342,
     "filasExtras": 18728,
     "filasMovInv": 312,

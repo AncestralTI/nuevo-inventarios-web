@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-05T22:20:50.671Z",
+  "generatedAt": "2026-11-06T02:39:18.193Z",
   "rangoFechas": {
     "desde": "2026-08-31",
-    "hasta": "2026-11-05"
+    "hasta": "2026-11-06"
   },
   "categorias": [
     "CERVEZA",
@@ -831,11 +831,11 @@
       "weekYear": "202645",
       "invMenos7": null,
       "compras": 0,
-      "vtas": 2,
+      "vtas": 3,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 2,
+      "vtasTot": 3,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -1111,13 +1111,13 @@
       "weekYear": "202645",
       "invMenos7": 5,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 5,
+      "cierre": 4,
       "dif": null
     },
     {
@@ -1419,13 +1419,13 @@
       "weekYear": "202645",
       "invMenos7": 7,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 7,
+      "cierre": 6,
       "dif": null
     },
     {
@@ -1685,13 +1685,13 @@
       "weekYear": "202645",
       "invMenos7": 4,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 4,
+      "cierre": 3,
       "dif": null
     },
     {
@@ -17155,6 +17155,58 @@
       "dif": null
     },
     {
+      "producto": "COPA MARSELAN - ARSAL",
+      "fecha": "2026-11-05",
+      "dia": "jue",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 0,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "GRAN RESERVA CARMENERE - CASA SOLUM",
+      "fecha": "2026-11-05",
+      "dia": "jue",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 4,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "MEMENTO MORI - TELLUS",
+      "fecha": "2026-11-05",
+      "dia": "jue",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 6,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "STELAR - KOHLBERG",
+      "fecha": "2026-11-05",
+      "dia": "jue",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 3,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "LOCURA 5.1.1. - MAGNUS",
       "fecha": "2026-10-26",
       "dia": "lun",
@@ -17920,7 +17972,7 @@
       },
       {
         "weekYear": "202645",
-        "valor": 13
+        "valor": 17
       }
     ],
     "Vtas Ext": [
@@ -17998,7 +18050,7 @@
       },
       {
         "weekYear": "202645",
-        "valor": 15
+        "valor": 19
       }
     ],
     "Salidas": [
@@ -18060,8 +18112,8 @@
     "filasInventariosGs": 4225,
     "filasCompras": 2454,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 5276,
-    "filasMovInv": 303,
+    "filasVentasIzi": 5330,
+    "filasMovInv": 312,
     "filasDimProducto": 458,
     "warnings": []
   }

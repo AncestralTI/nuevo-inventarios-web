@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T09:51:20.615Z",
+  "generatedAt": "2026-11-06T17:03:21.497Z",
   "rangoFechas": {
     "desde": "2026-08-31",
     "hasta": "2026-11-06"
@@ -221,12 +221,12 @@
       "insumo": "Pechuga de pollo",
       "weekYear": "202645",
       "invMenos7": 13,
-      "compras": 16,
+      "compras": 20,
       "vtas": 5,
       "salidas": 0,
       "vtasTot": 5,
       "inv": null,
-      "cierre": 24,
+      "cierre": 28,
       "dif": null
     },
     {
@@ -2188,6 +2188,18 @@
       "dif": null
     },
     {
+      "insumo": "Pechuga de pollo",
+      "fecha": "2026-11-06",
+      "dia": "vie",
+      "compras": 4,
+      "vtas": 0,
+      "salidas": 0,
+      "invEsperado": 15,
+      "invIni": null,
+      "invFin": null,
+      "dif": null
+    },
+    {
       "insumo": "Chuleton",
       "fecha": "2026-10-27",
       "dia": "mar",
@@ -3106,13 +3118,13 @@
       },
       {
         "weekYear": "202645",
-        "valor": 136
+        "valor": 140
       }
     ]
   },
   "meta": {
     "ventasIziDisponibles": true,
-    "filasCompras": 2454,
+    "filasCompras": 2457,
     "filasSalidas": 1015,
     "filasMatriz": 23,
     "filasInventarios": 475,

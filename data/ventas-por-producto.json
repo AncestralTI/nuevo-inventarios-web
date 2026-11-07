@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T19:01:24.189Z",
+  "generatedAt": "2026-11-07T22:41:20.008Z",
   "fuente": "API iZi Soluciones (facturas + items-inventarios), sucursal Ancestral (79344)",
   "rango": {
     "desde": "2026-10-08",
@@ -10611,16 +10611,200 @@
       "producto": "TABLA ANCESTRAL",
       "categoria": "ENTRADAS",
       "fecha": "2026-11-07",
+      "cantidad": 2,
+      "monto": 240
+    },
+    {
+      "codProducto": "ANC00090",
+      "producto": "CHULETON (Kg)",
+      "categoria": "FUERTES",
+      "fecha": "2026-11-07",
+      "cantidad": 1.59,
+      "monto": 636
+    },
+    {
+      "codProducto": "ANC00099",
+      "producto": "PARRILLA OJO DE BIFE",
+      "categoria": "FUERTES",
+      "fecha": "2026-11-07",
+      "cantidad": 3,
+      "monto": 480
+    },
+    {
+      "codProducto": "ANC00112",
+      "producto": "LIMONADA",
+      "categoria": "JUGOS",
+      "fecha": "2026-11-07",
+      "cantidad": 2,
+      "monto": 30
+    },
+    {
+      "codProducto": "ANC00030",
+      "producto": "MOSCOW MULE",
+      "categoria": "COCTELES",
+      "fecha": "2026-11-07",
       "cantidad": 1,
+      "monto": 50
+    },
+    {
+      "codProducto": "ANC00007",
+      "producto": "HUARI",
+      "categoria": "CERVEZA",
+      "fecha": "2026-11-07",
+      "cantidad": 1,
+      "monto": 33
+    },
+    {
+      "codProducto": "ANC00328",
+      "producto": "PAVLOVA DE PIÑA A LA BRASA",
+      "categoria": "COMIDAS",
+      "fecha": "2026-11-07",
+      "cantidad": 1,
+      "monto": 50
+    },
+    {
+      "codProducto": "ANC00104",
+      "producto": "COCA COLA",
+      "categoria": "GASEOSA",
+      "fecha": "2026-11-07",
+      "cantidad": 2,
+      "monto": 30
+    },
+    {
+      "codProducto": "ANC00040",
+      "producto": "UYUNI SOUR",
+      "categoria": "COCTELES",
+      "fecha": "2026-11-07",
+      "cantidad": 2,
+      "monto": 100
+    },
+    {
+      "codProducto": "ANC00001",
+      "producto": "AGUA C/G",
+      "categoria": "AGUAS",
+      "fecha": "2026-11-07",
+      "cantidad": 8,
       "monto": 120
+    },
+    {
+      "codProducto": "ANC00063",
+      "producto": "TACO PULLED PORK",
+      "categoria": "ENTRADAS",
+      "fecha": "2026-11-07",
+      "cantidad": 2,
+      "monto": 140
+    },
+    {
+      "codProducto": "ANC00331",
+      "producto": "CORDERO A LA CRUZ",
+      "categoria": "COMIDAS",
+      "fecha": "2026-11-07",
+      "cantidad": 2,
+      "monto": 300
     },
     {
       "codProducto": "ANC00324",
       "producto": "TRUCHA CURADA EN PATACÓN",
       "categoria": "COMIDAS",
       "fecha": "2026-11-07",
+      "cantidad": 2,
+      "monto": 140
+    },
+    {
+      "codProducto": "ANC00080",
+      "producto": "PORCIÓN ARROZ C/ QUESO",
+      "categoria": "GUARNICIONES",
+      "fecha": "2026-11-07",
       "cantidad": 1,
-      "monto": 70
+      "monto": 45
+    },
+    {
+      "codProducto": "ANC00350",
+      "producto": "COPA MARSELAN - ARSAL",
+      "categoria": "VINOS",
+      "fecha": "2026-11-07",
+      "cantidad": 2,
+      "monto": 90
+    },
+    {
+      "codProducto": "ANC00177",
+      "producto": "COPA RED BLEND - CAÑON",
+      "categoria": "VINOS POR COPA",
+      "fecha": "2026-11-07",
+      "cantidad": 1,
+      "monto": 60
+    },
+    {
+      "codProducto": "ANC00046",
+      "producto": "CHOCOLATE",
+      "categoria": "DULCES",
+      "fecha": "2026-11-07",
+      "cantidad": 1,
+      "monto": 50
+    },
+    {
+      "codProducto": "ANC00276",
+      "producto": "BENDITA PILS",
+      "categoria": "CERVEZA",
+      "fecha": "2026-11-07",
+      "cantidad": 1,
+      "monto": 22
+    },
+    {
+      "codProducto": "ANC00113",
+      "producto": "LIMONADA (BOTELLA)",
+      "categoria": "JUGOS",
+      "fecha": "2026-11-07",
+      "cantidad": 1,
+      "monto": 40
+    },
+    {
+      "codProducto": "ANC00111",
+      "producto": "JAMAICA MENTA",
+      "categoria": "JUGOS",
+      "fecha": "2026-11-07",
+      "cantidad": 1,
+      "monto": 15
+    },
+    {
+      "codProducto": "ANC00103",
+      "producto": "PARRILLA TRUCHA",
+      "categoria": "FUERTES",
+      "fecha": "2026-11-07",
+      "cantidad": 3,
+      "monto": 450
+    },
+    {
+      "codProducto": "ANC00098",
+      "producto": "PARRILLA KEPERI",
+      "categoria": "FUERTES",
+      "fecha": "2026-11-07",
+      "cantidad": 1,
+      "monto": 140
+    },
+    {
+      "codProducto": "ANC00327",
+      "producto": "ALFAJOR",
+      "categoria": "DULCES",
+      "fecha": "2026-11-07",
+      "cantidad": 1,
+      "monto": 50
+    },
+    {
+      "codProducto": "ANC00101",
+      "producto": "PECHUGA DE POLLO CROCANTE",
+      "categoria": "FUERTES",
+      "fecha": "2026-11-07",
+      "cantidad": 1,
+      "monto": 130
+    },
+    {
+      "codProducto": "ANC00278",
+      "producto": "COPA UNICO - CAMPOS DE SOLANA",
+      "categoria": "VINOS POR COPA",
+      "fecha": "2026-11-07",
+      "cantidad": 2,
+      "monto": 90
     },
     {
       "codProducto": "ANC00330",
@@ -10629,14 +10813,6 @@
       "fecha": "2026-11-07",
       "cantidad": 1,
       "monto": 140
-    },
-    {
-      "codProducto": "ANC00331",
-      "producto": "CORDERO A LA CRUZ",
-      "categoria": "COMIDAS",
-      "fecha": "2026-11-07",
-      "cantidad": 1,
-      "monto": 150
     },
     {
       "codProducto": "ANC00023",
@@ -10653,14 +10829,6 @@
       "fecha": "2026-11-07",
       "cantidad": 1,
       "monto": 40
-    },
-    {
-      "codProducto": "ANC00040",
-      "producto": "UYUNI SOUR",
-      "categoria": "COCTELES",
-      "fecha": "2026-11-07",
-      "cantidad": 1,
-      "monto": 50
     },
     {
       "codProducto": "ANC00114",

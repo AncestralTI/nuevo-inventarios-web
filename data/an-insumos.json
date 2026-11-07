@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T14:32:35.065Z",
+  "generatedAt": "2026-11-07T19:00:21.320Z",
   "rangoFechas": {
     "desde": "2026-08-31",
     "hasta": "2026-11-07"
@@ -114,11 +114,11 @@
       "weekYear": "202645",
       "invMenos7": 23,
       "compras": 13,
-      "vtas": 12,
+      "vtas": 13,
       "salidas": 1,
-      "vtasTot": 13,
+      "vtasTot": 14,
       "inv": null,
-      "cierre": 23,
+      "cierre": 22,
       "dif": null
     },
     {
@@ -186,11 +186,11 @@
       "weekYear": "202645",
       "invMenos7": 33,
       "compras": 12,
-      "vtas": 7,
+      "vtas": 8,
       "salidas": 0,
-      "vtasTot": 7,
+      "vtasTot": 8,
       "inv": null,
-      "cierre": 38,
+      "cierre": 37,
       "dif": null
     },
     {
@@ -234,11 +234,11 @@
       "weekYear": "202645",
       "invMenos7": 30,
       "compras": 0,
-      "vtas": 8,
+      "vtas": 9,
       "salidas": 0,
-      "vtasTot": 8,
+      "vtasTot": 9,
       "inv": null,
-      "cierre": 22,
+      "cierre": 21,
       "dif": null
     },
     {
@@ -246,11 +246,11 @@
       "weekYear": "202645",
       "invMenos7": 51,
       "compras": 0,
-      "vtas": 23,
+      "vtas": 24,
       "salidas": 6,
-      "vtasTot": 29,
+      "vtasTot": 30,
       "inv": null,
-      "cierre": 22,
+      "cierre": 21,
       "dif": null
     },
     {
@@ -2284,6 +2284,54 @@
       "dif": null
     },
     {
+      "insumo": "Cordero",
+      "fecha": "2026-11-07",
+      "dia": "sáb",
+      "compras": 0,
+      "vtas": 1,
+      "salidas": 0,
+      "invEsperado": 0,
+      "invIni": null,
+      "invFin": null,
+      "dif": null
+    },
+    {
+      "insumo": "Ossobuco",
+      "fecha": "2026-11-07",
+      "dia": "sáb",
+      "compras": 0,
+      "vtas": 1,
+      "salidas": 0,
+      "invEsperado": 4,
+      "invIni": null,
+      "invFin": null,
+      "dif": null
+    },
+    {
+      "insumo": "Pescado amazonico",
+      "fecha": "2026-11-07",
+      "dia": "sáb",
+      "compras": 0,
+      "vtas": 1,
+      "salidas": 0,
+      "invEsperado": 0,
+      "invIni": null,
+      "invFin": null,
+      "dif": null
+    },
+    {
+      "insumo": "Trucha",
+      "fecha": "2026-11-07",
+      "dia": "sáb",
+      "compras": 0,
+      "vtas": 1,
+      "salidas": 0,
+      "invEsperado": 0,
+      "invIni": null,
+      "invFin": null,
+      "dif": null
+    },
+    {
       "insumo": "Chuleton",
       "fecha": "2026-10-27",
       "dia": "mar",
@@ -3124,7 +3172,7 @@
       },
       {
         "weekYear": "202645",
-        "valor": 104
+        "valor": 108
       }
     ],
     "Salidas": [
@@ -3176,7 +3224,7 @@
       },
       {
         "weekYear": "202645",
-        "valor": 123.02
+        "valor": 127.02
       }
     ],
     "Compras (Un)": [
@@ -3212,6 +3260,6 @@
     "filasSalidas": 1015,
     "filasMatriz": 23,
     "filasInventarios": 475,
-    "filasVentasIzi": 5418
+    "filasVentasIzi": 5430
   }
 }

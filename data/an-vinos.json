@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T14:32:49.447Z",
+  "generatedAt": "2026-11-07T19:00:36.242Z",
   "rangoFechas": {
     "desde": "2026-08-31",
     "hasta": "2026-11-07"
@@ -1140,12 +1140,12 @@
       "invMenos7": 46,
       "compras": 0,
       "vtas": 2,
-      "vtasExt": 0,
+      "vtasExt": 1,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 2,
+      "vtasTot": 3,
       "inv": null,
-      "cierre": 44,
+      "cierre": 43,
       "dif": null
     },
     {
@@ -1615,13 +1615,13 @@
       "weekYear": "202645",
       "invMenos7": 6,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 6,
+      "cierre": 5,
       "dif": null
     },
     {
@@ -17350,6 +17350,32 @@
       "dif": null
     },
     {
+      "producto": "HUARI",
+      "fecha": "2026-11-07",
+      "dia": "sáb",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 1,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 43,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "SAN MIGUEL SOLSTICIO",
+      "fecha": "2026-11-07",
+      "dia": "sáb",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 5,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "LOCURA 5.1.1. - MAGNUS",
       "fecha": "2026-10-26",
       "dia": "lun",
@@ -18115,7 +18141,7 @@
       },
       {
         "weekYear": "202645",
-        "valor": 35
+        "valor": 36
       }
     ],
     "Vtas Ext": [
@@ -18141,7 +18167,7 @@
       },
       {
         "weekYear": "202645",
-        "valor": 0
+        "valor": 1
       }
     ],
     "Cortesias": [
@@ -18193,7 +18219,7 @@
       },
       {
         "weekYear": "202645",
-        "valor": 39
+        "valor": 41
       }
     ],
     "Salidas": [
@@ -18255,8 +18281,8 @@
     "filasInventariosGs": 4225,
     "filasCompras": 2465,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 5418,
-    "filasMovInv": 321,
+    "filasVentasIzi": 5430,
+    "filasMovInv": 326,
     "filasDimProducto": 458,
     "warnings": []
   }

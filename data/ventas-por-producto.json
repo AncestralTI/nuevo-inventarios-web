@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T14:33:37.893Z",
+  "generatedAt": "2026-11-07T19:01:24.189Z",
   "fuente": "API iZi Soluciones (facturas + items-inventarios), sucursal Ancestral (79344)",
   "rango": {
     "desde": "2026-10-08",
@@ -10605,6 +10605,102 @@
       "fecha": "2026-11-06",
       "cantidad": 2,
       "monto": 100
+    },
+    {
+      "codProducto": "ANC00325",
+      "producto": "TABLA ANCESTRAL",
+      "categoria": "ENTRADAS",
+      "fecha": "2026-11-07",
+      "cantidad": 1,
+      "monto": 120
+    },
+    {
+      "codProducto": "ANC00324",
+      "producto": "TRUCHA CURADA EN PATACÓN",
+      "categoria": "COMIDAS",
+      "fecha": "2026-11-07",
+      "cantidad": 1,
+      "monto": 70
+    },
+    {
+      "codProducto": "ANC00330",
+      "producto": "PESCADO AMAZONICO Y TUMBO",
+      "categoria": "COMIDAS",
+      "fecha": "2026-11-07",
+      "cantidad": 1,
+      "monto": 140
+    },
+    {
+      "codProducto": "ANC00331",
+      "producto": "CORDERO A LA CRUZ",
+      "categoria": "COMIDAS",
+      "fecha": "2026-11-07",
+      "cantidad": 1,
+      "monto": 150
+    },
+    {
+      "codProducto": "ANC00023",
+      "producto": "COCTELITO DE TUMBO",
+      "categoria": "COCTELES",
+      "fecha": "2026-11-07",
+      "cantidad": 3,
+      "monto": 120
+    },
+    {
+      "codProducto": "ANC00010",
+      "producto": "MICHELADA ANCESTRAL",
+      "categoria": "COCTELES",
+      "fecha": "2026-11-07",
+      "cantidad": 1,
+      "monto": 40
+    },
+    {
+      "codProducto": "ANC00040",
+      "producto": "UYUNI SOUR",
+      "categoria": "COCTELES",
+      "fecha": "2026-11-07",
+      "cantidad": 1,
+      "monto": 50
+    },
+    {
+      "codProducto": "ANC00114",
+      "producto": "NARANJA TUMBO",
+      "categoria": "JUGOS",
+      "fecha": "2026-11-07",
+      "cantidad": 1,
+      "monto": 15
+    },
+    {
+      "codProducto": "ANC00311",
+      "producto": "SAN MIGUEL SOLSTICIO",
+      "categoria": "CERVEZA",
+      "fecha": "2026-11-07",
+      "cantidad": 1,
+      "monto": 39
+    },
+    {
+      "codProducto": "ANC00095",
+      "producto": "OSSOBUCO A LA BOLIVIANA",
+      "categoria": "FUERTES",
+      "fecha": "2026-11-07",
+      "cantidad": 1,
+      "monto": 160
+    },
+    {
+      "codProducto": "ANC00057",
+      "producto": "TUETANO BRULEE",
+      "categoria": "DULCES",
+      "fecha": "2026-11-07",
+      "cantidad": 1,
+      "monto": 50
+    },
+    {
+      "codProducto": "ANC00048",
+      "producto": "ESPRESSO DOBLE",
+      "categoria": "BEBIDAS CALIENTES",
+      "fecha": "2026-11-07",
+      "cantidad": 2,
+      "monto": 40
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T01:49:49.789Z",
+  "generatedAt": "2026-11-07T07:50:41.685Z",
   "rangoFechas": {
     "desde": "2026-08-31",
     "hasta": "2026-11-07"
@@ -425,13 +425,13 @@
       "weekYear": "202645",
       "invMenos7": 14,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 14,
+      "cierre": 13,
       "dif": null
     },
     {
@@ -1139,13 +1139,13 @@
       "weekYear": "202645",
       "invMenos7": 46,
       "compras": 0,
-      "vtas": 1,
+      "vtas": 2,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 1,
+      "vtasTot": 2,
       "inv": null,
-      "cierre": 45,
+      "cierre": 44,
       "dif": null
     },
     {
@@ -1307,11 +1307,11 @@
       "weekYear": "202645",
       "invMenos7": 0,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -1394,10 +1394,10 @@
       "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
-      "salidas": 1,
-      "vtasTot": 1,
+      "salidas": 2,
+      "vtasTot": 2,
       "inv": null,
-      "cierre": 5,
+      "cierre": 4,
       "dif": null
     },
     {
@@ -1587,13 +1587,13 @@
       "weekYear": "202645",
       "invMenos7": 6,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 3,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 3,
       "inv": null,
-      "cierre": 6,
+      "cierre": 3,
       "dif": null
     },
     {
@@ -1601,13 +1601,13 @@
       "weekYear": "202645",
       "invMenos7": 17,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 3,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 3,
       "inv": null,
-      "cierre": 17,
+      "cierre": 14,
       "dif": null
     },
     {
@@ -1800,10 +1800,10 @@
       "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 0,
+      "salidas": 1,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 7,
+      "cierre": 6,
       "dif": null
     },
     {
@@ -17220,6 +17220,19 @@
       "dif": null
     },
     {
+      "producto": "BENDITA PILS",
+      "fecha": "2026-11-06",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 13,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "COPA MARSELAN - ARSAL",
       "fecha": "2026-11-06",
       "dia": "vie",
@@ -17246,6 +17259,19 @@
       "dif": null
     },
     {
+      "producto": "HUARI",
+      "fecha": "2026-11-06",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 44,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "JARDIN OCULTO - VISCHOQUEÑA BLANC DE NOIR",
       "fecha": "2026-11-06",
       "dia": "vie",
@@ -17255,6 +17281,71 @@
       "cortesias": 0,
       "salidas": 0,
       "invEsperado": 4,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "LOCURA 5.1.1. - MAGNUS",
+      "fecha": "2026-11-06",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 0,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "MARSELAN - ARSAL",
+      "fecha": "2026-11-06",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 1,
+      "invEsperado": 4,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "REBELION OBSESSION IPA",
+      "fecha": "2026-11-06",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 3,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 3,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "SAN MIGUEL MATILDA PALE ALE",
+      "fecha": "2026-11-06",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 3,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 14,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "UNICO - CAMPOS DE SOLANA",
+      "fecha": "2026-11-06",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 1,
+      "invEsperado": 6,
       "invIniFin": null,
       "dif": null
     },
@@ -18024,7 +18115,7 @@
       },
       {
         "weekYear": "202645",
-        "valor": 26
+        "valor": 35
       }
     ],
     "Vtas Ext": [
@@ -18102,7 +18193,7 @@
       },
       {
         "weekYear": "202645",
-        "valor": 28
+        "valor": 39
       }
     ],
     "Salidas": [
@@ -18128,7 +18219,7 @@
       },
       {
         "weekYear": "202645",
-        "valor": 2
+        "valor": 4
       }
     ],
     "Compras": [
@@ -18160,12 +18251,12 @@
   },
   "meta": {
     "ventasIziDisponibles": true,
-    "filasApertura": 1483,
+    "filasApertura": 1485,
     "filasInventariosGs": 4225,
     "filasCompras": 2465,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 5368,
-    "filasMovInv": 314,
+    "filasVentasIzi": 5418,
+    "filasMovInv": 321,
     "filasDimProducto": 458,
     "warnings": []
   }

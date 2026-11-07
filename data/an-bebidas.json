@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T01:50:00.172Z",
+  "generatedAt": "2026-11-07T07:50:52.841Z",
   "rangoFechas": {
     "desde": "2026-08-31",
     "hasta": "2026-11-07"
@@ -138,13 +138,13 @@
       "weekYear": "202645",
       "invMenos7": 14,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 14,
+      "cierre": 13,
       "dif": null
     },
     {
@@ -306,13 +306,13 @@
       "weekYear": "202645",
       "invMenos7": 36,
       "compras": 0,
-      "vtas": 4,
+      "vtas": 6,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 4,
+      "vtasTot": 6,
       "inv": null,
-      "cierre": 32,
+      "cierre": 30,
       "dif": null
     },
     {
@@ -348,13 +348,13 @@
       "weekYear": "202645",
       "invMenos7": 46,
       "compras": 0,
-      "vtas": 1,
+      "vtas": 2,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 1,
+      "vtasTot": 2,
       "inv": null,
-      "cierre": 45,
+      "cierre": 44,
       "dif": null
     },
     {
@@ -446,13 +446,13 @@
       "weekYear": "202645",
       "invMenos7": 6,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 3,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 3,
       "inv": null,
-      "cierre": 6,
+      "cierre": 3,
       "dif": null
     },
     {
@@ -460,13 +460,13 @@
       "weekYear": "202645",
       "invMenos7": 17,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 3,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 3,
       "inv": null,
-      "cierre": 17,
+      "cierre": 14,
       "dif": null
     },
     {
@@ -4285,6 +4285,71 @@
       "dif": null
     },
     {
+      "producto": "BENDITA PILS",
+      "fecha": "2026-11-06",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 13,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "COCA COLA SIN AZUCAR",
+      "fecha": "2026-11-06",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 2,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 30,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "HUARI",
+      "fecha": "2026-11-06",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 44,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "REBELION OBSESSION IPA",
+      "fecha": "2026-11-06",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 3,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 3,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "SAN MIGUEL MATILDA PALE ALE",
+      "fecha": "2026-11-06",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 3,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 14,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "SAN MIGUEL SOLSTICIO",
       "fecha": "2026-10-26",
       "dia": "lun",
@@ -4738,7 +4803,7 @@
       },
       {
         "weekYear": "202645",
-        "valor": 12
+        "valor": 22
       }
     ],
     "Vtas Ext": [
@@ -4816,7 +4881,7 @@
       },
       {
         "weekYear": "202645",
-        "valor": 12
+        "valor": 22
       }
     ],
     "Salidas": [
@@ -4874,12 +4939,12 @@
   },
   "meta": {
     "ventasIziDisponibles": true,
-    "filasApertura": 1483,
+    "filasApertura": 1485,
     "filasInventariosGs": 4225,
     "filasCompras": 2465,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 5368,
-    "filasMovInv": 314,
+    "filasVentasIzi": 5418,
+    "filasMovInv": 321,
     "filasDimProducto": 458,
     "warnings": []
   }

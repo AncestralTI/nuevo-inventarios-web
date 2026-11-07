@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-06T22:01:59.350Z",
+  "generatedAt": "2026-11-07T01:50:00.172Z",
   "rangoFechas": {
     "desde": "2026-08-31",
-    "hasta": "2026-11-06"
+    "hasta": "2026-11-07"
   },
   "categorias": [
     "5. Bebidas alcohólicas",
@@ -124,13 +124,13 @@
       "weekYear": "202645",
       "invMenos7": 17,
       "compras": 0,
-      "vtas": 2,
+      "vtas": 4,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 2,
+      "vtasTot": 4,
       "inv": null,
-      "cierre": 15,
+      "cierre": 13,
       "dif": null
     },
     {
@@ -4272,6 +4272,19 @@
       "dif": null
     },
     {
+      "producto": "BENDITA IPA",
+      "fecha": "2026-11-06",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 2,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 13,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "SAN MIGUEL SOLSTICIO",
       "fecha": "2026-10-26",
       "dia": "lun",
@@ -4725,7 +4738,7 @@
       },
       {
         "weekYear": "202645",
-        "valor": 10
+        "valor": 12
       }
     ],
     "Vtas Ext": [
@@ -4803,7 +4816,7 @@
       },
       {
         "weekYear": "202645",
-        "valor": 10
+        "valor": 12
       }
     ],
     "Salidas": [
@@ -4863,10 +4876,10 @@
     "ventasIziDisponibles": true,
     "filasApertura": 1483,
     "filasInventariosGs": 4225,
-    "filasCompras": 2459,
+    "filasCompras": 2465,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 5341,
-    "filasMovInv": 312,
+    "filasVentasIzi": 5368,
+    "filasMovInv": 314,
     "filasDimProducto": 458,
     "warnings": []
   }

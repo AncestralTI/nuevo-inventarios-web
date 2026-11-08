@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T15:03:23.185Z",
+  "generatedAt": "2026-11-08T19:33:19.196Z",
   "rangoFechas": {
     "desde": "2026-08-31",
     "hasta": "2026-11-08"
@@ -397,13 +397,13 @@
       "weekYear": "202645",
       "invMenos7": 23,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 23,
+      "cierre": 22,
       "dif": null
     },
     {
@@ -425,13 +425,13 @@
       "weekYear": "202645",
       "invMenos7": 14,
       "compras": 0,
-      "vtas": 2,
+      "vtas": 3,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 2,
+      "vtasTot": 3,
       "inv": null,
-      "cierre": 12,
+      "cierre": 11,
       "dif": null
     },
     {
@@ -551,13 +551,13 @@
       "weekYear": "202645",
       "invMenos7": 5,
       "compras": 0,
-      "vtas": 1,
+      "vtas": 2,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 1,
+      "vtasTot": 2,
       "inv": null,
-      "cierre": 4,
+      "cierre": 3,
       "dif": null
     },
     {
@@ -1139,13 +1139,13 @@
       "weekYear": "202645",
       "invMenos7": 46,
       "compras": 0,
-      "vtas": 5,
+      "vtas": 7,
       "vtasExt": 1,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 6,
+      "vtasTot": 8,
       "inv": null,
-      "cierre": 40,
+      "cierre": 38,
       "dif": null
     },
     {
@@ -1223,13 +1223,13 @@
       "weekYear": "202645",
       "invMenos7": 6,
       "compras": 0,
-      "vtas": 2,
+      "vtas": 3,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 2,
+      "vtasTot": 3,
       "inv": null,
-      "cierre": 4,
+      "cierre": 3,
       "dif": null
     },
     {
@@ -17480,6 +17480,71 @@
       "dif": null
     },
     {
+      "producto": "BENDITA HOPPY",
+      "fecha": "2026-11-08",
+      "dia": "dom",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 22,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "BENDITA PILS",
+      "fecha": "2026-11-08",
+      "dia": "dom",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 11,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "CAÑON ESCONDIDO - RED BLEND",
+      "fecha": "2026-11-08",
+      "dia": "dom",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 3,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "HUARI",
+      "fecha": "2026-11-08",
+      "dia": "dom",
+      "compras": 0,
+      "vtas": 2,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 38,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "JARDIN OCULTO - VISCHOQUEÑA BLANC DE NOIR",
+      "fecha": "2026-11-08",
+      "dia": "dom",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 3,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "LOCURA 5.1.1. - MAGNUS",
       "fecha": "2026-10-26",
       "dia": "lun",
@@ -18245,7 +18310,7 @@
       },
       {
         "weekYear": "202645",
-        "valor": 46
+        "valor": 52
       }
     ],
     "Vtas Ext": [
@@ -18323,7 +18388,7 @@
       },
       {
         "weekYear": "202645",
-        "valor": 54
+        "valor": 60
       }
     ],
     "Salidas": [
@@ -18385,8 +18450,8 @@
     "filasInventariosGs": 4225,
     "filasCompras": 2465,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 5404,
-    "filasMovInv": 330,
+    "filasVentasIzi": 5452,
+    "filasMovInv": 333,
     "filasDimProducto": 458,
     "warnings": []
   }

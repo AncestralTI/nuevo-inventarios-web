@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T15:03:33.086Z",
+  "generatedAt": "2026-11-08T19:33:32.025Z",
   "rangoFechas": {
     "desde": "2026-08-31",
     "hasta": "2026-11-08"
@@ -110,13 +110,13 @@
       "weekYear": "202645",
       "invMenos7": 23,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 23,
+      "cierre": 22,
       "dif": null
     },
     {
@@ -138,13 +138,13 @@
       "weekYear": "202645",
       "invMenos7": 14,
       "compras": 0,
-      "vtas": 2,
+      "vtas": 3,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 2,
+      "vtasTot": 3,
       "inv": null,
-      "cierre": 12,
+      "cierre": 11,
       "dif": null
     },
     {
@@ -292,13 +292,13 @@
       "weekYear": "202645",
       "invMenos7": 46,
       "compras": 0,
-      "vtas": 4,
+      "vtas": 6,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 4,
+      "vtasTot": 6,
       "inv": null,
-      "cierre": 42,
+      "cierre": 40,
       "dif": null
     },
     {
@@ -306,13 +306,13 @@
       "weekYear": "202645",
       "invMenos7": 36,
       "compras": 0,
-      "vtas": 9,
+      "vtas": 10,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 9,
+      "vtasTot": 10,
       "inv": null,
-      "cierre": 27,
+      "cierre": 26,
       "dif": null
     },
     {
@@ -348,13 +348,13 @@
       "weekYear": "202645",
       "invMenos7": 46,
       "compras": 0,
-      "vtas": 5,
+      "vtas": 7,
       "vtasExt": 1,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 6,
+      "vtasTot": 8,
       "inv": null,
-      "cierre": 40,
+      "cierre": 38,
       "dif": null
     },
     {
@@ -4428,6 +4428,71 @@
       "dif": null
     },
     {
+      "producto": "BENDITA HOPPY",
+      "fecha": "2026-11-08",
+      "dia": "dom",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 22,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "BENDITA PILS",
+      "fecha": "2026-11-08",
+      "dia": "dom",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 11,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "COCA COLA",
+      "fecha": "2026-11-08",
+      "dia": "dom",
+      "compras": 0,
+      "vtas": 2,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 40,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "COCA COLA SIN AZUCAR",
+      "fecha": "2026-11-08",
+      "dia": "dom",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 26,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "HUARI",
+      "fecha": "2026-11-08",
+      "dia": "dom",
+      "compras": 0,
+      "vtas": 2,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 38,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "SAN MIGUEL SOLSTICIO",
       "fecha": "2026-10-26",
       "dia": "lun",
@@ -4881,7 +4946,7 @@
       },
       {
         "weekYear": "202645",
-        "valor": 33
+        "valor": 40
       }
     ],
     "Vtas Ext": [
@@ -4959,7 +5024,7 @@
       },
       {
         "weekYear": "202645",
-        "valor": 34
+        "valor": 41
       }
     ],
     "Salidas": [
@@ -5021,8 +5086,8 @@
     "filasInventariosGs": 4225,
     "filasCompras": 2465,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 5404,
-    "filasMovInv": 330,
+    "filasVentasIzi": 5452,
+    "filasMovInv": 333,
     "filasDimProducto": 458,
     "warnings": []
   }

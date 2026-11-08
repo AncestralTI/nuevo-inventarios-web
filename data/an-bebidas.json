@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-07T22:40:41.335Z",
+  "generatedAt": "2026-11-08T01:49:15.369Z",
   "rangoFechas": {
     "desde": "2026-08-31",
-    "hasta": "2026-11-07"
+    "hasta": "2026-11-08"
   },
   "categorias": [
     "5. Bebidas alcohólicas",
@@ -306,13 +306,13 @@
       "weekYear": "202645",
       "invMenos7": 36,
       "compras": 0,
-      "vtas": 6,
+      "vtas": 9,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 6,
+      "vtasTot": 9,
       "inv": null,
-      "cierre": 30,
+      "cierre": 27,
       "dif": null
     },
     {
@@ -348,13 +348,13 @@
       "weekYear": "202645",
       "invMenos7": 46,
       "compras": 0,
-      "vtas": 3,
+      "vtas": 5,
       "vtasExt": 1,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 4,
+      "vtasTot": 6,
       "inv": null,
-      "cierre": 42,
+      "cierre": 40,
       "dif": null
     },
     {
@@ -446,13 +446,13 @@
       "weekYear": "202645",
       "invMenos7": 6,
       "compras": 0,
-      "vtas": 3,
+      "vtas": 4,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 3,
+      "vtasTot": 4,
       "inv": null,
-      "cierre": 3,
+      "cierre": 2,
       "dif": null
     },
     {
@@ -3358,14 +3358,14 @@
       "weekYear": "202637",
       "invMenos7": 18,
       "compras": 0,
-      "vtas": 2,
+      "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 1,
-      "vtasTot": 3,
+      "vtasTot": 1,
       "inv": 15,
-      "cierre": 15,
-      "dif": 0
+      "cierre": 17,
+      "dif": -2
     },
     {
       "producto": "BENDITA IPA",
@@ -3554,14 +3554,14 @@
       "weekYear": "202637",
       "invMenos7": 46,
       "compras": 24,
-      "vtas": 11,
+      "vtas": 10,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 2,
-      "vtasTot": 13,
+      "vtasTot": 12,
       "inv": 57,
-      "cierre": 57,
-      "dif": 0
+      "cierre": 58,
+      "dif": -1
     },
     {
       "producto": "FANTA",
@@ -3596,14 +3596,14 @@
       "weekYear": "202637",
       "invMenos7": 32,
       "compras": 0,
-      "vtas": 26,
+      "vtas": 25,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 26,
+      "vtasTot": 25,
       "inv": 6,
-      "cierre": 6,
-      "dif": 0
+      "cierre": 7,
+      "dif": -1
     },
     {
       "producto": "MADERA \"LA KALOR\" GOSE",
@@ -3708,14 +3708,14 @@
       "weekYear": "202637",
       "invMenos7": 5,
       "compras": 0,
-      "vtas": 2,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 2,
+      "vtasTot": 1,
       "inv": 3,
-      "cierre": 3,
-      "dif": 0
+      "cierre": 4,
+      "dif": -1
     },
     {
       "producto": "SAN MIGUEL SOLSTICIO",
@@ -4376,15 +4376,41 @@
       "dif": null
     },
     {
+      "producto": "COCA COLA SIN AZUCAR",
+      "fecha": "2026-11-07",
+      "dia": "sáb",
+      "compras": 0,
+      "vtas": 3,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 27,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "HUARI",
       "fecha": "2026-11-07",
       "dia": "sáb",
       "compras": 0,
-      "vtas": 1,
+      "vtas": 3,
       "vtasExt": 1,
       "cortesias": 0,
       "salidas": 0,
-      "invEsperado": 42,
+      "invEsperado": 40,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "REBELION OBSESSION IPA",
+      "fecha": "2026-11-07",
+      "dia": "sáb",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 2,
       "invIniFin": null,
       "dif": null
     },
@@ -4855,7 +4881,7 @@
       },
       {
         "weekYear": "202645",
-        "valor": 27
+        "valor": 33
       }
     ],
     "Vtas Ext": [
@@ -4933,7 +4959,7 @@
       },
       {
         "weekYear": "202645",
-        "valor": 28
+        "valor": 34
       }
     ],
     "Salidas": [
@@ -4995,8 +5021,8 @@
     "filasInventariosGs": 4225,
     "filasCompras": 2465,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 5462,
-    "filasMovInv": 327,
+    "filasVentasIzi": 5382,
+    "filasMovInv": 330,
     "filasDimProducto": 458,
     "warnings": []
   }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T01:49:02.889Z",
+  "generatedAt": "2026-11-08T08:02:08.464Z",
   "rangoFechas": {
     "desde": "2026-08-31",
     "hasta": "2026-11-08"
@@ -302,10 +302,10 @@
       "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
-      "salidas": 1,
-      "vtasTot": 1,
+      "salidas": 2,
+      "vtasTot": 2,
       "inv": null,
-      "cierre": 13,
+      "cierre": 12,
       "dif": null
     },
     {
@@ -551,13 +551,13 @@
       "weekYear": "202645",
       "invMenos7": 5,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 5,
+      "cierre": 4,
       "dif": null
     },
     {
@@ -831,11 +831,11 @@
       "weekYear": "202645",
       "invMenos7": null,
       "compras": 0,
-      "vtas": 7,
+      "vtas": 8,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 7,
+      "vtasTot": 8,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -1772,10 +1772,10 @@
       "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 0,
+      "salidas": 1,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 4,
+      "cierre": 3,
       "dif": null
     },
     {
@@ -1800,10 +1800,10 @@
       "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
-      "salidas": 1,
-      "vtasTot": 1,
+      "salidas": 2,
+      "vtasTot": 2,
       "inv": null,
-      "cierre": 6,
+      "cierre": 5,
       "dif": null
     },
     {
@@ -17350,6 +17350,19 @@
       "dif": null
     },
     {
+      "producto": "ALTOSAMA - BRUT",
+      "fecha": "2026-11-07",
+      "dia": "sáb",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 1,
+      "invEsperado": 12,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "BENDITA PILS",
       "fecha": "2026-11-07",
       "dia": "sáb",
@@ -17363,11 +17376,24 @@
       "dif": null
     },
     {
+      "producto": "CAÑON ESCONDIDO - RED BLEND",
+      "fecha": "2026-11-07",
+      "dia": "sáb",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 4,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "COPA MARSELAN - ARSAL",
       "fecha": "2026-11-07",
       "dia": "sáb",
       "compras": 0,
-      "vtas": 2,
+      "vtas": 3,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
@@ -17423,6 +17449,32 @@
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
+      "invEsperado": 5,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "TRIVARIETAL BLANCO - CAMPOS",
+      "fecha": "2026-11-07",
+      "dia": "sáb",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 1,
+      "invEsperado": 3,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "UNICO - CAMPOS DE SOLANA",
+      "fecha": "2026-11-07",
+      "dia": "sáb",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 1,
       "invEsperado": 5,
       "invIniFin": null,
       "dif": null
@@ -18193,7 +18245,7 @@
       },
       {
         "weekYear": "202645",
-        "valor": 44
+        "valor": 46
       }
     ],
     "Vtas Ext": [
@@ -18271,7 +18323,7 @@
       },
       {
         "weekYear": "202645",
-        "valor": 49
+        "valor": 54
       }
     ],
     "Salidas": [
@@ -18297,7 +18349,7 @@
       },
       {
         "weekYear": "202645",
-        "valor": 4
+        "valor": 7
       }
     ],
     "Compras": [
@@ -18329,11 +18381,11 @@
   },
   "meta": {
     "ventasIziDisponibles": true,
-    "filasApertura": 1485,
+    "filasApertura": 1488,
     "filasInventariosGs": 4225,
     "filasCompras": 2465,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 5382,
+    "filasVentasIzi": 5404,
     "filasMovInv": 330,
     "filasDimProducto": 458,
     "warnings": []

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T01:49:46.541Z",
+  "generatedAt": "2026-11-08T08:02:57.104Z",
   "rangoFechas": {
     "desde": "2026-08-31",
     "hasta": "2026-11-08"
@@ -131,13 +131,13 @@
       "invMenos7": 51,
       "compras": 24,
       "vtasIzi": 10,
-      "vtasExt": 13,
+      "vtasExt": 19,
       "vtasPY": 1,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 24,
+      "vtasTot": 30,
       "inv": null,
-      "cierre": 51,
+      "cierre": 45,
       "dif": null
     },
     {
@@ -146,13 +146,13 @@
       "invMenos7": 44,
       "compras": 24,
       "vtasIzi": 2,
-      "vtasExt": 8,
+      "vtasExt": 13,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 10,
+      "vtasTot": 15,
       "inv": null,
-      "cierre": 58,
+      "cierre": 53,
       "dif": null
     },
     {
@@ -371,13 +371,13 @@
       "invMenos7": 151,
       "compras": 0,
       "vtasIzi": 0,
-      "vtasExt": 58,
+      "vtasExt": 78,
       "vtasPY": 0,
       "vtasAnc": 4,
       "salidas": 0,
-      "vtasTot": 62,
+      "vtasTot": 82,
       "inv": null,
-      "cierre": 89,
+      "cierre": 69,
       "dif": null
     },
     {
@@ -416,13 +416,13 @@
       "invMenos7": 80,
       "compras": 60,
       "vtasIzi": 6,
-      "vtasExt": 28,
+      "vtasExt": 42,
       "vtasPY": 1,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 35,
+      "vtasTot": 49,
       "inv": null,
-      "cierre": 105,
+      "cierre": 91,
       "dif": null
     },
     {
@@ -430,14 +430,14 @@
       "weekYear": "202645",
       "invMenos7": 27,
       "compras": 0,
-      "vtasIzi": 6,
+      "vtasIzi": 8,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 6,
+      "vtasTot": 8,
       "inv": null,
-      "cierre": 21,
+      "cierre": 19,
       "dif": null
     },
     {
@@ -445,14 +445,14 @@
       "weekYear": "202645",
       "invMenos7": null,
       "compras": 24,
-      "vtasIzi": 4,
+      "vtasIzi": 5,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 4,
+      "vtasTot": 5,
       "inv": null,
-      "cierre": 20,
+      "cierre": 19,
       "dif": null
     },
     {
@@ -461,13 +461,13 @@
       "invMenos7": 69,
       "compras": 0,
       "vtasIzi": 0,
-      "vtasExt": 7,
+      "vtasExt": 10,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 7,
+      "vtasTot": 10,
       "inv": null,
-      "cierre": 62,
+      "cierre": 59,
       "dif": null
     },
     {
@@ -476,13 +476,13 @@
       "invMenos7": 0,
       "compras": 24,
       "vtasIzi": 1,
-      "vtasExt": 1,
+      "vtasExt": 5,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 2,
+      "vtasTot": 6,
       "inv": null,
-      "cierre": 22,
+      "cierre": 18,
       "dif": null
     },
     {
@@ -521,13 +521,13 @@
       "invMenos7": 23,
       "compras": 0,
       "vtasIzi": 0,
-      "vtasExt": 12,
+      "vtasExt": 13,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 12,
+      "vtasTot": 13,
       "inv": null,
-      "cierre": 11,
+      "cierre": 10,
       "dif": null
     },
     {
@@ -730,12 +730,12 @@
       "weekYear": "202645",
       "invMenos7": null,
       "compras": 0,
-      "vtasIzi": 19,
+      "vtasIzi": 20,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 19,
+      "vtasTot": 20,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -806,13 +806,13 @@
       "invMenos7": 21,
       "compras": 0,
       "vtasIzi": 0,
-      "vtasExt": 11,
+      "vtasExt": 16,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 11,
+      "vtasTot": 16,
       "inv": null,
-      "cierre": 10,
+      "cierre": 5,
       "dif": null
     },
     {
@@ -821,13 +821,13 @@
       "invMenos7": 14,
       "compras": 24,
       "vtasIzi": 2,
-      "vtasExt": 11,
+      "vtasExt": 15,
       "vtasPY": 1,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 14,
+      "vtasTot": 18,
       "inv": null,
-      "cierre": 24,
+      "cierre": 20,
       "dif": null
     },
     {
@@ -8397,11 +8397,11 @@
       "dia": "sáb",
       "compras": 0,
       "vtas": 3,
-      "vtasExt": 0,
+      "vtasExt": 6,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "invEsperado": 51,
+      "invEsperado": 45,
       "invIniFin": null,
       "dif": null
     },
@@ -8411,11 +8411,11 @@
       "dia": "sáb",
       "compras": 0,
       "vtas": 1,
-      "vtasExt": 0,
+      "vtasExt": 5,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "invEsperado": 58,
+      "invEsperado": 53,
       "invIniFin": null,
       "dif": null
     },
@@ -8467,11 +8467,11 @@
       "dia": "sáb",
       "compras": 0,
       "vtas": 0,
-      "vtasExt": 0,
+      "vtasExt": 20,
       "vtasPY": 0,
       "vtasAnc": 2,
       "salidas": 0,
-      "invEsperado": 89,
+      "invEsperado": 69,
       "invIniFin": null,
       "dif": null
     },
@@ -8495,11 +8495,11 @@
       "dia": "sáb",
       "compras": 0,
       "vtas": 3,
-      "vtasExt": 0,
+      "vtasExt": 14,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "invEsperado": 105,
+      "invEsperado": 91,
       "invIniFin": null,
       "dif": null
     },
@@ -8508,12 +8508,68 @@
       "fecha": "2026-11-07",
       "dia": "sáb",
       "compras": 0,
+      "vtas": 3,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 19,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "Fanta",
+      "fecha": "2026-11-07",
+      "dia": "sáb",
+      "compras": 0,
       "vtas": 1,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "invEsperado": 21,
+      "invEsperado": 19,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "FANTA",
+      "fecha": "2026-11-07",
+      "dia": "sáb",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 3,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 59,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "Fanta Guarana",
+      "fecha": "2026-11-07",
+      "dia": "sáb",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 4,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 18,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "Guaraná Antártica",
+      "fecha": "2026-11-07",
+      "dia": "sáb",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 1,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 10,
       "invIniFin": null,
       "dif": null
     },
@@ -8564,7 +8620,7 @@
       "fecha": "2026-11-07",
       "dia": "sáb",
       "compras": 0,
-      "vtas": 7,
+      "vtas": 8,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
@@ -8584,6 +8640,34 @@
       "vtasAnc": 1,
       "salidas": 0,
       "invEsperado": 0,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "SPRITE",
+      "fecha": "2026-11-07",
+      "dia": "sáb",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 5,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 5,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "Sprite Zero",
+      "fecha": "2026-11-07",
+      "dia": "sáb",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 4,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 20,
       "invIniFin": null,
       "dif": null
     },
@@ -10152,7 +10236,7 @@
       },
       {
         "weekYear": "202645",
-        "valor": 77.25
+        "valor": 81.25
       }
     ],
     "Vtas Ext.": [
@@ -10178,7 +10262,7 @@
       },
       {
         "weekYear": "202645",
-        "valor": 154
+        "valor": 216
       }
     ],
     "Vtas PY": [
@@ -10230,7 +10314,7 @@
       },
       {
         "weekYear": "202645",
-        "valor": 267.25
+        "valor": 333.25
       }
     ],
     "Compras": [
@@ -10266,11 +10350,11 @@
     "filasInventariosOmuh": 477,
     "filasCompras": 1601,
     "filasSalidas": 108,
-    "filasVentasIzi": 7334,
-    "filasVentasPY": 11381,
-    "filasExtras": 18823,
+    "filasVentasIzi": 7342,
+    "filasVentasPY": 11421,
+    "filasExtras": 18943,
     "filasMovInv": 330,
-    "filasVentasAncIzi": 5382,
+    "filasVentasAncIzi": 5404,
     "warnings": []
   }
 }

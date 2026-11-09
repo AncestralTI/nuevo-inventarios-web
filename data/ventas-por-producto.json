@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T10:16:58.832Z",
+  "generatedAt": "2026-11-09T20:49:16.827Z",
   "fuente": "API iZi Soluciones (facturas + items-inventarios), sucursal Ancestral (79344)",
   "rango": {
     "desde": "2026-10-10",
@@ -24,6 +24,7 @@
     "MENU DEGUSTACION",
     "MENÚ DE NIÑOS",
     "POR VASO",
+    "Servicios",
     "Tragos",
     "VINOS",
     "VINOS IMPORTADOS",
@@ -10501,6 +10502,14 @@
       "fecha": "2026-11-08",
       "cantidad": 1,
       "monto": 120
+    },
+    {
+      "codProducto": "CAT00001",
+      "producto": "Servicio de Catering",
+      "categoria": "Servicios",
+      "fecha": "2026-11-09",
+      "cantidad": 1,
+      "monto": 26750
     }
   ]
 }

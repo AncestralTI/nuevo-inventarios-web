@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T10:16:26.494Z",
+  "generatedAt": "2026-11-09T20:48:42.780Z",
   "rangoFechas": {
     "desde": "2026-09-07",
     "hasta": "2026-11-09"
@@ -823,15 +823,15 @@
       "producto": "POTOSINA PILSNER",
       "weekYear": "202645",
       "invMenos7": 9,
-      "compras": 0,
+      "compras": 24,
       "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 5,
       "vtasTot": 5,
       "inv": 28,
-      "cierre": 4,
-      "dif": 24
+      "cierre": 28,
+      "dif": 0
     },
     {
       "producto": "REBELION ALBA WEIZEN",
@@ -879,15 +879,15 @@
       "producto": "SAN MIGUEL SOLSTICIO",
       "weekYear": "202645",
       "invMenos7": 6,
-      "compras": 0,
+      "compras": 24,
       "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 1,
       "vtasTot": 2,
       "inv": 28,
-      "cierre": 4,
-      "dif": 24
+      "cierre": 28,
+      "dif": 0
     },
     {
       "producto": "SPRITE",
@@ -4350,6 +4350,19 @@
       "dif": null
     },
     {
+      "producto": "POTOSINA PILSNER",
+      "fecha": "2026-11-06",
+      "dia": "vie",
+      "compras": 24,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 33,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "REBELION OBSESSION IPA",
       "fecha": "2026-11-06",
       "dia": "vie",
@@ -4372,6 +4385,19 @@
       "cortesias": 0,
       "salidas": 0,
       "invEsperado": 14,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "SAN MIGUEL SOLSTICIO",
+      "fecha": "2026-11-06",
+      "dia": "vie",
+      "compras": 24,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 29,
       "invIniFin": null,
       "dif": null
     },
@@ -4449,7 +4475,7 @@
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "invEsperado": 4,
+      "invEsperado": 28,
       "invIniFin": null,
       "dif": null
     },
@@ -4527,9 +4553,9 @@
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 5,
-      "invEsperado": 4,
+      "invEsperado": 28,
       "invIniFin": 28,
-      "dif": 24
+      "dif": 0
     }
   ],
   "serieSemanal": {
@@ -4682,7 +4708,7 @@
       },
       {
         "weekYear": "202645",
-        "valor": 0
+        "valor": 48
       },
       {
         "weekYear": "202646",
@@ -4694,9 +4720,9 @@
     "ventasIziDisponibles": true,
     "filasApertura": 1496,
     "filasInventariosGs": 4306,
-    "filasCompras": 2465,
+    "filasCompras": 2479,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 5401,
+    "filasVentasIzi": 5402,
     "filasMovInv": 327,
     "filasDimProducto": 459,
     "warnings": []

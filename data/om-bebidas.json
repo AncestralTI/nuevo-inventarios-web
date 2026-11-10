@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T18:19:42.887Z",
+  "generatedAt": "2026-11-10T23:31:49.639Z",
   "rangoFechas": {
     "desde": "2026-09-07",
     "hasta": "2026-11-10"
@@ -280,14 +280,14 @@
       "weekYear": "202646",
       "invMenos7": 202,
       "compras": 0,
-      "vtasIzi": 1,
+      "vtasIzi": 3,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 1,
+      "vtasTot": 3,
       "inv": null,
-      "cierre": 201,
+      "cierre": 199,
       "dif": null
     },
     {
@@ -490,14 +490,14 @@
       "weekYear": "202646",
       "invMenos7": 2,
       "compras": 0,
-      "vtasIzi": 0,
+      "vtasIzi": 1,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 2,
+      "cierre": 1,
       "dif": null
     },
     {
@@ -820,14 +820,14 @@
       "weekYear": "202646",
       "invMenos7": 18,
       "compras": 24,
-      "vtasIzi": 0,
+      "vtasIzi": 1,
       "vtasExt": 2,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 2,
+      "vtasTot": 3,
       "inv": null,
-      "cierre": 40,
+      "cierre": 39,
       "dif": null
     },
     {
@@ -7524,6 +7524,20 @@
       "dif": null
     },
     {
+      "producto": "Cerveza Huari",
+      "fecha": "2026-11-10",
+      "dia": "mar",
+      "compras": 0,
+      "vtas": 2,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 199,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "Coca Cola",
       "fecha": "2026-11-10",
       "dia": "mar",
@@ -7566,6 +7580,20 @@
       "dif": null
     },
     {
+      "producto": "Fanta Papaya",
+      "fecha": "2026-11-10",
+      "dia": "mar",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 1,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "Sprite",
       "fecha": "2026-11-10",
       "dia": "mar",
@@ -7584,12 +7612,12 @@
       "fecha": "2026-11-10",
       "dia": "mar",
       "compras": 24,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "invEsperado": 40,
+      "invEsperado": 39,
       "invIniFin": null,
       "dif": null
     },
@@ -9158,7 +9186,7 @@
       },
       {
         "weekYear": "202646",
-        "valor": 10.75
+        "valor": 14.75
       }
     ],
     "Vtas Ext.": [
@@ -9236,7 +9264,7 @@
       },
       {
         "weekYear": "202646",
-        "valor": 29.75
+        "valor": 33.75
       }
     ],
     "Compras": [
@@ -9272,10 +9300,10 @@
     "filasInventariosOmuh": 494,
     "filasCompras": 1613,
     "filasSalidas": 108,
-    "filasVentasIzi": 7290,
+    "filasVentasIzi": 7321,
     "filasVentasPY": 11451,
     "filasExtras": 19031,
-    "filasMovInv": 317,
+    "filasMovInv": 318,
     "filasVentasAncIzi": 5300,
     "warnings": []
   }

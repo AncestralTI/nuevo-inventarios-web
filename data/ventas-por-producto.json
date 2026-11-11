@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T02:59:01.693Z",
+  "generatedAt": "2026-11-11T10:25:38.435Z",
   "fuente": "API iZi Soluciones (facturas + items-inventarios), sucursal Ancestral (79344)",
   "rango": {
     "desde": "2026-10-12",
@@ -9568,6 +9568,54 @@
       "monto": 26750
     },
     {
+      "codProducto": "ANC00073",
+      "producto": "EXPERIENCIA ANCESTRAL",
+      "categoria": "MENU DEGUSTACION",
+      "fecha": "2026-11-10",
+      "cantidad": 10,
+      "monto": 4900
+    },
+    {
+      "codProducto": "ANC00001",
+      "producto": "AGUA C/G",
+      "categoria": "AGUAS",
+      "fecha": "2026-11-10",
+      "cantidad": 10,
+      "monto": 150
+    },
+    {
+      "codProducto": "ANC00039",
+      "producto": "TONIC DEL JARDÍN",
+      "categoria": "COCTELES",
+      "fecha": "2026-11-10",
+      "cantidad": 1,
+      "monto": 50
+    },
+    {
+      "codProducto": "ANC00300",
+      "producto": "COPA DE CEPA DE ORO - VISCHOQUEÑA",
+      "categoria": "VINOS",
+      "fecha": "2026-11-10",
+      "cantidad": 1,
+      "monto": 45
+    },
+    {
+      "codProducto": "ANC00309",
+      "producto": "COPA SYRAH - KOHLBERG",
+      "categoria": "VINOS",
+      "fecha": "2026-11-10",
+      "cantidad": 9,
+      "monto": 405
+    },
+    {
+      "codProducto": "ANC00075",
+      "producto": "MARIDAJE ANCESTRAL",
+      "categoria": "MENU DEGUSTACION",
+      "fecha": "2026-11-10",
+      "cantidad": 2,
+      "monto": 700
+    },
+    {
       "codProducto": "ANC00198",
       "producto": "CACAO TONIC",
       "categoria": "COCTELES",
@@ -9760,14 +9808,6 @@
       "monto": 45
     },
     {
-      "codProducto": "ANC00001",
-      "producto": "AGUA C/G",
-      "categoria": "AGUAS",
-      "fecha": "2026-11-10",
-      "cantidad": 8,
-      "monto": 120
-    },
-    {
       "codProducto": "ANC00098",
       "producto": "PARRILLA KEPERI",
       "categoria": "FUERTES",
@@ -9790,14 +9830,6 @@
       "fecha": "2026-11-10",
       "cantidad": 1,
       "monto": 50
-    },
-    {
-      "codProducto": "ANC00309",
-      "producto": "COPA SYRAH - KOHLBERG",
-      "categoria": "VINOS",
-      "fecha": "2026-11-10",
-      "cantidad": 8,
-      "monto": 360
     },
     {
       "codProducto": "ANC00254",
@@ -9886,14 +9918,6 @@
       "fecha": "2026-11-10",
       "cantidad": 2,
       "monto": 240
-    },
-    {
-      "codProducto": "ANC00073",
-      "producto": "EXPERIENCIA ANCESTRAL",
-      "categoria": "MENU DEGUSTACION",
-      "fecha": "2026-11-10",
-      "cantidad": 6,
-      "monto": 2940
     },
     {
       "codProducto": "ANC00106",

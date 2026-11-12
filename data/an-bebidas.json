@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-11T17:58:17.250Z",
+  "generatedAt": "2026-11-12T00:05:43.876Z",
   "rangoFechas": {
     "desde": "2026-09-07",
-    "hasta": "2026-11-11"
+    "hasta": "2026-11-12"
   },
   "categorias": [
     "5. Bebidas alcohólicas",
@@ -3946,28 +3946,28 @@
       "weekYear": "202637",
       "invMenos7": 34,
       "compras": 0,
-      "vtas": 5,
+      "vtas": 2,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 5,
+      "vtasTot": 2,
       "inv": 18,
-      "cierre": 29,
-      "dif": -11
+      "cierre": 32,
+      "dif": -14
     },
     {
       "producto": "COCA COLA SIN AZUCAR",
       "weekYear": "202637",
       "invMenos7": 46,
       "compras": 24,
-      "vtas": 5,
+      "vtas": 3,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 2,
-      "vtasTot": 7,
+      "vtasTot": 5,
       "inv": 57,
-      "cierre": 63,
-      "dif": -6
+      "cierre": 65,
+      "dif": -8
     },
     {
       "producto": "FANTA",
@@ -4002,14 +4002,14 @@
       "weekYear": "202637",
       "invMenos7": 32,
       "compras": 0,
-      "vtas": 17,
+      "vtas": 16,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 17,
+      "vtasTot": 16,
       "inv": 6,
-      "cierre": 15,
-      "dif": -9
+      "cierre": 16,
+      "dif": -10
     },
     {
       "producto": "MADERA \"LA KALOR\" GOSE",
@@ -4824,10 +4824,10 @@
     "ventasIziDisponibles": true,
     "filasApertura": 1499,
     "filasInventariosGs": 4306,
-    "filasCompras": 2485,
+    "filasCompras": 2492,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 5254,
-    "filasMovInv": 298,
+    "filasVentasIzi": 5141,
+    "filasMovInv": 281,
     "filasDimProducto": 459,
     "warnings": []
   }

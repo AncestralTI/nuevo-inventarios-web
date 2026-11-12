@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-11T17:58:51.935Z",
+  "generatedAt": "2026-11-12T00:06:15.402Z",
   "fuente": "API iZi Soluciones (facturas + items-inventarios), sucursal Ancestral (79344)",
   "rango": {
-    "desde": "2026-10-12",
-    "hasta": "2026-11-11"
+    "desde": "2026-10-13",
+    "hasta": "2026-11-12"
   },
   "categorias": [
     "6. Extra",

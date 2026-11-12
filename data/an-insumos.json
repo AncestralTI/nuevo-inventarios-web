@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T15:55:36.689Z",
+  "generatedAt": "2026-11-12T21:59:24.019Z",
   "rangoFechas": {
     "desde": "2026-09-07",
     "hasta": "2026-11-12"
@@ -125,12 +125,12 @@
       "insumo": "Keperi",
       "weekYear": "202646",
       "invMenos7": 47,
-      "compras": 0,
+      "compras": 26,
       "vtas": 17,
       "salidas": 0,
       "vtasTot": 17,
       "inv": null,
-      "cierre": 30,
+      "cierre": 56,
       "dif": null
     },
     {
@@ -163,10 +163,10 @@
       "invMenos7": 40,
       "compras": 46,
       "vtas": 8,
-      "salidas": 4066.94,
-      "vtasTot": 4074.94,
+      "salidas": 16.44,
+      "vtasTot": 24.44,
       "inv": null,
-      "cierre": 0,
+      "cierre": 61.56,
       "dif": null
     },
     {
@@ -1833,7 +1833,7 @@
       "dia": "mar",
       "compras": 0,
       "vtas": 6,
-      "salidas": 4055.587908738978,
+      "salidas": 5.084287241182863,
       "invEsperado": 0,
       "invIni": null,
       "invFin": null,
@@ -1939,10 +1939,10 @@
       "insumo": "Keperi",
       "fecha": "2026-11-11",
       "dia": "mié",
-      "compras": 0,
+      "compras": 26,
       "vtas": 12,
       "salidas": 0,
-      "invEsperado": 0,
+      "invEsperado": 9,
       "invIni": null,
       "invFin": null,
       "dif": null
@@ -1966,7 +1966,7 @@
       "compras": 46,
       "vtas": 2,
       "salidas": 11.351519393225825,
-      "invEsperado": 0,
+      "invEsperado": 21.56,
       "invIni": null,
       "invFin": null,
       "dif": null
@@ -2970,7 +2970,7 @@
       },
       {
         "weekYear": "202646",
-        "valor": 4100.85
+        "valor": 50.34
       }
     ],
     "Vtas Tot": [
@@ -2996,7 +2996,7 @@
       },
       {
         "weekYear": "202646",
-        "valor": 4163.85
+        "valor": 113.34
       }
     ],
     "Compras (Un)": [
@@ -3022,16 +3022,16 @@
       },
       {
         "weekYear": "202646",
-        "valor": 126
+        "valor": 152
       }
     ]
   },
   "meta": {
     "ventasIziDisponibles": true,
-    "filasCompras": 2492,
+    "filasCompras": 2494,
     "filasSalidas": 1054,
     "filasMatriz": 23,
     "filasInventarios": 488,
-    "filasVentasIzi": 5211
+    "filasVentasIzi": 5214
   }
 }

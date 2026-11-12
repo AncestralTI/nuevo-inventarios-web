@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T15:56:31.926Z",
+  "generatedAt": "2026-11-12T22:00:21.089Z",
   "fuente": "API iZi Soluciones (facturas + items-inventarios), sucursal Ancestral (79344)",
   "rango": {
     "desde": "2026-10-13",
@@ -10350,6 +10350,30 @@
       "fecha": "2026-11-11",
       "cantidad": 3,
       "monto": 150
+    },
+    {
+      "codProducto": "ANC00079",
+      "producto": "MENU 5 TIEMPOS",
+      "categoria": "EVENTOS",
+      "fecha": "2026-11-12",
+      "cantidad": 28,
+      "monto": 6720
+    },
+    {
+      "codProducto": "ANC00024",
+      "producto": "CRISTALINO DE TUMBO",
+      "categoria": "COCTELES",
+      "fecha": "2026-11-12",
+      "cantidad": 15,
+      "monto": 750
+    },
+    {
+      "codProducto": "ANC00002",
+      "producto": "AGUA S/G",
+      "categoria": "AGUAS",
+      "fecha": "2026-11-12",
+      "cantidad": 28,
+      "monto": 280
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T00:05:43.876Z",
+  "generatedAt": "2026-11-12T07:01:45.994Z",
   "rangoFechas": {
     "desde": "2026-09-07",
     "hasta": "2026-11-12"
@@ -124,13 +124,13 @@
       "weekYear": "202646",
       "invMenos7": 13,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 13,
+      "cierre": 12,
       "dif": null
     },
     {
@@ -292,13 +292,13 @@
       "weekYear": "202646",
       "invMenos7": 34,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 34,
+      "cierre": 33,
       "dif": null
     },
     {
@@ -306,13 +306,13 @@
       "weekYear": "202646",
       "invMenos7": 18,
       "compras": 24,
-      "vtas": 2,
+      "vtas": 6,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 2,
+      "vtasTot": 6,
       "inv": null,
-      "cierre": 40,
+      "cierre": 36,
       "dif": null
     },
     {
@@ -348,13 +348,13 @@
       "weekYear": "202646",
       "invMenos7": 38,
       "compras": 0,
-      "vtas": 7,
+      "vtas": 9,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 7,
+      "vtasTot": 9,
       "inv": null,
-      "cierre": 31,
+      "cierre": 29,
       "dif": null
     },
     {
@@ -418,13 +418,13 @@
       "weekYear": "202646",
       "invMenos7": 28,
       "compras": 0,
-      "vtas": 2,
+      "vtas": 4,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 2,
+      "vtasTot": 4,
       "inv": null,
-      "cierre": 26,
+      "cierre": 24,
       "dif": null
     },
     {
@@ -446,13 +446,13 @@
       "weekYear": "202646",
       "invMenos7": 2,
       "compras": 0,
-      "vtas": 1,
+      "vtas": 2,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 1,
+      "vtasTot": 2,
       "inv": null,
-      "cierre": 1,
+      "cierre": 0,
       "dif": null
     },
     {
@@ -474,13 +474,13 @@
       "weekYear": "202646",
       "invMenos7": 28,
       "compras": 0,
-      "vtas": 1,
+      "vtas": 2,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 1,
+      "vtasTot": 2,
       "inv": null,
-      "cierre": 27,
+      "cierre": 26,
       "dif": null
     },
     {
@@ -4272,6 +4272,97 @@
       "dif": null
     },
     {
+      "producto": "BENDITA IPA",
+      "fecha": "2026-11-11",
+      "dia": "mié",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 12,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "COCA COLA",
+      "fecha": "2026-11-11",
+      "dia": "mié",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 33,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "COCA COLA SIN AZUCAR",
+      "fecha": "2026-11-11",
+      "dia": "mié",
+      "compras": 0,
+      "vtas": 4,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 36,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "HUARI",
+      "fecha": "2026-11-11",
+      "dia": "mié",
+      "compras": 0,
+      "vtas": 2,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 29,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "POTOSINA PILSNER",
+      "fecha": "2026-11-11",
+      "dia": "mié",
+      "compras": 0,
+      "vtas": 2,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 24,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "REBELION OBSESSION IPA",
+      "fecha": "2026-11-11",
+      "dia": "mié",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 0,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "SAN MIGUEL SOLSTICIO",
+      "fecha": "2026-11-11",
+      "dia": "mié",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 26,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "COCA COLA",
       "fecha": "2026-11-03",
       "dia": "mar",
@@ -4686,7 +4777,7 @@
       },
       {
         "weekYear": "202646",
-        "valor": 17
+        "valor": 29
       }
     ],
     "Vtas Ext": [
@@ -4764,7 +4855,7 @@
       },
       {
         "weekYear": "202646",
-        "valor": 17
+        "valor": 29
       }
     ],
     "Salidas": [
@@ -4826,8 +4917,8 @@
     "filasInventariosGs": 4306,
     "filasCompras": 2492,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 5141,
-    "filasMovInv": 281,
+    "filasVentasIzi": 5211,
+    "filasMovInv": 286,
     "filasDimProducto": 459,
     "warnings": []
   }

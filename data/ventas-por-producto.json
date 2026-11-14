@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T15:58:17.919Z",
+  "generatedAt": "2026-11-14T20:25:28.506Z",
   "fuente": "API iZi Soluciones (facturas + items-inventarios), sucursal Ancestral (79344)",
   "rango": {
     "desde": "2026-10-15",
@@ -10400,12 +10400,268 @@
       "monto": 45
     },
     {
+      "codProducto": "ANC00058",
+      "producto": "ALCACHOFAS",
+      "categoria": "ENTRADAS",
+      "fecha": "2026-11-14",
+      "cantidad": 6,
+      "monto": 450
+    },
+    {
+      "codProducto": "ANC00065",
+      "producto": "TATAKI DE LLAMA",
+      "categoria": "ENTRADAS",
+      "fecha": "2026-11-14",
+      "cantidad": 2,
+      "monto": 150
+    },
+    {
+      "codProducto": "ANC00090",
+      "producto": "CHULETON (Kg)",
+      "categoria": "FUERTES",
+      "fecha": "2026-11-14",
+      "cantidad": 2.16,
+      "monto": 864
+    },
+    {
+      "codProducto": "ANC00033",
+      "producto": "PALOMA",
+      "categoria": "COCTELES",
+      "fecha": "2026-11-14",
+      "cantidad": 1,
+      "monto": 50
+    },
+    {
+      "codProducto": "ANC00031",
+      "producto": "NEGRONI",
+      "categoria": "COCTELES",
+      "fecha": "2026-11-14",
+      "cantidad": 1,
+      "monto": 50
+    },
+    {
+      "codProducto": "ANC00001",
+      "producto": "AGUA C/G",
+      "categoria": "AGUAS",
+      "fecha": "2026-11-14",
+      "cantidad": 7,
+      "monto": 105
+    },
+    {
+      "codProducto": "ANC00105",
+      "producto": "COCA COLA SIN AZUCAR",
+      "categoria": "GASEOSA",
+      "fecha": "2026-11-14",
+      "cantidad": 2,
+      "monto": 30
+    },
+    {
       "codProducto": "ANC00324",
       "producto": "TRUCHA CURADA EN PATACÓN",
       "categoria": "COMIDAS",
       "fecha": "2026-11-14",
+      "cantidad": 3,
+      "monto": 210
+    },
+    {
+      "codProducto": "ANC00331",
+      "producto": "CORDERO A LA CRUZ",
+      "categoria": "COMIDAS",
+      "fecha": "2026-11-14",
+      "cantidad": 4,
+      "monto": 600
+    },
+    {
+      "codProducto": "ANC00184",
+      "producto": "ANTICUCHO DE POLLO",
+      "categoria": "ENTRADAS",
+      "fecha": "2026-11-14",
       "cantidad": 1,
-      "monto": 70
+      "monto": 55
+    },
+    {
+      "codProducto": "ANC00095",
+      "producto": "OSSOBUCO A LA BOLIVIANA",
+      "categoria": "FUERTES",
+      "fecha": "2026-11-14",
+      "cantidad": 3,
+      "monto": 480
+    },
+    {
+      "codProducto": "ANC00092",
+      "producto": "GNOCCHIS CON HONGOS A LA BRASA",
+      "categoria": "FUERTES",
+      "fecha": "2026-11-14",
+      "cantidad": 2,
+      "monto": 280
+    },
+    {
+      "codProducto": "ANC00254",
+      "producto": "EL ENEMIGO-CABERNET FRANC",
+      "categoria": "VINOS IMPORTADOS",
+      "fecha": "2026-11-14",
+      "cantidad": 1,
+      "monto": 400
+    },
+    {
+      "codProducto": "ANC00046",
+      "producto": "CHOCOLATE",
+      "categoria": "DULCES",
+      "fecha": "2026-11-14",
+      "cantidad": 2,
+      "monto": 100
+    },
+    {
+      "codProducto": "ANC00002",
+      "producto": "AGUA S/G",
+      "categoria": "AGUAS",
+      "fecha": "2026-11-14",
+      "cantidad": 5,
+      "monto": 60
+    },
+    {
+      "codProducto": "ANC00098",
+      "producto": "PARRILLA KEPERI",
+      "categoria": "FUERTES",
+      "fecha": "2026-11-14",
+      "cantidad": 2,
+      "monto": 280
+    },
+    {
+      "codProducto": "ANC00007",
+      "producto": "HUARI",
+      "categoria": "CERVEZA",
+      "fecha": "2026-11-14",
+      "cantidad": 2,
+      "monto": 66
+    },
+    {
+      "codProducto": "ANC00104",
+      "producto": "COCA COLA",
+      "categoria": "GASEOSA",
+      "fecha": "2026-11-14",
+      "cantidad": 5,
+      "monto": 75
+    },
+    {
+      "codProducto": "ANC00310",
+      "producto": "SAN MIGUEL MATILDA PALE ALE",
+      "categoria": "CERVEZA",
+      "fecha": "2026-11-14",
+      "cantidad": 1,
+      "monto": 38
+    },
+    {
+      "codProducto": "ANC00047",
+      "producto": "ESPRESSO",
+      "categoria": "BEBIDAS CALIENTES",
+      "fecha": "2026-11-14",
+      "cantidad": 1,
+      "monto": 15
+    },
+    {
+      "codProducto": "ANC00111",
+      "producto": "JAMAICA MENTA",
+      "categoria": "JUGOS",
+      "fecha": "2026-11-14",
+      "cantidad": 1,
+      "monto": 15
+    },
+    {
+      "codProducto": "ANC00241",
+      "producto": "CEVICHE DE TRUCHA Y HONGOS",
+      "categoria": "ENTRADAS",
+      "fecha": "2026-11-14",
+      "cantidad": 2,
+      "monto": 150
+    },
+    {
+      "codProducto": "ANC00249",
+      "producto": "ARROZ DE CANGREJOS",
+      "categoria": "FUERTES",
+      "fecha": "2026-11-14",
+      "cantidad": 3,
+      "monto": 450
+    },
+    {
+      "codProducto": "ANC00099",
+      "producto": "PARRILLA OJO DE BIFE",
+      "categoria": "FUERTES",
+      "fecha": "2026-11-14",
+      "cantidad": 5,
+      "monto": 800
+    },
+    {
+      "codProducto": "ANC00162",
+      "producto": "COPA ALTOSAMA - BRUT",
+      "categoria": "VINOS POR COPA",
+      "fecha": "2026-11-14",
+      "cantidad": 1,
+      "monto": 40
+    },
+    {
+      "codProducto": "ANC00280",
+      "producto": "COPA TANNAT RAIZ - KOHLBERG",
+      "categoria": "VINOS POR COPA",
+      "fecha": "2026-11-14",
+      "cantidad": 1,
+      "monto": 55
+    },
+    {
+      "codProducto": "ANC00057",
+      "producto": "TUETANO BRULEE",
+      "categoria": "DULCES",
+      "fecha": "2026-11-14",
+      "cantidad": 2,
+      "monto": 100
+    },
+    {
+      "codProducto": "ANC00330",
+      "producto": "PESCADO AMAZONICO Y TUMBO",
+      "categoria": "COMIDAS",
+      "fecha": "2026-11-14",
+      "cantidad": 1,
+      "monto": 140
+    },
+    {
+      "codProducto": "ANC00093",
+      "producto": "KEPERI AHUMADO",
+      "categoria": "FUERTES",
+      "fecha": "2026-11-14",
+      "cantidad": 5,
+      "monto": 700
+    },
+    {
+      "codProducto": "ANC00008",
+      "producto": "MADERA \"LA KALOR\" GOSE",
+      "categoria": "CERVEZA",
+      "fecha": "2026-11-14",
+      "cantidad": 1,
+      "monto": 31
+    },
+    {
+      "codProducto": "ANC00009",
+      "producto": "MADERA DOMINGA",
+      "categoria": "CERVEZA",
+      "fecha": "2026-11-14",
+      "cantidad": 1,
+      "monto": 31
+    },
+    {
+      "codProducto": "ANC00346",
+      "producto": "CAB- FRANC ROSE - CASA SOLUM",
+      "categoria": "VINOS",
+      "fecha": "2026-11-14",
+      "cantidad": 1,
+      "monto": 290
+    },
+    {
+      "codProducto": "ANC00183",
+      "producto": "PANZA FRITA",
+      "categoria": "ENTRADAS",
+      "fecha": "2026-11-14",
+      "cantidad": 2,
+      "monto": 120
     },
     {
       "codProducto": "ANC00328",
@@ -10422,30 +10678,6 @@
       "fecha": "2026-11-14",
       "cantidad": 1,
       "monto": 150
-    },
-    {
-      "codProducto": "ANC00249",
-      "producto": "ARROZ DE CANGREJOS",
-      "categoria": "FUERTES",
-      "fecha": "2026-11-14",
-      "cantidad": 1,
-      "monto": 150
-    },
-    {
-      "codProducto": "ANC00093",
-      "producto": "KEPERI AHUMADO",
-      "categoria": "FUERTES",
-      "fecha": "2026-11-14",
-      "cantidad": 4,
-      "monto": 560
-    },
-    {
-      "codProducto": "ANC00099",
-      "producto": "PARRILLA OJO DE BIFE",
-      "categoria": "FUERTES",
-      "fecha": "2026-11-14",
-      "cantidad": 3,
-      "monto": 480
     }
   ]
 }

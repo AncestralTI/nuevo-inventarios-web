@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-13T17:26:41.631Z",
+  "generatedAt": "2026-11-14T02:42:56.714Z",
   "rangoFechas": {
     "desde": "2026-09-07",
-    "hasta": "2026-11-13"
+    "hasta": "2026-11-14"
   },
   "categorias": [
     "CERVEZA",
@@ -299,13 +299,13 @@
       "weekYear": "202646",
       "invMenos7": 11,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 2,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 2,
       "inv": null,
-      "cierre": 11,
+      "cierre": 9,
       "dif": null
     },
     {
@@ -397,13 +397,13 @@
       "weekYear": "202646",
       "invMenos7": 22,
       "compras": 0,
-      "vtas": 1,
+      "vtas": 2,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 1,
+      "vtasTot": 2,
       "inv": null,
-      "cierre": 21,
+      "cierre": 20,
       "dif": null
     },
     {
@@ -1139,13 +1139,13 @@
       "weekYear": "202646",
       "invMenos7": 38,
       "compras": 0,
-      "vtas": 9,
+      "vtas": 10,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 9,
+      "vtasTot": 10,
       "inv": null,
-      "cierre": 29,
+      "cierre": 28,
       "dif": null
     },
     {
@@ -1167,13 +1167,13 @@
       "weekYear": "202646",
       "invMenos7": 3,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 3,
+      "cierre": 2,
       "dif": null
     },
     {
@@ -17311,6 +17311,58 @@
       "dif": null
     },
     {
+      "producto": "ALTOSAMA - BRUT",
+      "fecha": "2026-11-13",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 2,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 9,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "BENDITA HOPPY",
+      "fecha": "2026-11-13",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 20,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "HUARI",
+      "fecha": "2026-11-13",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 28,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "IMPOREÑA - YOKICH",
+      "fecha": "2026-11-13",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 2,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "CAB- FRANC ROSE - CASA SOLUM",
       "fecha": "2026-11-03",
       "dia": "mar",
@@ -18102,7 +18154,7 @@
       },
       {
         "weekYear": "202646",
-        "valor": 39
+        "valor": 44
       }
     ],
     "Vtas Ext": [
@@ -18180,7 +18232,7 @@
       },
       {
         "weekYear": "202646",
-        "valor": 45
+        "valor": 50
       }
     ],
     "Salidas": [
@@ -18242,8 +18294,8 @@
     "filasInventariosGs": 4306,
     "filasCompras": 2494,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 5176,
-    "filasMovInv": 303,
+    "filasVentasIzi": 5276,
+    "filasMovInv": 309,
     "filasDimProducto": 459,
     "warnings": []
   }

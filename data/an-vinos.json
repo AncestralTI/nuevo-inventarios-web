@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T02:42:56.714Z",
+  "generatedAt": "2026-11-14T09:28:29.888Z",
   "rangoFechas": {
     "desde": "2026-09-07",
     "hasta": "2026-11-14"
@@ -299,13 +299,13 @@
       "weekYear": "202646",
       "invMenos7": 11,
       "compras": 0,
-      "vtas": 2,
+      "vtas": 4,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 2,
+      "vtasTot": 4,
       "inv": null,
-      "cierre": 9,
+      "cierre": 7,
       "dif": null
     },
     {
@@ -1139,13 +1139,13 @@
       "weekYear": "202646",
       "invMenos7": 38,
       "compras": 0,
-      "vtas": 10,
-      "vtasExt": 0,
+      "vtas": 16,
+      "vtasExt": 1,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 10,
+      "vtasTot": 17,
       "inv": null,
-      "cierre": 28,
+      "cierre": 21,
       "dif": null
     },
     {
@@ -1699,13 +1699,13 @@
       "weekYear": "202646",
       "invMenos7": 1,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 1,
+      "cierre": 0,
       "dif": null
     },
     {
@@ -17315,11 +17315,11 @@
       "fecha": "2026-11-13",
       "dia": "vie",
       "compras": 0,
-      "vtas": 2,
+      "vtas": 4,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "invEsperado": 9,
+      "invEsperado": 7,
       "invIniFin": null,
       "dif": null
     },
@@ -17341,11 +17341,11 @@
       "fecha": "2026-11-13",
       "dia": "vie",
       "compras": 0,
-      "vtas": 1,
-      "vtasExt": 0,
+      "vtas": 7,
+      "vtasExt": 1,
       "cortesias": 0,
       "salidas": 0,
-      "invEsperado": 28,
+      "invEsperado": 21,
       "invIniFin": null,
       "dif": null
     },
@@ -17359,6 +17359,19 @@
       "cortesias": 0,
       "salidas": 0,
       "invEsperado": 2,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "SYRAH - CEPAS DE FUEGO",
+      "fecha": "2026-11-13",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 0,
       "invIniFin": null,
       "dif": null
     },
@@ -18154,7 +18167,7 @@
       },
       {
         "weekYear": "202646",
-        "valor": 44
+        "valor": 53
       }
     ],
     "Vtas Ext": [
@@ -18180,7 +18193,7 @@
       },
       {
         "weekYear": "202646",
-        "valor": 0
+        "valor": 1
       }
     ],
     "Cortesias": [
@@ -18232,7 +18245,7 @@
       },
       {
         "weekYear": "202646",
-        "valor": 50
+        "valor": 60
       }
     ],
     "Salidas": [
@@ -18294,8 +18307,8 @@
     "filasInventariosGs": 4306,
     "filasCompras": 2494,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 5276,
-    "filasMovInv": 309,
+    "filasVentasIzi": 5334,
+    "filasMovInv": 316,
     "filasDimProducto": 459,
     "warnings": []
   }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T19:17:10.919Z",
+  "generatedAt": "2026-11-15T23:24:43.777Z",
   "rangoFechas": {
     "desde": "2026-09-07",
     "hasta": "2026-11-15"
@@ -130,14 +130,14 @@
       "weekYear": "202646",
       "invMenos7": 45,
       "compras": 24,
-      "vtasIzi": 1,
+      "vtasIzi": 5,
       "vtasExt": 11,
       "vtasPY": 1,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 13,
+      "vtasTot": 17,
       "inv": null,
-      "cierre": 56,
+      "cierre": 52,
       "dif": null
     },
     {
@@ -250,14 +250,14 @@
       "weekYear": "202646",
       "invMenos7": 33,
       "compras": 0,
-      "vtasIzi": 1,
+      "vtasIzi": 2,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 1,
+      "vtasTot": 2,
       "inv": null,
-      "cierre": 32,
+      "cierre": 31,
       "dif": null
     },
     {
@@ -403,9 +403,9 @@
       "vtasIzi": 0,
       "vtasExt": 0,
       "vtasPY": 0,
-      "vtasAnc": 18,
+      "vtasAnc": 22,
       "salidas": 0,
-      "vtasTot": 18,
+      "vtasTot": 22,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -553,9 +553,9 @@
       "vtasIzi": 0,
       "vtasExt": 0,
       "vtasPY": 0,
-      "vtasAnc": 22,
+      "vtasAnc": 24,
       "salidas": 0,
-      "vtasTot": 22,
+      "vtasTot": 24,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -610,14 +610,14 @@
       "weekYear": "202646",
       "invMenos7": 19,
       "compras": 0,
-      "vtasIzi": 10,
+      "vtasIzi": 11,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 10,
+      "vtasTot": 11,
       "inv": null,
-      "cierre": 9,
+      "cierre": 8,
       "dif": null
     },
     {
@@ -688,9 +688,9 @@
       "vtasIzi": 0,
       "vtasExt": 0,
       "vtasPY": 0,
-      "vtasAnc": 5,
+      "vtasAnc": 7,
       "salidas": 0,
-      "vtasTot": 5,
+      "vtasTot": 7,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -730,14 +730,14 @@
       "weekYear": "202646",
       "invMenos7": null,
       "compras": 63,
-      "vtasIzi": 35,
+      "vtasIzi": 37,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 35,
+      "vtasTot": 37,
       "inv": null,
-      "cierre": 28,
+      "cierre": 26,
       "dif": null
     },
     {
@@ -8714,6 +8714,20 @@
       "dif": null
     },
     {
+      "producto": "Agua",
+      "fecha": "2026-11-15",
+      "dia": "dom",
+      "compras": 0,
+      "vtas": 4,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 52,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "Agua con gas",
       "fecha": "2026-11-15",
       "dia": "dom",
@@ -8724,6 +8738,20 @@
       "vtasAnc": 0,
       "salidas": 0,
       "invEsperado": 62,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "Cerveza Bendita Hoppy Lager",
+      "fecha": "2026-11-15",
+      "dia": "dom",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 31,
       "invIniFin": null,
       "dif": null
     },
@@ -8756,6 +8784,20 @@
       "dif": null
     },
     {
+      "producto": "COCA COLA SIN AZUCAR",
+      "fecha": "2026-11-15",
+      "dia": "dom",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 4,
+      "salidas": 0,
+      "invEsperado": 0,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "FANTA",
       "fecha": "2026-11-15",
       "dia": "dom",
@@ -8777,7 +8819,7 @@
       "vtas": 0,
       "vtasExt": 0,
       "vtasPY": 0,
-      "vtasAnc": 4,
+      "vtasAnc": 6,
       "salidas": 0,
       "invEsperado": 0,
       "invIniFin": null,
@@ -8788,12 +8830,26 @@
       "fecha": "2026-11-15",
       "dia": "dom",
       "compras": 0,
-      "vtas": 1,
+      "vtas": 2,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "invEsperado": 9,
+      "invEsperado": 8,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "POTOSINA PILSNER",
+      "fecha": "2026-11-15",
+      "dia": "dom",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 2,
+      "salidas": 0,
+      "invEsperado": 0,
       "invIniFin": null,
       "dif": null
     },
@@ -8802,12 +8858,12 @@
       "fecha": "2026-11-15",
       "dia": "dom",
       "compras": 0,
-      "vtas": 3,
+      "vtas": 5,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "invEsperado": 28,
+      "invEsperado": 26,
       "invIniFin": null,
       "dif": null
     },
@@ -10376,7 +10432,7 @@
       },
       {
         "weekYear": "202646",
-        "valor": 73
+        "valor": 81
       }
     ],
     "Vtas Ext.": [
@@ -10454,7 +10510,7 @@
       },
       {
         "weekYear": "202646",
-        "valor": 337
+        "valor": 353
       }
     ],
     "Compras": [
@@ -10490,11 +10546,11 @@
     "filasInventariosOmuh": 494,
     "filasCompras": 1618,
     "filasSalidas": 111,
-    "filasVentasIzi": 7112,
+    "filasVentasIzi": 7175,
     "filasVentasPY": 11526,
     "filasExtras": 19377,
-    "filasMovInv": 340,
-    "filasVentasAncIzi": 5423,
+    "filasMovInv": 343,
+    "filasVentasAncIzi": 5494,
     "warnings": []
   }
 }

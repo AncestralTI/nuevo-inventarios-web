@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T12:58:51.819Z",
+  "generatedAt": "2026-11-15T19:16:25.916Z",
   "rangoFechas": {
     "desde": "2026-09-07",
     "hasta": "2026-11-15"
@@ -1139,13 +1139,13 @@
       "weekYear": "202646",
       "invMenos7": 38,
       "compras": 0,
-      "vtas": 18,
+      "vtas": 22,
       "vtasExt": 1,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 19,
+      "vtasTot": 23,
       "inv": null,
-      "cierre": 19,
+      "cierre": 15,
       "dif": null
     },
     {
@@ -17571,6 +17571,19 @@
       "dif": null
     },
     {
+      "producto": "HUARI",
+      "fecha": "2026-11-15",
+      "dia": "dom",
+      "compras": 0,
+      "vtas": 4,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 15,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "CAB- FRANC ROSE - CASA SOLUM",
       "fecha": "2026-11-03",
       "dia": "mar",
@@ -18362,7 +18375,7 @@
       },
       {
         "weekYear": "202646",
-        "valor": 67
+        "valor": 71
       }
     ],
     "Vtas Ext": [
@@ -18440,7 +18453,7 @@
       },
       {
         "weekYear": "202646",
-        "valor": 77
+        "valor": 81
       }
     ],
     "Salidas": [
@@ -18502,8 +18515,8 @@
     "filasInventariosGs": 4306,
     "filasCompras": 2494,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 5376,
-    "filasMovInv": 337,
+    "filasVentasIzi": 5423,
+    "filasMovInv": 340,
     "filasDimProducto": 459,
     "warnings": []
   }

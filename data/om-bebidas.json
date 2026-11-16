@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T10:26:32.359Z",
+  "generatedAt": "2026-11-16T20:37:57.909Z",
   "rangoFechas": {
     "desde": "2026-09-14",
     "hasta": "2026-11-16"
@@ -145,14 +145,14 @@
       "weekYear": "202647",
       "invMenos7": 59,
       "compras": 0,
-      "vtasIzi": 0,
+      "vtasIzi": 1,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 59,
+      "cierre": 58,
       "dif": null
     },
     {
@@ -415,14 +415,14 @@
       "weekYear": "202647",
       "invMenos7": 83,
       "compras": 0,
-      "vtasIzi": 0,
+      "vtasIzi": 1,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 83,
+      "cierre": 82,
       "dif": null
     },
     {
@@ -7328,6 +7328,34 @@
   ],
   "detalleDiario": [
     {
+      "producto": "Agua con gas",
+      "fecha": "2026-11-16",
+      "dia": "lun",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 58,
+      "invIniFin": 59,
+      "dif": 1
+    },
+    {
+      "producto": "Coca Zero",
+      "fecha": "2026-11-16",
+      "dia": "lun",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 82,
+      "invIniFin": 83,
+      "dif": 1
+    },
+    {
       "producto": "Agua",
       "fecha": "2026-11-09",
       "dia": "lun",
@@ -8948,7 +8976,7 @@
       },
       {
         "weekYear": "202647",
-        "valor": 0
+        "valor": 2
       }
     ],
     "Vtas Ext.": [
@@ -9026,7 +9054,7 @@
       },
       {
         "weekYear": "202647",
-        "valor": 0
+        "valor": 2
       }
     ],
     "Compras": [
@@ -9062,7 +9090,7 @@
     "filasInventariosOmuh": 510,
     "filasCompras": 1618,
     "filasSalidas": 111,
-    "filasVentasIzi": 7103,
+    "filasVentasIzi": 7124,
     "filasVentasPY": 11553,
     "filasExtras": 19493,
     "filasMovInv": 332,

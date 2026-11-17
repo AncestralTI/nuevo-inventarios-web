@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T11:43:58.335Z",
+  "generatedAt": "2026-11-17T20:03:01.790Z",
   "rangoFechas": {
     "desde": "2026-09-14",
     "hasta": "2026-11-17"
@@ -79,37 +79,20 @@
       "weekYear": "202647",
       "invMenos7": null,
       "compras": 0,
-      "vtasIzi": 51,
+      "vtasIzi": 59,
       "vtasAnc": 0,
       "vtasPY": 9,
       "vtasExt": 3,
       "vtasVegg": -1,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 62,
+      "vtasTot": 70,
       "inv": null,
       "cierre": 0,
       "dif": null
     },
     {
       "insumo": "Pechuga de Pollo",
-      "weekYear": "202647",
-      "invMenos7": null,
-      "compras": 0,
-      "vtasIzi": 3,
-      "vtasAnc": 0,
-      "vtasPY": 0,
-      "vtasExt": 0,
-      "vtasVegg": 0,
-      "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 3,
-      "inv": null,
-      "cierre": 0,
-      "dif": null
-    },
-    {
-      "insumo": "Pesca Amazonica",
       "weekYear": "202647",
       "invMenos7": null,
       "compras": 0,
@@ -123,6 +106,23 @@
       "vtasTot": 4,
       "inv": null,
       "cierre": 0,
+      "dif": null
+    },
+    {
+      "insumo": "Pesca Amazonica",
+      "weekYear": "202647",
+      "invMenos7": null,
+      "compras": 48,
+      "vtasIzi": 5,
+      "vtasAnc": 0,
+      "vtasPY": 0,
+      "vtasExt": 0,
+      "vtasVegg": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 5,
+      "inv": null,
+      "cierre": 43,
       "dif": null
     },
     {
@@ -612,10 +612,43 @@
       "insumo": "Pesca Amazonica",
       "fecha": "2026-11-16",
       "dia": "lun",
-      "compras": 0,
+      "compras": 48,
       "vtas": 4,
       "salidas": 0,
+      "invEsperado": 44,
+      "invFin": null,
+      "dif": null
+    },
+    {
+      "insumo": "Carne Molida 130g",
+      "fecha": "2026-11-17",
+      "dia": "mar",
+      "compras": 0,
+      "vtas": 8,
+      "salidas": 0,
       "invEsperado": 0,
+      "invFin": null,
+      "dif": null
+    },
+    {
+      "insumo": "Pechuga de Pollo",
+      "fecha": "2026-11-17",
+      "dia": "mar",
+      "compras": 0,
+      "vtas": 1,
+      "salidas": 0,
+      "invEsperado": 0,
+      "invFin": null,
+      "dif": null
+    },
+    {
+      "insumo": "Pesca Amazonica",
+      "fecha": "2026-11-17",
+      "dia": "mar",
+      "compras": 0,
+      "vtas": 1,
+      "salidas": 0,
+      "invEsperado": 43,
       "invFin": null,
       "dif": null
     },
@@ -864,7 +897,7 @@
       },
       {
         "weekYear": "202647",
-        "valor": 58
+        "valor": 68
       }
     ],
     "Vtas Anc": [
@@ -1020,7 +1053,7 @@
       },
       {
         "weekYear": "202647",
-        "valor": 69
+        "valor": 79
       }
     ],
     "Compras": [
@@ -1046,7 +1079,7 @@
       },
       {
         "weekYear": "202647",
-        "valor": 0
+        "valor": 48
       }
     ]
   },
@@ -1054,12 +1087,12 @@
     "ventasIziDisponibles": true,
     "filasDimProducto": 459,
     "filasInventariosUnitarios": 0,
-    "filasCompras": 1618,
+    "filasCompras": 1630,
     "filasSalidas": 112,
-    "filasVentasIzi": 6935,
+    "filasVentasIzi": 6960,
     "filasVentasPY": 11568,
     "filasExtras": 19556,
-    "filasMovInv": 321,
+    "filasMovInv": 322,
     "filasVentasAncIzi": 5336,
     "warnings": []
   }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T10:27:28.378Z",
+  "generatedAt": "2026-11-18T18:57:48.297Z",
   "rangoFechas": {
     "desde": "2026-09-14",
     "hasta": "2026-11-18"
@@ -790,14 +790,14 @@
       "weekYear": "202647",
       "invMenos7": null,
       "compras": 24,
-      "vtasIzi": 1,
+      "vtasIzi": 2,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 1,
+      "vtasTot": 2,
       "inv": null,
-      "cierre": 23,
+      "cierre": 22,
       "dif": null
     },
     {
@@ -820,14 +820,14 @@
       "weekYear": "202647",
       "invMenos7": 24,
       "compras": 24,
-      "vtasIzi": 1,
+      "vtasIzi": 2,
       "vtasExt": 4,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 5,
+      "vtasTot": 6,
       "inv": null,
-      "cierre": 43,
+      "cierre": 42,
       "dif": null
     },
     {
@@ -7762,6 +7762,34 @@
       "dif": null
     },
     {
+      "producto": "Sprite",
+      "fecha": "2026-11-18",
+      "dia": "mié",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 22,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "Sprite Zero",
+      "fecha": "2026-11-18",
+      "dia": "mié",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 42,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "Agua",
       "fecha": "2026-11-09",
       "dia": "lun",
@@ -9382,7 +9410,7 @@
       },
       {
         "weekYear": "202647",
-        "valor": 25
+        "valor": 27
       }
     ],
     "Vtas Ext.": [
@@ -9460,7 +9488,7 @@
       },
       {
         "weekYear": "202647",
-        "valor": 88
+        "valor": 90
       }
     ],
     "Compras": [
@@ -9494,9 +9522,9 @@
     "ventasIziDisponibles": true,
     "filasDimProducto": 460,
     "filasInventariosOmuh": 510,
-    "filasCompras": 1633,
+    "filasCompras": 1634,
     "filasSalidas": 112,
-    "filasVentasIzi": 6863,
+    "filasVentasIzi": 6874,
     "filasVentasPY": 11581,
     "filasExtras": 19595,
     "filasMovInv": 317,

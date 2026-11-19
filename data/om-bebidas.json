@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T08:22:56.526Z",
+  "generatedAt": "2026-11-19T17:31:20.666Z",
   "rangoFechas": {
     "desde": "2026-09-14",
     "hasta": "2026-11-19"
@@ -730,12 +730,12 @@
       "weekYear": "202647",
       "invMenos7": null,
       "compras": 0,
-      "vtasIzi": 6,
+      "vtasIzi": 8,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 6,
+      "vtasTot": 8,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -7958,6 +7958,20 @@
       "dif": null
     },
     {
+      "producto": "Refresco Artesanal",
+      "fecha": "2026-11-19",
+      "dia": "jue",
+      "compras": 0,
+      "vtas": 2,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 0,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "Agua",
       "fecha": "2026-11-09",
       "dia": "lun",
@@ -9578,7 +9592,7 @@
       },
       {
         "weekYear": "202647",
-        "valor": 31
+        "valor": 33
       }
     ],
     "Vtas Ext.": [
@@ -9656,7 +9670,7 @@
       },
       {
         "weekYear": "202647",
-        "valor": 127
+        "valor": 129
       }
     ],
     "Compras": [
@@ -9692,7 +9706,7 @@
     "filasInventariosOmuh": 510,
     "filasCompras": 1635,
     "filasSalidas": 117,
-    "filasVentasIzi": 6675,
+    "filasVentasIzi": 6692,
     "filasVentasPY": 11606,
     "filasExtras": 19630,
     "filasMovInv": 304,

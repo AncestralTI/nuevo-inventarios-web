@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T00:57:18.590Z",
+  "generatedAt": "2026-11-19T08:22:30.045Z",
   "rangoFechas": {
     "desde": "2026-09-14",
     "hasta": "2026-11-19"
@@ -124,13 +124,13 @@
       "weekYear": "202647",
       "invMenos7": 12,
       "compras": 0,
-      "vtas": 1,
+      "vtas": 2,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 1,
+      "vtasTot": 2,
       "inv": null,
-      "cierre": 11,
+      "cierre": 10,
       "dif": null
     },
     {
@@ -292,27 +292,27 @@
       "weekYear": "202647",
       "invMenos7": 21,
       "compras": 0,
-      "vtas": 3,
-      "vtasExt": 0,
-      "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 3,
-      "inv": null,
-      "cierre": 18,
-      "dif": null
-    },
-    {
-      "producto": "COCA COLA SIN AZUCAR",
-      "weekYear": "202647",
-      "invMenos7": 7,
-      "compras": 0,
       "vtas": 4,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 4,
       "inv": null,
-      "cierre": 3,
+      "cierre": 17,
+      "dif": null
+    },
+    {
+      "producto": "COCA COLA SIN AZUCAR",
+      "weekYear": "202647",
+      "invMenos7": 17,
+      "compras": 0,
+      "vtas": 6,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "vtasTot": 6,
+      "inv": null,
+      "cierre": 11,
       "dif": null
     },
     {
@@ -348,13 +348,13 @@
       "weekYear": "202647",
       "invMenos7": 8,
       "compras": 0,
-      "vtas": 6,
+      "vtas": 7,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 6,
+      "vtasTot": 7,
       "inv": null,
-      "cierre": 2,
+      "cierre": 1,
       "dif": null
     },
     {
@@ -474,13 +474,13 @@
       "weekYear": "202647",
       "invMenos7": 25,
       "compras": 0,
-      "vtas": 1,
+      "vtas": 5,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 1,
+      "vtasTot": 5,
       "inv": null,
-      "cierre": 24,
+      "cierre": 20,
       "dif": null
     },
     {
@@ -717,9 +717,9 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 22,
-      "inv": 7,
+      "inv": 17,
       "cierre": 20,
-      "dif": -13
+      "dif": -3
     },
     {
       "producto": "FANTA",
@@ -4215,7 +4215,7 @@
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "invEsperado": 4,
+      "invEsperado": 14,
       "invIniFin": null,
       "dif": null
     },
@@ -4285,7 +4285,7 @@
       "dif": null
     },
     {
-      "producto": "COCA COLA SIN AZUCAR",
+      "producto": "BENDITA IPA",
       "fecha": "2026-11-18",
       "dia": "mié",
       "compras": 0,
@@ -4293,7 +4293,33 @@
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "invEsperado": 3,
+      "invEsperado": 10,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "COCA COLA",
+      "fecha": "2026-11-18",
+      "dia": "mié",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 17,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "COCA COLA SIN AZUCAR",
+      "fecha": "2026-11-18",
+      "dia": "mié",
+      "compras": 0,
+      "vtas": 3,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 11,
       "invIniFin": null,
       "dif": null
     },
@@ -4302,11 +4328,24 @@
       "fecha": "2026-11-18",
       "dia": "mié",
       "compras": 0,
-      "vtas": 2,
+      "vtas": 3,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "invEsperado": 2,
+      "invEsperado": 1,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "SAN MIGUEL SOLSTICIO",
+      "fecha": "2026-11-18",
+      "dia": "mié",
+      "compras": 0,
+      "vtas": 4,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 20,
       "invIniFin": null,
       "dif": null
     },
@@ -4710,8 +4749,8 @@
       "cortesias": 0,
       "salidas": 0,
       "invEsperado": 20,
-      "invIniFin": 7,
-      "dif": -13
+      "invIniFin": 17,
+      "dif": -3
     },
     {
       "producto": "FANTA",
@@ -4777,7 +4816,7 @@
       },
       {
         "weekYear": "202647",
-        "valor": 19
+        "valor": 28
       }
     ],
     "Vtas Ext": [
@@ -4855,7 +4894,7 @@
       },
       {
         "weekYear": "202647",
-        "valor": 19
+        "valor": 28
       }
     ],
     "Salidas": [
@@ -4917,8 +4956,8 @@
     "filasInventariosGs": 4387,
     "filasCompras": 2511,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 5155,
-    "filasMovInv": 294,
+    "filasVentasIzi": 5248,
+    "filasMovInv": 304,
     "filasDimProducto": 460,
     "warnings": []
   }

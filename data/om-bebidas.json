@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-18T18:57:48.297Z",
+  "generatedAt": "2026-11-19T00:57:47.062Z",
   "rangoFechas": {
     "desde": "2026-09-14",
-    "hasta": "2026-11-18"
+    "hasta": "2026-11-19"
   },
   "categorias": [
     "5. Bebidas alcohólicas",
@@ -130,14 +130,14 @@
       "weekYear": "202647",
       "invMenos7": 47,
       "compras": 24,
-      "vtasIzi": 2,
+      "vtasIzi": 4,
       "vtasExt": 5,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 7,
+      "vtasTot": 9,
       "inv": null,
-      "cierre": 64,
+      "cierre": 62,
       "dif": null
     },
     {
@@ -250,14 +250,14 @@
       "weekYear": "202647",
       "invMenos7": 31,
       "compras": 0,
-      "vtasIzi": 0,
+      "vtasIzi": 1,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 31,
+      "cierre": 30,
       "dif": null
     },
     {
@@ -403,9 +403,9 @@
       "vtasIzi": 0,
       "vtasExt": 0,
       "vtasPY": 0,
-      "vtasAnc": 3,
+      "vtasAnc": 4,
       "salidas": 0,
-      "vtasTot": 3,
+      "vtasTot": 4,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -553,9 +553,9 @@
       "vtasIzi": 0,
       "vtasExt": 0,
       "vtasPY": 0,
-      "vtasAnc": 4,
+      "vtasAnc": 6,
       "salidas": 0,
-      "vtasTot": 4,
+      "vtasTot": 6,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -6610,30 +6610,30 @@
       "weekYear": "202638",
       "invMenos7": 31,
       "compras": 36,
-      "vtasIzi": 9,
+      "vtasIzi": 2,
       "vtasExt": 16,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 25,
+      "vtasTot": 18,
       "inv": 26,
-      "cierre": 42,
-      "dif": -16
+      "cierre": 49,
+      "dif": -23
     },
     {
       "producto": "Agua con gas",
       "weekYear": "202638",
       "invMenos7": 30,
       "compras": 48,
-      "vtasIzi": 2,
+      "vtasIzi": 0,
       "vtasExt": 10,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 12,
+      "vtasTot": 10,
       "inv": 63,
-      "cierre": 66,
-      "dif": -3
+      "cierre": 68,
+      "dif": -5
     },
     {
       "producto": "BENDITA HOPPY",
@@ -6658,9 +6658,9 @@
       "vtasIzi": 0,
       "vtasExt": 0,
       "vtasPY": 0,
-      "vtasAnc": 2,
+      "vtasAnc": 1,
       "salidas": 0,
-      "vtasTot": 2,
+      "vtasTot": 1,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -6673,9 +6673,9 @@
       "vtasIzi": 0,
       "vtasExt": 0,
       "vtasPY": 0,
-      "vtasAnc": 1,
+      "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 1,
+      "vtasTot": 0,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -6730,15 +6730,15 @@
       "weekYear": "202638",
       "invMenos7": 29,
       "compras": 0,
-      "vtasIzi": 3,
+      "vtasIzi": 0,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 3,
+      "vtasTot": 0,
       "inv": 19,
-      "cierre": 26,
-      "dif": -7
+      "cierre": 29,
+      "dif": -10
     },
     {
       "producto": "Cerveza Bendita IPA",
@@ -6760,15 +6760,15 @@
       "weekYear": "202638",
       "invMenos7": 386,
       "compras": 0,
-      "vtasIzi": 6,
+      "vtasIzi": 0,
       "vtasExt": 124,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 130,
+      "vtasTot": 124,
       "inv": 241,
-      "cierre": 256,
-      "dif": -15
+      "cierre": 262,
+      "dif": -21
     },
     {
       "producto": "Cerveza Uyuni",
@@ -6805,15 +6805,15 @@
       "weekYear": "202638",
       "invMenos7": 35,
       "compras": 0,
-      "vtasIzi": 0.75,
+      "vtasIzi": 0,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 0.75,
+      "vtasTot": 0,
       "inv": 29,
-      "cierre": 34.25,
-      "dif": -5.25
+      "cierre": 35,
+      "dif": -6
     },
     {
       "producto": "Chop Cerveza 2X1",
@@ -6835,14 +6835,14 @@
       "weekYear": "202638",
       "invMenos7": null,
       "compras": 138,
-      "vtasIzi": 6,
+      "vtasIzi": 2,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 6,
+      "vtasTot": 2,
       "inv": null,
-      "cierre": 132,
+      "cierre": 136,
       "dif": null
     },
     {
@@ -6853,12 +6853,12 @@
       "vtasIzi": 0,
       "vtasExt": 61,
       "vtasPY": 0,
-      "vtasAnc": 1,
+      "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 62,
+      "vtasTot": 61,
       "inv": 157,
-      "cierre": 33,
-      "dif": 124
+      "cierre": 34,
+      "dif": 123
     },
     {
       "producto": "Coca Cola MINI",
@@ -6883,9 +6883,9 @@
       "vtasIzi": 0,
       "vtasExt": 0,
       "vtasPY": 0,
-      "vtasAnc": 7,
+      "vtasAnc": 2,
       "salidas": 0,
-      "vtasTot": 7,
+      "vtasTot": 2,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -6895,44 +6895,44 @@
       "weekYear": "202638",
       "invMenos7": 79,
       "compras": 0,
-      "vtasIzi": 2,
+      "vtasIzi": 1,
       "vtasExt": 31,
       "vtasPY": 7,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 40,
+      "vtasTot": 39,
       "inv": 34,
-      "cierre": 39,
-      "dif": -5
+      "cierre": 40,
+      "dif": -6
     },
     {
       "producto": "Curandero",
       "weekYear": "202638",
       "invMenos7": 25,
       "compras": 30,
-      "vtasIzi": 2,
+      "vtasIzi": 1,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 2,
+      "vtasTot": 1,
       "inv": 45,
-      "cierre": 53,
-      "dif": -8
+      "cierre": 54,
+      "dif": -9
     },
     {
       "producto": "Fanta",
       "weekYear": "202638",
       "invMenos7": null,
       "compras": 36,
-      "vtasIzi": 3,
+      "vtasIzi": 2,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 3,
+      "vtasTot": 2,
       "inv": null,
-      "cierre": 33,
+      "cierre": 34,
       "dif": null
     },
     {
@@ -6943,12 +6943,12 @@
       "vtasIzi": 0,
       "vtasExt": 13,
       "vtasPY": 0,
-      "vtasAnc": 2,
+      "vtasAnc": 1,
       "salidas": 0,
-      "vtasTot": 15,
+      "vtasTot": 14,
       "inv": 65,
-      "cierre": 31,
-      "dif": 34
+      "cierre": 32,
+      "dif": 33
     },
     {
       "producto": "Fanta Guarana",
@@ -6970,15 +6970,15 @@
       "weekYear": "202638",
       "invMenos7": 23,
       "compras": 0,
-      "vtasIzi": 1,
+      "vtasIzi": 0,
       "vtasExt": 3,
       "vtasPY": 1,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 5,
+      "vtasTot": 4,
       "inv": 19,
-      "cierre": 18,
-      "dif": 1
+      "cierre": 19,
+      "dif": 0
     },
     {
       "producto": "Fanta Papaya MINI",
@@ -7090,15 +7090,15 @@
       "weekYear": "202638",
       "invMenos7": 13,
       "compras": 26,
-      "vtasIzi": 4,
+      "vtasIzi": 0,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 4,
+      "vtasTot": 0,
       "inv": 26,
-      "cierre": 35,
-      "dif": -9
+      "cierre": 39,
+      "dif": -13
     },
     {
       "producto": "Pepsi",
@@ -7120,15 +7120,15 @@
       "weekYear": "202638",
       "invMenos7": 68,
       "compras": 120,
-      "vtasIzi": 1,
+      "vtasIzi": 0,
       "vtasExt": 154,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 155,
+      "vtasTot": 154,
       "inv": 34,
-      "cierre": 33,
-      "dif": 1
+      "cierre": 34,
+      "dif": 0
     },
     {
       "producto": "POTOSINA 4000",
@@ -7168,9 +7168,9 @@
       "vtasIzi": 0,
       "vtasExt": 0,
       "vtasPY": 0,
-      "vtasAnc": 6,
+      "vtasAnc": 3,
       "salidas": 0,
-      "vtasTot": 6,
+      "vtasTot": 3,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -7183,9 +7183,9 @@
       "vtasIzi": 0,
       "vtasExt": 0,
       "vtasPY": 0,
-      "vtasAnc": 3,
+      "vtasAnc": 2,
       "salidas": 0,
-      "vtasTot": 3,
+      "vtasTot": 2,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -7210,12 +7210,12 @@
       "weekYear": "202638",
       "invMenos7": null,
       "compras": 0,
-      "vtasIzi": 8,
+      "vtasIzi": 4,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 8,
+      "vtasTot": 4,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -7758,6 +7758,62 @@
       "vtasAnc": 0,
       "salidas": 0,
       "invEsperado": 43,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "Agua",
+      "fecha": "2026-11-18",
+      "dia": "mié",
+      "compras": 0,
+      "vtas": 2,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 62,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "Cerveza Bendita Hoppy Lager",
+      "fecha": "2026-11-18",
+      "dia": "mié",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 30,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "COCA COLA SIN AZUCAR",
+      "fecha": "2026-11-18",
+      "dia": "mié",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 1,
+      "salidas": 0,
+      "invEsperado": 0,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "HUARI",
+      "fecha": "2026-11-18",
+      "dia": "mié",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 2,
+      "salidas": 0,
+      "invEsperado": 0,
       "invIniFin": null,
       "dif": null
     },
@@ -9410,7 +9466,7 @@
       },
       {
         "weekYear": "202647",
-        "valor": 27
+        "valor": 30
       }
     ],
     "Vtas Ext.": [
@@ -9488,7 +9544,7 @@
       },
       {
         "weekYear": "202647",
-        "valor": 90
+        "valor": 96
       }
     ],
     "Compras": [
@@ -9522,13 +9578,13 @@
     "ventasIziDisponibles": true,
     "filasDimProducto": 460,
     "filasInventariosOmuh": 510,
-    "filasCompras": 1634,
+    "filasCompras": 1635,
     "filasSalidas": 112,
-    "filasVentasIzi": 6874,
+    "filasVentasIzi": 6665,
     "filasVentasPY": 11581,
     "filasExtras": 19595,
-    "filasMovInv": 317,
-    "filasVentasAncIzi": 5319,
+    "filasMovInv": 294,
+    "filasVentasAncIzi": 5155,
     "warnings": []
   }
 }

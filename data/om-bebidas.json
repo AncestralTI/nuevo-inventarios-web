@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T02:39:04.084Z",
+  "generatedAt": "2026-11-21T10:12:06.231Z",
   "rangoFechas": {
     "desde": "2026-09-14",
     "hasta": "2026-11-21"
@@ -553,9 +553,9 @@
       "vtasIzi": 0,
       "vtasExt": 0,
       "vtasPY": 0,
-      "vtasAnc": 10,
+      "vtasAnc": 11,
       "salidas": 0,
-      "vtasTot": 10,
+      "vtasTot": 11,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -688,9 +688,9 @@
       "vtasIzi": 0,
       "vtasExt": 0,
       "vtasPY": 0,
-      "vtasAnc": 8,
+      "vtasAnc": 9,
       "salidas": 0,
-      "vtasTot": 8,
+      "vtasTot": 9,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -8343,7 +8343,7 @@
       "vtas": 0,
       "vtasExt": 0,
       "vtasPY": 0,
-      "vtasAnc": 1,
+      "vtasAnc": 2,
       "salidas": 0,
       "invEsperado": 0,
       "invIniFin": null,
@@ -8360,6 +8360,20 @@
       "vtasAnc": 0,
       "salidas": 0,
       "invEsperado": 17,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "POTOSINA PILSNER",
+      "fecha": "2026-11-20",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 1,
+      "salidas": 0,
+      "invEsperado": 0,
       "invIniFin": null,
       "dif": null
     },
@@ -10118,7 +10132,7 @@
       },
       {
         "weekYear": "202647",
-        "valor": 323.5
+        "valor": 325.5
       }
     ],
     "Compras": [
@@ -10157,8 +10171,8 @@
     "filasVentasIzi": 6632,
     "filasVentasPY": 11647,
     "filasExtras": 19794,
-    "filasMovInv": 324,
-    "filasVentasAncIzi": 5283,
+    "filasMovInv": 328,
+    "filasVentasAncIzi": 5332,
     "warnings": []
   }
 }

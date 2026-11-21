@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-20T21:23:51.197Z",
+  "generatedAt": "2026-11-21T02:38:21.990Z",
   "rangoFechas": {
     "desde": "2026-09-14",
-    "hasta": "2026-11-20"
+    "hasta": "2026-11-21"
   },
   "categorias": [
     "CERVEZA",
@@ -608,13 +608,13 @@
       "weekYear": "202647",
       "invMenos7": 7,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 7,
+      "cierre": 6,
       "dif": null
     },
     {
@@ -818,11 +818,11 @@
       "weekYear": "202647",
       "invMenos7": null,
       "compras": 0,
-      "vtas": 11,
+      "vtas": 12,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 11,
+      "vtasTot": 12,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -958,11 +958,11 @@
       "weekYear": "202647",
       "invMenos7": null,
       "compras": 0,
-      "vtas": 4,
+      "vtas": 5,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 4,
+      "vtasTot": 5,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -1616,13 +1616,13 @@
       "weekYear": "202647",
       "invMenos7": 13,
       "compras": 0,
-      "vtas": 1,
+      "vtas": 2,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 1,
+      "vtasTot": 2,
       "inv": null,
-      "cierre": 12,
+      "cierre": 11,
       "dif": null
     },
     {
@@ -17634,6 +17634,45 @@
       "dif": null
     },
     {
+      "producto": "CHARDONNAY - 1750",
+      "fecha": "2026-11-20",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 6,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "COPA LOCURA 5.1.1. - MAGNUS",
+      "fecha": "2026-11-20",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 0,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "COPA TRIVARIETAL TINTO - MAGNUS",
+      "fecha": "2026-11-20",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 0,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "HUARI",
       "fecha": "2026-11-20",
       "dia": "vie",
@@ -17656,6 +17695,19 @@
       "cortesias": 0,
       "salidas": 0,
       "invEsperado": 14,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "SAN MIGUEL MATILDA PALE ALE",
+      "fecha": "2026-11-20",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 11,
       "invIniFin": null,
       "dif": null
     },
@@ -18386,7 +18438,7 @@
       },
       {
         "weekYear": "202647",
-        "valor": 56
+        "valor": 60
       }
     ],
     "Vtas Ext": [
@@ -18464,7 +18516,7 @@
       },
       {
         "weekYear": "202647",
-        "valor": 59
+        "valor": 63
       }
     ],
     "Salidas": [
@@ -18524,11 +18576,11 @@
     "ventasIziDisponibles": true,
     "filasApertura": 1511,
     "filasInventariosGs": 4387,
-    "filasCompras": 2538,
+    "filasCompras": 2539,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 5230,
-    "filasMovInv": 315,
-    "filasDimProducto": 460,
+    "filasVentasIzi": 5272,
+    "filasMovInv": 324,
+    "filasDimProducto": 461,
     "warnings": []
   }
 }

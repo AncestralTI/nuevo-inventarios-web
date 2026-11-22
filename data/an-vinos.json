@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T17:33:02.764Z",
+  "generatedAt": "2026-11-22T22:45:27.848Z",
   "rangoFechas": {
     "desde": "2026-09-14",
     "hasta": "2026-11-22"
@@ -207,9 +207,9 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 0,
-      "inv": null,
+      "inv": 4,
       "cierre": 4,
-      "dif": null
+      "dif": 0
     },
     {
       "producto": "1750 - TANNAT",
@@ -235,9 +235,9 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 0,
-      "inv": null,
+      "inv": 3,
       "cierre": 3,
-      "dif": null
+      "dif": 0
     },
     {
       "producto": "1750-SUBLIME",
@@ -263,9 +263,9 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 0,
-      "inv": null,
+      "inv": 4,
       "cierre": 4,
-      "dif": null
+      "dif": 0
     },
     {
       "producto": "ALMA OCULTA - FORTIFICADO BLANCO",
@@ -277,9 +277,9 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 0,
-      "inv": null,
+      "inv": 1,
       "cierre": 1,
-      "dif": null
+      "dif": 0
     },
     {
       "producto": "ALMA OCULTA - FORTIFICADO TINTO",
@@ -291,9 +291,9 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 0,
-      "inv": null,
+      "inv": 1,
       "cierre": 1,
-      "dif": null
+      "dif": 0
     },
     {
       "producto": "ALTOSAMA - BRUT",
@@ -303,11 +303,11 @@
       "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
-      "salidas": 1,
-      "vtasTot": 1,
-      "inv": null,
-      "cierre": 9,
-      "dif": null
+      "salidas": 3,
+      "vtasTot": 3,
+      "inv": 7,
+      "cierre": 7,
+      "dif": 0
     },
     {
       "producto": "AMOR FATI - TELLUS",
@@ -319,9 +319,9 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 0,
-      "inv": null,
+      "inv": 5,
       "cierre": 5,
-      "dif": null
+      "dif": 0
     },
     {
       "producto": "ARANJUEZ - JUAN CRUZ",
@@ -333,9 +333,9 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 1,
-      "inv": null,
+      "inv": 4,
       "cierre": 4,
-      "dif": null
+      "dif": 0
     },
     {
       "producto": "ARANJUEZ / TANNAT \"ORIGEN\"",
@@ -347,9 +347,9 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 2,
-      "inv": null,
+      "inv": 1,
       "cierre": 1,
-      "dif": null
+      "dif": 0
     },
     {
       "producto": "BARBACANA - SYRAH",
@@ -389,9 +389,9 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 1,
-      "inv": null,
+      "inv": 6,
       "cierre": 6,
-      "dif": null
+      "dif": 0
     },
     {
       "producto": "BENDITA HOPPY",
@@ -445,9 +445,9 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 0,
-      "inv": null,
+      "inv": 5,
       "cierre": 5,
-      "dif": null
+      "dif": 0
     },
     {
       "producto": "BLANCO - MUGA",
@@ -459,9 +459,9 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 0,
-      "inv": null,
+      "inv": 3,
       "cierre": 3,
-      "dif": null
+      "dif": 0
     },
     {
       "producto": "BONARDA \"PIONERO\" - ARANJUEZ",
@@ -473,9 +473,9 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 2,
-      "inv": null,
+      "inv": 7,
       "cierre": 7,
-      "dif": null
+      "dif": 0
     },
     {
       "producto": "BRUT NATURE - ALTO SAMA",
@@ -487,9 +487,9 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 0,
-      "inv": null,
+      "inv": 3,
       "cierre": 3,
-      "dif": null
+      "dif": 0
     },
     {
       "producto": "CAB- FRANC ROSE - CASA SOLUM",
@@ -501,9 +501,9 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 0,
-      "inv": null,
+      "inv": 4,
       "cierre": 4,
-      "dif": null
+      "dif": 0
     },
     {
       "producto": "CAB. SAUVIGNON ZINFANDEL - ALMA OCULTA",
@@ -515,9 +515,9 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 1,
-      "inv": null,
+      "inv": 2,
       "cierre": 2,
-      "dif": null
+      "dif": 0
     },
     {
       "producto": "CABERNET FRANC - CRUCE DEL ZORRO",
@@ -529,9 +529,9 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 1,
-      "inv": null,
+      "inv": 3,
       "cierre": 3,
-      "dif": null
+      "dif": 0
     },
     {
       "producto": "CAMPOS DE SOLANA / \"ESTHER ORTIZ\"",
@@ -543,9 +543,9 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 2,
-      "inv": null,
+      "inv": 2,
       "cierre": 2,
-      "dif": null
+      "dif": 0
     },
     {
       "producto": "CAÑON ESCONDIDO - RED BLEND",
@@ -555,11 +555,11 @@
       "vtas": 2,
       "vtasExt": 0,
       "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 2,
-      "inv": null,
-      "cierre": 4,
-      "dif": null
+      "salidas": 1,
+      "vtasTot": 3,
+      "inv": 3,
+      "cierre": 3,
+      "dif": 0
     },
     {
       "producto": "CAÑON ESCONDIDO - TANNAT",
@@ -571,7 +571,7 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 0,
-      "inv": null,
+      "inv": 0,
       "cierre": 0,
       "dif": null
     },
@@ -613,9 +613,9 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 1,
-      "inv": null,
+      "inv": 6,
       "cierre": 6,
-      "dif": null
+      "dif": 0
     },
     {
       "producto": "CHARDONNAY - APALTAGUA",
@@ -627,9 +627,9 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 0,
-      "inv": null,
+      "inv": 3,
       "cierre": 3,
-      "dif": null
+      "dif": 0
     },
     {
       "producto": "CHARDONNAY, SAV. BLANC - LANDSÚA",
@@ -641,9 +641,9 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 0,
-      "inv": null,
+      "inv": 1,
       "cierre": 1,
-      "dif": null
+      "dif": 0
     },
     {
       "producto": "CONDE DE HARO",
@@ -991,7 +991,7 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 0,
-      "inv": null,
+      "inv": 0,
       "cierre": 0,
       "dif": null
     },
@@ -1005,9 +1005,9 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 0,
-      "inv": null,
+      "inv": 2,
       "cierre": 2,
-      "dif": null
+      "dif": 0
     },
     {
       "producto": "CREATION - GROSSET",
@@ -1033,9 +1033,9 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 0,
-      "inv": null,
+      "inv": 1,
       "cierre": 1,
-      "dif": null
+      "dif": 0
     },
     {
       "producto": "CUNE - BAILARINA",
@@ -1047,9 +1047,9 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 0,
-      "inv": null,
+      "inv": 2,
       "cierre": 2,
-      "dif": null
+      "dif": 0
     },
     {
       "producto": "DESCORCHE",
@@ -1075,9 +1075,9 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 0,
-      "inv": null,
+      "inv": 7,
       "cierre": 7,
-      "dif": null
+      "dif": 0
     },
     {
       "producto": "EL ENEMIGO-MALBEC",
@@ -1089,7 +1089,7 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 0,
-      "inv": null,
+      "inv": 0,
       "cierre": 0,
       "dif": null
     },
@@ -1117,9 +1117,9 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 0,
-      "inv": null,
+      "inv": 2,
       "cierre": 2,
-      "dif": null
+      "dif": 0
     },
     {
       "producto": "GRAN RESERVA CARMENERE - CASA SOLUM",
@@ -1131,9 +1131,9 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 1,
-      "inv": null,
+      "inv": 7,
       "cierre": 7,
-      "dif": null
+      "dif": 0
     },
     {
       "producto": "HOPPY BARRIL",
@@ -1173,9 +1173,9 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 0,
-      "inv": null,
+      "inv": 4,
       "cierre": 4,
-      "dif": null
+      "dif": 0
     },
     {
       "producto": "IMPOREÑA - YOKICH",
@@ -1187,9 +1187,9 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 0,
-      "inv": null,
+      "inv": 2,
       "cierre": 2,
-      "dif": null
+      "dif": 0
     },
     {
       "producto": "IMPREDECIBLE - TERRA ANCESTRAL",
@@ -1201,9 +1201,9 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 0,
-      "inv": null,
+      "inv": 2,
       "cierre": 2,
-      "dif": null
+      "dif": 0
     },
     {
       "producto": "JARDIN OCULTO - MOSCATEL",
@@ -1215,7 +1215,7 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 0,
-      "inv": null,
+      "inv": 0,
       "cierre": 0,
       "dif": null
     },
@@ -1229,9 +1229,9 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 0,
-      "inv": null,
+      "inv": 7,
       "cierre": 7,
-      "dif": null
+      "dif": 0
     },
     {
       "producto": "JARDIN OCULTO - VISCHOQUEÑA BLANC DE NOIR",
@@ -1243,9 +1243,9 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 0,
-      "inv": null,
+      "inv": 9,
       "cierre": 9,
-      "dif": null
+      "dif": 0
     },
     {
       "producto": "KOHLBERG - FLAMANT ROSE",
@@ -1255,11 +1255,11 @@
       "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 1,
-      "inv": null,
-      "cierre": 5,
-      "dif": null
+      "salidas": 1,
+      "vtasTot": 2,
+      "inv": 4,
+      "cierre": 4,
+      "dif": 0
     },
     {
       "producto": "KOHLBERG - ICONO",
@@ -1271,9 +1271,9 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 0,
-      "inv": null,
+      "inv": 3,
       "cierre": 3,
-      "dif": null
+      "dif": 0
     },
     {
       "producto": "KUHLLMANN- MALBEC",
@@ -1313,9 +1313,9 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 0,
-      "inv": null,
+      "inv": 2,
       "cierre": 2,
-      "dif": null
+      "dif": 0
     },
     {
       "producto": "LOCURA 5.1.1. - MAGNUS",
@@ -1325,11 +1325,11 @@
       "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 1,
-      "inv": null,
-      "cierre": 14,
-      "dif": null
+      "salidas": 2,
+      "vtasTot": 3,
+      "inv": 12,
+      "cierre": 12,
+      "dif": 0
     },
     {
       "producto": "MADERA \"LA KALOR\" GOSE",
@@ -1367,11 +1367,11 @@
       "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 0,
-      "inv": null,
-      "cierre": 8,
-      "dif": null
+      "salidas": 2,
+      "vtasTot": 2,
+      "inv": 6,
+      "cierre": 6,
+      "dif": 0
     },
     {
       "producto": "MAGNUS SANGIOVESE",
@@ -1383,9 +1383,9 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 0,
-      "inv": null,
+      "inv": 6,
       "cierre": 6,
-      "dif": null
+      "dif": 0
     },
     {
       "producto": "MALBEC CALADOC - KUHLMANN",
@@ -1397,9 +1397,9 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 0,
-      "inv": null,
+      "inv": 8,
       "cierre": 2,
-      "dif": null
+      "dif": 6
     },
     {
       "producto": "MARSELAN - ARSAL",
@@ -1411,9 +1411,9 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 0,
-      "inv": null,
+      "inv": 2,
       "cierre": 3,
-      "dif": null
+      "dif": -1
     },
     {
       "producto": "MDLV - TRI VARIETAL",
@@ -1439,9 +1439,9 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 0,
-      "inv": null,
+      "inv": 6,
       "cierre": 6,
-      "dif": null
+      "dif": 0
     },
     {
       "producto": "MISIONERA - YOKICH",
@@ -1453,9 +1453,9 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 0,
-      "inv": null,
+      "inv": 3,
       "cierre": 3,
-      "dif": null
+      "dif": 0
     },
     {
       "producto": "MOSCATEL - TIERRA ROJA",
@@ -1467,9 +1467,9 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 0,
-      "inv": null,
+      "inv": 1,
       "cierre": 1,
-      "dif": null
+      "dif": 0
     },
     {
       "producto": "MOSCATEL PINOT BLANC - CASA SOLUM",
@@ -1481,9 +1481,9 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 0,
-      "inv": null,
+      "inv": 5,
       "cierre": 5,
-      "dif": null
+      "dif": 0
     },
     {
       "producto": "MOSCATEL RESERVA - MARQUEZ DE LA VIÑA",
@@ -1495,9 +1495,9 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 1,
-      "inv": null,
+      "inv": 3,
       "cierre": 3,
-      "dif": null
+      "dif": 0
     },
     {
       "producto": "MUGA - RESERVA",
@@ -1509,9 +1509,9 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 0,
-      "inv": null,
+      "inv": 4,
       "cierre": 4,
-      "dif": null
+      "dif": 0
     },
     {
       "producto": "NARANJO - CEPA DE ORO",
@@ -1521,11 +1521,11 @@
       "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 0,
-      "inv": null,
-      "cierre": 5,
-      "dif": null
+      "salidas": 1,
+      "vtasTot": 1,
+      "inv": 4,
+      "cierre": 4,
+      "dif": 0
     },
     {
       "producto": "PEDRO XIMENEZ - LANDSÚA",
@@ -1537,9 +1537,9 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 0,
-      "inv": null,
+      "inv": 4,
       "cierre": 4,
-      "dif": null
+      "dif": 0
     },
     {
       "producto": "POTOSINA 4000",
@@ -1647,11 +1647,11 @@
       "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
-      "salidas": 0,
-      "vtasTot": 0,
-      "inv": null,
-      "cierre": 4,
-      "dif": null
+      "salidas": 1,
+      "vtasTot": 1,
+      "inv": 3,
+      "cierre": 3,
+      "dif": 0
     },
     {
       "producto": "SERVICIO DE BRINDIS",
@@ -1705,9 +1705,9 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 1,
-      "inv": null,
+      "inv": 8,
       "cierre": 8,
-      "dif": null
+      "dif": 0
     },
     {
       "producto": "SYRAH - CEPAS DE FUEGO",
@@ -1719,7 +1719,7 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 0,
-      "inv": null,
+      "inv": 0,
       "cierre": 0,
       "dif": null
     },
@@ -1733,9 +1733,9 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 0,
-      "inv": null,
+      "inv": 3,
       "cierre": 3,
-      "dif": null
+      "dif": 0
     },
     {
       "producto": "SYRAH - TERRA ANCESTRAL",
@@ -1747,9 +1747,9 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 1,
-      "inv": null,
+      "inv": 2,
       "cierre": 2,
-      "dif": null
+      "dif": 0
     },
     {
       "producto": "TANNAT LADO B - JARDIN OCULTO",
@@ -1761,9 +1761,9 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 0,
-      "inv": null,
+      "inv": 8,
       "cierre": 8,
-      "dif": null
+      "dif": 0
     },
     {
       "producto": "TANNAT RAIZ - KOHLBERG",
@@ -1775,9 +1775,9 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 2,
-      "inv": null,
+      "inv": 5,
       "cierre": 5,
-      "dif": null
+      "dif": 0
     },
     {
       "producto": "TRIVARIETAL BLANCO - CAMPOS",
@@ -1789,9 +1789,9 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 0,
-      "inv": null,
+      "inv": 3,
       "cierre": 3,
-      "dif": null
+      "dif": 0
     },
     {
       "producto": "TRIVARIETAL TINTO - MAGNUS",
@@ -1803,9 +1803,9 @@
       "cortesias": 0,
       "salidas": 1,
       "vtasTot": 1,
-      "inv": null,
+      "inv": 10,
       "cierre": 10,
-      "dif": null
+      "dif": 0
     },
     {
       "producto": "UNICO - CAMPOS DE SOLANA",
@@ -1817,9 +1817,9 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 1,
-      "inv": null,
+      "inv": 2,
       "cierre": 2,
-      "dif": null
+      "dif": 0
     },
     {
       "producto": "UYUNI",
@@ -1845,9 +1845,9 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 0,
-      "inv": null,
+      "inv": 1,
       "cierre": 1,
-      "dif": null
+      "dif": 0
     },
     {
       "producto": "VISCHOQUEÑA - DON CRISTIAN TIERRA ROJA",
@@ -1859,9 +1859,9 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 0,
-      "inv": null,
+      "inv": 4,
       "cierre": 4,
-      "dif": null
+      "dif": 0
     },
     {
       "producto": "VISCHOQUEÑA - SAN FRANCISCO",
@@ -1873,9 +1873,9 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 0,
-      "inv": null,
+      "inv": 2,
       "cierre": 2,
-      "dif": null
+      "dif": 0
     },
     {
       "producto": "VISCHOQUEÑA - YOKICH",
@@ -17140,19 +17140,6 @@
   ],
   "detalleDiario": [
     {
-      "producto": "TRIVARIETAL TINTO - MAGNUS",
-      "fecha": "2026-11-16",
-      "dia": "lun",
-      "compras": 0,
-      "vtas": 0,
-      "vtasExt": 0,
-      "cortesias": 0,
-      "salidas": 1,
-      "invEsperado": 10,
-      "invIniFin": 11,
-      "dif": 1
-    },
-    {
       "producto": "ALTOSAMA - BRUT",
       "fecha": "2026-11-17",
       "dia": "mar",
@@ -17231,6 +17218,19 @@
       "dif": null
     },
     {
+      "producto": "LOCURA 5.1.1. - MAGNUS",
+      "fecha": "2026-11-17",
+      "dia": "mar",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 1,
+      "invEsperado": 14,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "POTOSINA PILSNER",
       "fecha": "2026-11-17",
       "dia": "mar",
@@ -17279,6 +17279,19 @@
       "cortesias": 0,
       "salidas": 0,
       "invEsperado": 0,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "TRIVARIETAL TINTO - MAGNUS",
+      "fecha": "2026-11-17",
+      "dia": "mar",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 1,
+      "invEsperado": 10,
       "invIniFin": null,
       "dif": null
     },
@@ -17426,6 +17439,32 @@
       "dif": null
     },
     {
+      "producto": "MAGNUS - MERLOT",
+      "fecha": "2026-11-18",
+      "dia": "mié",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 1,
+      "invEsperado": 7,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "NARANJO - CEPA DE ORO",
+      "fecha": "2026-11-18",
+      "dia": "mié",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 1,
+      "invEsperado": 4,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "SAN MIGUEL SOLSTICIO",
       "fecha": "2026-11-18",
       "dia": "mié",
@@ -17556,6 +17595,19 @@
       "dif": null
     },
     {
+      "producto": "LOCURA 5.1.1. - MAGNUS",
+      "fecha": "2026-11-19",
+      "dia": "jue",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 1,
+      "invEsperado": 13,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "POTOSINA PILSNER",
       "fecha": "2026-11-19",
       "dia": "jue",
@@ -17621,6 +17673,19 @@
       "dif": null
     },
     {
+      "producto": "ALTOSAMA - BRUT",
+      "fecha": "2026-11-20",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 1,
+      "invEsperado": 8,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "BENDITA IPA",
       "fecha": "2026-11-20",
       "dia": "vie",
@@ -17656,6 +17721,19 @@
       "cortesias": 0,
       "salidas": 0,
       "invEsperado": 3,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "CAÑON ESCONDIDO - RED BLEND",
+      "fecha": "2026-11-20",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 1,
+      "invEsperado": 4,
       "invIniFin": null,
       "dif": null
     },
@@ -17725,6 +17803,19 @@
       "dif": null
     },
     {
+      "producto": "KOHLBERG - FLAMANT ROSE",
+      "fecha": "2026-11-20",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 1,
+      "invEsperado": 5,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "LOCURA 5.1.1. - MAGNUS",
       "fecha": "2026-11-20",
       "dia": "vie",
@@ -17733,7 +17824,20 @@
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "invEsperado": 14,
+      "invEsperado": 12,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "MAGNUS - MERLOT",
+      "fecha": "2026-11-20",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 1,
+      "invEsperado": 6,
       "invIniFin": null,
       "dif": null
     },
@@ -17760,6 +17864,19 @@
       "cortesias": 0,
       "salidas": 0,
       "invEsperado": 11,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "SAV BLANC - 1750",
+      "fecha": "2026-11-20",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 1,
+      "invEsperado": 3,
       "invIniFin": null,
       "dif": null
     },
@@ -17824,7 +17941,7 @@
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "invEsperado": 4,
+      "invEsperado": 3,
       "invIniFin": null,
       "dif": null
     },
@@ -17850,7 +17967,7 @@
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "invEsperado": 5,
+      "invEsperado": 4,
       "invIniFin": null,
       "dif": null
     },
@@ -17944,6 +18061,19 @@
       "invEsperado": 2,
       "invIniFin": null,
       "dif": null
+    },
+    {
+      "producto": "ALTOSAMA - BRUT",
+      "fecha": "2026-11-22",
+      "dia": "dom",
+      "compras": 0,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 1,
+      "invEsperado": 7,
+      "invIniFin": 7,
+      "dif": 0
     },
     {
       "producto": "ALAYA - TELLUS",
@@ -18737,7 +18867,7 @@
       },
       {
         "weekYear": "202647",
-        "valor": 99
+        "valor": 109
       }
     ],
     "Salidas": [
@@ -18763,7 +18893,7 @@
       },
       {
         "weekYear": "202647",
-        "valor": 2
+        "valor": 12
       }
     ],
     "Compras": [
@@ -18795,12 +18925,12 @@
   },
   "meta": {
     "ventasIziDisponibles": true,
-    "filasApertura": 1511,
-    "filasInventariosGs": 4387,
+    "filasApertura": 1521,
+    "filasInventariosGs": 4453,
     "filasCompras": 2539,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 5455,
-    "filasMovInv": 326,
+    "filasVentasIzi": 5526,
+    "filasMovInv": 331,
     "filasDimProducto": 461,
     "warnings": []
   }

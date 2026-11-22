@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T02:21:11.295Z",
+  "generatedAt": "2026-11-22T09:56:54.161Z",
   "fuente": "API iZi Soluciones (facturas + items-inventarios), sucursal Ancestral (79344)",
   "rango": {
     "desde": "2026-10-23",
@@ -10080,6 +10080,62 @@
       "monto": 275
     },
     {
+      "codProducto": "ANC00090",
+      "producto": "CHULETON (Kg)",
+      "categoria": "FUERTES",
+      "fecha": "2026-11-21",
+      "cantidad": 3.02,
+      "monto": 1208
+    },
+    {
+      "codProducto": "ANC00099",
+      "producto": "PARRILLA OJO DE BIFE",
+      "categoria": "FUERTES",
+      "fecha": "2026-11-21",
+      "cantidad": 19,
+      "monto": 3040
+    },
+    {
+      "codProducto": "ANC00330",
+      "producto": "PESCADO AMAZONICO Y TUMBO",
+      "categoria": "COMIDAS",
+      "fecha": "2026-11-21",
+      "cantidad": 11,
+      "monto": 1540
+    },
+    {
+      "codProducto": "ANC00105",
+      "producto": "COCA COLA SIN AZUCAR",
+      "categoria": "GASEOSA",
+      "fecha": "2026-11-21",
+      "cantidad": 8,
+      "monto": 120
+    },
+    {
+      "codProducto": "ANC00104",
+      "producto": "COCA COLA",
+      "categoria": "GASEOSA",
+      "fecha": "2026-11-21",
+      "cantidad": 3,
+      "monto": 45
+    },
+    {
+      "codProducto": "ANC00029",
+      "producto": "MOJITO",
+      "categoria": "COCTELES",
+      "fecha": "2026-11-21",
+      "cantidad": 1,
+      "monto": 50
+    },
+    {
+      "codProducto": "ANC00009",
+      "producto": "MADERA DOMINGA",
+      "categoria": "CERVEZA",
+      "fecha": "2026-11-21",
+      "cantidad": 3,
+      "monto": 93
+    },
+    {
       "codProducto": "ANC00015",
       "producto": "BLOODY MARY DE TOCINO",
       "categoria": "COCTELES",
@@ -10088,36 +10144,12 @@
       "monto": 150
     },
     {
-      "codProducto": "ANC00105",
-      "producto": "COCA COLA SIN AZUCAR",
-      "categoria": "GASEOSA",
-      "fecha": "2026-11-21",
-      "cantidad": 7,
-      "monto": 105
-    },
-    {
       "codProducto": "ANC00182",
       "producto": "POTOSINA PILSNER",
       "categoria": "CERVEZA",
       "fecha": "2026-11-21",
       "cantidad": 8,
       "monto": 240
-    },
-    {
-      "codProducto": "ANC00090",
-      "producto": "CHULETON (Kg)",
-      "categoria": "FUERTES",
-      "fecha": "2026-11-21",
-      "cantidad": 2.22,
-      "monto": 888
-    },
-    {
-      "codProducto": "ANC00099",
-      "producto": "PARRILLA OJO DE BIFE",
-      "categoria": "FUERTES",
-      "fecha": "2026-11-21",
-      "cantidad": 18,
-      "monto": 2880
     },
     {
       "codProducto": "ANC00088",
@@ -10318,14 +10350,6 @@
       "fecha": "2026-11-21",
       "cantidad": 3,
       "monto": 210
-    },
-    {
-      "codProducto": "ANC00330",
-      "producto": "PESCADO AMAZONICO Y TUMBO",
-      "categoria": "COMIDAS",
-      "fecha": "2026-11-21",
-      "cantidad": 10,
-      "monto": 1400
     },
     {
       "codProducto": "ANC00184",
@@ -10592,14 +10616,6 @@
       "monto": 120
     },
     {
-      "codProducto": "ANC00104",
-      "producto": "COCA COLA",
-      "categoria": "GASEOSA",
-      "fecha": "2026-11-21",
-      "cantidad": 2,
-      "monto": 30
-    },
-    {
       "codProducto": "ANC00113",
       "producto": "LIMONADA (BOTELLA)",
       "categoria": "JUGOS",
@@ -10654,14 +10670,6 @@
       "fecha": "2026-11-21",
       "cantidad": 1,
       "monto": 40
-    },
-    {
-      "codProducto": "ANC00009",
-      "producto": "MADERA DOMINGA",
-      "categoria": "CERVEZA",
-      "fecha": "2026-11-21",
-      "cantidad": 1,
-      "monto": 31
     }
   ]
 }

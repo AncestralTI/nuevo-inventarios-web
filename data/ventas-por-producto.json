@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T09:47:35.832Z",
+  "generatedAt": "2026-11-24T20:23:56.374Z",
   "fuente": "API iZi Soluciones (facturas + items-inventarios), sucursal Ancestral (79344)",
   "rango": {
     "desde": "2026-10-25",
@@ -9983,6 +9983,22 @@
       "fecha": "2026-11-22",
       "cantidad": 1,
       "monto": 70
+    },
+    {
+      "codProducto": "ANC00078",
+      "producto": "MENU 3 TIEMPOS",
+      "categoria": "EVENTOS",
+      "fecha": "2026-11-24",
+      "cantidad": 11,
+      "monto": 2420
+    },
+    {
+      "codProducto": "ANC00366",
+      "producto": "SERVICIO DE BEBIDAS SIN ALCOHOL",
+      "categoria": "BEBIDAS SIN ALCOHOL",
+      "fecha": "2026-11-24",
+      "cantidad": 11,
+      "monto": 495
     }
   ]
 }

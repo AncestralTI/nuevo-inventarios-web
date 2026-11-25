@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-24T20:23:20.266Z",
+  "generatedAt": "2026-11-25T03:38:06.997Z",
   "rangoFechas": {
     "desde": "2026-09-21",
-    "hasta": "2026-11-24"
+    "hasta": "2026-11-25"
   },
   "categorias": [
     "5. Bebidas alcohólicas",
@@ -122,7 +122,7 @@
     {
       "producto": "BENDITA IPA",
       "weekYear": "202648",
-      "invMenos7": 14,
+      "invMenos7": 16,
       "compras": 0,
       "vtas": 0,
       "vtasExt": 0,
@@ -130,7 +130,7 @@
       "salidas": 0,
       "vtasTot": 0,
       "inv": null,
-      "cierre": 14,
+      "cierre": 16,
       "dif": null
     },
     {
@@ -305,14 +305,14 @@
       "producto": "COCA COLA SIN AZUCAR",
       "weekYear": "202648",
       "invMenos7": 25,
-      "compras": 0,
+      "compras": 18,
       "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 0,
       "inv": null,
-      "cierre": 25,
+      "cierre": 43,
       "dif": null
     },
     {
@@ -535,9 +535,9 @@
       "cortesias": 0,
       "salidas": 0,
       "vtasTot": 6,
-      "inv": 14,
+      "inv": 16,
       "cierre": 18,
-      "dif": -4
+      "dif": -2
     },
     {
       "producto": "BENDITA PILS",
@@ -3778,14 +3778,14 @@
       "weekYear": "202639",
       "invMenos7": 16,
       "compras": 0,
-      "vtas": 3,
+      "vtas": 2,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 3,
+      "vtasTot": 2,
       "inv": 8,
-      "cierre": 13,
-      "dif": -5
+      "cierre": 14,
+      "dif": -6
     },
     {
       "producto": "BENDITA PILS",
@@ -3946,28 +3946,28 @@
       "weekYear": "202639",
       "invMenos7": 32,
       "compras": 24,
-      "vtas": 11,
+      "vtas": 8,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 3,
-      "vtasTot": 14,
+      "vtasTot": 11,
       "inv": 36,
-      "cierre": 42,
-      "dif": -6
+      "cierre": 45,
+      "dif": -9
     },
     {
       "producto": "COCA COLA SIN AZUCAR",
       "weekYear": "202639",
       "invMenos7": 38,
       "compras": 18,
-      "vtas": 8,
+      "vtas": 7,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 8,
+      "vtasTot": 7,
       "inv": 41,
-      "cierre": 48,
-      "dif": -7
+      "cierre": 49,
+      "dif": -8
     },
     {
       "producto": "FANTA",
@@ -4002,14 +4002,14 @@
       "weekYear": "202639",
       "invMenos7": 0,
       "compras": 48,
-      "vtas": 8,
+      "vtas": 4,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 8,
+      "vtasTot": 4,
       "inv": 32,
-      "cierre": 40,
-      "dif": -8
+      "cierre": 44,
+      "dif": -12
     },
     {
       "producto": "MADERA \"LA KALOR\" GOSE",
@@ -4167,6 +4167,19 @@
     }
   ],
   "detalleDiario": [
+    {
+      "producto": "COCA COLA SIN AZUCAR",
+      "fecha": "2026-11-24",
+      "dia": "mar",
+      "compras": 18,
+      "vtas": 0,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 43,
+      "invIniFin": null,
+      "dif": null
+    },
     {
       "producto": "BENDITA IPA",
       "fecha": "2026-11-17",
@@ -4868,7 +4881,7 @@
       },
       {
         "weekYear": "202648",
-        "valor": 0
+        "valor": 18
       }
     ]
   },
@@ -4876,10 +4889,10 @@
     "ventasIziDisponibles": true,
     "filasApertura": 1522,
     "filasInventariosGs": 4470,
-    "filasCompras": 2550,
+    "filasCompras": 2552,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 5360,
-    "filasMovInv": 328,
+    "filasVentasIzi": 5229,
+    "filasMovInv": 305,
     "filasDimProducto": 461,
     "warnings": []
   }

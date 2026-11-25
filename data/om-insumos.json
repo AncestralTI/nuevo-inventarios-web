@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-24T20:23:40.510Z",
+  "generatedAt": "2026-11-25T03:38:22.493Z",
   "rangoFechas": {
     "desde": "2026-09-21",
-    "hasta": "2026-11-24"
+    "hasta": "2026-11-25"
   },
   "insumos": [
     "Carne Molida 130g",
@@ -79,14 +79,14 @@
       "weekYear": "202648",
       "invMenos7": null,
       "compras": 0,
-      "vtasIzi": 59,
+      "vtasIzi": 97,
       "vtasAnc": 0,
-      "vtasPY": 1,
-      "vtasExt": 0,
+      "vtasPY": 3,
+      "vtasExt": 5,
       "vtasVegg": 0,
       "cortesias": 0,
       "salidas": 57.5,
-      "vtasTot": 117.5,
+      "vtasTot": 162.5,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -96,14 +96,14 @@
       "weekYear": "202648",
       "invMenos7": null,
       "compras": 0,
-      "vtasIzi": 9,
+      "vtasIzi": 10,
       "vtasAnc": 0,
       "vtasPY": 1,
       "vtasExt": 0,
       "vtasVegg": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 10,
+      "vtasTot": 11,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -113,14 +113,14 @@
       "weekYear": "202648",
       "invMenos7": null,
       "compras": 0,
-      "vtasIzi": 3,
+      "vtasIzi": 4,
       "vtasAnc": 0,
       "vtasPY": 0,
       "vtasExt": 0,
       "vtasVegg": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 3,
+      "vtasTot": 4,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -538,16 +538,16 @@
       "weekYear": "202639",
       "invMenos7": null,
       "compras": 503.5,
-      "vtasIzi": 281,
-      "vtasAnc": 5,
+      "vtasIzi": 187.5,
+      "vtasAnc": 4,
       "vtasPY": 45,
       "vtasExt": 18,
       "vtasVegg": -10,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 339,
+      "vtasTot": 244.5,
       "inv": null,
-      "cierre": 164.5,
+      "cierre": 259,
       "dif": null
     },
     {
@@ -555,16 +555,16 @@
       "weekYear": "202639",
       "invMenos7": null,
       "compras": 78,
-      "vtasIzi": 45,
+      "vtasIzi": 34,
       "vtasAnc": 0,
       "vtasPY": 8,
       "vtasExt": 0,
       "vtasVegg": 0,
       "cortesias": 0,
       "salidas": 1,
-      "vtasTot": 54,
+      "vtasTot": 43,
       "inv": null,
-      "cierre": 24,
+      "cierre": 35,
       "dif": null
     },
     {
@@ -572,16 +572,16 @@
       "weekYear": "202639",
       "invMenos7": null,
       "compras": 63,
-      "vtasIzi": 6,
+      "vtasIzi": 4,
       "vtasAnc": 0,
       "vtasPY": 0,
       "vtasExt": 0,
       "vtasVegg": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 6,
+      "vtasTot": 4,
       "inv": null,
-      "cierre": 57,
+      "cierre": 59,
       "dif": null
     }
   ],
@@ -624,7 +624,7 @@
       "fecha": "2026-11-24",
       "dia": "mar",
       "compras": 0,
-      "vtas": 67,
+      "vtas": 105,
       "salidas": 57.5,
       "invEsperado": 0,
       "invFin": null,
@@ -635,7 +635,7 @@
       "fecha": "2026-11-24",
       "dia": "mar",
       "compras": 0,
-      "vtas": 2,
+      "vtas": 3,
       "salidas": 0,
       "invEsperado": 0,
       "invFin": null,
@@ -646,7 +646,7 @@
       "fecha": "2026-11-24",
       "dia": "mar",
       "compras": 0,
-      "vtas": 1,
+      "vtas": 2,
       "salidas": 0,
       "invEsperado": 0,
       "invFin": null,
@@ -908,7 +908,7 @@
       },
       {
         "weekYear": "202648",
-        "valor": 71
+        "valor": 111
       }
     ],
     "Vtas Anc": [
@@ -960,7 +960,7 @@
       },
       {
         "weekYear": "202648",
-        "valor": 2
+        "valor": 4
       }
     ],
     "Vtas Ext.": [
@@ -986,7 +986,7 @@
       },
       {
         "weekYear": "202648",
-        "valor": 0
+        "valor": 5
       }
     ],
     "Cortesias": [
@@ -1064,7 +1064,7 @@
       },
       {
         "weekYear": "202648",
-        "valor": 130.5
+        "valor": 177.5
       }
     ],
     "Compras": [
@@ -1098,13 +1098,13 @@
     "ventasIziDisponibles": true,
     "filasDimProducto": 461,
     "filasInventariosUnitarios": 0,
-    "filasCompras": 1642,
+    "filasCompras": 1650,
     "filasSalidas": 124,
-    "filasVentasIzi": 6831,
-    "filasVentasPY": 11707,
-    "filasExtras": 19987,
-    "filasMovInv": 328,
-    "filasVentasAncIzi": 5360,
+    "filasVentasIzi": 6736,
+    "filasVentasPY": 11712,
+    "filasExtras": 20034,
+    "filasMovInv": 305,
+    "filasVentasAncIzi": 5229,
     "warnings": []
   }
 }

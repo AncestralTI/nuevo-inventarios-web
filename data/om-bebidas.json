@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T14:09:03.786Z",
+  "generatedAt": "2026-11-26T22:57:40.199Z",
   "rangoFechas": {
     "desde": "2026-09-21",
     "hasta": "2026-11-26"
@@ -280,14 +280,14 @@
       "weekYear": "202648",
       "invMenos7": 143,
       "compras": 0,
-      "vtasIzi": 4,
+      "vtasIzi": 6,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 1,
-      "vtasTot": 5,
+      "vtasTot": 7,
       "inv": null,
-      "cierre": 138,
+      "cierre": 136,
       "dif": null
     },
     {
@@ -430,14 +430,14 @@
       "weekYear": "202648",
       "invMenos7": 6,
       "compras": 0,
-      "vtasIzi": 0,
+      "vtasIzi": 2,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 2,
       "inv": null,
-      "cierre": 6,
+      "cierre": 4,
       "dif": null
     },
     {
@@ -520,14 +520,14 @@
       "weekYear": "202648",
       "invMenos7": 56,
       "compras": 0,
-      "vtasIzi": 0,
+      "vtasIzi": 1,
       "vtasExt": 6,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 6,
+      "vtasTot": 7,
       "inv": null,
-      "cierre": 50,
+      "cierre": 49,
       "dif": null
     },
     {
@@ -729,15 +729,15 @@
       "producto": "Refresco Artesanal",
       "weekYear": "202648",
       "invMenos7": null,
-      "compras": 0,
-      "vtasIzi": 10,
+      "compras": 28,
+      "vtasIzi": 14,
       "vtasExt": 0,
       "vtasPY": 0,
       "vtasAnc": 0,
       "salidas": 0,
-      "vtasTot": 10,
+      "vtasTot": 14,
       "inv": null,
-      "cierre": 0,
+      "cierre": 14,
       "dif": null
     },
     {
@@ -7902,6 +7902,62 @@
       "dif": null
     },
     {
+      "producto": "Cerveza Huari",
+      "fecha": "2026-11-26",
+      "dia": "jue",
+      "compras": 0,
+      "vtas": 2,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 136,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "Curandero",
+      "fecha": "2026-11-26",
+      "dia": "jue",
+      "compras": 0,
+      "vtas": 2,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 4,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "Guaraná Antártica",
+      "fecha": "2026-11-26",
+      "dia": "jue",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 49,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "Refresco Artesanal",
+      "fecha": "2026-11-26",
+      "dia": "jue",
+      "compras": 28,
+      "vtas": 4,
+      "vtasExt": 0,
+      "vtasPY": 0,
+      "vtasAnc": 0,
+      "salidas": 0,
+      "invEsperado": 14,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "Agua",
       "fecha": "2026-11-16",
       "dia": "lun",
@@ -9536,7 +9592,7 @@
       },
       {
         "weekYear": "202648",
-        "valor": 33
+        "valor": 42
       }
     ],
     "Vtas Ext.": [
@@ -9614,7 +9670,7 @@
       },
       {
         "weekYear": "202648",
-        "valor": 134
+        "valor": 143
       }
     ],
     "Compras": [
@@ -9640,7 +9696,7 @@
       },
       {
         "weekYear": "202648",
-        "valor": 318
+        "valor": 346
       }
     ]
   },
@@ -9650,10 +9706,10 @@
     "filasInventariosOmuh": 526,
     "filasCompras": 1654,
     "filasSalidas": 125,
-    "filasVentasIzi": 6615,
+    "filasVentasIzi": 6655,
     "filasVentasPY": 11725,
     "filasExtras": 20099,
-    "filasMovInv": 298,
+    "filasMovInv": 299,
     "filasVentasAncIzi": 5161,
     "warnings": []
   }

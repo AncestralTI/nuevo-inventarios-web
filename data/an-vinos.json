@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-26T22:56:59.704Z",
+  "generatedAt": "2026-11-27T04:44:53.002Z",
   "rangoFechas": {
     "desde": "2026-09-21",
-    "hasta": "2026-11-26"
+    "hasta": "2026-11-27"
   },
   "categorias": [
     "CERVEZA",
@@ -258,13 +258,13 @@
       "weekYear": "202648",
       "invMenos7": 4,
       "compras": 0,
-      "vtas": 2,
+      "vtas": 3,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 2,
+      "vtasTot": 3,
       "inv": null,
-      "cierre": 2,
+      "cierre": 1,
       "dif": null
     },
     {
@@ -538,13 +538,13 @@
       "weekYear": "202648",
       "invMenos7": 2,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 2,
+      "cierre": 1,
       "dif": null
     },
     {
@@ -958,11 +958,11 @@
       "weekYear": "202648",
       "invMenos7": null,
       "compras": 0,
-      "vtas": 2,
+      "vtas": 4,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 2,
+      "vtasTot": 4,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -1336,13 +1336,13 @@
       "weekYear": "202648",
       "invMenos7": 14,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 14,
+      "cierre": 13,
       "dif": null
     },
     {
@@ -1644,13 +1644,13 @@
       "weekYear": "202648",
       "invMenos7": 3,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 3,
+      "cierre": 2,
       "dif": null
     },
     {
@@ -1770,13 +1770,13 @@
       "weekYear": "202648",
       "invMenos7": 5,
       "compras": 0,
-      "vtas": 0,
+      "vtas": 1,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 0,
+      "vtasTot": 1,
       "inv": null,
-      "cierre": 5,
+      "cierre": 4,
       "dif": null
     },
     {
@@ -15630,28 +15630,28 @@
       "weekYear": "202639",
       "invMenos7": 4,
       "compras": 0,
-      "vtas": 1,
+      "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 1,
+      "vtasTot": 0,
       "inv": 1,
-      "cierre": 3,
-      "dif": -2
+      "cierre": 4,
+      "dif": -3
     },
     {
       "producto": "BENDITA HOPPY",
       "weekYear": "202639",
       "invMenos7": 27,
       "compras": 0,
-      "vtas": 1,
+      "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 1,
+      "vtasTot": 0,
       "inv": 26,
-      "cierre": 26,
-      "dif": 0
+      "cierre": 27,
+      "dif": -1
     },
     {
       "producto": "BENDITA IPA",
@@ -15672,14 +15672,14 @@
       "weekYear": "202639",
       "invMenos7": 16,
       "compras": 0,
-      "vtas": 2,
+      "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 1,
-      "vtasTot": 3,
+      "vtasTot": 1,
       "inv": 9,
-      "cierre": 13,
-      "dif": -4
+      "cierre": 15,
+      "dif": -6
     },
     {
       "producto": "BLANC DE NOIR - CEPA DE ORO",
@@ -15756,13 +15756,13 @@
       "weekYear": "202639",
       "invMenos7": 2,
       "compras": 0,
-      "vtas": 1,
+      "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 1,
-      "vtasTot": 2,
+      "vtasTot": 1,
       "inv": 0,
-      "cierre": 0,
+      "cierre": 1,
       "dif": null
     },
     {
@@ -15798,13 +15798,13 @@
       "weekYear": "202639",
       "invMenos7": 4,
       "compras": 0,
-      "vtas": 1,
+      "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 1,
+      "vtasTot": 0,
       "inv": 0,
-      "cierre": 3,
+      "cierre": 4,
       "dif": null
     },
     {
@@ -16400,14 +16400,14 @@
       "weekYear": "202639",
       "invMenos7": 0,
       "compras": 48,
-      "vtas": 3,
+      "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 3,
+      "vtasTot": 0,
       "inv": 32,
-      "cierre": 45,
-      "dif": -13
+      "cierre": 48,
+      "dif": -16
     },
     {
       "producto": "IMPOREÑA - CEPA DE ORO",
@@ -16582,14 +16582,14 @@
       "weekYear": "202639",
       "invMenos7": 25,
       "compras": 0,
-      "vtas": 1,
+      "vtas": 0,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 1,
+      "vtasTot": 0,
       "inv": 24,
-      "cierre": 24,
-      "dif": 0
+      "cierre": 25,
+      "dif": -1
     },
     {
       "producto": "MADERA DOMINGA",
@@ -17292,6 +17292,84 @@
       "cortesias": 0,
       "salidas": 0,
       "invEsperado": 15,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "ALAYA - TELLUS",
+      "fecha": "2026-11-26",
+      "dia": "jue",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 1,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "CAMPOS DE SOLANA / \"ESTHER ORTIZ\"",
+      "fecha": "2026-11-26",
+      "dia": "jue",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 1,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "COPA TRIVARIETAL TINTO - MAGNUS",
+      "fecha": "2026-11-26",
+      "dia": "jue",
+      "compras": 0,
+      "vtas": 2,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 0,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "MADERA \"LA KALOR\" GOSE",
+      "fecha": "2026-11-26",
+      "dia": "jue",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 13,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "SAV BLANC - 1750",
+      "fecha": "2026-11-26",
+      "dia": "jue",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 2,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "TANNAT RAIZ - KOHLBERG",
+      "fecha": "2026-11-26",
+      "dia": "jue",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 4,
       "invIniFin": null,
       "dif": null
     },
@@ -18256,7 +18334,7 @@
       },
       {
         "weekYear": "202648",
-        "valor": 19
+        "valor": 26
       }
     ],
     "Vtas Ext": [
@@ -18334,7 +18412,7 @@
       },
       {
         "weekYear": "202648",
-        "valor": 19
+        "valor": 26
       }
     ],
     "Salidas": [
@@ -18396,8 +18474,8 @@
     "filasInventariosGs": 4470,
     "filasCompras": 2559,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 5161,
-    "filasMovInv": 299,
+    "filasVentasIzi": 5113,
+    "filasMovInv": 300,
     "filasDimProducto": 461,
     "warnings": []
   }

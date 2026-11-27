@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T14:24:47.290Z",
+  "generatedAt": "2026-11-27T22:49:30.785Z",
   "rangoFechas": {
     "desde": "2026-09-21",
     "hasta": "2026-11-27"
@@ -958,11 +958,11 @@
       "weekYear": "202648",
       "invMenos7": null,
       "compras": 0,
-      "vtas": 4,
+      "vtas": 5,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 4,
+      "vtasTot": 5,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -17374,6 +17374,19 @@
       "dif": null
     },
     {
+      "producto": "COPA TRIVARIETAL TINTO - MAGNUS",
+      "fecha": "2026-11-27",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 0,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
       "producto": "ALTOSAMA - BRUT",
       "fecha": "2026-11-17",
       "dia": "mar",
@@ -18334,7 +18347,7 @@
       },
       {
         "weekYear": "202648",
-        "valor": 26
+        "valor": 27
       }
     ],
     "Vtas Ext": [
@@ -18412,7 +18425,7 @@
       },
       {
         "weekYear": "202648",
-        "valor": 26
+        "valor": 27
       }
     ],
     "Salidas": [
@@ -18474,9 +18487,9 @@
     "filasInventariosGs": 4470,
     "filasCompras": 2559,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 5113,
-    "filasMovInv": 300,
-    "filasDimProducto": 461,
+    "filasVentasIzi": 5157,
+    "filasMovInv": 307,
+    "filasDimProducto": 463,
     "warnings": []
   }
 }

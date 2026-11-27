@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T14:25:30.292Z",
+  "generatedAt": "2026-11-27T22:50:19.957Z",
   "fuente": "API iZi Soluciones (facturas + items-inventarios), sucursal Ancestral (79344)",
   "rango": {
     "desde": "2026-10-28",
@@ -10093,6 +10093,254 @@
       "fecha": "2026-11-26",
       "cantidad": 1,
       "monto": 680
+    },
+    {
+      "codProducto": "ANC00114",
+      "producto": "NARANJA TUMBO",
+      "categoria": "JUGOS",
+      "fecha": "2026-11-27",
+      "cantidad": 2,
+      "monto": 30
+    },
+    {
+      "codProducto": "ANC00112",
+      "producto": "LIMONADA",
+      "categoria": "JUGOS",
+      "fecha": "2026-11-27",
+      "cantidad": 2,
+      "monto": 30
+    },
+    {
+      "codProducto": "ANC00111",
+      "producto": "JAMAICA MENTA",
+      "categoria": "JUGOS",
+      "fecha": "2026-11-27",
+      "cantidad": 1,
+      "monto": 15
+    },
+    {
+      "codProducto": "ANC00210",
+      "producto": "SINGANI MULE",
+      "categoria": "COCTELES",
+      "fecha": "2026-11-27",
+      "cantidad": 1,
+      "monto": 40
+    },
+    {
+      "codProducto": "ANC00200",
+      "producto": "GOLDEN RUSH",
+      "categoria": "COCTELES",
+      "fecha": "2026-11-27",
+      "cantidad": 2,
+      "monto": 100
+    },
+    {
+      "codProducto": "ANC00018",
+      "producto": "CHIRIMOYA ALEGRE",
+      "categoria": "COCTELES",
+      "fecha": "2026-11-27",
+      "cantidad": 1,
+      "monto": 50
+    },
+    {
+      "codProducto": "ANC00215",
+      "producto": "EXPRESO MARTINI DE CHOCOLATE",
+      "categoria": "COCTELES",
+      "fecha": "2026-11-27",
+      "cantidad": 1,
+      "monto": 50
+    },
+    {
+      "codProducto": "ANC00058",
+      "producto": "ALCACHOFAS",
+      "categoria": "ENTRADAS",
+      "fecha": "2026-11-27",
+      "cantidad": 2,
+      "monto": 150
+    },
+    {
+      "codProducto": "ANC00241",
+      "producto": "CEVICHE DE TRUCHA Y HONGOS",
+      "categoria": "ENTRADAS",
+      "fecha": "2026-11-27",
+      "cantidad": 1,
+      "monto": 75
+    },
+    {
+      "codProducto": "ANC00101",
+      "producto": "PECHUGA DE POLLO CROCANTE",
+      "categoria": "FUERTES",
+      "fecha": "2026-11-27",
+      "cantidad": 2,
+      "monto": 260
+    },
+    {
+      "codProducto": "ANC00242",
+      "producto": "PARRILLA PESCADO AMAZÓNICO",
+      "categoria": "FUERTES",
+      "fecha": "2026-11-27",
+      "cantidad": 4,
+      "monto": 600
+    },
+    {
+      "codProducto": "ANC00099",
+      "producto": "PARRILLA OJO DE BIFE",
+      "categoria": "FUERTES",
+      "fecha": "2026-11-27",
+      "cantidad": 4,
+      "monto": 640
+    },
+    {
+      "codProducto": "ANC00331",
+      "producto": "CORDERO A LA CRUZ",
+      "categoria": "COMIDAS",
+      "fecha": "2026-11-27",
+      "cantidad": 1,
+      "monto": 150
+    },
+    {
+      "codProducto": "ANC00069",
+      "producto": "PECHUGA DE NIÑOS",
+      "categoria": "MENÚ DE NIÑOS",
+      "fecha": "2026-11-27",
+      "cantidad": 2,
+      "monto": 100
+    },
+    {
+      "codProducto": "ANC00020",
+      "producto": "CHUFLAY",
+      "categoria": "COCTELES",
+      "fecha": "2026-11-27",
+      "cantidad": 1,
+      "monto": 40
+    },
+    {
+      "codProducto": "ANC00001",
+      "producto": "AGUA C/G",
+      "categoria": "AGUAS",
+      "fecha": "2026-11-27",
+      "cantidad": 4,
+      "monto": 60
+    },
+    {
+      "codProducto": "ANC00046",
+      "producto": "CHOCOLATE",
+      "categoria": "DULCES",
+      "fecha": "2026-11-27",
+      "cantidad": 1,
+      "monto": 50
+    },
+    {
+      "codProducto": "ANC00104",
+      "producto": "COCA COLA",
+      "categoria": "GASEOSA",
+      "fecha": "2026-11-27",
+      "cantidad": 5,
+      "monto": 75
+    },
+    {
+      "codProducto": "ANC00090",
+      "producto": "CHULETON (Kg)",
+      "categoria": "FUERTES",
+      "fecha": "2026-11-27",
+      "cantidad": 0.81,
+      "monto": 324
+    },
+    {
+      "codProducto": "ANC00088",
+      "producto": "ARROZ DE TRUCHA",
+      "categoria": "FUERTES",
+      "fecha": "2026-11-27",
+      "cantidad": 1,
+      "monto": 150
+    },
+    {
+      "codProducto": "ANC00064",
+      "producto": "TARTAR DE RES",
+      "categoria": "ENTRADAS",
+      "fecha": "2026-11-27",
+      "cantidad": 1,
+      "monto": 70
+    },
+    {
+      "codProducto": "ANC00098",
+      "producto": "PARRILLA KEPERI",
+      "categoria": "FUERTES",
+      "fecha": "2026-11-27",
+      "cantidad": 1,
+      "monto": 140
+    },
+    {
+      "codProducto": "ANC00002",
+      "producto": "AGUA S/G",
+      "categoria": "AGUAS",
+      "fecha": "2026-11-27",
+      "cantidad": 3,
+      "monto": 36
+    },
+    {
+      "codProducto": "ANC00108",
+      "producto": "ICED TEA",
+      "categoria": "JUGOS",
+      "fecha": "2026-11-27",
+      "cantidad": 1,
+      "monto": 15
+    },
+    {
+      "codProducto": "ANC00105",
+      "producto": "COCA COLA SIN AZUCAR",
+      "categoria": "GASEOSA",
+      "fecha": "2026-11-27",
+      "cantidad": 4,
+      "monto": 60
+    },
+    {
+      "codProducto": "ANC00380",
+      "producto": "COPA TRIVARIETAL TINTO - MAGNUS",
+      "categoria": "VINOS",
+      "fecha": "2026-11-27",
+      "cantidad": 1,
+      "monto": 75
+    },
+    {
+      "codProducto": "ANC00167",
+      "producto": "COPA ORANGE - CEPA DE ORO",
+      "categoria": "VINOS POR COPA",
+      "fecha": "2026-11-27",
+      "cantidad": 1,
+      "monto": 65
+    },
+    {
+      "codProducto": "ANC00095",
+      "producto": "OSSOBUCO A LA BOLIVIANA",
+      "categoria": "FUERTES",
+      "fecha": "2026-11-27",
+      "cantidad": 1,
+      "monto": 160
+    },
+    {
+      "codProducto": "ANC00093",
+      "producto": "KEPERI AHUMADO",
+      "categoria": "FUERTES",
+      "fecha": "2026-11-27",
+      "cantidad": 2,
+      "monto": 280
+    },
+    {
+      "codProducto": "ANC00330",
+      "producto": "PESCADO AMAZONICO Y TUMBO",
+      "categoria": "COMIDAS",
+      "fecha": "2026-11-27",
+      "cantidad": 1,
+      "monto": 140
+    },
+    {
+      "codProducto": "ANC00110",
+      "producto": "JAMAICA (BOTELLA)",
+      "categoria": "JUGOS",
+      "fecha": "2026-11-27",
+      "cantidad": 1,
+      "monto": 40
     }
   ]
 }

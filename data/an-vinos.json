@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-27T22:49:30.785Z",
+  "generatedAt": "2026-11-28T04:19:26.214Z",
   "rangoFechas": {
     "desde": "2026-09-21",
-    "hasta": "2026-11-27"
+    "hasta": "2026-11-28"
   },
   "categorias": [
     "CERVEZA",
@@ -468,13 +468,13 @@
       "weekYear": "202648",
       "invMenos7": 7,
       "compras": 0,
-      "vtas": 2,
+      "vtas": 3,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 2,
+      "vtasTot": 3,
       "inv": null,
-      "cierre": 5,
+      "cierre": 4,
       "dif": null
     },
     {
@@ -958,11 +958,11 @@
       "weekYear": "202648",
       "invMenos7": null,
       "compras": 0,
-      "vtas": 5,
+      "vtas": 10,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
-      "vtasTot": 5,
+      "vtasTot": 10,
       "inv": null,
       "cierre": 0,
       "dif": null
@@ -17374,11 +17374,24 @@
       "dif": null
     },
     {
-      "producto": "COPA TRIVARIETAL TINTO - MAGNUS",
+      "producto": "BONARDA \"PIONERO\" - ARANJUEZ",
       "fecha": "2026-11-27",
       "dia": "vie",
       "compras": 0,
       "vtas": 1,
+      "vtasExt": 0,
+      "cortesias": 0,
+      "salidas": 0,
+      "invEsperado": 4,
+      "invIniFin": null,
+      "dif": null
+    },
+    {
+      "producto": "COPA TRIVARIETAL TINTO - MAGNUS",
+      "fecha": "2026-11-27",
+      "dia": "vie",
+      "compras": 0,
+      "vtas": 6,
       "vtasExt": 0,
       "cortesias": 0,
       "salidas": 0,
@@ -18347,7 +18360,7 @@
       },
       {
         "weekYear": "202648",
-        "valor": 27
+        "valor": 33
       }
     ],
     "Vtas Ext": [
@@ -18425,7 +18438,7 @@
       },
       {
         "weekYear": "202648",
-        "valor": 27
+        "valor": 33
       }
     ],
     "Salidas": [
@@ -18487,9 +18500,9 @@
     "filasInventariosGs": 4470,
     "filasCompras": 2559,
     "filasMatrizChuleton": 1,
-    "filasVentasIzi": 5157,
-    "filasMovInv": 307,
-    "filasDimProducto": 463,
+    "filasVentasIzi": 5195,
+    "filasMovInv": 316,
+    "filasDimProducto": 464,
     "warnings": []
   }
 }
